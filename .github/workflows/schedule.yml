@@ -38,9 +38,10 @@ jobs:
 
       - name: Run Python scripts
         run: |
-          python 
-          python
-          python
+          python BTCETHPrice.py
+          python CEXVolume.py
+          python DEXVolume.py
+          python CategoryPerformance.py
               
                              
       - name: Commit and Push Changes
