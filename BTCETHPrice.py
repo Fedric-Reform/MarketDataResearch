@@ -87,5 +87,5 @@ plt.show()
 
 # ========== Save to CSV ==========
 combined_df = pd.concat(all_data, ignore_index=True)
-combined_df.to_csv("BTC_ETH_price_indicators.csv", index=False)
-print("✅ Saved to BTC_ETH_price_indicators.csv")
+combined_df.to_csv("BTC_ETH_priceindicators.csv", index=False)
+print("✅ Saved to BTC_ETH_priceindicators.csv")
