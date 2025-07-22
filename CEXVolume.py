@@ -46,15 +46,3 @@ df = pd.DataFrame({
 # Save to CSV
 df.to_csv("CEX_Volume.csv", index=False)
 print("✅ Data saved to 'CEX_Volume.csv'.")
-
-# Plot top 15 by volume
-df_sorted = df.sort_values(by="24h Volume (B USD)", ascending=False).head(15)
-
-plt.figure(figsize=(14, 7))
-plt.barh(df_sorted["Exchange"], df_sorted["24h Volume (B USD)"], color='cyan')
-plt.xlabel("24h Volume (USD Billions)")
-plt.title("Top 15 Centralized Exchanges by 24h Volume (CoinGecko)")
-plt.gca().invert_yaxis()
-plt.tight_layout()
-plt.grid(True, linestyle="--", alpha=0.3)
-plt.show()
