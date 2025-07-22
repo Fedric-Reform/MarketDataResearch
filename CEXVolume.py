@@ -31,7 +31,7 @@ for item in data:
     pairs.append(item.get("country", "Unknown"))
 
 # Convert BTC to USD (approx.)
-BTC_PRICE = 30000  # Adjust based on real-time price if needed
+BTC_PRICE = 118000  # Adjust based on real-time price if needed
 volume_usd = [v * BTC_PRICE / 1e9 for v in volumes]  # USD billions
 
 # Create DataFrame
@@ -44,8 +44,8 @@ df = pd.DataFrame({
 })
 
 # Save to CSV
-df.to_csv("coingecko_cex_volume.csv", index=False)
-print("✅ Data saved to 'coingecko_cex_volume.csv'.")
+df.to_csv("CEX_Volume.csv", index=False)
+print("✅ Data saved to 'CEX_Volume.csv'.")
 
 # Plot top 15 by volume
 df_sorted = df.sort_values(by="24h Volume (B USD)", ascending=False).head(15)
