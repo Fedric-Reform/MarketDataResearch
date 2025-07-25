@@ -35,7 +35,8 @@ jobs:
 
       - name: 🚀 Run Python scripts
         run: |
-          python BTCETHPrice.py
+          python BTCPrice.py
+          python ETHPrice.py
           python CEXVolume.py
           python DEXVolume.py
           python CategoryPerformance.py
