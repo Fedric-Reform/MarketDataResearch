@@ -39,6 +39,13 @@ jobs:
           python CEXVolume.py
           python DEXVolume.py
           python CategoryPerformance.py
+          
+
+      - name: 🪄 Run Dune API to CSV Script
+        env:
+          DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+          DUNE_QUERY_IDS: ${{ secrets.DUNE_QUERY_IDS }}
+        run: python BTCETH_ETF.py
 
       - name: 📤 Commit and Push Changes
         env:
