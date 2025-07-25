@@ -44,7 +44,7 @@ def run_dune_query(query_id):
         results = requests.get(results_url, headers=headers).json()
         rows = results["result"]["rows"]
         df = pd.DataFrame(rows)
-        filename = f"dune_query_{query_id}.csv"
+        filename = f"BTCETHETF_{query_id}.csv"
         df.to_csv(filename, index=False)
         print(f"✅ Saved query {query_id} to {filename}")
     except Exception as e:
