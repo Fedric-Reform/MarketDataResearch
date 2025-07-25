@@ -4,8 +4,8 @@ import time
 import os
 from concurrent.futures import ThreadPoolExecutor
 
-DUNE_API_KEY = os.getenv("8jbsMK7ILnH8rF4Z0MamwBtt1ECEWSfV")
-QUERY_IDS = os.getenv("3430945", "4208557").split(",")  # comma-separated in .env or GitHub Actions
+DUNE_API_KEY = os.getenv("DUNE_API_KEY")
+QUERY_IDS = os.getenv("DUNE_QUERY_IDS","").split(",")  # comma-separated in .env or GitHub Actions
 
 headers = {
     "x-dune-api-key": DUNE_API_KEY,
