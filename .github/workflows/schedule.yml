@@ -40,6 +40,7 @@ jobs:
           python CEXVolume.py
           python DEXVolume.py
           python CategoryPerformance.py
+          python TopGainersLosers.py
           
 
       - name: 🪄 Run Dune API to CSV Script
