@@ -6,7 +6,7 @@ import time
 # ========== Config ==========
 url = "https://api.coingecko.com/api/v3/coins/categories"
 headers = {"User-Agent": "Mozilla/5.0"}
-RATE_LIMIT_DELAY = 1.5  # seconds delay to respect 50 requests/minute
+RATE_LIMIT_DELAY = 2  # seconds delay to respect 50 requests/minute
 
 # ========== API Request ==========
 try:
