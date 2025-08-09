@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-aerodrome-finance,aero,Aerodrome Finance,1.036,18.83961,gainer
-wormhole,w,Wormhole,0.091498,11.52538,gainer
-chainlink,link,Chainlink,20.5,11.47578,gainer
-crypto-com-chain,cro,Cronos,0.160511,8.12003,gainer
-optimism,op,Optimism,0.771539,7.47947,gainer
-lido-dao,ldo,Lido DAO,1.13,7.45966,gainer
-zebec-network,zbcn,Zebec Network,0.0056065,7.08022,gainer
-pepe,pepe,Pepe,1.175e-05,6.54516,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.33,6.45625,gainer
-pendle,pendle,Pendle,5.4,6.42654,gainer
-story-2,ip,Story,6.48,-6.14177,loser
-rekt-4,rekt,Rekt,1.3e-06,-5.08107,loser
-flare-networks,flr,Flare,0.02289366,-4.42542,loser
-keeta,kta,Keeta,1.23,-4.1875,loser
-mantle,mnt,Mantle,1.043,-4.02993,loser
-conflux-token,cfx,Conflux,0.214824,-3.58031,loser
-dexe,dexe,DeXe,8.29,-2.25839,loser
-ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,115851.0,-1.93506,loser
-syrup,syrup,Maple Finance,0.486757,-1.81164,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03714841,-1.63678,loser
+aerodrome-finance,aero,Aerodrome Finance,1.035,19.25351,gainer
+chainlink,link,Chainlink,20.52,11.53469,gainer
+wormhole,w,Wormhole,0.091287,11.26885,gainer
+crypto-com-chain,cro,Cronos,0.160457,8.17325,gainer
+optimism,op,Optimism,0.77132,7.44901,gainer
+lido-dao,ldo,Lido DAO,1.13,7.31072,gainer
+zebec-network,zbcn,Zebec Network,0.00560351,7.02308,gainer
+pepe,pepe,Pepe,1.175e-05,6.54649,gainer
+pendle,pendle,Pendle,5.4,6.45236,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.33,6.36999,gainer
+story-2,ip,Story,6.48,-6.12219,loser
+rekt-4,rekt,Rekt,1.3e-06,-5.10178,loser
+flare-networks,flr,Flare,0.02287007,-4.52393,loser
+keeta,kta,Keeta,1.24,-4.22802,loser
+conflux-token,cfx,Conflux,0.214769,-3.60498,loser
+mantle,mnt,Mantle,1.044,-3.29167,loser
+dexe,dexe,DeXe,8.29,-2.31666,loser
+ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,115851.0,-1.93504,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03710525,-1.75106,loser
+syrup,syrup,Maple Finance,0.487389,-1.68434,loser
