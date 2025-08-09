@@ -1,0 +1,21 @@
+id,symbol,name,current_price,price_change_percentage_24h,type
+aerodrome-finance,aero,Aerodrome Finance,1.043,18.94222,gainer
+wormhole,w,Wormhole,0.092042,12.45074,gainer
+chainlink,link,Chainlink,20.4,10.97475,gainer
+crypto-com-chain,cro,Cronos,0.161519,8.9062,gainer
+lido-dao,ldo,Lido DAO,1.13,7.75537,gainer
+optimism,op,Optimism,0.770641,7.47793,gainer
+zebec-network,zbcn,Zebec Network,0.00560621,6.96144,gainer
+pepe,pepe,Pepe,1.178e-05,6.75195,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.33,6.69256,gainer
+pendle,pendle,Pendle,5.41,6.34139,gainer
+rekt-4,rekt,Rekt,1.3e-06,-5.20198,loser
+flare-networks,flr,Flare,0.02291015,-4.35527,loser
+mantle,mnt,Mantle,1.047,-3.92693,loser
+keeta,kta,Keeta,1.24,-3.48603,loser
+conflux-token,cfx,Conflux,0.215445,-3.46824,loser
+dexe,dexe,DeXe,8.28,-2.58042,loser
+ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,115993.0,-1.77877,loser
+syrup,syrup,Maple Finance,0.487155,-1.72324,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03721928,-1.35913,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.1,-1.27704,loser
