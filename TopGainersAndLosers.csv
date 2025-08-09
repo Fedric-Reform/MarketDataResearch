@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-aerodrome-finance,aero,Aerodrome Finance,1.031,18.90308,gainer
-wormhole,w,Wormhole,0.091516,11.72909,gainer
-chainlink,link,Chainlink,20.49,11.04292,gainer
-crypto-com-chain,cro,Cronos,0.162324,9.26107,gainer
-optimism,op,Optimism,0.770469,7.621,gainer
-pendle,pendle,Pendle,5.44,7.51803,gainer
-lido-dao,ldo,Lido DAO,1.13,7.50667,gainer
-ethereum-classic,etc,Ethereum Classic,22.85,6.87365,gainer
-pepe,pepe,Pepe,1.175e-05,6.85601,gainer
-arweave,ar,Arweave,7.55,6.63208,gainer
-story-2,ip,Story,6.47,-5.48975,loser
-rekt-4,rekt,Rekt,1.3e-06,-4.77949,loser
-flare-networks,flr,Flare,0.02300465,-4.08637,loser
-mantle,mnt,Mantle,1.04,-4.06808,loser
-conflux-token,cfx,Conflux,0.214191,-3.60469,loser
-keeta,kta,Keeta,1.25,-2.95567,loser
-dexe,dexe,DeXe,8.29,-2.49016,loser
-ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,116003.0,-1.83729,loser
-stellar,xlm,Stellar,0.449666,-1.50431,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03702256,-1.4256,loser
+aerodrome-finance,aero,Aerodrome Finance,1.026,18.10536,gainer
+wormhole,w,Wormhole,0.091467,11.68744,gainer
+chainlink,link,Chainlink,20.46,9.92361,gainer
+crypto-com-chain,cro,Cronos,0.162607,9.44733,gainer
+pendle,pendle,Pendle,5.45,7.45343,gainer
+lido-dao,ldo,Lido DAO,1.13,7.16633,gainer
+optimism,op,Optimism,0.766834,7.06897,gainer
+zebec-network,zbcn,Zebec Network,0.00558131,6.75499,gainer
+arweave,ar,Arweave,7.57,6.71338,gainer
+ethereum-classic,etc,Ethereum Classic,22.83,6.54792,gainer
+story-2,ip,Story,6.49,-5.05123,loser
+rekt-4,rekt,Rekt,1.31e-06,-4.80717,loser
+keeta,kta,Keeta,1.24,-3.90893,loser
+flare-networks,flr,Flare,0.02304424,-3.77944,loser
+conflux-token,cfx,Conflux,0.213718,-3.54486,loser
+mantle,mnt,Mantle,1.041,-3.26917,loser
+dexe,dexe,DeXe,8.28,-2.56522,loser
+stellar,xlm,Stellar,0.449684,-1.64048,loser
+ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,116368.0,-1.59959,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03698868,-1.58172,loser
