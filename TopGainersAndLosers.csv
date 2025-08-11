@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-zora,zora,Zora,0.134511,43.63121,gainer
-lido-dao,ldo,Lido DAO,1.48,12.80084,gainer
-ethena,ena,Ethena,0.828431,11.75337,gainer
-build-on,b,BUILDon,0.650175,8.94732,gainer
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00371672,7.42487,gainer
-reserve-rights-token,rsr,Reserve Rights,0.00957186,7.09058,gainer
-beam-2,beam,Beam,0.00870339,6.4865,gainer
-crypto-com-chain,cro,Cronos,0.167811,6.42733,gainer
-keeta,kta,Keeta,1.52,6.07662,gainer
-story-2,ip,Story,6.89,5.83709,gainer
-pi-network,pi,Pi Network,0.404311,-4.62821,loser
-monero,xmr,Monero,265.84,-4.38773,loser
-zebec-network,zbcn,Zebec Network,0.00506401,-4.35091,loser
-dexe,dexe,DeXe,7.92,-3.37945,loser
-1inch,1inch,1inch,0.282198,-2.95659,loser
-venom,venom,Venom,0.172651,-2.5722,loser
-kucoin-shares,kcs,KuCoin,11.98,-2.4373,loser
-beldex,bdx,Beldex,0.071343,-2.06223,loser
-fartcoin,fartcoin,Fartcoin,1.097,-1.98283,loser
-memecore,m,MemeCore,0.467092,-1.76787,loser
+zora,zora,Zora,0.135527,46.8524,gainer
+lido-dao,ldo,Lido DAO,1.48,13.00418,gainer
+ethena,ena,Ethena,0.826211,11.35227,gainer
+build-on,b,BUILDon,0.650402,9.23123,gainer
+reserve-rights-token,rsr,Reserve Rights,0.00956242,6.70321,gainer
+crypto-com-chain,cro,Cronos,0.167708,6.42736,gainer
+beam-2,beam,Beam,0.00869491,6.11753,gainer
+story-2,ip,Story,6.9,5.93239,gainer
+keeta,kta,Keeta,1.52,5.42459,gainer
+ether-fi,ethfi,Ether.fi,1.29,5.37444,gainer
+monero,xmr,Monero,264.71,-4.88945,loser
+pi-network,pi,Pi Network,0.406214,-4.22506,loser
+zebec-network,zbcn,Zebec Network,0.00509786,-3.71164,loser
+1inch,1inch,1inch,0.281794,-3.52645,loser
+dexe,dexe,DeXe,7.92,-3.36978,loser
+fartcoin,fartcoin,Fartcoin,1.094,-3.17945,loser
+venom,venom,Venom,0.172638,-2.58244,loser
+beldex,bdx,Beldex,0.071293,-2.15052,loser
+kucoin-shares,kcs,KuCoin,11.99,-2.02349,loser
+gnosis,gno,Gnosis,136.81,-1.84051,loser
