@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pump-fun,pump,Pump.fun,0.00363728,9.42356,gainer
-creditcoin-2,ctc,Creditcoin,0.722569,5.30959,gainer
-wemix-token,wemix,WEMIX,0.826507,4.37454,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.47,3.51561,gainer
-vision-3,vsn,Vision,0.212493,3.47587,gainer
-lido-dao,ldo,Lido DAO,1.55,3.28117,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.16,2.28364,gainer
-tron,trx,TRON,0.346774,1.57153,gainer
-beldex,bdx,Beldex,0.0724,1.388,gainer
-sun-token,sun,Sun Token,0.0225069,1.09921,gainer
-fartcoin,fartcoin,Fartcoin,0.872586,-20.56849,loser
-bonk,bonk,Bonk,2.484e-05,-11.62136,loser
-based-brett,brett,Brett,0.054851,-11.20581,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03639684,-11.08739,loser
-story-2,ip,Story,6.07,-11.04119,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334161,-10.63193,loser
-dogwifcoin,wif,dogwifhat,0.920796,-10.1369,loser
-virtual-protocol,virtual,Virtuals Protocol,1.32,-9.5423,loser
-mog-coin,mog,Mog Coin,1.4e-06,-9.44108,loser
-celestia,tia,Celestia,1.73,-9.39702,loser
+succinct,prove,Succinct,1.69,15.08388,gainer
+pump-fun,pump,Pump.fun,0.00363729,8.50367,gainer
+creditcoin-2,ctc,Creditcoin,0.725257,5.67094,gainer
+wemix-token,wemix,WEMIX,0.827706,4.56127,gainer
+vision-3,vsn,Vision,0.210544,4.13405,gainer
+bitcoin-cash,bch,Bitcoin Cash,595.84,3.56907,gainer
+lido-dao,ldo,Lido DAO,1.55,3.06551,gainer
+zebec-network,zbcn,Zebec Network,0.00515572,2.61936,gainer
+tron,trx,TRON,0.347095,1.80029,gainer
+jasmycoin,jasmy,JasmyCoin,0.01711431,1.61238,gainer
+fartcoin,fartcoin,Fartcoin,0.871617,-20.59078,loser
+bonk,bonk,Bonk,2.49e-05,-11.48362,loser
+story-2,ip,Story,6.05,-11.37771,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03636868,-10.99721,loser
+based-brett,brett,Brett,0.055009,-10.7591,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334087,-10.01725,loser
+dogwifcoin,wif,dogwifhat,0.922698,-9.86079,loser
+virtual-protocol,virtual,Virtuals Protocol,1.32,-9.69472,loser
+spx6900,spx,SPX6900,1.78,-9.45662,loser
+curve-dao-token,crv,Curve DAO,0.923799,-9.20278,loser
