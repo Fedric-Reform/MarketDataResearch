@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pump-fun,pump,Pump.fun,0.00361304,9.35359,gainer
-creditcoin-2,ctc,Creditcoin,0.730533,6.35141,gainer
-vision-3,vsn,Vision,0.209568,4.55878,gainer
-lido-dao,ldo,Lido DAO,1.55,4.05079,gainer
-wemix-token,wemix,WEMIX,0.818008,2.99125,gainer
-bitcoin-cash,bch,Bitcoin Cash,593.87,2.9158,gainer
-zebec-network,zbcn,Zebec Network,0.00519553,1.96124,gainer
-tron,trx,TRON,0.346798,1.64874,gainer
-beldex,bdx,Beldex,0.072407,1.38273,gainer
-build-on,b,BUILDon,0.67269,1.35314,gainer
-fartcoin,fartcoin,Fartcoin,0.876342,-20.51875,loser
-bonk,bonk,Bonk,2.474e-05,-12.5972,loser
-based-brett,brett,Brett,0.054486,-12.16694,loser
-story-2,ip,Story,6.06,-11.44826,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03632624,-11.43344,loser
-dogwifcoin,wif,dogwifhat,0.917249,-10.85345,loser
-mog-coin,mog,Mog Coin,1.38e-06,-10.7989,loser
-zora,zora,Zora,0.121677,-10.36059,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334363,-10.31454,loser
-virtual-protocol,virtual,Virtuals Protocol,1.32,-10.13366,loser
+succinct,prove,Succinct,1.69,14.36479,gainer
+pump-fun,pump,Pump.fun,0.0036158,9.43722,gainer
+creditcoin-2,ctc,Creditcoin,0.732979,6.76126,gainer
+vision-3,vsn,Vision,0.210829,5.1877,gainer
+lido-dao,ldo,Lido DAO,1.55,4.17848,gainer
+wemix-token,wemix,WEMIX,0.82118,3.34722,gainer
+bitcoin-cash,bch,Bitcoin Cash,594.33,3.04299,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.1,1.74741,gainer
+tron,trx,TRON,0.346935,1.68871,gainer
+zebec-network,zbcn,Zebec Network,0.00517506,1.55954,gainer
+fartcoin,fartcoin,Fartcoin,0.877574,-20.40705,loser
+bonk,bonk,Bonk,2.479e-05,-12.0637,loser
+based-brett,brett,Brett,0.054563,-11.70778,loser
+story-2,ip,Story,6.05,-11.36262,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03643291,-11.17336,loser
+mog-coin,mog,Mog Coin,1.39e-06,-10.59928,loser
+dogwifcoin,wif,dogwifhat,0.918586,-10.55885,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334288,-10.33454,loser
+zora,zora,Zora,0.122014,-10.11224,loser
+floki,floki,FLOKI,0.0001095,-10.05061,loser
