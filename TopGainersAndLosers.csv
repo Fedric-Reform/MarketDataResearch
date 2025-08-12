@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-creditcoin-2,ctc,Creditcoin,0.727275,10.39451,gainer
-toshi,toshi,Toshi,0.00081556,7.79652,gainer
-chainlink,link,Chainlink,23.28,7.31583,gainer
-tezos,xtz,Tezos,0.885259,5.66994,gainer
-sweth,sweth,Swell Ethereum,4836.6,4.1789,gainer
-deep,deep,DeepBook,0.159256,4.07898,gainer
-uniswap,uni,Uniswap,11.19,3.99848,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4793.93,3.86772,gainer
-l2-standard-bridged-weth-base,weth,L2 Standard Bridged WETH (Base),4415.52,3.50641,gainer
-jasmycoin,jasmy,JasmyCoin,0.01731139,3.46676,gainer
-zora,zora,Zora,0.111942,-18.28509,loser
-fartcoin,fartcoin,Fartcoin,0.877295,-11.45255,loser
-story-2,ip,Story,5.75,-11.44979,loser
-build-on,b,BUILDon,0.625008,-7.29624,loser
-monero,xmr,Monero,252.31,-6.16328,loser
-bonk,bonk,Bonk,2.465e-05,-5.20993,loser
-pi-network,pi,Pi Network,0.384421,-5.02637,loser
-syrup,syrup,Maple Finance,0.480997,-4.79249,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03626937,-4.73496,loser
-rekt-4,rekt,Rekt,1.14e-06,-4.34051,loser
+creditcoin-2,ctc,Creditcoin,0.728247,8.55023,gainer
+toshi,toshi,Toshi,0.00081996,8.3777,gainer
+chainlink,link,Chainlink,23.34,7.61152,gainer
+tezos,xtz,Tezos,0.886225,5.83592,gainer
+deep,deep,DeepBook,0.159812,4.44222,gainer
+uniswap,uni,Uniswap,11.21,4.21994,gainer
+sweth,sweth,Swell Ethereum,4842.23,4.03087,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4799.17,3.98129,gainer
+jasmycoin,jasmy,JasmyCoin,0.01735595,3.73309,gainer
+l2-standard-bridged-weth-base,weth,L2 Standard Bridged WETH (Base),4423.02,3.68231,gainer
+zora,zora,Zora,0.111433,-18.65676,loser
+fartcoin,fartcoin,Fartcoin,0.879303,-11.24986,loser
+story-2,ip,Story,5.75,-10.79202,loser
+build-on,b,BUILDon,0.626407,-7.08867,loser
+monero,xmr,Monero,251.98,-6.2879,loser
+bonk,bonk,Bonk,2.468e-05,-5.10081,loser
+pi-network,pi,Pi Network,0.384316,-5.05223,loser
+syrup,syrup,Maple Finance,0.481104,-4.77145,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03632267,-4.59495,loser
+rekt-4,rekt,Rekt,1.15e-06,-4.19967,loser
