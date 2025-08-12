@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-creditcoin-2,ctc,Creditcoin,0.720009,10.01444,gainer
-toshi,toshi,Toshi,0.00083002,8.29467,gainer
-tezos,xtz,Tezos,0.892593,6.49292,gainer
-chainlink,link,Chainlink,22.77,4.41018,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4770.11,4.10301,gainer
-uniswap,uni,Uniswap,11.14,3.44809,gainer
-deep,deep,DeepBook,0.158725,3.31318,gainer
-sweth,sweth,Swell Ethereum,4784.34,3.30699,gainer
-wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),4392.38,3.26456,gainer
-polygon-pos-bridged-weth-polygon-pos,weth,Polygon PoS Bridged WETH (Polygon POS),4395.06,3.03906,gainer
-zora,zora,Zora,0.11563,-15.8242,loser
-fartcoin,fartcoin,Fartcoin,0.8655,-12.5074,loser
-story-2,ip,Story,5.76,-9.43762,loser
-venom,venom,Venom,0.15844,-7.0808,loser
-bonk,bonk,Bonk,2.443e-05,-6.05826,loser
-build-on,b,BUILDon,0.623928,-5.8001,loser
-syrup,syrup,Maple Finance,0.475397,-5.76263,loser
-monero,xmr,Monero,253.2,-5.73266,loser
-pi-network,pi,Pi Network,0.383337,-5.45131,loser
-rekt-4,rekt,Rekt,1.14e-06,-5.44142,loser
+creditcoin-2,ctc,Creditcoin,0.720256,9.9633,gainer
+toshi,toshi,Toshi,0.00082278,7.55107,gainer
+tezos,xtz,Tezos,0.897195,6.99668,gainer
+chainlink,link,Chainlink,22.81,4.63298,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4769.52,3.94563,gainer
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4540.99,3.70449,gainer
+sweth,sweth,Swell Ethereum,4807.79,3.60649,gainer
+wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),4382.92,3.04216,gainer
+treehouse-eth,teth,Treehouse ETH,5323.18,3.02747,gainer
+kelp-dao-restaked-eth,rseth,Kelp DAO Restaked ETH,4609.29,2.94066,gainer
+zora,zora,Zora,0.112923,-17.79519,loser
+fartcoin,fartcoin,Fartcoin,0.864113,-12.953,loser
+story-2,ip,Story,5.77,-9.29172,loser
+venom,venom,Venom,0.158543,-7.00075,loser
+bonk,bonk,Bonk,2.436e-05,-6.26453,loser
+build-on,b,BUILDon,0.623367,-5.85609,loser
+syrup,syrup,Maple Finance,0.475881,-5.66668,loser
+monero,xmr,Monero,253.5,-5.65787,loser
+pi-network,pi,Pi Network,0.382756,-5.56251,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03588543,-5.37145,loser
