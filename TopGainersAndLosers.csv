@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.860045,8.79823,gainer
-pump-fun,pump,Pump.fun,0.00359611,7.06562,gainer
-creditcoin-2,ctc,Creditcoin,0.717039,5.17777,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.15,2.74998,gainer
-bitcoin-cash,bch,Bitcoin Cash,591.78,2.65288,gainer
-tron,trx,TRON,0.346721,1.72926,gainer
-sun-token,sun,Sun Token,0.02256573,1.67507,gainer
-vision-3,vsn,Vision,0.2094,1.4039,gainer
-beldex,bdx,Beldex,0.072135,0.80684,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4655.79,0.6358,gainer
-fartcoin,fartcoin,Fartcoin,0.860151,-21.04165,loser
-story-2,ip,Story,5.87,-13.81818,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03554029,-13.39779,loser
-bonk,bonk,Bonk,2.444e-05,-12.78521,loser
-zora,zora,Zora,0.120547,-11.96367,loser
-based-brett,brett,Brett,0.05389,-11.73375,loser
-dogwifcoin,wif,dogwifhat,0.908829,-10.66775,loser
-virtual-protocol,virtual,Virtuals Protocol,1.31,-10.39937,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00331481,-10.32808,loser
-mog-coin,mog,Mog Coin,1.36e-06,-10.26707,loser
+wemix-token,wemix,WEMIX,0.856758,8.3346,gainer
+pump-fun,pump,Pump.fun,0.00360975,5.63643,gainer
+creditcoin-2,ctc,Creditcoin,0.716781,5.52897,gainer
+bitcoin-cash,bch,Bitcoin Cash,591.19,2.38342,gainer
+sun-token,sun,Sun Token,0.02261368,2.07396,gainer
+zebec-network,zbcn,Zebec Network,0.00507648,1.91253,gainer
+tron,trx,TRON,0.346868,1.86495,gainer
+vision-3,vsn,Vision,0.209177,1.58477,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4659.82,0.9269,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.008,0.74946,gainer
+fartcoin,fartcoin,Fartcoin,0.857463,-20.60742,loser
+story-2,ip,Story,5.72,-15.73925,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03556469,-12.47638,loser
+bonk,bonk,Bonk,2.445e-05,-12.28902,loser
+based-brett,brett,Brett,0.054137,-11.21092,loser
+zora,zora,Zora,0.119657,-11.10374,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00330314,-10.64072,loser
+dogwifcoin,wif,dogwifhat,0.909188,-10.2775,loser
+worldcoin-wld,wld,Worldcoin,0.982896,-9.7883,loser
+blockstack,stx,Stacks,0.714469,-9.65754,loser
