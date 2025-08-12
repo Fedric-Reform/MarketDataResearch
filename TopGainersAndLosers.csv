@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-succinct,prove,Succinct,1.66,14.28109,gainer
-wemix-token,wemix,WEMIX,0.874634,10.28463,gainer
-pump-fun,pump,Pump.fun,0.00362584,6.62426,gainer
-creditcoin-2,ctc,Creditcoin,0.716176,5.49341,gainer
-vision-3,vsn,Vision,0.20936,3.19819,gainer
-zebec-network,zbcn,Zebec Network,0.00514864,2.98335,gainer
-bitcoin-cash,bch,Bitcoin Cash,593.0,2.79687,gainer
-sun-token,sun,Sun Token,0.02258257,1.97433,gainer
-tron,trx,TRON,0.346598,1.79505,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4667.29,0.86344,gainer
-fartcoin,fartcoin,Fartcoin,0.854393,-20.50983,loser
-story-2,ip,Story,5.61,-17.20598,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.0357014,-12.46855,loser
-bonk,bonk,Bonk,2.45e-05,-12.07037,loser
-based-brett,brett,Brett,0.054366,-11.15303,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00331114,-10.76741,loser
-zora,zora,Zora,0.120313,-10.40158,loser
-dogwifcoin,wif,dogwifhat,0.911319,-10.05275,loser
-mog-coin,mog,Mog Coin,1.37e-06,-9.90782,loser
-celestia,tia,Celestia,1.71,-9.73181,loser
+succinct,prove,Succinct,1.66,13.9025,gainer
+wemix-token,wemix,WEMIX,0.879753,10.92283,gainer
+pump-fun,pump,Pump.fun,0.00362316,6.95262,gainer
+creditcoin-2,ctc,Creditcoin,0.712974,5.06473,gainer
+zebec-network,zbcn,Zebec Network,0.00515294,3.16802,gainer
+bitcoin-cash,bch,Bitcoin Cash,594.03,2.97096,gainer
+tron,trx,TRON,0.346814,1.86673,gainer
+sun-token,sun,Sun Token,0.02249307,1.56397,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4662.08,1.00834,gainer
+vision-3,vsn,Vision,0.209275,0.9769,gainer
+fartcoin,fartcoin,Fartcoin,0.848241,-20.44159,loser
+story-2,ip,Story,5.6,-17.48382,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03567177,-12.45156,loser
+bonk,bonk,Bonk,2.447e-05,-12.09449,loser
+based-brett,brett,Brett,0.054239,-11.06203,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.0033107,-11.00377,loser
+dogwifcoin,wif,dogwifhat,0.910697,-10.11418,loser
+zora,zora,Zora,0.119742,-10.04177,loser
+mog-coin,mog,Mog Coin,1.37e-06,-9.9335,loser
+celestia,tia,Celestia,1.71,-9.85181,loser
