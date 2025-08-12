@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-deep,deep,DeepBook,0.169183,12.07468,gainer
-pump-fun,pump,Pump.fun,0.00397208,10.5654,gainer
-jasmycoin,jasmy,JasmyCoin,0.01847473,10.33869,gainer
-chainlink,link,Chainlink,23.38,8.3919,gainer
-snek,snek,Snek,0.00468857,7.4597,gainer
-instadapp,fluid,Fluid,7.46,6.45989,gainer
-aioz-network,aioz,AIOZ Network,0.406472,6.40394,gainer
-cardano,ada,Cardano,0.841976,6.33744,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4875.71,5.98282,gainer
+deep,deep,DeepBook,0.169169,12.06596,gainer
+pump-fun,pump,Pump.fun,0.00397562,10.66408,gainer
+jasmycoin,jasmy,JasmyCoin,0.0184883,10.41975,gainer
+chainlink,link,Chainlink,23.38,8.39051,gainer
+snek,snek,Snek,0.00469477,7.60184,gainer
+aioz-network,aioz,AIOZ Network,0.406663,6.45412,gainer
+instadapp,fluid,Fluid,7.45,6.44564,gainer
+cardano,ada,Cardano,0.842578,6.41348,gainer
 hash-2,hash,Provenance Blockchain,0.02913675,5.98079,gainer
-zora,zora,Zora,0.115128,-13.87594,loser
-story-2,ip,Story,5.8,-8.43879,loser
-build-on,b,BUILDon,0.613304,-8.23341,loser
-memecore,m,MemeCore,0.427258,-6.12763,loser
-monero,xmr,Monero,254.0,-5.90282,loser
-syrup,syrup,Maple Finance,0.47464,-5.31202,loser
-toshi,toshi,Toshi,0.0007839,-4.66272,loser
-wemix-token,wemix,WEMIX,0.799581,-4.26134,loser
-keeta,kta,Keeta,1.38,-3.96553,loser
-pi-network,pi,Pi Network,0.386884,-3.68446,loser
+msol,msol,Marinade Staked SOL,247.92,5.93079,gainer
+zora,zora,Zora,0.115102,-13.89532,loser
+story-2,ip,Story,5.8,-8.4315,loser
+build-on,b,BUILDon,0.613198,-8.24926,loser
+monero,xmr,Monero,253.55,-6.21844,loser
+memecore,m,MemeCore,0.427456,-6.01469,loser
+syrup,syrup,Maple Finance,0.474821,-5.276,loser
+toshi,toshi,Toshi,0.00078369,-4.68835,loser
+wemix-token,wemix,WEMIX,0.799999,-4.21134,loser
+keeta,kta,Keeta,1.38,-3.87531,loser
+pi-network,pi,Pi Network,0.386813,-3.70205,loser
