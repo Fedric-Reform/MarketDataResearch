@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-zora,zora,Zora,0.13555,48.61357,gainer
-lido-dao,ldo,Lido DAO,1.49,13.65323,gainer
-ethena,ena,Ethena,0.841024,11.76655,gainer
-build-on,b,BUILDon,0.663384,9.30105,gainer
-reserve-rights-token,rsr,Reserve Rights,0.00967204,6.34819,gainer
-crypto-com-chain,cro,Cronos,0.168337,6.26452,gainer
-vision-3,vsn,Vision,0.202272,6.06613,gainer
-ether-fi,ethfi,Ether.fi,1.3,5.46798,gainer
-telcoin,tel,Telcoin,0.00627475,4.59502,gainer
-beam-2,beam,Beam,0.00864376,4.44899,gainer
-1inch,1inch,1inch,0.280892,-4.9949,loser
-zebec-network,zbcn,Zebec Network,0.00510654,-4.44661,loser
-monero,xmr,Monero,267.26,-4.39569,loser
-pi-network,pi,Pi Network,0.412727,-3.12662,loser
-fartcoin,fartcoin,Fartcoin,1.1,-3.09829,loser
-venom,venom,Venom,0.172487,-2.72104,loser
-official-trump,trump,Official Trump,9.42,-2.5625,loser
-raydium,ray,Raydium,3.4,-2.55584,loser
-kaspa,kas,Kaspa,0.095074,-2.52096,loser
-kucoin-shares,kcs,KuCoin,12.01,-2.30859,loser
+pump-fun,pump,Pump.fun,0.00355406,13.49717,gainer
+toshi,toshi,Toshi,0.00080928,7.73617,gainer
+vision-3,vsn,Vision,0.211708,5.47431,gainer
+creditcoin-2,ctc,Creditcoin,0.717255,4.70731,gainer
+bitcoin-cash,bch,Bitcoin Cash,595.71,4.0124,gainer
+crypto-com-chain,cro,Cronos,0.16937,2.70894,gainer
+tron,trx,TRON,0.348047,2.57716,gainer
+wemix-token,wemix,WEMIX,0.810047,2.50801,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.23,2.32559,gainer
+lido-dao,ldo,Lido DAO,1.54,1.78578,gainer
+fartcoin,fartcoin,Fartcoin,0.897989,-18.33382,loser
+mog-coin,mog,Mog Coin,1.38e-06,-10.83803,loser
+based-brett,brett,Brett,0.054592,-10.81842,loser
+story-2,ip,Story,6.13,-10.60601,loser
+bonk,bonk,Bonk,2.508e-05,-10.17501,loser
+dogwifcoin,wif,dogwifhat,0.922788,-10.03887,loser
+spx6900,spx,SPX6900,1.77,-9.56328,loser
+virtual-protocol,virtual,Virtuals Protocol,1.33,-9.48503,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03680321,-9.1206,loser
+mantle,mnt,Mantle,0.95616,-9.05867,loser
