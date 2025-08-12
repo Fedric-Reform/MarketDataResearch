@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.860769,8.88982,gainer
-pump-fun,pump,Pump.fun,0.0035957,7.05351,gainer
-creditcoin-2,ctc,Creditcoin,0.714198,4.76113,gainer
-bitcoin-cash,bch,Bitcoin Cash,592.35,2.75224,gainer
+wemix-token,wemix,WEMIX,0.860045,8.79823,gainer
+pump-fun,pump,Pump.fun,0.00359611,7.06562,gainer
+creditcoin-2,ctc,Creditcoin,0.717039,5.17777,gainer
 tokenize-xchange,tkx,Tokenize Xchange,5.15,2.74998,gainer
-tron,trx,TRON,0.346879,1.74098,gainer
-sun-token,sun,Sun Token,0.02252817,1.50584,gainer
-vision-3,vsn,Vision,0.208479,1.38805,gainer
-zebec-network,zbcn,Zebec Network,0.0050519,0.7769,gainer
-beldex,bdx,Beldex,0.072133,0.74139,gainer
-fartcoin,fartcoin,Fartcoin,0.860746,-21.25316,loser
-story-2,ip,Story,5.89,-13.48386,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03551845,-13.451,loser
-bonk,bonk,Bonk,2.45e-05,-12.64639,loser
-based-brett,brett,Brett,0.053957,-12.11341,loser
-zora,zora,Zora,0.121084,-11.57098,loser
-dogwifcoin,wif,dogwifhat,0.909883,-10.84286,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00330929,-10.47734,loser
-beam-2,beam,Beam,0.00780759,-10.46192,loser
-virtual-protocol,virtual,Virtuals Protocol,1.31,-10.2023,loser
+bitcoin-cash,bch,Bitcoin Cash,591.78,2.65288,gainer
+tron,trx,TRON,0.346721,1.72926,gainer
+sun-token,sun,Sun Token,0.02256573,1.67507,gainer
+vision-3,vsn,Vision,0.2094,1.4039,gainer
+beldex,bdx,Beldex,0.072135,0.80684,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4655.79,0.6358,gainer
+fartcoin,fartcoin,Fartcoin,0.860151,-21.04165,loser
+story-2,ip,Story,5.87,-13.81818,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03554029,-13.39779,loser
+bonk,bonk,Bonk,2.444e-05,-12.78521,loser
+zora,zora,Zora,0.120547,-11.96367,loser
+based-brett,brett,Brett,0.05389,-11.73375,loser
+dogwifcoin,wif,dogwifhat,0.908829,-10.66775,loser
+virtual-protocol,virtual,Virtuals Protocol,1.31,-10.39937,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00331481,-10.32808,loser
+mog-coin,mog,Mog Coin,1.36e-06,-10.26707,loser
