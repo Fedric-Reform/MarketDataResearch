@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-succinct,prove,Succinct,1.66,13.9025,gainer
-wemix-token,wemix,WEMIX,0.879753,10.92283,gainer
-pump-fun,pump,Pump.fun,0.00362316,6.95262,gainer
-creditcoin-2,ctc,Creditcoin,0.712974,5.06473,gainer
-zebec-network,zbcn,Zebec Network,0.00515294,3.16802,gainer
-bitcoin-cash,bch,Bitcoin Cash,594.03,2.97096,gainer
-tron,trx,TRON,0.346814,1.86673,gainer
-sun-token,sun,Sun Token,0.02249307,1.56397,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4662.08,1.00834,gainer
-vision-3,vsn,Vision,0.209275,0.9769,gainer
-fartcoin,fartcoin,Fartcoin,0.848241,-20.44159,loser
-story-2,ip,Story,5.6,-17.48382,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03567177,-12.45156,loser
-bonk,bonk,Bonk,2.447e-05,-12.09449,loser
-based-brett,brett,Brett,0.054239,-11.06203,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.0033107,-11.00377,loser
-dogwifcoin,wif,dogwifhat,0.910697,-10.11418,loser
-zora,zora,Zora,0.119742,-10.04177,loser
-mog-coin,mog,Mog Coin,1.37e-06,-9.9335,loser
-celestia,tia,Celestia,1.71,-9.85181,loser
+wemix-token,wemix,WEMIX,0.835341,5.39885,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.22,4.50628,gainer
+creditcoin-2,ctc,Creditcoin,0.697869,4.13041,gainer
+bitcoin-cash,bch,Bitcoin Cash,592.06,2.91158,gainer
+zebec-network,zbcn,Zebec Network,0.00507507,2.3166,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4662.99,1.68578,gainer
+tron,trx,TRON,0.346361,1.62482,gainer
+beldex,bdx,Beldex,0.072516,1.12172,gainer
+sweth,sweth,Swell Ethereum,4679.57,1.08184,gainer
+sun-token,sun,Sun Token,0.02249382,1.03201,gainer
+fartcoin,fartcoin,Fartcoin,0.843315,-17.83735,loser
+story-2,ip,Story,5.66,-15.98788,loser
+zora,zora,Zora,0.116966,-13.63894,loser
+bonk,bonk,Bonk,2.415e-05,-12.31911,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03492411,-12.26798,loser
+venom,venom,Venom,0.157295,-10.3518,loser
+based-brett,brett,Brett,0.053884,-9.61126,loser
+convex-finance,cvx,Convex Finance,4.24,-9.35967,loser
+worldcoin-wld,wld,Worldcoin,0.982974,-8.89923,loser
+virtual-protocol,virtual,Virtuals Protocol,1.3,-8.87878,loser
