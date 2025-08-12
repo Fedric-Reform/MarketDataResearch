@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.835341,5.39885,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.22,4.50628,gainer
-creditcoin-2,ctc,Creditcoin,0.697869,4.13041,gainer
-bitcoin-cash,bch,Bitcoin Cash,592.06,2.91158,gainer
-zebec-network,zbcn,Zebec Network,0.00507507,2.3166,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4662.99,1.68578,gainer
-tron,trx,TRON,0.346361,1.62482,gainer
-beldex,bdx,Beldex,0.072516,1.12172,gainer
-sweth,sweth,Swell Ethereum,4679.57,1.08184,gainer
-sun-token,sun,Sun Token,0.02249382,1.03201,gainer
-fartcoin,fartcoin,Fartcoin,0.843315,-17.83735,loser
-story-2,ip,Story,5.66,-15.98788,loser
-zora,zora,Zora,0.116966,-13.63894,loser
-bonk,bonk,Bonk,2.415e-05,-12.31911,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03492411,-12.26798,loser
-venom,venom,Venom,0.157295,-10.3518,loser
-based-brett,brett,Brett,0.053884,-9.61126,loser
-convex-finance,cvx,Convex Finance,4.24,-9.35967,loser
-worldcoin-wld,wld,Worldcoin,0.982974,-8.89923,loser
-virtual-protocol,virtual,Virtuals Protocol,1.3,-8.87878,loser
+wemix-token,wemix,WEMIX,0.831839,4.79627,gainer
+creditcoin-2,ctc,Creditcoin,0.701847,4.56965,gainer
+bitcoin-cash,bch,Bitcoin Cash,592.5,2.98824,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.12,2.4711,gainer
+zebec-network,zbcn,Zebec Network,0.00505049,1.78901,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4666.1,1.78295,gainer
+wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),4328.91,1.77245,gainer
+tron,trx,TRON,0.346524,1.6392,gainer
+mantle-restaked-eth,cmeth,Mantle Restaked ETH,4613.34,1.51942,gainer
+sun-token,sun,Sun Token,0.02250299,1.17468,gainer
+fartcoin,fartcoin,Fartcoin,0.844528,-17.84935,loser
+story-2,ip,Story,5.67,-15.96342,loser
+bonk,bonk,Bonk,2.416e-05,-12.55929,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03495859,-12.22306,loser
+zora,zora,Zora,0.117558,-11.1302,loser
+venom,venom,Venom,0.157175,-10.39469,loser
+based-brett,brett,Brett,0.054017,-9.6178,loser
+convex-finance,cvx,Convex Finance,4.25,-9.4033,loser
+virtual-protocol,virtual,Virtuals Protocol,1.3,-8.9997,loser
+worldcoin-wld,wld,Worldcoin,0.983599,-8.88533,loser
