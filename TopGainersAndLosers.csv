@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pump-fun,pump,Pump.fun,0.00360573,9.60415,gainer
-creditcoin-2,ctc,Creditcoin,0.744848,8.90105,gainer
-lido-dao,ldo,Lido DAO,1.55,4.66892,gainer
-vision-3,vsn,Vision,0.209375,4.33984,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.18,3.92645,gainer
-bitcoin-cash,bch,Bitcoin Cash,595.4,3.27875,gainer
-build-on,b,BUILDon,0.67876,2.84901,gainer
-tron,trx,TRON,0.347285,2.08849,gainer
-wemix-token,wemix,WEMIX,0.813329,2.06619,gainer
-beldex,bdx,Beldex,0.072412,1.58205,gainer
-fartcoin,fartcoin,Fartcoin,0.877812,-19.6518,loser
-zora,zora,Zora,0.119734,-13.9541,loser
-bonk,bonk,Bonk,2.476e-05,-12.11946,loser
-story-2,ip,Story,6.08,-11.6358,loser
-based-brett,brett,Brett,0.054527,-11.07137,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03656127,-10.89066,loser
-dogwifcoin,wif,dogwifhat,0.918419,-10.57615,loser
-floki,floki,FLOKI,0.00010913,-10.164,loser
-mog-coin,mog,Mog Coin,1.38e-06,-10.08428,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.0033549,-9.6925,loser
+pump-fun,pump,Pump.fun,0.00361387,9.67367,gainer
+creditcoin-2,ctc,Creditcoin,0.737017,7.64089,gainer
+lido-dao,ldo,Lido DAO,1.55,5.04179,gainer
+vision-3,vsn,Vision,0.209118,3.98664,gainer
+bitcoin-cash,bch,Bitcoin Cash,593.96,2.94896,gainer
+build-on,b,BUILDon,0.676444,2.44165,gainer
+wemix-token,wemix,WEMIX,0.813066,2.33349,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.15,1.78708,gainer
+tron,trx,TRON,0.347146,1.78034,gainer
+beldex,bdx,Beldex,0.072432,1.36663,gainer
+fartcoin,fartcoin,Fartcoin,0.874531,-20.30162,loser
+bonk,bonk,Bonk,2.469e-05,-12.65909,loser
+zora,zora,Zora,0.121435,-11.78236,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.036401,-11.55542,loser
+based-brett,brett,Brett,0.054387,-11.5154,loser
+story-2,ip,Story,6.08,-11.46799,loser
+dogwifcoin,wif,dogwifhat,0.915539,-10.98705,loser
+floki,floki,FLOKI,0.00010899,-10.55642,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334133,-10.44531,loser
+mog-coin,mog,Mog Coin,1.38e-06,-10.17244,loser
