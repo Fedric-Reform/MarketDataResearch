@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.856758,8.3346,gainer
-pump-fun,pump,Pump.fun,0.00360975,5.63643,gainer
-creditcoin-2,ctc,Creditcoin,0.716781,5.52897,gainer
-bitcoin-cash,bch,Bitcoin Cash,591.19,2.38342,gainer
-sun-token,sun,Sun Token,0.02261368,2.07396,gainer
-zebec-network,zbcn,Zebec Network,0.00507648,1.91253,gainer
-tron,trx,TRON,0.346868,1.86495,gainer
-vision-3,vsn,Vision,0.209177,1.58477,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4659.82,0.9269,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.008,0.74946,gainer
-fartcoin,fartcoin,Fartcoin,0.857463,-20.60742,loser
-story-2,ip,Story,5.72,-15.73925,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03556469,-12.47638,loser
-bonk,bonk,Bonk,2.445e-05,-12.28902,loser
-based-brett,brett,Brett,0.054137,-11.21092,loser
-zora,zora,Zora,0.119657,-11.10374,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00330314,-10.64072,loser
-dogwifcoin,wif,dogwifhat,0.909188,-10.2775,loser
-worldcoin-wld,wld,Worldcoin,0.982896,-9.7883,loser
-blockstack,stx,Stacks,0.714469,-9.65754,loser
+succinct,prove,Succinct,1.65,13.79252,gainer
+wemix-token,wemix,WEMIX,0.858408,8.3363,gainer
+pump-fun,pump,Pump.fun,0.00359329,5.66389,gainer
+creditcoin-2,ctc,Creditcoin,0.712373,4.93324,gainer
+bitcoin-cash,bch,Bitcoin Cash,590.77,2.36841,gainer
+zebec-network,zbcn,Zebec Network,0.00509912,2.36694,gainer
+tron,trx,TRON,0.34664,1.81804,gainer
+sun-token,sun,Sun Token,0.022529,1.69171,gainer
+vision-3,vsn,Vision,0.209228,1.60964,gainer
+beldex,bdx,Beldex,0.072206,0.61914,gainer
+fartcoin,fartcoin,Fartcoin,0.84811,-21.07116,loser
+story-2,ip,Story,5.65,-16.64884,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03535727,-13.00292,loser
+bonk,bonk,Bonk,2.435e-05,-12.36659,loser
+based-brett,brett,Brett,0.053804,-11.96302,loser
+zora,zora,Zora,0.119535,-10.98106,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00329196,-10.94307,loser
+dogwifcoin,wif,dogwifhat,0.90596,-10.68369,loser
+mog-coin,mog,Mog Coin,1.36e-06,-10.11586,loser
+worldcoin-wld,wld,Worldcoin,0.98039,-10.01353,loser
