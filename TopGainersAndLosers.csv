@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03018514,10.33115,gainer
-creditcoin-2,ctc,Creditcoin,0.713164,8.89085,gainer
-toshi,toshi,Toshi,0.00082106,8.61699,gainer
-tezos,xtz,Tezos,0.898454,8.59387,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4765.4,6.06776,gainer
-ether-fi-staked-eth,eeth,ether.fi Staked ETH,4413.48,5.84627,gainer
-wrapped-steth,wsteth,Wrapped stETH,5334.94,5.74356,gainer
-uniswap,uni,Uniswap,11.22,5.69059,gainer
-wrapped-eeth,weeth,Wrapped eETH,4728.95,5.62031,gainer
-rocket-pool-eth,reth,Rocket Pool ETH,5009.44,5.57098,gainer
-story-2,ip,Story,5.71,-11.02095,loser
-fartcoin,fartcoin,Fartcoin,0.878128,-10.47215,loser
-venom,venom,Venom,0.15881,-7.31345,loser
-bonk,bonk,Bonk,2.461e-05,-6.42947,loser
-monero,xmr,Monero,252.7,-6.42088,loser
-aethir,ath,Aethir,0.03343358,-5.08533,loser
-pi-network,pi,Pi Network,0.382514,-4.42209,loser
-syrup,syrup,Maple Finance,0.474201,-4.3031,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03606606,-4.05655,loser
-memecore,m,MemeCore,0.449348,-3.98317,loser
+creditcoin-2,ctc,Creditcoin,0.717698,9.27762,gainer
+toshi,toshi,Toshi,0.00082397,8.12088,gainer
+tezos,xtz,Tezos,0.888776,6.31175,gainer
+snek,snek,Snek,0.00451016,4.01129,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4756.03,3.98977,gainer
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4540.77,3.75906,gainer
+chainlink,link,Chainlink,22.58,3.28413,gainer
+deep,deep,DeepBook,0.158012,2.68842,gainer
+uniswap,uni,Uniswap,11.1,2.5971,gainer
+mantle-staked-ether,meth,Mantle Staked Ether,4663.17,2.50759,gainer
+fartcoin,fartcoin,Fartcoin,0.865342,-12.82635,loser
+zora,zora,Zora,0.120379,-12.10392,loser
+story-2,ip,Story,5.75,-9.57562,loser
+bonk,bonk,Bonk,2.428e-05,-7.67867,loser
+venom,venom,Venom,0.158537,-7.11872,loser
+monero,xmr,Monero,251.87,-6.22281,loser
+pi-network,pi,Pi Network,0.381391,-6.21297,loser
+aethir,ath,Aethir,0.03324911,-5.85092,loser
+syrup,syrup,Maple Finance,0.475422,-5.83278,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03588177,-5.76595,loser
