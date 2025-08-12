@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-creditcoin-2,ctc,Creditcoin,0.725549,10.26605,gainer
-toshi,toshi,Toshi,0.00081751,8.16316,gainer
-chainlink,link,Chainlink,23.19,6.85634,gainer
-tezos,xtz,Tezos,0.886856,5.95252,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4794.12,4.4164,gainer
-uniswap,uni,Uniswap,11.19,3.92073,gainer
+creditcoin-2,ctc,Creditcoin,0.72558,10.27074,gainer
+toshi,toshi,Toshi,0.0008147,7.79069,gainer
+chainlink,link,Chainlink,23.19,6.82669,gainer
+tezos,xtz,Tezos,0.886968,5.96591,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4792.87,4.38932,gainer
+uniswap,uni,Uniswap,11.18,3.82265,gainer
 sweth,sweth,Swell Ethereum,4831.96,3.69657,gainer
-deep,deep,DeepBook,0.15869,3.6031,gainer
-jasmycoin,jasmy,JasmyCoin,0.01729284,3.31143,gainer
-staked-ether,steth,Lido Staked Ether,4408.71,3.22876,gainer
-zora,zora,Zora,0.11185,-18.40541,loser
-story-2,ip,Story,5.73,-11.67932,loser
-fartcoin,fartcoin,Fartcoin,0.877982,-11.60898,loser
-build-on,b,BUILDon,0.623656,-7.87677,loser
-venom,venom,Venom,0.15808,-7.29126,loser
-monero,xmr,Monero,252.61,-5.97908,loser
-bonk,bonk,Bonk,2.466e-05,-5.46008,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03619017,-5.1794,loser
-syrup,syrup,Maple Finance,0.480555,-5.13779,loser
-pi-network,pi,Pi Network,0.384019,-5.0862,loser
+deep,deep,DeepBook,0.158714,3.61854,gainer
+jasmycoin,jasmy,JasmyCoin,0.01729885,3.39179,gainer
+coinbase-wrapped-staked-eth,cbeth,Coinbase Wrapped Staked ETH,4866.9,3.23619,gainer
+zora,zora,Zora,0.111736,-18.48863,loser
+story-2,ip,Story,5.73,-11.67925,loser
+fartcoin,fartcoin,Fartcoin,0.877741,-11.63333,loser
+build-on,b,BUILDon,0.623634,-7.88007,loser
+venom,venom,Venom,0.158019,-7.32694,loser
+monero,xmr,Monero,252.56,-5.99917,loser
+bonk,bonk,Bonk,2.466e-05,-5.43515,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03618678,-5.1883,loser
+syrup,syrup,Maple Finance,0.480901,-5.0694,loser
+pi-network,pi,Pi Network,0.384272,-5.02365,loser
