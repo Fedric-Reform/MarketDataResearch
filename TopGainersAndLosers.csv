@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pump-fun,pump,Pump.fun,0.00357176,13.74297,gainer
-toshi,toshi,Toshi,0.00080634,6.4091,gainer
-vision-3,vsn,Vision,0.212131,5.31099,gainer
-creditcoin-2,ctc,Creditcoin,0.724776,5.01634,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.96,3.94756,gainer
-tron,trx,TRON,0.348189,2.58123,gainer
-crypto-com-chain,cro,Cronos,0.168935,2.22973,gainer
-wemix-token,wemix,WEMIX,0.809464,2.16973,gainer
-sun-token,sun,Sun Token,0.02257785,1.72242,gainer
-beldex,bdx,Beldex,0.072541,1.47455,gainer
-fartcoin,fartcoin,Fartcoin,0.891039,-19.4314,loser
-story-2,ip,Story,6.1,-11.66698,loser
-based-brett,brett,Brett,0.054653,-11.36639,loser
-bonk,bonk,Bonk,2.5e-05,-11.3493,loser
-mog-coin,mog,Mog Coin,1.38e-06,-11.08304,loser
-dogwifcoin,wif,dogwifhat,0.921793,-10.32351,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03681752,-10.23482,loser
-virtual-protocol,virtual,Virtuals Protocol,1.33,-10.23304,loser
-floki,floki,FLOKI,0.00010967,-9.86055,loser
-spx6900,spx,SPX6900,1.78,-9.75059,loser
+pump-fun,pump,Pump.fun,0.0035655,13.54362,gainer
+toshi,toshi,Toshi,0.00080408,6.11113,gainer
+vision-3,vsn,Vision,0.21209,5.2904,gainer
+creditcoin-2,ctc,Creditcoin,0.726438,5.25724,gainer
+bitcoin-cash,bch,Bitcoin Cash,597.22,3.99244,gainer
+tron,trx,TRON,0.348272,2.6313,gainer
+crypto-com-chain,cro,Cronos,0.168611,2.03346,gainer
+sun-token,sun,Sun Token,0.02259068,1.74905,gainer
+beldex,bdx,Beldex,0.072529,1.45843,gainer
+wemix-token,wemix,WEMIX,0.809802,1.26349,gainer
+fartcoin,fartcoin,Fartcoin,0.890434,-19.618,loser
+story-2,ip,Story,6.09,-11.81544,loser
+based-brett,brett,Brett,0.054583,-11.48112,loser
+bonk,bonk,Bonk,2.5e-05,-11.34239,loser
+mog-coin,mog,Mog Coin,1.38e-06,-10.84399,loser
+dogwifcoin,wif,dogwifhat,0.921761,-10.32663,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0368122,-10.2478,loser
+virtual-protocol,virtual,Virtuals Protocol,1.33,-10.22552,loser
+floki,floki,FLOKI,0.00010961,-9.97656,loser
+spx6900,spx,SPX6900,1.78,-9.80153,loser
