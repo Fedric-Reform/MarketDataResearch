@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,23.8,8.29254,gainer
-deep,deep,DeepBook,0.165985,8.1555,gainer
-tezos,xtz,Tezos,0.891079,5.34644,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.22,5.29508,gainer
-toshi,toshi,Toshi,0.00081896,4.60406,gainer
-jasmycoin,jasmy,JasmyCoin,0.01777213,4.47528,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4851.93,4.07419,gainer
-hash-2,hash,Provenance Blockchain,0.02885786,4.02182,gainer
-aave,aave,Aave,312.26,3.96142,gainer
-wrapped-beacon-eth,wbeth,Wrapped Beacon ETH,4808.03,3.62707,gainer
-zora,zora,Zora,0.111509,-23.29218,loser
-story-2,ip,Story,5.79,-10.74259,loser
-fartcoin,fartcoin,Fartcoin,0.914411,-9.13469,loser
-monero,xmr,Monero,253.04,-7.52364,loser
-build-on,b,BUILDon,0.626964,-6.68048,loser
-bonk,bonk,Bonk,2.524e-05,-5.36227,loser
-ether-fi,ethfi,Ether.fi,1.21,-4.437,loser
-syrup,syrup,Maple Finance,0.483616,-4.23197,loser
-dexe,dexe,DeXe,7.61,-4.07709,loser
-aethir,ath,Aethir,0.03385844,-4.01478,loser
+deep,deep,DeepBook,0.166171,8.2957,gainer
+chainlink,link,Chainlink,23.75,7.96745,gainer
+jasmycoin,jasmy,JasmyCoin,0.01792148,6.01733,gainer
+tezos,xtz,Tezos,0.889401,5.14797,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.21,4.9185,gainer
+toshi,toshi,Toshi,0.00082221,4.75789,gainer
+aave,aave,Aave,312.6,4.38545,gainer
+hash-2,hash,Provenance Blockchain,0.02885858,4.0244,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4843.82,3.92075,gainer
+dydx-chain,dydx,dYdX,0.668345,3.52228,gainer
+zora,zora,Zora,0.112478,-21.10107,loser
+story-2,ip,Story,5.77,-10.61029,loser
+fartcoin,fartcoin,Fartcoin,0.918094,-8.76863,loser
+monero,xmr,Monero,253.08,-7.41384,loser
+build-on,b,BUILDon,0.629297,-6.7767,loser
+bonk,bonk,Bonk,2.526e-05,-5.29449,loser
+keeta,kta,Keeta,1.45,-4.28833,loser
+syrup,syrup,Maple Finance,0.483965,-4.16297,loser
+aethir,ath,Aethir,0.03385223,-4.03238,loser
+dexe,dexe,DeXe,7.62,-3.98164,loser
