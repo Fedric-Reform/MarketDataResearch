@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-jasmycoin,jasmy,JasmyCoin,0.0187975,12.01442,gainer
-deep,deep,DeepBook,0.169035,11.07584,gainer
-chainlink,link,Chainlink,23.74,9.33507,gainer
-polkadot,dot,Polkadot,4.2,6.26505,gainer
-aave,aave,Aave,315.47,6.13771,gainer
-ondo-finance,ondo,Ondo,1.062,5.49528,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4867.4,5.44644,gainer
-instadapp,fluid,Fluid,7.42,5.43046,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.21,5.42433,gainer
-hash-2,hash,Provenance Blockchain,0.02886802,5.18215,gainer
-zora,zora,Zora,0.114593,-15.52332,loser
-story-2,ip,Story,5.77,-9.55715,loser
-monero,xmr,Monero,252.1,-8.14566,loser
-build-on,b,BUILDon,0.624797,-7.26069,loser
-wemix-token,wemix,WEMIX,0.796777,-4.11472,loser
-keeta,kta,Keeta,1.42,-4.09705,loser
-memecore,m,MemeCore,0.441921,-4.02209,loser
-syrup,syrup,Maple Finance,0.478597,-4.01912,loser
-dexe,dexe,DeXe,7.6,-3.82462,loser
-fartcoin,fartcoin,Fartcoin,0.956884,-3.30301,loser
+jasmycoin,jasmy,JasmyCoin,0.01879274,11.98608,gainer
+deep,deep,DeepBook,0.169449,11.34826,gainer
+chainlink,link,Chainlink,23.75,9.37815,gainer
+polkadot,dot,Polkadot,4.21,6.44837,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.21,6.38678,gainer
+aave,aave,Aave,315.59,6.1769,gainer
+ondo-finance,ondo,Ondo,1.065,5.73655,gainer
+pump-fun,pump,Pump.fun,0.00388524,5.67911,gainer
+instadapp,fluid,Fluid,7.43,5.48346,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4864.98,5.39406,gainer
+zora,zora,Zora,0.115057,-15.40941,loser
+story-2,ip,Story,5.77,-9.45814,loser
+monero,xmr,Monero,251.85,-8.30854,loser
+build-on,b,BUILDon,0.62435,-7.32694,loser
+syrup,syrup,Maple Finance,0.476958,-4.56531,loser
+wemix-token,wemix,WEMIX,0.796897,-4.10021,loser
+memecore,m,MemeCore,0.44183,-4.04183,loser
+keeta,kta,Keeta,1.43,-3.69153,loser
+dexe,dexe,DeXe,7.6,-3.28402,loser
+fartcoin,fartcoin,Fartcoin,0.957507,-3.24001,loser
