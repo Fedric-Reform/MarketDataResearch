@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.831839,4.79627,gainer
-creditcoin-2,ctc,Creditcoin,0.701847,4.56965,gainer
-bitcoin-cash,bch,Bitcoin Cash,592.5,2.98824,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.12,2.4711,gainer
-zebec-network,zbcn,Zebec Network,0.00505049,1.78901,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4666.1,1.78295,gainer
-wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),4328.91,1.77245,gainer
-tron,trx,TRON,0.346524,1.6392,gainer
-mantle-restaked-eth,cmeth,Mantle Restaked ETH,4613.34,1.51942,gainer
-sun-token,sun,Sun Token,0.02250299,1.17468,gainer
-fartcoin,fartcoin,Fartcoin,0.844528,-17.84935,loser
-story-2,ip,Story,5.67,-15.96342,loser
-bonk,bonk,Bonk,2.416e-05,-12.55929,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03495859,-12.22306,loser
-zora,zora,Zora,0.117558,-11.1302,loser
-venom,venom,Venom,0.157175,-10.39469,loser
-based-brett,brett,Brett,0.054017,-9.6178,loser
-convex-finance,cvx,Convex Finance,4.25,-9.4033,loser
-virtual-protocol,virtual,Virtuals Protocol,1.3,-8.9997,loser
-worldcoin-wld,wld,Worldcoin,0.983599,-8.88533,loser
+hash-2,hash,Provenance Blockchain,0.03018514,10.33115,gainer
+creditcoin-2,ctc,Creditcoin,0.713164,8.89085,gainer
+toshi,toshi,Toshi,0.00082106,8.61699,gainer
+tezos,xtz,Tezos,0.898454,8.59387,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4765.4,6.06776,gainer
+ether-fi-staked-eth,eeth,ether.fi Staked ETH,4413.48,5.84627,gainer
+wrapped-steth,wsteth,Wrapped stETH,5334.94,5.74356,gainer
+uniswap,uni,Uniswap,11.22,5.69059,gainer
+wrapped-eeth,weeth,Wrapped eETH,4728.95,5.62031,gainer
+rocket-pool-eth,reth,Rocket Pool ETH,5009.44,5.57098,gainer
+story-2,ip,Story,5.71,-11.02095,loser
+fartcoin,fartcoin,Fartcoin,0.878128,-10.47215,loser
+venom,venom,Venom,0.15881,-7.31345,loser
+bonk,bonk,Bonk,2.461e-05,-6.42947,loser
+monero,xmr,Monero,252.7,-6.42088,loser
+aethir,ath,Aethir,0.03343358,-5.08533,loser
+pi-network,pi,Pi Network,0.382514,-4.42209,loser
+syrup,syrup,Maple Finance,0.474201,-4.3031,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03606606,-4.05655,loser
+memecore,m,MemeCore,0.449348,-3.98317,loser
