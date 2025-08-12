@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-succinct,prove,Succinct,1.71,17.03964,gainer
-pump-fun,pump,Pump.fun,0.00363936,9.48605,gainer
-creditcoin-2,ctc,Creditcoin,0.723233,5.41487,gainer
-vision-3,vsn,Vision,0.211875,4.55765,gainer
-wemix-token,wemix,WEMIX,0.826927,4.42761,gainer
-lido-dao,ldo,Lido DAO,1.56,3.62483,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.44,3.51045,gainer
-tron,trx,TRON,0.346831,1.61257,gainer
-beldex,bdx,Beldex,0.07242,1.3,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.1,1.16889,gainer
-fartcoin,fartcoin,Fartcoin,0.875519,-20.30149,loser
-bonk,bonk,Bonk,2.484e-05,-11.62332,loser
-based-brett,brett,Brett,0.054945,-11.05284,loser
-story-2,ip,Story,6.07,-11.05251,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03647935,-10.88584,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.0033447,-10.33162,loser
-dogwifcoin,wif,dogwifhat,0.921596,-10.05884,loser
-virtual-protocol,virtual,Virtuals Protocol,1.32,-9.45408,loser
-celestia,tia,Celestia,1.73,-9.42596,loser
-mog-coin,mog,Mog Coin,1.4e-06,-9.37132,loser
+pump-fun,pump,Pump.fun,0.00363728,9.42356,gainer
+creditcoin-2,ctc,Creditcoin,0.722569,5.30959,gainer
+wemix-token,wemix,WEMIX,0.826507,4.37454,gainer
+bitcoin-cash,bch,Bitcoin Cash,596.47,3.51561,gainer
+vision-3,vsn,Vision,0.212493,3.47587,gainer
+lido-dao,ldo,Lido DAO,1.55,3.28117,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.16,2.28364,gainer
+tron,trx,TRON,0.346774,1.57153,gainer
+beldex,bdx,Beldex,0.0724,1.388,gainer
+sun-token,sun,Sun Token,0.0225069,1.09921,gainer
+fartcoin,fartcoin,Fartcoin,0.872586,-20.56849,loser
+bonk,bonk,Bonk,2.484e-05,-11.62136,loser
+based-brett,brett,Brett,0.054851,-11.20581,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03639684,-11.08739,loser
+story-2,ip,Story,6.07,-11.04119,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334161,-10.63193,loser
+dogwifcoin,wif,dogwifhat,0.920796,-10.1369,loser
+virtual-protocol,virtual,Virtuals Protocol,1.32,-9.5423,loser
+mog-coin,mog,Mog Coin,1.4e-06,-9.44108,loser
+celestia,tia,Celestia,1.73,-9.39702,loser
