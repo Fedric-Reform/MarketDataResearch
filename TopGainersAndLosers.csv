@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.844772,6.64428,gainer
-pump-fun,pump,Pump.fun,0.00359763,5.99945,gainer
-creditcoin-2,ctc,Creditcoin,0.718676,4.91093,gainer
-bitcoin-cash,bch,Bitcoin Cash,592.0,2.6106,gainer
-vision-3,vsn,Vision,0.209495,2.18761,gainer
-tron,trx,TRON,0.347006,1.77011,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.11,1.75571,gainer
-sun-token,sun,Sun Token,0.02249797,1.37372,gainer
-beldex,bdx,Beldex,0.072187,0.74347,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4660.63,0.66035,gainer
-fartcoin,fartcoin,Fartcoin,0.858608,-21.44875,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.0354674,-13.62592,loser
-story-2,ip,Story,5.91,-13.00757,loser
-bonk,bonk,Bonk,2.45e-05,-12.64274,loser
-based-brett,brett,Brett,0.053989,-11.9849,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.0033111,-10.97804,loser
-zora,zora,Zora,0.12159,-10.83521,loser
-dogwifcoin,wif,dogwifhat,0.910055,-10.81089,loser
-mog-coin,mog,Mog Coin,1.36e-06,-10.72826,loser
-beam-2,beam,Beam,0.00780621,-10.47781,loser
+wemix-token,wemix,WEMIX,0.860769,8.88982,gainer
+pump-fun,pump,Pump.fun,0.0035957,7.05351,gainer
+creditcoin-2,ctc,Creditcoin,0.714198,4.76113,gainer
+bitcoin-cash,bch,Bitcoin Cash,592.35,2.75224,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.15,2.74998,gainer
+tron,trx,TRON,0.346879,1.74098,gainer
+sun-token,sun,Sun Token,0.02252817,1.50584,gainer
+vision-3,vsn,Vision,0.208479,1.38805,gainer
+zebec-network,zbcn,Zebec Network,0.0050519,0.7769,gainer
+beldex,bdx,Beldex,0.072133,0.74139,gainer
+fartcoin,fartcoin,Fartcoin,0.860746,-21.25316,loser
+story-2,ip,Story,5.89,-13.48386,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03551845,-13.451,loser
+bonk,bonk,Bonk,2.45e-05,-12.64639,loser
+based-brett,brett,Brett,0.053957,-12.11341,loser
+zora,zora,Zora,0.121084,-11.57098,loser
+dogwifcoin,wif,dogwifhat,0.909883,-10.84286,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00330929,-10.47734,loser
+beam-2,beam,Beam,0.00780759,-10.46192,loser
+virtual-protocol,virtual,Virtuals Protocol,1.31,-10.2023,loser
