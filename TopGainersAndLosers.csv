@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-deep,deep,DeepBook,0.169333,11.43597,gainer
-pump-fun,pump,Pump.fun,0.0040076,10.93394,gainer
-jasmycoin,jasmy,JasmyCoin,0.01820131,8.96661,gainer
-chainlink,link,Chainlink,23.58,8.30481,gainer
-ether-fi-staked-eth,eeth,ether.fi Staked ETH,4587.68,6.69461,gainer
+deep,deep,DeepBook,0.169343,11.44247,gainer
+pump-fun,pump,Pump.fun,0.00400467,10.85275,gainer
+jasmycoin,jasmy,JasmyCoin,0.01818688,8.88022,gainer
+chainlink,link,Chainlink,23.58,8.30643,gainer
+ether-fi-staked-eth,eeth,ether.fi Staked ETH,4607.79,7.16238,gainer
 hash-2,hash,Provenance Blockchain,0.02907357,6.09242,gainer
-aave,aave,Aave,315.53,5.8579,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.2,5.8244,gainer
-polkadot,dot,Polkadot,4.17,5.82166,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4865.35,5.50429,gainer
-zora,zora,Zora,0.11597,-14.61548,loser
-story-2,ip,Story,5.81,-8.8586,loser
-build-on,b,BUILDon,0.621164,-8.01768,loser
-monero,xmr,Monero,252.3,-6.87793,loser
-fartcoin,fartcoin,Fartcoin,0.940926,-4.85853,loser
-syrup,syrup,Maple Finance,0.476014,-4.80885,loser
-keeta,kta,Keeta,1.4,-4.22338,loser
-memecore,m,MemeCore,0.440463,-3.93125,loser
-wemix-token,wemix,WEMIX,0.798003,-3.83259,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,6.06775,gainer
+aave,aave,Aave,315.55,5.86348,gainer
+polkadot,dot,Polkadot,4.17,5.80915,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4865.35,5.50428,gainer
+zora,zora,Zora,0.116429,-14.46318,loser
+story-2,ip,Story,5.81,-8.91015,loser
+build-on,b,BUILDon,0.621163,-8.01789,loser
+monero,xmr,Monero,252.65,-6.75073,loser
+syrup,syrup,Maple Finance,0.475998,-4.81205,loser
+fartcoin,fartcoin,Fartcoin,0.943238,-4.62477,loser
+keeta,kta,Keeta,1.4,-4.36381,loser
+memecore,m,MemeCore,0.440462,-3.93155,loser
+wemix-token,wemix,WEMIX,0.798025,-3.82993,loser
 dexe,dexe,DeXe,7.6,-3.24987,loser
