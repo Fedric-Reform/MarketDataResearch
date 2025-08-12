@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,24.0,9.04604,gainer
-deep,deep,DeepBook,0.16576,8.77455,gainer
-tezos,xtz,Tezos,0.895216,6.70807,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.24,6.7041,gainer
-jasmycoin,jasmy,JasmyCoin,0.01773215,5.24992,gainer
-toshi,toshi,Toshi,0.00081101,5.01377,gainer
-aave,aave,Aave,312.78,5.01013,gainer
+chainlink,link,Chainlink,23.99,9.01795,gainer
+deep,deep,DeepBook,0.166027,8.94951,gainer
+tezos,xtz,Tezos,0.89527,6.7145,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.23,6.57482,gainer
+jasmycoin,jasmy,JasmyCoin,0.01773096,5.24283,gainer
+toshi,toshi,Toshi,0.00081102,5.01533,gainer
 liquid-staked-ethereum,lseth,Liquid Staked ETH,4850.04,4.65669,gainer
 sweth,sweth,Swell Ethereum,4894.81,4.52345,gainer
-dydx-chain,dydx,dYdX,0.668633,4.33875,gainer
-zora,zora,Zora,0.10929,-24.32406,loser
-fartcoin,fartcoin,Fartcoin,0.88747,-11.72979,loser
-story-2,ip,Story,5.8,-10.11086,loser
-build-on,b,BUILDon,0.625475,-6.75936,loser
-monero,xmr,Monero,254.18,-6.71039,loser
-pi-network,pi,Pi Network,0.385095,-4.33807,loser
-syrup,syrup,Maple Finance,0.482077,-4.11875,loser
-dexe,dexe,DeXe,7.61,-4.03401,loser
+aave,aave,Aave,312.8,4.44029,gainer
+dydx-chain,dydx,dYdX,0.668558,4.32696,gainer
+zora,zora,Zora,0.10896,-24.552,loser
+fartcoin,fartcoin,Fartcoin,0.887453,-11.73143,loser
+story-2,ip,Story,5.8,-10.07034,loser
+build-on,b,BUILDon,0.625515,-6.97782,loser
+monero,xmr,Monero,254.1,-6.74015,loser
+pi-network,pi,Pi Network,0.385542,-4.46988,loser
+syrup,syrup,Maple Finance,0.482232,-4.08779,loser
+ether-fi,ethfi,Ether.fi,1.22,-4.04121,loser
+dexe,dexe,DeXe,7.61,-4.03662,loser
 tokenize-xchange,tkx,Tokenize Xchange,5.02,-3.80493,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03698871,-3.60379,loser
