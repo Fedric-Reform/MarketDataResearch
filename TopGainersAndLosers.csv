@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,24.02,9.13675,gainer
-deep,deep,DeepBook,0.166026,8.5728,gainer
-tezos,xtz,Tezos,0.895277,6.71535,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.23,6.40563,gainer
-toshi,toshi,Toshi,0.00081411,5.41488,gainer
-jasmycoin,jasmy,JasmyCoin,0.01772862,5.22893,gainer
-sweth,sweth,Swell Ethereum,4895.23,4.53254,gainer
-aave,aave,Aave,312.93,4.48616,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4852.31,4.40692,gainer
-hash-2,hash,Provenance Blockchain,0.02880757,3.84052,gainer
-zora,zora,Zora,0.10873,-24.71158,loser
-fartcoin,fartcoin,Fartcoin,0.888223,-11.65486,loser
-story-2,ip,Story,5.82,-10.47554,loser
-build-on,b,BUILDon,0.626496,-6.83193,loser
-monero,xmr,Monero,254.08,-6.74711,loser
-pi-network,pi,Pi Network,0.385655,-4.44197,loser
-syrup,syrup,Maple Finance,0.482241,-4.08599,loser
-dexe,dexe,DeXe,7.62,-4.02424,loser
-ether-fi,ethfi,Ether.fi,1.22,-3.96221,loser
-aethir,ath,Aethir,0.03396144,-3.65409,loser
+chainlink,link,Chainlink,24.04,9.24583,gainer
+deep,deep,DeepBook,0.16602,8.56936,gainer
+tezos,xtz,Tezos,0.895859,6.78472,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.23,6.42336,gainer
+toshi,toshi,Toshi,0.00081422,5.42969,gainer
+sweth,sweth,Swell Ethereum,4895.94,4.54774,gainer
+aave,aave,Aave,313.05,4.52394,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4852.77,4.41691,gainer
+jasmycoin,jasmy,JasmyCoin,0.01773596,4.37039,gainer
+hash-2,hash,Provenance Blockchain,0.02881025,3.85019,gainer
+zora,zora,Zora,0.108788,-24.67149,loser
+fartcoin,fartcoin,Fartcoin,0.889221,-11.55558,loser
+story-2,ip,Story,5.82,-10.46766,loser
+build-on,b,BUILDon,0.625826,-6.93159,loser
+monero,xmr,Monero,254.06,-6.75646,loser
+pi-network,pi,Pi Network,0.385658,-4.44119,loser
+bonk,bonk,Bonk,2.538e-05,-4.13117,loser
+dexe,dexe,DeXe,7.62,-4.11947,loser
+syrup,syrup,Maple Finance,0.482338,-4.06686,loser
+ether-fi,ethfi,Ether.fi,1.22,-3.92149,loser
