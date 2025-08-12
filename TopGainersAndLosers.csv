@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-toshi,toshi,Toshi,0.00082077,8.48521,gainer
-creditcoin-2,ctc,Creditcoin,0.726242,8.25138,gainer
-chainlink,link,Chainlink,23.39,7.82312,gainer
-tezos,xtz,Tezos,0.886774,5.90157,gainer
-deep,deep,DeepBook,0.160048,4.92414,gainer
-uniswap,uni,Uniswap,11.23,4.39519,gainer
-sweth,sweth,Swell Ethereum,4840.99,4.29917,gainer
-frax-ether,frxeth,Frax Ether,4398.12,4.03475,gainer
-aave,aave,Aave,306.93,3.84114,gainer
-jasmycoin,jasmy,JasmyCoin,0.01736376,3.77972,gainer
-zora,zora,Zora,0.110507,-19.25107,loser
-story-2,ip,Story,5.72,-11.28239,loser
-fartcoin,fartcoin,Fartcoin,0.88,-11.17952,loser
-build-on,b,BUILDon,0.625385,-7.24023,loser
-monero,xmr,Monero,250.99,-6.65728,loser
-pi-network,pi,Pi Network,0.384333,-5.04803,loser
-bonk,bonk,Bonk,2.471e-05,-5.01211,loser
-syrup,syrup,Maple Finance,0.48092,-4.80783,loser
-dexe,dexe,DeXe,7.57,-4.20321,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03636402,-4.03353,loser
+toshi,toshi,Toshi,0.00082113,8.53256,gainer
+creditcoin-2,ctc,Creditcoin,0.725997,8.21492,gainer
+chainlink,link,Chainlink,23.39,7.87169,gainer
+tezos,xtz,Tezos,0.885521,6.30175,gainer
+deep,deep,DeepBook,0.160044,4.92174,gainer
+sweth,sweth,Swell Ethereum,4843.18,4.34626,gainer
+uniswap,uni,Uniswap,11.22,4.32733,gainer
+frax-ether,frxeth,Frax Ether,4400.61,4.09354,gainer
+aave,aave,Aave,306.88,3.8246,gainer
+staked-ether,steth,Lido Staked Ether,4418.62,3.77788,gainer
+zora,zora,Zora,0.110305,-19.39822,loser
+story-2,ip,Story,5.72,-11.35291,loser
+fartcoin,fartcoin,Fartcoin,0.87943,-11.23705,loser
+build-on,b,BUILDon,0.62518,-7.27077,loser
+monero,xmr,Monero,250.76,-6.74029,loser
+syrup,syrup,Maple Finance,0.480391,-4.91245,loser
+pi-network,pi,Pi Network,0.384371,-4.89881,loser
+bonk,bonk,Bonk,2.471e-05,-4.69692,loser
+dexe,dexe,DeXe,7.58,-4.14484,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03633806,-4.10202,loser
