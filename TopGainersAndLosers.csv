@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-deep,deep,DeepBook,0.169361,11.29955,gainer
-pump-fun,pump,Pump.fun,0.00401326,10.52588,gainer
-jasmycoin,jasmy,JasmyCoin,0.01829917,9.36463,gainer
-chainlink,link,Chainlink,23.55,8.06441,gainer
+deep,deep,DeepBook,0.169318,11.42633,gainer
+pump-fun,pump,Pump.fun,0.00402063,11.29451,gainer
+jasmycoin,jasmy,JasmyCoin,0.01820424,8.98413,gainer
+chainlink,link,Chainlink,23.58,8.31285,gainer
 hash-2,hash,Provenance Blockchain,0.02907357,6.13105,gainer
-polkadot,dot,Polkadot,4.18,6.06794,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.21,5.93757,gainer
-aave,aave,Aave,314.73,5.58858,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4860.38,5.54488,gainer
-instadapp,fluid,Fluid,7.43,5.25632,gainer
-zora,zora,Zora,0.115556,-14.92016,loser
-story-2,ip,Story,5.78,-9.29256,loser
-build-on,b,BUILDon,0.621284,-7.99993,loser
-monero,xmr,Monero,251.76,-7.07817,loser
-fartcoin,fartcoin,Fartcoin,0.937866,-5.05707,loser
-syrup,syrup,Maple Finance,0.475873,-4.73403,loser
-keeta,kta,Keeta,1.41,-4.23466,loser
-wemix-token,wemix,WEMIX,0.797369,-3.98948,loser
-memecore,m,MemeCore,0.441347,-3.73832,loser
-dexe,dexe,DeXe,7.6,-3.20162,loser
+polkadot,dot,Polkadot,4.18,5.97932,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.2,5.8325,gainer
+aave,aave,Aave,315.38,5.80765,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4859.81,5.53254,gainer
+walrus-2,wal,Walrus,0.426099,5.28889,gainer
+zora,zora,Zora,0.115778,-14.7567,loser
+story-2,ip,Story,5.8,-8.95313,loser
+build-on,b,BUILDon,0.62082,-8.06863,loser
+monero,xmr,Monero,252.1,-6.95503,loser
+fartcoin,fartcoin,Fartcoin,0.937058,-5.13892,loser
+syrup,syrup,Maple Finance,0.47605,-4.8017,loser
+keeta,kta,Keeta,1.41,-4.78624,loser
+memecore,m,MemeCore,0.440437,-3.93699,loser
+wemix-token,wemix,WEMIX,0.798158,-3.89449,loser
+dexe,dexe,DeXe,7.61,-3.23738,loser
