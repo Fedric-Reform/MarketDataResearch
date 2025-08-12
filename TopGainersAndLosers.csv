@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-creditcoin-2,ctc,Creditcoin,0.725531,10.26329,gainer
-toshi,toshi,Toshi,0.00081472,7.7941,gainer
-chainlink,link,Chainlink,23.19,6.83292,gainer
-tezos,xtz,Tezos,0.887069,5.97791,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4792.3,4.37692,gainer
-uniswap,uni,Uniswap,11.18,3.79124,gainer
-deep,deep,DeepBook,0.158885,3.73005,gainer
-sweth,sweth,Swell Ethereum,4831.87,3.69457,gainer
-jasmycoin,jasmy,JasmyCoin,0.01729842,3.38922,gainer
-coinbase-wrapped-staked-eth,cbeth,Coinbase Wrapped Staked ETH,4866.37,3.2249,gainer
-zora,zora,Zora,0.111811,-18.43451,loser
-story-2,ip,Story,5.73,-11.67362,loser
-fartcoin,fartcoin,Fartcoin,0.877517,-11.6558,loser
-build-on,b,BUILDon,0.624192,-7.79755,loser
-venom,venom,Venom,0.157798,-7.45638,loser
-monero,xmr,Monero,252.58,-5.99277,loser
-bonk,bonk,Bonk,2.467e-05,-5.42164,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03619754,-5.16011,loser
-syrup,syrup,Maple Finance,0.480781,-5.09314,loser
-pi-network,pi,Pi Network,0.384387,-4.99513,loser
+creditcoin-2,ctc,Creditcoin,0.726774,10.31845,gainer
+toshi,toshi,Toshi,0.00081545,7.7816,gainer
+chainlink,link,Chainlink,23.22,7.03644,gainer
+tezos,xtz,Tezos,0.885874,5.7433,gainer
+sweth,sweth,Swell Ethereum,4834.49,4.13341,gainer
+deep,deep,DeepBook,0.15913,3.99669,gainer
+uniswap,uni,Uniswap,11.19,3.97472,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4792.54,3.83756,gainer
+l2-standard-bridged-weth-base,weth,L2 Standard Bridged WETH (Base),4415.36,3.50262,gainer
+jasmycoin,jasmy,JasmyCoin,0.01730903,3.45262,gainer
+zora,zora,Zora,0.111899,-18.31618,loser
+fartcoin,fartcoin,Fartcoin,0.877503,-11.4315,loser
+story-2,ip,Story,5.75,-11.43108,loser
+build-on,b,BUILDon,0.625193,-7.64978,loser
+monero,xmr,Monero,252.61,-6.05319,loser
+bonk,bonk,Bonk,2.466e-05,-5.4475,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03625502,-5.00949,loser
+pi-network,pi,Pi Network,0.384906,-4.90651,loser
+syrup,syrup,Maple Finance,0.481108,-4.77059,loser
+rekt-4,rekt,Rekt,1.14e-06,-4.53095,loser
