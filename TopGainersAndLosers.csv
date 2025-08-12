@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-succinct,prove,Succinct,1.69,15.08388,gainer
-pump-fun,pump,Pump.fun,0.00363729,8.50367,gainer
-creditcoin-2,ctc,Creditcoin,0.725257,5.67094,gainer
-wemix-token,wemix,WEMIX,0.827706,4.56127,gainer
-vision-3,vsn,Vision,0.210544,4.13405,gainer
-bitcoin-cash,bch,Bitcoin Cash,595.84,3.56907,gainer
-lido-dao,ldo,Lido DAO,1.55,3.06551,gainer
-zebec-network,zbcn,Zebec Network,0.00515572,2.61936,gainer
-tron,trx,TRON,0.347095,1.80029,gainer
-jasmycoin,jasmy,JasmyCoin,0.01711431,1.61238,gainer
-fartcoin,fartcoin,Fartcoin,0.871617,-20.59078,loser
-bonk,bonk,Bonk,2.49e-05,-11.48362,loser
-story-2,ip,Story,6.05,-11.37771,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03636868,-10.99721,loser
-based-brett,brett,Brett,0.055009,-10.7591,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00334087,-10.01725,loser
-dogwifcoin,wif,dogwifhat,0.922698,-9.86079,loser
-virtual-protocol,virtual,Virtuals Protocol,1.32,-9.69472,loser
-spx6900,spx,SPX6900,1.78,-9.45662,loser
-curve-dao-token,crv,Curve DAO,0.923799,-9.20278,loser
+succinct,prove,Succinct,1.69,15.46875,gainer
+pump-fun,pump,Pump.fun,0.00361911,7.73801,gainer
+wemix-token,wemix,WEMIX,0.832548,5.20752,gainer
+creditcoin-2,ctc,Creditcoin,0.719176,4.72728,gainer
+syrupusdc,syrupusdc,SyrupUSDC,1.12,3.13715,gainer
+vision-3,vsn,Vision,0.209949,3.10294,gainer
+bitcoin-cash,bch,Bitcoin Cash,593.62,3.09858,gainer
+zebec-network,zbcn,Zebec Network,0.00513369,2.03514,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.16,1.96679,gainer
+tron,trx,TRON,0.347156,1.84784,gainer
+fartcoin,fartcoin,Fartcoin,0.865897,-20.99645,loser
+bonk,bonk,Bonk,2.477e-05,-12.06046,loser
+story-2,ip,Story,6.01,-11.90524,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03613713,-11.8669,loser
+zora,zora,Zora,0.121118,-11.40002,loser
+based-brett,brett,Brett,0.054491,-11.34114,loser
+mog-coin,mog,Mog Coin,1.38e-06,-10.41104,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.0033314,-10.40551,loser
+dogwifcoin,wif,dogwifhat,0.918193,-10.12793,loser
+spx6900,spx,SPX6900,1.78,-9.90424,loser
