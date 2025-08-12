@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-creditcoin-2,ctc,Creditcoin,0.719471,9.93232,gainer
-toshi,toshi,Toshi,0.00083404,8.81974,gainer
-tezos,xtz,Tezos,0.891744,6.39158,gainer
-chainlink,link,Chainlink,22.77,4.3594,gainer
-liquid-staked-ethereum,lseth,Liquid Staked ETH,4775.32,4.21658,gainer
-deep,deep,DeepBook,0.158984,3.48173,gainer
-uniswap,uni,Uniswap,11.14,3.46621,gainer
-snek,snek,Snek,0.0045018,3.38558,gainer
-polygon-pos-bridged-weth-polygon-pos,weth,Polygon PoS Bridged WETH (Polygon POS),4401.33,3.18602,gainer
-arbitrum-bridged-weth-arbitrum-one,weth,Arbitrum Bridged WETH (Arbitrum One),4400.94,3.16621,gainer
-zora,zora,Zora,0.117442,-13.94958,loser
-fartcoin,fartcoin,Fartcoin,0.866553,-12.40095,loser
-story-2,ip,Story,5.76,-9.30093,loser
-venom,venom,Venom,0.158285,-7.17187,loser
-bonk,bonk,Bonk,2.438e-05,-6.29599,loser
-build-on,b,BUILDon,0.622992,-5.94146,loser
-monero,xmr,Monero,252.72,-5.9107,loser
-syrup,syrup,Maple Finance,0.475579,-5.72918,loser
-pi-network,pi,Pi Network,0.382917,-5.55486,loser
-rekt-4,rekt,Rekt,1.14e-06,-5.29239,loser
+creditcoin-2,ctc,Creditcoin,0.719802,9.98284,gainer
+toshi,toshi,Toshi,0.00082987,8.27576,gainer
+tezos,xtz,Tezos,0.892279,6.45542,gainer
+chainlink,link,Chainlink,22.74,4.27256,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4771.55,4.13438,gainer
+uniswap,uni,Uniswap,11.13,3.41331,gainer
+deep,deep,DeepBook,0.158786,3.35255,gainer
+sweth,sweth,Swell Ethereum,4784.49,3.31029,gainer
+wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),4392.46,3.26641,gainer
+mantle-staked-ether,meth,Mantle Staked Ether,4686.1,3.11768,gainer
+zora,zora,Zora,0.116207,-14.8542,loser
+fartcoin,fartcoin,Fartcoin,0.865767,-12.48036,loser
+story-2,ip,Story,5.77,-9.1634,loser
+venom,venom,Venom,0.158441,-7.08029,loser
+bonk,bonk,Bonk,2.439e-05,-6.28363,loser
+build-on,b,BUILDon,0.623828,-5.81524,loser
+syrup,syrup,Maple Finance,0.475298,-5.78475,loser
+monero,xmr,Monero,253.19,-5.73474,loser
+pi-network,pi,Pi Network,0.38301,-5.53197,loser
+rekt-4,rekt,Rekt,1.14e-06,-5.28045,loser
