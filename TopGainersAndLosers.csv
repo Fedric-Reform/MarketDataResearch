@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-succinct,prove,Succinct,1.65,13.79252,gainer
-wemix-token,wemix,WEMIX,0.858408,8.3363,gainer
-pump-fun,pump,Pump.fun,0.00359329,5.66389,gainer
-creditcoin-2,ctc,Creditcoin,0.712373,4.93324,gainer
-bitcoin-cash,bch,Bitcoin Cash,590.77,2.36841,gainer
-zebec-network,zbcn,Zebec Network,0.00509912,2.36694,gainer
-tron,trx,TRON,0.34664,1.81804,gainer
-sun-token,sun,Sun Token,0.022529,1.69171,gainer
-vision-3,vsn,Vision,0.209228,1.60964,gainer
-beldex,bdx,Beldex,0.072206,0.61914,gainer
-fartcoin,fartcoin,Fartcoin,0.84811,-21.07116,loser
-story-2,ip,Story,5.65,-16.64884,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03535727,-13.00292,loser
-bonk,bonk,Bonk,2.435e-05,-12.36659,loser
-based-brett,brett,Brett,0.053804,-11.96302,loser
-zora,zora,Zora,0.119535,-10.98106,loser
-dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00329196,-10.94307,loser
-dogwifcoin,wif,dogwifhat,0.90596,-10.68369,loser
-mog-coin,mog,Mog Coin,1.36e-06,-10.11586,loser
-worldcoin-wld,wld,Worldcoin,0.98039,-10.01353,loser
+succinct,prove,Succinct,1.66,14.28109,gainer
+wemix-token,wemix,WEMIX,0.874634,10.28463,gainer
+pump-fun,pump,Pump.fun,0.00362584,6.62426,gainer
+creditcoin-2,ctc,Creditcoin,0.716176,5.49341,gainer
+vision-3,vsn,Vision,0.20936,3.19819,gainer
+zebec-network,zbcn,Zebec Network,0.00514864,2.98335,gainer
+bitcoin-cash,bch,Bitcoin Cash,593.0,2.79687,gainer
+sun-token,sun,Sun Token,0.02258257,1.97433,gainer
+tron,trx,TRON,0.346598,1.79505,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4667.29,0.86344,gainer
+fartcoin,fartcoin,Fartcoin,0.854393,-20.50983,loser
+story-2,ip,Story,5.61,-17.20598,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0357014,-12.46855,loser
+bonk,bonk,Bonk,2.45e-05,-12.07037,loser
+based-brett,brett,Brett,0.054366,-11.15303,loser
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),0.00331114,-10.76741,loser
+zora,zora,Zora,0.120313,-10.40158,loser
+dogwifcoin,wif,dogwifhat,0.911319,-10.05275,loser
+mog-coin,mog,Mog Coin,1.37e-06,-9.90782,loser
+celestia,tia,Celestia,1.71,-9.73181,loser
