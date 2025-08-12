@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-deep,deep,DeepBook,0.17095,12.8536,gainer
-pump-fun,pump,Pump.fun,0.00396408,11.21288,gainer
-jasmycoin,jasmy,JasmyCoin,0.01852274,10.09848,gainer
-chainlink,link,Chainlink,23.55,8.83154,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.2,6.66096,gainer
-polkadot,dot,Polkadot,4.2,6.58639,gainer
-aave,aave,Aave,317.59,6.32151,gainer
-instadapp,fluid,Fluid,7.46,6.30051,gainer
+deep,deep,DeepBook,0.170897,12.8189,gainer
+pump-fun,pump,Pump.fun,0.00396835,11.33248,gainer
+jasmycoin,jasmy,JasmyCoin,0.01850501,9.99307,gainer
+chainlink,link,Chainlink,23.55,8.81809,gainer
+polkadot,dot,Polkadot,4.19,6.4171,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.2,6.39944,gainer
+aave,aave,Aave,317.45,6.27617,gainer
+instadapp,fluid,Fluid,7.45,6.24678,gainer
 hash-2,hash,Provenance Blockchain,0.02915982,6.15215,gainer
-walrus-2,wal,Walrus,0.429732,6.04703,gainer
-zora,zora,Zora,0.116522,-12.69187,loser
-story-2,ip,Story,5.82,-8.61564,loser
-build-on,b,BUILDon,0.620064,-7.14089,loser
-monero,xmr,Monero,253.24,-6.06801,loser
-syrup,syrup,Maple Finance,0.475405,-4.76796,loser
-wemix-token,wemix,WEMIX,0.797328,-4.61921,loser
-memecore,m,MemeCore,0.43835,-4.10591,loser
-pi-network,pi,Pi Network,0.388339,-3.71101,loser
-vision-3,vsn,Vision,0.212688,-3.54854,loser
-keeta,kta,Keeta,1.4,-3.4281,loser
+msol,msol,Marinade Staked SOL,247.9,5.99662,gainer
+zora,zora,Zora,0.116083,-13.02076,loser
+story-2,ip,Story,5.81,-8.77388,loser
+build-on,b,BUILDon,0.618871,-7.31967,loser
+monero,xmr,Monero,253.41,-6.00498,loser
+syrup,syrup,Maple Finance,0.475751,-4.6985,loser
+wemix-token,wemix,WEMIX,0.797333,-4.61854,loser
+memecore,m,MemeCore,0.438317,-4.11316,loser
+pi-network,pi,Pi Network,0.38832,-3.71572,loser
+keeta,kta,Keeta,1.4,-3.51301,loser
+vision-3,vsn,Vision,0.214327,-2.80522,loser
