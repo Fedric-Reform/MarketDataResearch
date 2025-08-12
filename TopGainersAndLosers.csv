@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pump-fun,pump,Pump.fun,0.00399568,11.44013,gainer
-deep,deep,DeepBook,0.167959,10.94941,gainer
-jasmycoin,jasmy,JasmyCoin,0.01826197,9.61905,gainer
-chainlink,link,Chainlink,23.64,9.17298,gainer
-aave,aave,Aave,317.34,6.97005,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.2,6.4486,gainer
-hash-2,hash,Provenance Blockchain,0.02901517,6.32151,gainer
-instadapp,fluid,Fluid,7.44,6.31245,gainer
-polkadot,dot,Polkadot,4.17,5.97134,gainer
-ether-fi-staked-eth,eeth,ether.fi Staked ETH,4508.68,5.93903,gainer
-zora,zora,Zora,0.117508,-13.34068,loser
-story-2,ip,Story,5.79,-8.77165,loser
-build-on,b,BUILDon,0.619184,-7.41583,loser
-monero,xmr,Monero,252.49,-5.95533,loser
-syrup,syrup,Maple Finance,0.474168,-4.55806,loser
-wemix-token,wemix,WEMIX,0.79733,-4.46551,loser
-fartcoin,fartcoin,Fartcoin,0.934989,-4.11837,loser
-keeta,kta,Keeta,1.4,-3.54956,loser
-pi-network,pi,Pi Network,0.387433,-2.80853,loser
-memecore,m,MemeCore,0.43953,-2.80618,loser
+deep,deep,DeepBook,0.168533,11.74609,gainer
+pump-fun,pump,Pump.fun,0.00398362,11.1038,gainer
+jasmycoin,jasmy,JasmyCoin,0.01832669,10.15263,gainer
+chainlink,link,Chainlink,23.62,9.06621,gainer
+aave,aave,Aave,317.53,7.03407,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.2,6.64389,gainer
+polkadot,dot,Polkadot,4.18,6.63853,gainer
+instadapp,fluid,Fluid,7.45,6.43587,gainer
+hash-2,hash,Provenance Blockchain,0.02902281,6.34947,gainer
+liquid-staked-ethereum,lseth,Liquid Staked ETH,4879.39,6.19044,gainer
+zora,zora,Zora,0.117009,-13.70832,loser
+story-2,ip,Story,5.79,-8.82464,loser
+build-on,b,BUILDon,0.621056,-7.13586,loser
+monero,xmr,Monero,252.89,-5.80608,loser
+wemix-token,wemix,WEMIX,0.796973,-4.71719,loser
+syrup,syrup,Maple Finance,0.474729,-4.44518,loser
+pi-network,pi,Pi Network,0.38778,-3.18791,loser
+keeta,kta,Keeta,1.41,-3.06772,loser
+fartcoin,fartcoin,Fartcoin,0.946594,-2.92824,loser
+memecore,m,MemeCore,0.441048,-2.83973,loser
