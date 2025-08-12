@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-creditcoin-2,ctc,Creditcoin,0.725935,8.33666,gainer
-toshi,toshi,Toshi,0.00081323,8.17247,gainer
-chainlink,link,Chainlink,23.42,8.1689,gainer
-tezos,xtz,Tezos,0.883426,6.05026,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.19,5.13703,gainer
-deep,deep,DeepBook,0.159917,5.0667,gainer
-uniswap,uni,Uniswap,11.24,4.62096,gainer
-sweth,sweth,Swell Ethereum,4838.83,4.25248,gainer
-aave,aave,Aave,307.78,4.12977,gainer
-jasmycoin,jasmy,JasmyCoin,0.0173614,4.07075,gainer
-zora,zora,Zora,0.11015,-20.63474,loser
-fartcoin,fartcoin,Fartcoin,0.876954,-11.65739,loser
-story-2,ip,Story,5.72,-10.78482,loser
-build-on,b,BUILDon,0.624788,-7.04825,loser
-monero,xmr,Monero,251.36,-6.43989,loser
-bonk,bonk,Bonk,2.471e-05,-4.89761,loser
-pi-network,pi,Pi Network,0.385189,-4.75035,loser
-syrup,syrup,Maple Finance,0.479829,-4.44114,loser
-dexe,dexe,DeXe,7.58,-4.22847,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03630152,-4.19846,loser
+chainlink,link,Chainlink,23.53,8.50353,gainer
+toshi,toshi,Toshi,0.00081157,7.95106,gainer
+creditcoin-2,ctc,Creditcoin,0.723293,7.9423,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.21,5.98921,gainer
+tezos,xtz,Tezos,0.883351,5.96015,gainer
+deep,deep,DeepBook,0.159998,5.11957,gainer
+sweth,sweth,Swell Ethereum,4841.29,4.53307,gainer
+uniswap,uni,Uniswap,11.25,4.34472,gainer
+aave,aave,Aave,308.34,4.23182,gainer
+wrapped-ether-mantle-bridge,weth,Wrapped Ether (Mantle Bridge),4431.13,4.09248,gainer
+zora,zora,Zora,0.110535,-20.35711,loser
+fartcoin,fartcoin,Fartcoin,0.878348,-11.51693,loser
+story-2,ip,Story,5.73,-10.97516,loser
+build-on,b,BUILDon,0.623975,-6.5432,loser
+monero,xmr,Monero,252.16,-6.47105,loser
+bonk,bonk,Bonk,2.473e-05,-4.84494,loser
+pi-network,pi,Pi Network,0.385921,-4.56932,loser
+syrup,syrup,Maple Finance,0.4796,-4.48687,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03635625,-4.33092,loser
+rekt-4,rekt,Rekt,1.15e-06,-4.22084,loser
