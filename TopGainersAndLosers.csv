@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,107.43,132.45785,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.61,17.93024,gainer
-zksync,zk,ZKsync,0.069022,16.745,gainer
-arbitrum,arb,Arbitrum,0.550777,16.63902,gainer
-qubic-network,qubic,Qubic,3.27e-06,16.13641,gainer
-aioz-network,aioz,AIOZ Network,0.454372,14.4927,gainer
-cardano,ada,Cardano,0.955119,14.02406,gainer
-raydium,ray,Raydium,3.91,13.41894,gainer
-snek,snek,Snek,0.00538508,12.67793,gainer
-dydx-chain,dydx,dYdX,0.745675,12.04517,gainer
-zora,zora,Zora,0.115793,-6.96867,loser
+okb,okb,OKB,107.63,132.8942,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.61,17.94733,gainer
+zksync,zk,ZKsync,0.069018,16.73776,gainer
+arbitrum,arb,Arbitrum,0.550811,16.64624,gainer
+qubic-network,qubic,Qubic,3.27e-06,15.95914,gainer
+aioz-network,aioz,AIOZ Network,0.45441,14.50231,gainer
+cardano,ada,Cardano,0.954864,13.99362,gainer
+raydium,ray,Raydium,3.91,13.42298,gainer
+snek,snek,Snek,0.00538508,12.41772,gainer
+dydx-chain,dydx,dYdX,0.745291,12.12047,gainer
+zora,zora,Zora,0.115789,-6.97195,loser
 rekt-4,rekt,Rekt,1.17e-06,-4.58834,loser
+zebec-network,zbcn,Zebec Network,0.00478851,-3.16781,loser
 build-on,b,BUILDon,0.613262,-3.15906,loser
-zebec-network,zbcn,Zebec Network,0.0047962,-3.00206,loser
-helium,hnt,Helium,2.86,-2.85198,loser
+helium,hnt,Helium,2.86,-2.8517,loser
 hash-2,hash,Provenance Blockchain,0.02761515,-2.79271,loser
-ethena,ena,Ethena,0.780255,-2.16718,loser
-memecore,m,MemeCore,0.432051,-1.78556,loser
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,-0.95118,loser
+ethena,ena,Ethena,0.779714,-2.235,loser
+memecore,m,MemeCore,0.432051,-1.17492,loser
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,-1.03144,loser
 beldex,bdx,Beldex,0.072424,-0.84695,loser
