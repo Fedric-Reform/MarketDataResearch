@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.1,2.31004,gainer
-newton-project,ab,AB,0.00833854,1.98777,gainer
-saros-finance,saros,Saros,0.392183,1.9393,gainer
-leo-token,leo,LEO Token,9.36,1.22923,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.36,0.96099,gainer
-hash-2,hash,Provenance Blockchain,0.02787334,0.93499,gainer
-usdb,usdb,USDB,1.004,0.84902,gainer
-sun-token,sun,Sun Token,0.02474987,0.79388,gainer
-beldex,bdx,Beldex,0.072724,0.40442,gainer
-first-digital-usd,fdusd,First Digital USD,0.998209,0.35728,gainer
-fartcoin,fartcoin,Fartcoin,1.001,-12.77733,loser
-superfarm,super,SuperVerse,0.721524,-12.35551,loser
-deep,deep,DeepBook,0.162251,-12.04232,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.42,-11.96198,loser
-virtual-protocol,virtual,Virtuals Protocol,1.21,-11.91298,loser
-mog-coin,mog,Mog Coin,1.26e-06,-11.78066,loser
-based-brett,brett,Brett,0.056413,-11.53465,loser
-spx6900,spx,SPX6900,1.55,-11.40375,loser
-arweave,ar,Arweave,7.41,-11.38827,loser
-beam-2,beam,Beam,0.00759572,-11.20674,loser
+mantle,mnt,Mantle,1.21,10.45657,gainer
+kava,kava,Kava,0.376222,3.90241,gainer
+deep,deep,DeepBook,0.17179,3.83073,gainer
+hash-2,hash,Provenance Blockchain,0.02901341,3.82906,gainer
+flare-networks,flr,Flare,0.0240278,3.12687,gainer
+venom,venom,Venom,0.161092,2.98769,gainer
+cardano,ada,Cardano,0.955796,2.98768,gainer
+qubic-network,qubic,Qubic,3.19e-06,2.53788,gainer
+nexo,nexo,NEXO,1.39,2.14087,gainer
+leo-token,leo,LEO Token,9.63,1.94615,gainer
+pump-fun,pump,Pump.fun,0.0034461,-8.93218,loser
+fartcoin,fartcoin,Fartcoin,0.952875,-7.53616,loser
+spx6900,spx,SPX6900,1.48,-7.48592,loser
+instadapp,fluid,Fluid,6.99,-7.32415,loser
+arbitrum,arb,Arbitrum,0.479966,-7.27723,loser
+mog-coin,mog,Mog Coin,1.17e-06,-7.02385,loser
+dogwifcoin,wif,dogwifhat,0.878768,-6.41533,loser
+telcoin,tel,Telcoin,0.00569913,-6.26507,loser
+injective-protocol,inj,Injective,14.33,-6.20817,loser
+morpho,morpho,Morpho,1.95,-5.89273,loser
