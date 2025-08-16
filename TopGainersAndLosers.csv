@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-useless-3,useless,Useless Coin,0.361751,28.23635,gainer
-okb,okb,OKB,106.56,15.4509,gainer
-mantle,mnt,Mantle,1.3,9.79881,gainer
-starknet,strk,Starknet,0.138434,7.6821,gainer
-terra-luna,lunc,Terra Luna Classic,6.25e-05,7.43423,gainer
-the-sandbox,sand,The Sandbox,0.296945,6.2348,gainer
-gala,gala,GALA,0.01732149,6.14302,gainer
-kucoin-shares,kcs,KuCoin,13.45,5.86508,gainer
-iota,iota,IOTA,0.207854,5.77025,gainer
-celestia,tia,Celestia,1.82,5.76587,gainer
-qubic-network,qubic,Qubic,3.04e-06,-4.40179,loser
-pump-fun,pump,Pump.fun,0.00336358,-3.84896,loser
-cardano,ada,Cardano,0.910883,-3.25767,loser
-aerodrome-finance,aero,Aerodrome Finance,1.35,-2.34142,loser
-build-on,b,BUILDon,0.51877,-2.24921,loser
-flare-networks,flr,Flare,0.02449816,-2.15721,loser
-bitcoin-cash,bch,Bitcoin Cash,578.05,-2.08002,loser
-hash-2,hash,Provenance Blockchain,0.02740419,-2.07698,loser
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,114773.0,-2.05652,loser
-gnosis,gno,Gnosis,138.02,-2.01201,loser
+useless-3,useless,Useless Coin,0.359675,27.34611,gainer
+okb,okb,OKB,106.74,15.91757,gainer
+mantle,mnt,Mantle,1.3,10.50786,gainer
+starknet,strk,Starknet,0.139117,8.40447,gainer
+terra-luna,lunc,Terra Luna Classic,6.249e-05,7.49023,gainer
+the-sandbox,sand,The Sandbox,0.298699,6.99763,gainer
+gala,gala,GALA,0.01737806,6.62466,gainer
+beam-2,beam,Beam,0.00790733,6.48152,gainer
+celestia,tia,Celestia,1.83,6.15881,gainer
+iota,iota,IOTA,0.208288,6.03706,gainer
+hash-2,hash,Provenance Blockchain,0.02744388,-8.11231,loser
+qubic-network,qubic,Qubic,3.04e-06,-4.57675,loser
+pump-fun,pump,Pump.fun,0.00337924,-3.03768,loser
+cardano,ada,Cardano,0.913783,-2.82151,loser
+flare-networks,flr,Flare,0.02444672,-2.77229,loser
+build-on,b,BUILDon,0.519634,-2.05059,loser
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,114778.0,-2.03874,loser
+aerodrome-finance,aero,Aerodrome Finance,1.35,-1.92085,loser
+zebec-network,zbcn,Zebec Network,0.00464935,-1.87262,loser
+bitcoin-cash,bch,Bitcoin Cash,579.32,-1.78965,loser
