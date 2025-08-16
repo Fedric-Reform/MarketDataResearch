@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-useless-3,useless,Useless Coin,0.326265,14.49447,gainer
-mantle,mnt,Mantle,1.21,12.2506,gainer
-deep,deep,DeepBook,0.170609,4.09713,gainer
-kava,kava,Kava,0.376664,3.93337,gainer
-story-2,ip,Story,5.77,3.49529,gainer
-saros-finance,saros,Saros,0.405311,3.13688,gainer
-venom,venom,Venom,0.161089,2.81671,gainer
-qubic-network,qubic,Qubic,3.14e-06,2.79745,gainer
-cardano,ada,Cardano,0.945508,2.39915,gainer
-flare-networks,flr,Flare,0.02391696,2.15735,gainer
-fartcoin,fartcoin,Fartcoin,0.949211,-8.15868,loser
-spx6900,spx,SPX6900,1.48,-7.42868,loser
-instadapp,fluid,Fluid,6.97,-6.99027,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.34,-6.86227,loser
-arbitrum,arb,Arbitrum,0.484232,-6.77015,loser
-mog-coin,mog,Mog Coin,1.17e-06,-6.60279,loser
-pump-fun,pump,Pump.fun,0.00348042,-6.45273,loser
-dogwifcoin,wif,dogwifhat,0.879883,-5.57698,loser
-telcoin,tel,Telcoin,0.00570013,-5.20885,loser
-raydium,ray,Raydium,3.57,-5.16164,loser
+useless-3,useless,Useless Coin,0.335472,16.42652,gainer
+mantle,mnt,Mantle,1.19,10.77356,gainer
+kava,kava,Kava,0.379049,4.27073,gainer
+saros-finance,saros,Saros,0.407124,3.3455,gainer
+deep,deep,DeepBook,0.170211,2.92588,gainer
+venom,venom,Venom,0.161066,2.56965,gainer
+qubic-network,qubic,Qubic,3.13e-06,2.33939,gainer
+story-2,ip,Story,5.71,1.76299,gainer
+flare-networks,flr,Flare,0.02381821,1.64085,gainer
+nexo,nexo,NEXO,1.38,1.52341,gainer
+fartcoin,fartcoin,Fartcoin,0.943575,-9.56173,loser
+spx6900,spx,SPX6900,1.48,-8.41665,loser
+mog-coin,mog,Mog Coin,1.16e-06,-7.98905,loser
+arbitrum,arb,Arbitrum,0.483763,-7.95374,loser
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.34,-7.75836,loser
+instadapp,fluid,Fluid,6.94,-7.69524,loser
+pump-fun,pump,Pump.fun,0.00345872,-7.362,loser
+wrapped-avax,wavax,Wrapped AVAX,23.72,-6.35848,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,28.96,-6.25088,loser
+dogwifcoin,wif,dogwifhat,0.879645,-6.24107,loser
