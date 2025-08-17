@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,126.35,34.97544,gainer
-mantle,mnt,Mantle,1.39,14.4646,gainer
-useless-3,useless,Useless Coin,0.366326,11.9939,gainer
-chainlink,link,Chainlink,24.26,11.74831,gainer
-monero,xmr,Monero,260.6,10.0308,gainer
-sonic-3,s,Sonic,0.326869,9.17002,gainer
-iota,iota,IOTA,0.212443,6.6252,gainer
-arbitrum,arb,Arbitrum,0.511402,5.70602,gainer
-beam-2,beam,Beam,0.00795964,5.51325,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.42,5.39401,gainer
-hash-2,hash,Provenance Blockchain,0.02769341,-4.62867,loser
-qubic-network,qubic,Qubic,3.02e-06,-3.87179,loser
-zebec-network,zbcn,Zebec Network,0.00468554,-2.70188,loser
-nexo,nexo,NEXO,1.35,-2.23596,loser
-leo-token,leo,LEO Token,9.44,-1.90097,loser
-xdce-crowd-sale,xdc,XDC Network,0.085543,-1.87867,loser
-sun-token,sun,Sun Token,0.02366568,-1.81028,loser
-aioz-network,aioz,AIOZ Network,0.400683,-1.69932,loser
-memecore,m,MemeCore,0.412541,-1.63892,loser
-saros-finance,saros,Saros,0.397697,-1.5321,loser
+chainlink,link,Chainlink,25.41,16.03869,gainer
+okb,okb,OKB,119.05,14.44473,gainer
+zora,zora,Zora,0.108068,12.23244,gainer
+rekt-4,rekt,Rekt,1.15e-06,12.19995,gainer
+arbitrum,arb,Arbitrum,0.541297,11.97019,gainer
+sonic-3,s,Sonic,0.334606,11.36726,gainer
+zksync,zk,ZKsync,0.069294,10.85621,gainer
+sei-network,sei,Sei,0.353018,9.91915,gainer
+monero,xmr,Monero,262.01,9.05316,gainer
+build-on,b,BUILDon,0.570086,8.92349,gainer
+mantle,mnt,Mantle,1.29,-3.11537,loser
+saros-finance,saros,Saros,0.399359,-1.91113,loser
+zebec-network,zbcn,Zebec Network,0.00461105,-1.89589,loser
+xdce-crowd-sale,xdc,XDC Network,0.084919,-1.28235,loser
+flare-networks,flr,Flare,0.02453648,-1.18316,loser
+nexo,nexo,NEXO,1.35,-0.95012,loser
+staked-frax-ether,sfrxeth,Staked Frax Ether,5057.6,-0.9444,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.999809,-0.90328,loser
+kucoin-shares,kcs,KuCoin,13.26,-0.85473,loser
+apenft,nft,APENFT,4.655e-07,-0.57916,loser
