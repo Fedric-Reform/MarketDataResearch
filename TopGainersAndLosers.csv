@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,25.41,16.03869,gainer
-okb,okb,OKB,119.05,14.44473,gainer
-zora,zora,Zora,0.108068,12.23244,gainer
-rekt-4,rekt,Rekt,1.15e-06,12.19995,gainer
-arbitrum,arb,Arbitrum,0.541297,11.97019,gainer
-sonic-3,s,Sonic,0.334606,11.36726,gainer
-zksync,zk,ZKsync,0.069294,10.85621,gainer
-sei-network,sei,Sei,0.353018,9.91915,gainer
-monero,xmr,Monero,262.01,9.05316,gainer
-build-on,b,BUILDon,0.570086,8.92349,gainer
-mantle,mnt,Mantle,1.29,-3.11537,loser
-saros-finance,saros,Saros,0.399359,-1.91113,loser
-zebec-network,zbcn,Zebec Network,0.00461105,-1.89589,loser
-xdce-crowd-sale,xdc,XDC Network,0.084919,-1.28235,loser
-flare-networks,flr,Flare,0.02453648,-1.18316,loser
-nexo,nexo,NEXO,1.35,-0.95012,loser
-staked-frax-ether,sfrxeth,Staked Frax Ether,5057.6,-0.9444,loser
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.999809,-0.90328,loser
-kucoin-shares,kcs,KuCoin,13.26,-0.85473,loser
-apenft,nft,APENFT,4.655e-07,-0.57916,loser
+chainlink,link,Chainlink,25.42,15.85945,gainer
+okb,okb,OKB,119.09,14.61446,gainer
+rekt-4,rekt,Rekt,1.15e-06,12.21818,gainer
+zora,zora,Zora,0.108021,12.18393,gainer
+arbitrum,arb,Arbitrum,0.541469,12.00565,gainer
+sonic-3,s,Sonic,0.334622,11.0832,gainer
+zksync,zk,ZKsync,0.069285,10.69434,gainer
+sei-network,sei,Sei,0.35294,9.89493,gainer
+monero,xmr,Monero,261.96,9.0337,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.45,8.80467,gainer
+mantle,mnt,Mantle,1.29,-3.09352,loser
+zebec-network,zbcn,Zebec Network,0.00460471,-2.16773,loser
+saros-finance,saros,Saros,0.399104,-1.97377,loser
+xdce-crowd-sale,xdc,XDC Network,0.084918,-1.28347,loser
+kucoin-shares,kcs,KuCoin,13.25,-1.25865,loser
+useless-3,useless,Useless Coin,0.343148,-1.23795,loser
+flare-networks,flr,Flare,0.02452673,-1.22243,loser
+nexo,nexo,NEXO,1.35,-0.98007,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.0,-0.8781,loser
+apenft,nft,APENFT,4.6535e-07,-0.60914,loser
