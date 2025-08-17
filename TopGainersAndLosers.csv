@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,118.18,26.42421,gainer
-useless-3,useless,Useless Coin,0.358238,17.49879,gainer
-mantle,mnt,Mantle,1.35,9.656,gainer
-monero,xmr,Monero,255.71,8.51674,gainer
-sonic-3,s,Sonic,0.323987,8.06554,gainer
-hash-2,hash,Provenance Blockchain,0.02949737,6.65542,gainer
-chainlink,link,Chainlink,23.28,6.40892,gainer
-beam-2,beam,Beam,0.00798295,5.74967,gainer
-iota,iota,IOTA,0.210611,5.34893,gainer
-apecoin,ape,ApeCoin,0.635216,5.20856,gainer
-qubic-network,qubic,Qubic,3.03e-06,-6.16635,loser
-zebec-network,zbcn,Zebec Network,0.00468514,-3.56348,loser
-aioz-network,aioz,AIOZ Network,0.398159,-3.11368,loser
-hyperliquid,hype,Hyperliquid,46.69,-3.0958,loser
-wrapped-hype,whype,Wrapped HYPE,46.64,-2.99845,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.76,-2.93453,loser
-cardano,ada,Cardano,0.938629,-2.54115,loser
-memecore,m,MemeCore,0.412477,-2.46661,loser
-keeta,kta,Keeta,1.37,-2.35338,loser
-leo-token,leo,LEO Token,9.44,-2.00166,loser
+okb,okb,OKB,119.23,27.39796,gainer
+useless-3,useless,Useless Coin,0.360128,19.32897,gainer
+mantle,mnt,Mantle,1.37,11.67283,gainer
+monero,xmr,Monero,257.56,9.28432,gainer
+sonic-3,s,Sonic,0.323181,7.78743,gainer
+chainlink,link,Chainlink,23.39,7.13913,gainer
+hash-2,hash,Provenance Blockchain,0.02937586,6.21888,gainer
+beam-2,beam,Beam,0.00798012,5.90877,gainer
+apecoin,ape,ApeCoin,0.63326,4.99052,gainer
+iota,iota,IOTA,0.209537,4.89936,gainer
+qubic-network,qubic,Qubic,3.01e-06,-5.99199,loser
+zebec-network,zbcn,Zebec Network,0.00467056,-3.77566,loser
+aioz-network,aioz,AIOZ Network,0.396304,-2.92403,loser
+wrapped-hype,whype,Wrapped HYPE,46.63,-2.86233,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.64,-2.76792,loser
+hyperliquid,hype,Hyperliquid,46.65,-2.57137,loser
+memecore,m,MemeCore,0.411734,-2.42183,loser
+keeta,kta,Keeta,1.37,-2.3156,loser
+cardano,ada,Cardano,0.940439,-1.93788,loser
+nexo,nexo,NEXO,1.35,-1.89219,loser
