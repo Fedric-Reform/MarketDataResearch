@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,25.64,13.13045,gainer
-memecore,m,MemeCore,0.448052,9.55972,gainer
-arbitrum,arb,Arbitrum,0.538088,9.35679,gainer
-virtual-protocol,virtual,Virtuals Protocol,1.31,8.19986,gainer
-rekt-4,rekt,Rekt,1.12e-06,7.09795,gainer
-monero,xmr,Monero,270.89,6.77982,gainer
-sonic-3,s,Sonic,0.331266,6.7483,gainer
-okb,okb,OKB,117.99,6.61846,gainer
-injective-protocol,inj,Injective,15.52,6.5322,gainer
-zora,zora,Zora,0.106838,6.35879,gainer
-qubic-network,qubic,Qubic,2.91e-06,-5.65442,loser
-mantle,mnt,Mantle,1.29,-5.24674,loser
-hash-2,hash,Provenance Blockchain,0.02856368,-3.69328,loser
-chain-2,xcn,Onyxcoin,0.01246031,-3.0694,loser
-ethena,ena,Ethena,0.711618,-2.82689,loser
-lido-dao,ldo,Lido DAO,1.37,-2.75969,loser
-drift-protocol,drift,Drift Protocol,0.538944,-2.40423,loser
-zebec-network,zbcn,Zebec Network,0.00455814,-2.38821,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.06,-2.2203,loser
-terra-luna,lunc,Terra Luna Classic,6.128e-05,-1.9865,loser
+chainlink,link,Chainlink,25.98,14.98773,gainer
+arbitrum,arb,Arbitrum,0.54054,10.21172,gainer
+injective-protocol,inj,Injective,15.69,8.56418,gainer
+zora,zora,Zora,0.107676,8.34161,gainer
+memecore,m,MemeCore,0.44157,8.06751,gainer
+sonic-3,s,Sonic,0.33173,7.61244,gainer
+monero,xmr,Monero,272.47,7.31582,gainer
+virtual-protocol,virtual,Virtuals Protocol,1.3,7.12026,gainer
+rekt-4,rekt,Rekt,1.12e-06,6.60239,gainer
+snek,snek,Snek,0.00534147,5.90041,gainer
+mantle,mnt,Mantle,1.28,-5.45262,loser
+qubic-network,qubic,Qubic,2.92e-06,-5.18371,loser
+chain-2,xcn,Onyxcoin,0.01228041,-3.61635,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.04,-3.19589,loser
+hash-2,hash,Provenance Blockchain,0.02848413,-3.01795,loser
+ethena,ena,Ethena,0.707817,-2.8724,loser
+zebec-network,zbcn,Zebec Network,0.00454765,-2.77742,loser
+lido-dao,ldo,Lido DAO,1.37,-2.70091,loser
+saros-finance,saros,Saros,0.391173,-2.14926,loser
+drift-protocol,drift,Drift Protocol,0.538881,-2.02856,loser
