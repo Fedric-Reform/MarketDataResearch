@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,25.99,15.00611,gainer
-arbitrum,arb,Arbitrum,0.540989,10.58454,gainer
-injective-protocol,inj,Injective,15.7,8.58854,gainer
-zora,zora,Zora,0.107649,8.52088,gainer
-memecore,m,MemeCore,0.441264,7.99257,gainer
-sonic-3,s,Sonic,0.332222,7.77214,gainer
-monero,xmr,Monero,272.59,7.36341,gainer
-virtual-protocol,virtual,Virtuals Protocol,1.29,7.31816,gainer
-rekt-4,rekt,Rekt,1.12e-06,6.31715,gainer
-helium,hnt,Helium,2.78,5.94739,gainer
-mantle,mnt,Mantle,1.28,-5.44978,loser
-qubic-network,qubic,Qubic,2.92e-06,-5.29511,loser
-chain-2,xcn,Onyxcoin,0.01228646,-3.56891,loser
-hash-2,hash,Provenance Blockchain,0.02848413,-3.01795,loser
-ethena,ena,Ethena,0.707744,-2.88232,loser
-zebec-network,zbcn,Zebec Network,0.00454717,-2.78774,loser
-lido-dao,ldo,Lido DAO,1.37,-2.70034,loser
-drift-protocol,drift,Drift Protocol,0.538847,-2.03476,loser
-saros-finance,saros,Saros,0.39122,-1.94214,loser
-terra-luna,lunc,Terra Luna Classic,6.105e-05,-1.88531,loser
+chainlink,link,Chainlink,26.01,15.47608,gainer
+arbitrum,arb,Arbitrum,0.539025,10.2893,gainer
+memecore,m,MemeCore,0.441645,8.35717,gainer
+injective-protocol,inj,Injective,15.61,7.96461,gainer
+monero,xmr,Monero,272.32,7.16386,gainer
+sonic-3,s,Sonic,0.3303,7.11749,gainer
+matic-network,matic,Polygon,0.252173,7.00891,gainer
+helium,hnt,Helium,2.81,6.93349,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.251997,6.74447,gainer
+virtual-protocol,virtual,Virtuals Protocol,1.28,6.67067,gainer
+mantle,mnt,Mantle,1.27,-5.66788,loser
+hash-2,hash,Provenance Blockchain,0.02796283,-4.7768,loser
+qubic-network,qubic,Qubic,2.92e-06,-4.7111,loser
+zebec-network,zbcn,Zebec Network,0.00452113,-3.64699,loser
+ethena,ena,Ethena,0.701914,-3.44381,loser
+chain-2,xcn,Onyxcoin,0.01232312,-3.11294,loser
+lido-dao,ldo,Lido DAO,1.37,-2.92942,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.99,-2.60293,loser
+drift-protocol,drift,Drift Protocol,0.537704,-2.43632,loser
+terra-luna,lunc,Terra Luna Classic,6.096e-05,-1.9649,loser
