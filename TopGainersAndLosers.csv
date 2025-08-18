@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,26.01,15.47608,gainer
-arbitrum,arb,Arbitrum,0.539025,10.2893,gainer
-memecore,m,MemeCore,0.441645,8.35717,gainer
-injective-protocol,inj,Injective,15.61,7.96461,gainer
-monero,xmr,Monero,272.32,7.16386,gainer
-sonic-3,s,Sonic,0.3303,7.11749,gainer
-matic-network,matic,Polygon,0.252173,7.00891,gainer
-helium,hnt,Helium,2.81,6.93349,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.251997,6.74447,gainer
-virtual-protocol,virtual,Virtuals Protocol,1.28,6.67067,gainer
-mantle,mnt,Mantle,1.27,-5.66788,loser
-hash-2,hash,Provenance Blockchain,0.02796283,-4.7768,loser
-qubic-network,qubic,Qubic,2.92e-06,-4.7111,loser
-zebec-network,zbcn,Zebec Network,0.00452113,-3.64699,loser
-ethena,ena,Ethena,0.701914,-3.44381,loser
-chain-2,xcn,Onyxcoin,0.01232312,-3.11294,loser
-lido-dao,ldo,Lido DAO,1.37,-2.92942,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.99,-2.60293,loser
-drift-protocol,drift,Drift Protocol,0.537704,-2.43632,loser
-terra-luna,lunc,Terra Luna Classic,6.096e-05,-1.9649,loser
+chainlink,link,Chainlink,25.78,14.43923,gainer
+arbitrum,arb,Arbitrum,0.532218,8.83913,gainer
+memecore,m,MemeCore,0.441825,8.24372,gainer
+injective-protocol,inj,Injective,15.46,7.08327,gainer
+sonic-3,s,Sonic,0.329585,6.33757,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.251316,6.20864,gainer
+matic-network,matic,Polygon,0.250929,6.15001,gainer
+helium,hnt,Helium,2.8,6.09961,gainer
+monero,xmr,Monero,268.2,5.59537,gainer
+rekt-4,rekt,Rekt,1.1e-06,5.3009,gainer
+mantle,mnt,Mantle,1.27,-7.73794,loser
+hash-2,hash,Provenance Blockchain,0.02771774,-5.60627,loser
+qubic-network,qubic,Qubic,2.92e-06,-4.72834,loser
+ethena,ena,Ethena,0.69604,-4.72002,loser
+chain-2,xcn,Onyxcoin,0.0122093,-4.03443,loser
+zebec-network,zbcn,Zebec Network,0.00451314,-3.52709,loser
+lido-dao,ldo,Lido DAO,1.36,-3.40068,loser
+drift-protocol,drift,Drift Protocol,0.53453,-2.80916,loser
+near,near,NEAR Protocol,2.65,-2.67874,loser
+theta-token,theta,Theta Network,0.822336,-2.52624,loser
