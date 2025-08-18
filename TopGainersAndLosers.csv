@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,25.65,16.47299,gainer
-okb,okb,OKB,118.73,15.76644,gainer
-zora,zora,Zora,0.109284,14.08908,gainer
-arbitrum,arb,Arbitrum,0.550813,13.62715,gainer
-rekt-4,rekt,Rekt,1.15e-06,11.92314,gainer
-sonic-3,s,Sonic,0.334928,10.93016,gainer
-zksync,zk,ZKsync,0.069636,10.36992,gainer
-sei-network,sei,Sei,0.352385,9.25118,gainer
-build-on,b,BUILDon,0.57086,9.02386,gainer
-monero,xmr,Monero,262.6,8.65182,gainer
-mantle,mnt,Mantle,1.31,-2.31367,loser
-flare-networks,flr,Flare,0.02452088,-2.14505,loser
-saros-finance,saros,Saros,0.398758,-2.0472,loser
-zebec-network,zbcn,Zebec Network,0.00461781,-1.59033,loser
-xdce-crowd-sale,xdc,XDC Network,0.08485,-1.47994,loser
-kucoin-shares,kcs,KuCoin,13.24,-1.33466,loser
-useless-3,useless,Useless Coin,0.340191,-1.04938,loser
-staked-frax-ether,sfrxeth,Staked Frax Ether,5062.04,-0.92983,loser
-nexo,nexo,NEXO,1.35,-0.76885,loser
-apenft,nft,APENFT,4.64986e-07,-0.66369,loser
+chainlink,link,Chainlink,25.64,13.13045,gainer
+memecore,m,MemeCore,0.448052,9.55972,gainer
+arbitrum,arb,Arbitrum,0.538088,9.35679,gainer
+virtual-protocol,virtual,Virtuals Protocol,1.31,8.19986,gainer
+rekt-4,rekt,Rekt,1.12e-06,7.09795,gainer
+monero,xmr,Monero,270.89,6.77982,gainer
+sonic-3,s,Sonic,0.331266,6.7483,gainer
+okb,okb,OKB,117.99,6.61846,gainer
+injective-protocol,inj,Injective,15.52,6.5322,gainer
+zora,zora,Zora,0.106838,6.35879,gainer
+qubic-network,qubic,Qubic,2.91e-06,-5.65442,loser
+mantle,mnt,Mantle,1.29,-5.24674,loser
+hash-2,hash,Provenance Blockchain,0.02856368,-3.69328,loser
+chain-2,xcn,Onyxcoin,0.01246031,-3.0694,loser
+ethena,ena,Ethena,0.711618,-2.82689,loser
+lido-dao,ldo,Lido DAO,1.37,-2.75969,loser
+drift-protocol,drift,Drift Protocol,0.538944,-2.40423,loser
+zebec-network,zbcn,Zebec Network,0.00455814,-2.38821,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.06,-2.2203,loser
+terra-luna,lunc,Terra Luna Classic,6.128e-05,-1.9865,loser
