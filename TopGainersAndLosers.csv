@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chainlink,link,Chainlink,25.78,14.43923,gainer
-arbitrum,arb,Arbitrum,0.532218,8.83913,gainer
-memecore,m,MemeCore,0.441825,8.24372,gainer
-injective-protocol,inj,Injective,15.46,7.08327,gainer
-sonic-3,s,Sonic,0.329585,6.33757,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.251316,6.20864,gainer
-matic-network,matic,Polygon,0.250929,6.15001,gainer
-helium,hnt,Helium,2.8,6.09961,gainer
-monero,xmr,Monero,268.2,5.59537,gainer
-rekt-4,rekt,Rekt,1.1e-06,5.3009,gainer
-mantle,mnt,Mantle,1.27,-7.73794,loser
-hash-2,hash,Provenance Blockchain,0.02771774,-5.60627,loser
-qubic-network,qubic,Qubic,2.92e-06,-4.72834,loser
-ethena,ena,Ethena,0.69604,-4.72002,loser
-chain-2,xcn,Onyxcoin,0.0122093,-4.03443,loser
-zebec-network,zbcn,Zebec Network,0.00451314,-3.52709,loser
-lido-dao,ldo,Lido DAO,1.36,-3.40068,loser
-drift-protocol,drift,Drift Protocol,0.53453,-2.80916,loser
-near,near,NEAR Protocol,2.65,-2.67874,loser
-theta-token,theta,Theta Network,0.822336,-2.52624,loser
+chain-2,xcn,Onyxcoin,0.01438886,18.25123,gainer
+wemix-token,wemix,WEMIX,0.862663,9.96613,gainer
+newton-project,ab,AB,0.00960073,7.24611,gainer
+hash-2,hash,Provenance Blockchain,0.02930589,5.51892,gainer
+okb,okb,OKB,120.5,5.36486,gainer
+build-on,b,BUILDon,0.575453,5.26143,gainer
+matic-network,matic,Polygon,0.261667,4.21112,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.261787,4.08538,gainer
+monero,xmr,Monero,276.55,3.19358,gainer
+clbtc,clbtc,clBTC,118576.0,2.36273,gainer
+pump-fun,pump,Pump.fun,0.00309211,-11.05233,loser
+memecore,m,MemeCore,0.399606,-9.02292,loser
+injective-protocol,inj,Injective,14.08,-8.75709,loser
+rekt-4,rekt,Rekt,1e-06,-8.55287,loser
+helium,hnt,Helium,2.57,-7.73634,loser
+aerodrome-finance,aero,Aerodrome Finance,1.3,-6.7021,loser
+telcoin,tel,Telcoin,0.00525093,-6.21963,loser
+pi-network,pi,Pi Network,0.356274,-5.9819,loser
+keeta,kta,Keeta,1.3,-5.91867,loser
+ether-fi,ethfi,Ether.fi,1.12,-5.89026,loser
