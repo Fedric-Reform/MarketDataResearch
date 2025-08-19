@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.884488,10.01231,gainer
-creditcoin-2,ctc,Creditcoin,0.743542,8.8019,gainer
-chain-2,xcn,Onyxcoin,0.01302456,6.52003,gainer
-morpho,morpho,Morpho,2.04,3.47392,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.19,2.94746,gainer
-mantle,mnt,Mantle,1.34,2.93621,gainer
-leo-token,leo,LEO Token,9.61,1.47844,gainer
-walrus-2,wal,Walrus,0.43235,1.24397,gainer
-okb,okb,OKB,121.88,1.20786,gainer
-monero,xmr,Monero,268.51,0.60605,gainer
-pump-fun,pump,Pump.fun,0.00277891,-10.57852,loser
-keeta,kta,Keeta,1.16,-10.54394,loser
-rekt-4,rekt,Rekt,9.21374e-07,-9.4975,loser
-helium,hnt,Helium,2.45,-9.22444,loser
-memecore,m,MemeCore,0.373204,-8.85767,loser
-snek,snek,Snek,0.00467972,-7.60817,loser
-zebec-network,zbcn,Zebec Network,0.00417165,-7.60333,loser
-sei-network,sei,Sei,0.306826,-7.45752,loser
-spx6900,spx,SPX6900,1.35,-7.24712,loser
-instadapp,fluid,Fluid,6.3,-6.99,loser
+wemix-token,wemix,WEMIX,0.882723,9.81558,gainer
+creditcoin-2,ctc,Creditcoin,0.743538,8.51708,gainer
+chain-2,xcn,Onyxcoin,0.01302837,6.55124,gainer
+morpho,morpho,Morpho,2.04,3.48009,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.19,2.94747,gainer
+mantle,mnt,Mantle,1.34,2.89677,gainer
+leo-token,leo,LEO Token,9.61,1.47977,gainer
+walrus-2,wal,Walrus,0.432482,1.2749,gainer
+okb,okb,OKB,121.78,1.1239,gainer
+monero,xmr,Monero,268.73,0.68743,gainer
+pump-fun,pump,Pump.fun,0.00277903,-10.57482,loser
+keeta,kta,Keeta,1.16,-10.18071,loser
+rekt-4,rekt,Rekt,9.21381e-07,-9.49674,loser
+helium,hnt,Helium,2.45,-9.30644,loser
+memecore,m,MemeCore,0.373147,-8.87156,loser
+spx6900,spx,SPX6900,1.35,-7.68979,loser
+snek,snek,Snek,0.00467706,-7.6608,loser
+zebec-network,zbcn,Zebec Network,0.00417801,-7.4624,loser
+sei-network,sei,Sei,0.307065,-7.3856,loser
+instadapp,fluid,Fluid,6.31,-6.97174,loser
