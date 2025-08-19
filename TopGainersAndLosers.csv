@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.879477,11.50308,gainer
-chain-2,xcn,Onyxcoin,0.01314373,8.92755,gainer
-newton-project,ab,AB,0.009602,7.09687,gainer
-zora,zora,Zora,0.106279,6.74933,gainer
-hash-2,hash,Provenance Blockchain,0.02903533,4.89024,gainer
-matic-network,matic,Polygon,0.251131,4.3123,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.251704,4.16357,gainer
-mantle,mnt,Mantle,1.28,3.56476,gainer
-build-on,b,BUILDon,0.570039,3.28518,gainer
-conflux-token,cfx,Conflux,0.175236,2.61878,gainer
-pump-fun,pump,Pump.fun,0.00288566,-10.19585,loser
-helium,hnt,Helium,2.55,-9.02124,loser
-injective-protocol,inj,Injective,13.83,-6.84375,loser
-memecore,m,MemeCore,0.38988,-6.61984,loser
-pi-network,pi,Pi Network,0.352644,-6.19362,loser
-rekt-4,rekt,Rekt,9.89419e-07,-6.02304,loser
-the-open-network,ton,Toncoin,3.21,-5.17028,loser
-ether-fi,ethfi,Ether.fi,1.098,-4.98676,loser
-aerodrome-finance,aero,Aerodrome Finance,1.28,-4.97566,loser
-keeta,kta,Keeta,1.27,-4.9756,loser
+wemix-token,wemix,WEMIX,0.879437,11.49801,gainer
+chain-2,xcn,Onyxcoin,0.013021,7.9104,gainer
+newton-project,ab,AB,0.00960443,7.12402,gainer
+zora,zora,Zora,0.106277,6.74771,gainer
+hash-2,hash,Provenance Blockchain,0.02909221,5.09572,gainer
+matic-network,matic,Polygon,0.250996,4.25611,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.251553,4.10105,gainer
+mantle,mnt,Mantle,1.28,3.48297,gainer
+build-on,b,BUILDon,0.570322,3.33655,gainer
+conflux-token,cfx,Conflux,0.175001,2.48095,gainer
+pump-fun,pump,Pump.fun,0.00288654,-10.16832,loser
+helium,hnt,Helium,2.54,-8.76495,loser
+memecore,m,MemeCore,0.389584,-6.69079,loser
+injective-protocol,inj,Injective,13.83,-6.50189,loser
+pi-network,pi,Pi Network,0.35246,-6.14308,loser
+rekt-4,rekt,Rekt,9.92369e-07,-5.74286,loser
+keeta,kta,Keeta,1.27,-5.30819,loser
+the-open-network,ton,Toncoin,3.21,-5.09294,loser
+mog-coin,mog,Mog Coin,1.07e-06,-5.00184,loser
+based-brett,brett,Brett,0.050769,-4.94885,loser
