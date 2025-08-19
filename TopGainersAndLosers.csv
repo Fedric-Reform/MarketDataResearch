@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chain-2,xcn,Onyxcoin,0.01352406,10.73122,gainer
-creditcoin-2,ctc,Creditcoin,0.746767,9.04817,gainer
-wemix-token,wemix,WEMIX,0.864984,7.75441,gainer
-morpho,morpho,Morpho,2.05,4.18009,gainer
-mantle,mnt,Mantle,1.35,4.17005,gainer
-okb,okb,OKB,123.16,3.84884,gainer
-build-on,b,BUILDon,0.57088,2.74213,gainer
-walrus-2,wal,Walrus,0.433875,2.65528,gainer
-qubic-network,qubic,Qubic,2.9e-06,2.40305,gainer
+chain-2,xcn,Onyxcoin,0.01345679,10.18047,gainer
+creditcoin-2,ctc,Creditcoin,0.74607,8.94647,gainer
+wemix-token,wemix,WEMIX,0.866015,7.8829,gainer
+mantle,mnt,Mantle,1.36,5.05411,gainer
+morpho,morpho,Morpho,2.06,4.40904,gainer
+okb,okb,OKB,123.56,4.18483,gainer
+walrus-2,wal,Walrus,0.43464,2.83614,gainer
+build-on,b,BUILDon,0.571138,2.78858,gainer
+qubic-network,qubic,Qubic,2.9e-06,2.3546,gainer
 tokenize-xchange,tkx,Tokenize Xchange,5.14,1.66213,gainer
-pump-fun,pump,Pump.fun,0.00279159,-11.1149,loser
-helium,hnt,Helium,2.48,-8.6454,loser
-memecore,m,MemeCore,0.375352,-8.6451,loser
-rekt-4,rekt,Rekt,9.31082e-07,-8.4717,loser
-telcoin,tel,Telcoin,0.0049438,-7.01697,loser
-instadapp,fluid,Fluid,6.35,-6.36531,loser
-snek,snek,Snek,0.00475864,-5.81771,loser
-spx6900,spx,SPX6900,1.35,-5.63227,loser
-aerodrome-finance,aero,Aerodrome Finance,1.24,-5.37477,loser
-ether-fi,ethfi,Ether.fi,1.075,-5.3219,loser
+pump-fun,pump,Pump.fun,0.00279453,-11.02128,loser
+helium,hnt,Helium,2.48,-8.64994,loser
+memecore,m,MemeCore,0.375689,-8.56305,loser
+rekt-4,rekt,Rekt,9.32966e-07,-8.2865,loser
+telcoin,tel,Telcoin,0.00494625,-6.97095,loser
+instadapp,fluid,Fluid,6.36,-6.21739,loser
+snek,snek,Snek,0.004761,-5.77098,loser
+ether-fi,ethfi,Ether.fi,1.075,-5.27515,loser
+spx6900,spx,SPX6900,1.36,-5.25077,loser
+aerodrome-finance,aero,Aerodrome Finance,1.24,-5.2141,loser
