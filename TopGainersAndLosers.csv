@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chain-2,xcn,Onyxcoin,0.01360051,11.11404,gainer
-wemix-token,wemix,WEMIX,0.866206,9.59777,gainer
-creditcoin-2,ctc,Creditcoin,0.739274,8.14865,gainer
-zora,zora,Zora,0.104942,6.63871,gainer
-mantle,mnt,Mantle,1.34,6.47096,gainer
-morpho,morpho,Morpho,2.06,4.62688,gainer
-okb,okb,OKB,123.5,4.58713,gainer
-qubic-network,qubic,Qubic,2.88e-06,3.38878,gainer
-walrus-2,wal,Walrus,0.435616,3.09528,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.1,3.08523,gainer
-pump-fun,pump,Pump.fun,0.00280233,-10.58789,loser
-memecore,m,MemeCore,0.375484,-9.23309,loser
-helium,hnt,Helium,2.49,-7.86589,loser
-telcoin,tel,Telcoin,0.00497611,-6.96258,loser
-zebec-network,zbcn,Zebec Network,0.00410665,-6.78879,loser
-instadapp,fluid,Fluid,6.3,-6.6832,loser
-spx6900,spx,SPX6900,1.35,-6.58861,loser
-ether-fi,ethfi,Ether.fi,1.067,-5.85868,loser
-ethena,ena,Ethena,0.638062,-4.96619,loser
-aerodrome-finance,aero,Aerodrome Finance,1.24,-4.93317,loser
+chain-2,xcn,Onyxcoin,0.01362335,11.05605,gainer
+creditcoin-2,ctc,Creditcoin,0.739057,8.11686,gainer
+wemix-token,wemix,WEMIX,0.865143,7.90983,gainer
+zora,zora,Zora,0.105241,5.85422,gainer
+mantle,mnt,Mantle,1.34,5.65989,gainer
+morpho,morpho,Morpho,2.06,3.98893,gainer
+okb,okb,OKB,123.05,3.53938,gainer
+newton-project,ab,AB,0.00959572,3.01027,gainer
+walrus-2,wal,Walrus,0.435452,2.92244,gainer
+build-on,b,BUILDon,0.570053,2.5748,gainer
+pump-fun,pump,Pump.fun,0.00280907,-10.81414,loser
+memecore,m,MemeCore,0.375014,-9.29555,loser
+helium,hnt,Helium,2.48,-8.41472,loser
+zebec-network,zbcn,Zebec Network,0.00409275,-7.37868,loser
+instadapp,fluid,Fluid,6.3,-7.15227,loser
+telcoin,tel,Telcoin,0.00496253,-6.90418,loser
+spx6900,spx,SPX6900,1.35,-6.55878,loser
+ether-fi,ethfi,Ether.fi,1.07,-5.8368,loser
+arbitrum,arb,Arbitrum,0.488364,-5.46288,loser
+injective-protocol,inj,Injective,13.68,-5.2985,loser
