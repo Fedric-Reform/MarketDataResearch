@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chain-2,xcn,Onyxcoin,0.01367528,13.03585,gainer
-wemix-token,wemix,WEMIX,0.886204,12.0448,gainer
-zora,zora,Zora,0.107087,8.63274,gainer
-newton-project,ab,AB,0.00959552,6.89056,gainer
-okb,okb,OKB,119.28,6.43916,gainer
-build-on,b,BUILDon,0.58098,5.73921,gainer
-hash-2,hash,Provenance Blockchain,0.02895011,4.55305,gainer
-conflux-token,cfx,Conflux,0.178755,4.24808,gainer
-matic-network,matic,Polygon,0.254679,3.62077,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.254837,3.56504,gainer
-pump-fun,pump,Pump.fun,0.00294894,-10.29956,loser
-memecore,m,MemeCore,0.394789,-8.17863,loser
-helium,hnt,Helium,2.57,-7.03514,loser
-injective-protocol,inj,Injective,14.01,-5.85216,loser
-rekt-4,rekt,Rekt,1e-06,-5.59169,loser
-pi-network,pi,Pi Network,0.355687,-5.03925,loser
-wrapped-hype,whype,Wrapped HYPE,42.42,-4.83662,loser
-telcoin,tel,Telcoin,0.00521884,-4.80106,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.49,-4.77405,loser
-hyperliquid,hype,Hyperliquid,42.43,-4.65475,loser
+chain-2,xcn,Onyxcoin,0.01362502,12.64387,gainer
+wemix-token,wemix,WEMIX,0.887344,12.22857,gainer
+zora,zora,Zora,0.1073,9.51567,gainer
+okb,okb,OKB,119.96,7.02624,gainer
+newton-project,ab,AB,0.00959284,6.86079,gainer
+build-on,b,BUILDon,0.579876,5.53833,gainer
+conflux-token,cfx,Conflux,0.17887,4.45922,gainer
+matic-network,matic,Polygon,0.254646,4.33187,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.25484,3.85346,gainer
+hash-2,hash,Provenance Blockchain,0.02895054,3.82568,gainer
+pump-fun,pump,Pump.fun,0.00295433,-10.13542,loser
+memecore,m,MemeCore,0.39528,-8.06436,loser
+helium,hnt,Helium,2.57,-7.61629,loser
+injective-protocol,inj,Injective,14.0,-5.85428,loser
+rekt-4,rekt,Rekt,9.98948e-07,-5.73367,loser
+pi-network,pi,Pi Network,0.355733,-5.05296,loser
+wrapped-hype,whype,Wrapped HYPE,42.37,-4.93413,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.46,-4.83082,loser
+hyperliquid,hype,Hyperliquid,42.41,-4.69664,loser
+kucoin-shares,kcs,KuCoin,12.41,-4.56778,loser
