@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.888334,12.9983,gainer
-chain-2,xcn,Onyxcoin,0.0134297,11.79028,gainer
-zora,zora,Zora,0.106714,9.87278,gainer
-newton-project,ab,AB,0.0096007,7.0869,gainer
-build-on,b,BUILDon,0.575084,6.46056,gainer
-hash-2,hash,Provenance Blockchain,0.02891237,4.53617,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.252192,4.44868,gainer
-conflux-token,cfx,Conflux,0.1772,4.21703,gainer
-matic-network,matic,Polygon,0.251841,4.07824,gainer
-okb,okb,OKB,117.57,3.76325,gainer
-pump-fun,pump,Pump.fun,0.00292155,-8.54693,loser
-helium,hnt,Helium,2.56,-7.47934,loser
-memecore,m,MemeCore,0.393263,-7.13288,loser
-injective-protocol,inj,Injective,13.9,-6.08194,loser
-pi-network,pi,Pi Network,0.354625,-5.57038,loser
-rekt-4,rekt,Rekt,9.96897e-07,-5.31655,loser
-hyperliquid,hype,Hyperliquid,42.19,-4.27123,loser
-wrapped-hype,whype,Wrapped HYPE,42.17,-4.10123,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.25,-4.04547,loser
-lido-dao,ldo,Lido DAO,1.28,-3.915,loser
+wemix-token,wemix,WEMIX,0.882019,11.64388,gainer
+chain-2,xcn,Onyxcoin,0.01322284,9.92714,gainer
+zora,zora,Zora,0.10691,9.42922,gainer
+newton-project,ab,AB,0.00960374,7.12292,gainer
+build-on,b,BUILDon,0.573165,5.57503,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.251763,5.00576,gainer
+matic-network,matic,Polygon,0.251706,4.84668,gainer
+mantle,mnt,Mantle,1.29,4.57422,gainer
+okb,okb,OKB,117.69,4.01563,gainer
+conflux-token,cfx,Conflux,0.175854,3.26545,gainer
+pump-fun,pump,Pump.fun,0.0028962,-9.08709,loser
+helium,hnt,Helium,2.55,-8.37998,loser
+memecore,m,MemeCore,0.390179,-7.21184,loser
+injective-protocol,inj,Injective,13.83,-6.80033,loser
+pi-network,pi,Pi Network,0.352851,-6.00225,loser
+rekt-4,rekt,Rekt,9.89171e-07,-5.9954,loser
+the-open-network,ton,Toncoin,3.21,-5.05004,loser
+sky,sky,Sky,0.071008,-4.97988,loser
+arbitrum,arb,Arbitrum,0.492156,-4.76437,loser
+hyperliquid,hype,Hyperliquid,41.97,-4.69521,loser
