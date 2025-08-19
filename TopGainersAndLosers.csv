@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chain-2,xcn,Onyxcoin,0.01356836,12.7116,gainer
-wemix-token,wemix,WEMIX,0.888178,12.34554,gainer
-zora,zora,Zora,0.107056,9.67132,gainer
-newton-project,ab,AB,0.00959668,6.99066,gainer
-build-on,b,BUILDon,0.578625,5.70836,gainer
-okb,okb,OKB,119.3,5.36348,gainer
-conflux-token,cfx,Conflux,0.178715,4.59934,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.253839,4.15549,gainer
-hash-2,hash,Provenance Blockchain,0.02891638,4.07181,gainer
-matic-network,matic,Polygon,0.252964,3.61603,gainer
-pump-fun,pump,Pump.fun,0.0029137,-10.9491,loser
-memecore,m,MemeCore,0.394803,-7.73468,loser
-helium,hnt,Helium,2.57,-7.44982,loser
-injective-protocol,inj,Injective,13.97,-5.72542,loser
-rekt-4,rekt,Rekt,9.96463e-07,-5.72374,loser
-pi-network,pi,Pi Network,0.354861,-5.28227,loser
-hyperliquid,hype,Hyperliquid,42.34,-4.58102,loser
-wrapped-hype,whype,Wrapped HYPE,42.34,-4.53146,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.4,-4.36231,loser
-keeta,kta,Keeta,1.29,-4.06891,loser
+chain-2,xcn,Onyxcoin,0.0135758,12.77347,gainer
+wemix-token,wemix,WEMIX,0.888216,12.35032,gainer
+zora,zora,Zora,0.107029,9.6434,gainer
+newton-project,ab,AB,0.00960542,7.08808,gainer
+build-on,b,BUILDon,0.57864,6.86571,gainer
+okb,okb,OKB,119.1,5.18504,gainer
+conflux-token,cfx,Conflux,0.178559,4.75365,gainer
+hash-2,hash,Provenance Blockchain,0.02891784,4.07706,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.253264,3.91927,gainer
+matic-network,matic,Polygon,0.252949,3.60986,gainer
+pump-fun,pump,Pump.fun,0.00291357,-10.95321,loser
+memecore,m,MemeCore,0.394819,-7.73082,loser
+helium,hnt,Helium,2.57,-7.46976,loser
+injective-protocol,inj,Injective,13.96,-5.77621,loser
+rekt-4,rekt,Rekt,9.96462e-07,-5.72385,loser
+pi-network,pi,Pi Network,0.354981,-5.25021,loser
+hyperliquid,hype,Hyperliquid,42.35,-4.56244,loser
+wrapped-hype,whype,Wrapped HYPE,42.34,-4.5316,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.41,-4.33614,loser
+keeta,kta,Keeta,1.29,-4.06894,loser
