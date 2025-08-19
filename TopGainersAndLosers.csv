@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-wemix-token,wemix,WEMIX,0.882732,9.81675,gainer
-creditcoin-2,ctc,Creditcoin,0.743293,8.42759,gainer
-chain-2,xcn,Onyxcoin,0.01301148,6.29088,gainer
-morpho,morpho,Morpho,2.04,3.22061,gainer
+wemix-token,wemix,WEMIX,0.882875,9.92365,gainer
+creditcoin-2,ctc,Creditcoin,0.742704,8.34176,gainer
+chain-2,xcn,Onyxcoin,0.01303229,6.46087,gainer
+morpho,morpho,Morpho,2.04,3.13734,gainer
 tokenize-xchange,tkx,Tokenize Xchange,5.14,2.74654,gainer
-mantle,mnt,Mantle,1.34,2.70318,gainer
-walrus-2,wal,Walrus,0.435025,1.5746,gainer
-leo-token,leo,LEO Token,9.61,1.49893,gainer
-monero,xmr,Monero,269.45,0.96407,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.08,0.93408,gainer
-pump-fun,pump,Pump.fun,0.00278063,-11.24125,loser
-keeta,kta,Keeta,1.17,-10.81648,loser
-helium,hnt,Helium,2.44,-9.82652,loser
-rekt-4,rekt,Rekt,9.23377e-07,-9.38132,loser
-snek,snek,Snek,0.00467369,-9.05432,loser
-memecore,m,MemeCore,0.373848,-8.71026,loser
-spx6900,spx,SPX6900,1.35,-7.72364,loser
-sei-network,sei,Sei,0.307339,-7.55138,loser
-instadapp,fluid,Fluid,6.31,-7.12459,loser
-raydium,ray,Raydium,3.18,-7.05634,loser
+mantle,mnt,Mantle,1.34,2.71824,gainer
+walrus-2,wal,Walrus,0.435545,1.69593,gainer
+leo-token,leo,LEO Token,9.61,1.48915,gainer
+saros-finance,saros,Saros,0.390287,0.97871,gainer
+monero,xmr,Monero,269.38,0.93813,gainer
+pump-fun,pump,Pump.fun,0.00278219,-11.44515,loser
+keeta,kta,Keeta,1.17,-10.8804,loser
+helium,hnt,Helium,2.45,-9.77196,loser
+rekt-4,rekt,Rekt,9.23671e-07,-9.55273,loser
+snek,snek,Snek,0.00467343,-9.05931,loser
+memecore,m,MemeCore,0.373952,-8.68483,loser
+sei-network,sei,Sei,0.307755,-7.61415,loser
+spx6900,spx,SPX6900,1.35,-7.52888,loser
+instadapp,fluid,Fluid,6.31,-7.02458,loser
+raydium,ray,Raydium,3.18,-6.95884,loser
