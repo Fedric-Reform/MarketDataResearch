@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chain-2,xcn,Onyxcoin,0.01362502,12.64387,gainer
-wemix-token,wemix,WEMIX,0.887344,12.22857,gainer
-zora,zora,Zora,0.1073,9.51567,gainer
-okb,okb,OKB,119.96,7.02624,gainer
-newton-project,ab,AB,0.00959284,6.86079,gainer
-build-on,b,BUILDon,0.579876,5.53833,gainer
-conflux-token,cfx,Conflux,0.17887,4.45922,gainer
-matic-network,matic,Polygon,0.254646,4.33187,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.25484,3.85346,gainer
-hash-2,hash,Provenance Blockchain,0.02895054,3.82568,gainer
-pump-fun,pump,Pump.fun,0.00295433,-10.13542,loser
-memecore,m,MemeCore,0.39528,-8.06436,loser
-helium,hnt,Helium,2.57,-7.61629,loser
-injective-protocol,inj,Injective,14.0,-5.85428,loser
-rekt-4,rekt,Rekt,9.98948e-07,-5.73367,loser
-pi-network,pi,Pi Network,0.355733,-5.05296,loser
-wrapped-hype,whype,Wrapped HYPE,42.37,-4.93413,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.46,-4.83082,loser
-hyperliquid,hype,Hyperliquid,42.41,-4.69664,loser
-kucoin-shares,kcs,KuCoin,12.41,-4.56778,loser
+chain-2,xcn,Onyxcoin,0.01362963,13.24451,gainer
+wemix-token,wemix,WEMIX,0.888605,12.45302,gainer
+zora,zora,Zora,0.107132,9.26725,gainer
+newton-project,ab,AB,0.00959322,6.86048,gainer
+okb,okb,OKB,119.36,5.82486,gainer
+build-on,b,BUILDon,0.578886,5.7561,gainer
+conflux-token,cfx,Conflux,0.178848,4.67724,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.253964,4.20675,gainer
+hash-2,hash,Provenance Blockchain,0.02891638,3.95933,gainer
+matic-network,matic,Polygon,0.253003,3.63192,gainer
+pump-fun,pump,Pump.fun,0.0029157,-10.88805,loser
+memecore,m,MemeCore,0.394876,-8.025,loser
+helium,hnt,Helium,2.57,-7.63437,loser
+injective-protocol,inj,Injective,13.97,-5.89783,loser
+rekt-4,rekt,Rekt,9.9704e-07,-5.78311,loser
+pi-network,pi,Pi Network,0.355047,-5.17559,loser
+hyperliquid,hype,Hyperliquid,42.35,-4.56562,loser
+wrapped-hype,whype,Wrapped HYPE,42.34,-4.52793,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.4,-4.46326,loser
+lido-dao,ldo,Lido DAO,1.28,-4.22905,loser
