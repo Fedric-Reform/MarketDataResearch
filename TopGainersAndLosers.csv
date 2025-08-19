@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-chain-2,xcn,Onyxcoin,0.01444446,18.74684,gainer
-wemix-token,wemix,WEMIX,0.867536,10.7845,gainer
-newton-project,ab,AB,0.0096034,7.41626,gainer
-okb,okb,OKB,121.07,6.94169,gainer
+chain-2,xcn,Onyxcoin,0.01432492,17.76409,gainer
+wemix-token,wemix,WEMIX,0.868384,10.89288,gainer
+newton-project,ab,AB,0.0096045,7.42852,gainer
+okb,okb,OKB,121.07,6.93869,gainer
 hash-2,hash,Provenance Blockchain,0.02943382,6.74084,gainer
-build-on,b,BUILDon,0.572012,4.48466,gainer
-matic-network,matic,Polygon,0.258869,3.30869,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.258663,3.20288,gainer
-conflux-token,cfx,Conflux,0.178448,2.96969,gainer
-monero,xmr,Monero,276.83,2.83094,gainer
-pump-fun,pump,Pump.fun,0.00307483,-11.93342,loser
-memecore,m,MemeCore,0.397565,-9.35032,loser
-rekt-4,rekt,Rekt,1e-06,-8.78118,loser
-injective-protocol,inj,Injective,14.05,-8.48484,loser
-helium,hnt,Helium,2.59,-6.52931,loser
-telcoin,tel,Telcoin,0.00522767,-6.28652,loser
-wrapped-hype,whype,Wrapped HYPE,42.59,-5.99861,loser
-pi-network,pi,Pi Network,0.356162,-5.84472,loser
-aerodrome-finance,aero,Aerodrome Finance,1.3,-5.83879,loser
-kucoin-shares,kcs,KuCoin,12.41,-5.6134,loser
+build-on,b,BUILDon,0.572027,4.48737,gainer
+matic-network,matic,Polygon,0.259031,3.37338,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.258751,3.23798,gainer
+conflux-token,cfx,Conflux,0.178617,3.06706,gainer
+monero,xmr,Monero,276.9,2.85825,gainer
+pump-fun,pump,Pump.fun,0.00307534,-11.91901,loser
+memecore,m,MemeCore,0.397332,-9.40335,loser
+rekt-4,rekt,Rekt,1e-06,-8.79908,loser
+injective-protocol,inj,Injective,14.06,-8.45505,loser
+helium,hnt,Helium,2.58,-6.63527,loser
+telcoin,tel,Telcoin,0.00522852,-6.27122,loser
+keeta,kta,Keeta,1.29,-5.87658,loser
+aerodrome-finance,aero,Aerodrome Finance,1.3,-5.83711,loser
+pi-network,pi,Pi Network,0.356238,-5.82481,loser
+hyperliquid,hype,Hyperliquid,42.64,-5.4998,loser
