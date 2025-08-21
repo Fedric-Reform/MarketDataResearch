@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,191.41,51.80345,gainer
-conflux-token,cfx,Conflux,0.192433,14.37106,gainer
-neo,neo,NEO,6.72,13.15599,gainer
-aioz-network,aioz,AIOZ Network,0.389247,12.78804,gainer
-morpho,morpho,Morpho,2.26,11.30377,gainer
-zcash,zec,Zcash,38.9,11.04821,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.37,9.66874,gainer
-chainlink,link,Chainlink,26.08,9.5674,gainer
-gatechain-token,gt,Gate,18.23,8.60725,gainer
-zebec-network,zbcn,Zebec Network,0.00472247,7.97542,gainer
-mantle,mnt,Mantle,1.28,-5.74218,loser
-wemix-token,wemix,WEMIX,0.813997,-3.44894,loser
-creditcoin-2,ctc,Creditcoin,0.733402,-3.26277,loser
-build-on,b,BUILDon,0.55908,-2.61957,loser
-usdb,usdb,USDB,0.987679,-2.00275,loser
-qubic-network,qubic,Qubic,2.77e-06,-1.99177,loser
-vision-3,vsn,Vision,0.183231,-1.54621,loser
-saros-finance,saros,Saros,0.376202,-1.23949,loser
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.990877,-1.23728,loser
-spx6900,spx,SPX6900,1.33,-0.92876,loser
+yzy,yzy,YZY,2.65,74.35347,gainer
+okb,okb,OKB,188.31,49.34251,gainer
+neo,neo,NEO,6.78,14.29157,gainer
+conflux-token,cfx,Conflux,0.189623,12.43934,gainer
+aioz-network,aioz,AIOZ Network,0.387223,12.05758,gainer
+morpho,morpho,Morpho,2.26,11.24739,gainer
+zcash,zec,Zcash,38.84,10.73899,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.37,9.43612,gainer
+chainlink,link,Chainlink,26.03,9.42783,gainer
+gatechain-token,gt,Gate,18.13,7.88759,gainer
+mantle,mnt,Mantle,1.27,-5.90674,loser
+wemix-token,wemix,WEMIX,0.81451,-3.24471,loser
+build-on,b,BUILDon,0.558243,-2.90518,loser
+creditcoin-2,ctc,Creditcoin,0.734791,-2.84108,loser
+usdb,usdb,USDB,0.982887,-2.47832,loser
+qubic-network,qubic,Qubic,2.77e-06,-2.13293,loser
+vision-3,vsn,Vision,0.183122,-1.54439,loser
+sky,sky,Sky,0.069123,-0.80869,loser
+saros-finance,saros,Saros,0.376645,-0.78185,loser
+lido-dao,ldo,Lido DAO,1.29,-0.76667,loser
