@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
 yzy,yzy,YZY,2.46,61.88117,gainer
-okb,okb,OKB,191.97,52.52293,gainer
-neo,neo,NEO,6.7,13.18509,gainer
-aioz-network,aioz,AIOZ Network,0.385634,12.08347,gainer
-conflux-token,cfx,Conflux,0.188304,11.68366,gainer
-morpho,morpho,Morpho,2.26,11.12343,gainer
-zcash,zec,Zcash,38.73,10.37336,gainer
-chainlink,link,Chainlink,25.86,9.47709,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.36,8.79982,gainer
-zebec-network,zbcn,Zebec Network,0.0047018,8.12629,gainer
-mantle,mnt,Mantle,1.26,-6.84976,loser
-build-on,b,BUILDon,0.556799,-3.61177,loser
-usdb,usdb,USDB,0.981763,-2.43155,loser
-wemix-token,wemix,WEMIX,0.816991,-2.26743,loser
-qubic-network,qubic,Qubic,2.77e-06,-2.23586,loser
-vision-3,vsn,Vision,0.182952,-2.09531,loser
+okb,okb,OKB,191.73,52.33407,gainer
+neo,neo,NEO,6.71,13.40885,gainer
+aioz-network,aioz,AIOZ Network,0.385689,12.09957,gainer
+conflux-token,cfx,Conflux,0.188501,11.80058,gainer
+morpho,morpho,Morpho,2.26,10.98269,gainer
+zcash,zec,Zcash,38.73,10.32989,gainer
+chainlink,link,Chainlink,25.85,9.42906,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.36,8.56447,gainer
+zebec-network,zbcn,Zebec Network,0.00465848,7.33747,gainer
+mantle,mnt,Mantle,1.25,-6.84873,loser
+build-on,b,BUILDon,0.556721,-3.78077,loser
+qubic-network,qubic,Qubic,2.76e-06,-2.30028,loser
+usdb,usdb,USDB,0.983175,-2.29127,loser
+vision-3,vsn,Vision,0.182952,-2.14295,loser
+wemix-token,wemix,WEMIX,0.816974,-2.11605,loser
 hash-2,hash,Provenance Blockchain,0.02743263,-1.85853,loser
-creditcoin-2,ctc,Creditcoin,0.735459,-1.7404,loser
-sky,sky,Sky,0.068912,-1.17614,loser
-syrup,syrup,Maple Finance,0.407781,-1.07431,loser
+creditcoin-2,ctc,Creditcoin,0.735417,-1.74608,loser
+sky,sky,Sky,0.068921,-1.16245,loser
+syrup,syrup,Maple Finance,0.407845,-1.05878,loser
