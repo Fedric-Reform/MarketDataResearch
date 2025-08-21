@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-yzy,yzy,YZY,2.6,71.5274,gainer
-okb,okb,OKB,192.01,52.10489,gainer
-neo,neo,NEO,6.7,13.12508,gainer
-aioz-network,aioz,AIOZ Network,0.385583,12.0196,gainer
-conflux-token,cfx,Conflux,0.188443,11.82438,gainer
-morpho,morpho,Morpho,2.26,11.41658,gainer
-zcash,zec,Zcash,38.73,10.37869,gainer
-chainlink,link,Chainlink,25.86,9.43555,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.37,8.95009,gainer
-zebec-network,zbcn,Zebec Network,0.00471036,8.32318,gainer
-mantle,mnt,Mantle,1.26,-6.72968,loser
-build-on,b,BUILDon,0.556798,-3.61192,loser
-qubic-network,qubic,Qubic,2.76e-06,-2.44064,loser
-usdb,usdb,USDB,0.982925,-2.31606,loser
-wemix-token,wemix,WEMIX,0.818128,-2.1314,loser
-vision-3,vsn,Vision,0.182947,-2.09806,loser
-hash-2,hash,Provenance Blockchain,0.02744243,-1.82348,loser
-creditcoin-2,ctc,Creditcoin,0.735392,-1.74933,loser
-sky,sky,Sky,0.06891,-1.10006,loser
-syrup,syrup,Maple Finance,0.407794,-1.09212,loser
+yzy,yzy,YZY,2.46,61.88117,gainer
+okb,okb,OKB,191.97,52.52293,gainer
+neo,neo,NEO,6.7,13.18509,gainer
+aioz-network,aioz,AIOZ Network,0.385634,12.08347,gainer
+conflux-token,cfx,Conflux,0.188304,11.68366,gainer
+morpho,morpho,Morpho,2.26,11.12343,gainer
+zcash,zec,Zcash,38.73,10.37336,gainer
+chainlink,link,Chainlink,25.86,9.47709,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.36,8.79982,gainer
+zebec-network,zbcn,Zebec Network,0.0047018,8.12629,gainer
+mantle,mnt,Mantle,1.26,-6.84976,loser
+build-on,b,BUILDon,0.556799,-3.61177,loser
+usdb,usdb,USDB,0.981763,-2.43155,loser
+wemix-token,wemix,WEMIX,0.816991,-2.26743,loser
+qubic-network,qubic,Qubic,2.77e-06,-2.23586,loser
+vision-3,vsn,Vision,0.182952,-2.09531,loser
+hash-2,hash,Provenance Blockchain,0.02743263,-1.85853,loser
+creditcoin-2,ctc,Creditcoin,0.735459,-1.7404,loser
+sky,sky,Sky,0.068912,-1.17614,loser
+syrup,syrup,Maple Finance,0.407781,-1.07431,loser
