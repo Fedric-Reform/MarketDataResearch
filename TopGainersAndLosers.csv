@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,190.42,50.47983,gainer
-conflux-token,cfx,Conflux,0.193737,15.34548,gainer
-neo,neo,NEO,6.73,13.70308,gainer
-aioz-network,aioz,AIOZ Network,0.390661,13.57469,gainer
-morpho,morpho,Morpho,2.28,12.18337,gainer
-zcash,zec,Zcash,38.99,11.59412,gainer
-gatechain-token,gt,Gate,18.52,10.89768,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.38,10.38111,gainer
-chainlink,link,Chainlink,26.17,10.01265,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03219515,8.81738,gainer
-mantle,mnt,Mantle,1.29,-4.57811,loser
-creditcoin-2,ctc,Creditcoin,0.73778,-3.14362,loser
-wemix-token,wemix,WEMIX,0.819836,-3.06796,loser
-build-on,b,BUILDon,0.560145,-2.29619,loser
-qubic-network,qubic,Qubic,2.78e-06,-1.79553,loser
-usdb,usdb,USDB,0.990201,-1.65853,loser
-saros-finance,saros,Saros,0.376289,-1.6315,loser
-vision-3,vsn,Vision,0.183736,-0.96812,loser
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.079,-0.40491,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.02,-0.32469,loser
+okb,okb,OKB,190.38,50.44655,gainer
+conflux-token,cfx,Conflux,0.193676,15.30904,gainer
+aioz-network,aioz,AIOZ Network,0.390258,13.45759,gainer
+neo,neo,NEO,6.71,13.36511,gainer
+morpho,morpho,Morpho,2.27,12.09696,gainer
+zcash,zec,Zcash,38.97,11.544,gainer
+gatechain-token,gt,Gate,18.49,10.7488,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.38,10.37124,gainer
+chainlink,link,Chainlink,26.16,9.99837,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03217979,8.76547,gainer
+mantle,mnt,Mantle,1.29,-4.58492,loser
+creditcoin-2,ctc,Creditcoin,0.737773,-3.14449,loser
+wemix-token,wemix,WEMIX,0.819695,-3.08465,loser
+qubic-network,qubic,Qubic,2.78e-06,-1.79428,loser
+build-on,b,BUILDon,0.563053,-1.789,loser
+saros-finance,saros,Saros,0.375982,-1.71175,loser
+usdb,usdb,USDB,0.990191,-1.65954,loser
+vision-3,vsn,Vision,0.183464,-1.11492,loser
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.079,-0.39946,loser
+first-digital-usd,fdusd,First Digital USD,0.997989,-0.3338,loser
