@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-yzy,yzy,YZY,2.63,73.10661,gainer
-okb,okb,OKB,191.6,52.15581,gainer
-neo,neo,NEO,6.81,14.68272,gainer
-conflux-token,cfx,Conflux,0.189545,12.47729,gainer
-aioz-network,aioz,AIOZ Network,0.386465,12.06086,gainer
-morpho,morpho,Morpho,2.26,11.4178,gainer
-zcash,zec,Zcash,38.79,10.74395,gainer
-chainlink,link,Chainlink,25.94,9.73383,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.37,9.29346,gainer
-gatechain-token,gt,Gate,18.04,7.39145,gainer
-mantle,mnt,Mantle,1.28,-5.57922,loser
-build-on,b,BUILDon,0.556908,-3.95842,loser
-wemix-token,wemix,WEMIX,0.814046,-3.15119,loser
-creditcoin-2,ctc,Creditcoin,0.736133,-2.37525,loser
-qubic-network,qubic,Qubic,2.76e-06,-2.17396,loser
-vision-3,vsn,Vision,0.18286,-1.95058,loser
-lido-dao,ldo,Lido DAO,1.28,-1.27521,loser
-spx6900,spx,SPX6900,1.32,-1.03967,loser
-sky,sky,Sky,0.06898,-0.9908,loser
-usdb,usdb,USDB,0.999288,-0.85101,loser
+yzy,yzy,YZY,2.95,94.22093,gainer
+okb,okb,OKB,191.49,51.86038,gainer
+neo,neo,NEO,6.78,14.30232,gainer
+conflux-token,cfx,Conflux,0.189224,12.28688,gainer
+aioz-network,aioz,AIOZ Network,0.386175,11.97686,gainer
+morpho,morpho,Morpho,2.26,11.48555,gainer
+zcash,zec,Zcash,38.77,10.68368,gainer
+chainlink,link,Chainlink,25.93,9.67868,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.37,9.46669,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03181107,7.2168,gainer
+mantle,mnt,Mantle,1.27,-5.6279,loser
+build-on,b,BUILDon,0.556965,-3.80623,loser
+wemix-token,wemix,WEMIX,0.816547,-2.43427,loser
+creditcoin-2,ctc,Creditcoin,0.735773,-2.42295,loser
+qubic-network,qubic,Qubic,2.76e-06,-2.16575,loser
+vision-3,vsn,Vision,0.182859,-1.95103,loser
+lido-dao,ldo,Lido DAO,1.28,-1.30745,loser
+sky,sky,Sky,0.068928,-1.06515,loser
+spx6900,spx,SPX6900,1.32,-0.99008,loser
+syrup,syrup,Maple Finance,0.408026,-0.96392,loser
