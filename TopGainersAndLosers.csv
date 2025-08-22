@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,239.74,25.19212,gainer
-bio-protocol,bio,Bio Protocol,0.181276,21.23443,gainer
-zcash,zec,Zcash,42.78,10.28958,gainer
-morpho,morpho,Morpho,2.39,5.80246,gainer
-gatechain-token,gt,Gate,19.01,5.51356,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.42,3.16932,gainer
-aave,aave,Aave,307.25,3.03942,gainer
-the-open-network,ton,Toncoin,3.35,2.66666,gainer
-pendle,pendle,Pendle,5.53,2.61453,gainer
-saros-finance,saros,Saros,0.386566,2.47461,gainer
-keeta,kta,Keeta,1.083,-10.30061,loser
-qubic-network,qubic,Qubic,2.55e-06,-7.92049,loser
-conflux-token,cfx,Conflux,0.177248,-6.48873,loser
-aioz-network,aioz,AIOZ Network,0.363089,-6.08285,loser
-walrus-2,wal,Walrus,0.409887,-5.64445,loser
-deep,deep,DeepBook,0.1487,-5.54739,loser
-newton-project,ab,AB,0.00906815,-5.48184,loser
-starknet,strk,Starknet,0.130337,-5.35736,loser
-rekt-4,rekt,Rekt,8.7453e-07,-5.30431,loser
-zebec-network,zbcn,Zebec Network,0.00450183,-4.85789,loser
+okb,okb,OKB,240.04,25.35301,gainer
+bio-protocol,bio,Bio Protocol,0.181676,22.00208,gainer
+zcash,zec,Zcash,42.76,10.22587,gainer
+morpho,morpho,Morpho,2.39,5.77202,gainer
+gatechain-token,gt,Gate,18.87,4.69292,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.42,3.76481,gainer
+aave,aave,Aave,307.29,3.05259,gainer
+pendle,pendle,Pendle,5.53,2.67931,gainer
+the-open-network,ton,Toncoin,3.35,2.64172,gainer
+saros-finance,saros,Saros,0.386408,2.43298,gainer
+keeta,kta,Keeta,1.083,-10.30082,loser
+conflux-token,cfx,Conflux,0.177176,-6.52686,loser
+qubic-network,qubic,Qubic,2.59e-06,-6.48053,loser
+aioz-network,aioz,AIOZ Network,0.363148,-6.06764,loser
+walrus-2,wal,Walrus,0.410062,-5.60432,loser
+deep,deep,DeepBook,0.148686,-5.55609,loser
+newton-project,ab,AB,0.00906747,-5.43033,loser
+starknet,strk,Starknet,0.130336,-5.358,loser
+rekt-4,rekt,Rekt,8.74538e-07,-5.30348,loser
+zebec-network,zbcn,Zebec Network,0.00450258,-4.59392,loser
