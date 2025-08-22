@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,254.77,29.78694,gainer
-bio-protocol,bio,Bio Protocol,0.180927,17.16367,gainer
-zcash,zec,Zcash,42.12,7.6537,gainer
-morpho,morpho,Morpho,2.37,3.48199,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.23,2.79858,gainer
-saros-finance,saros,Saros,0.384904,2.15778,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.42,1.9392,gainer
-nexo,nexo,NEXO,1.3,1.67763,gainer
-the-open-network,ton,Toncoin,3.33,1.23147,gainer
-trust-wallet-token,twt,Trust Wallet,0.774029,0.83208,gainer
-keeta,kta,Keeta,1.068,-14.43551,loser
-conflux-token,cfx,Conflux,0.176307,-10.66538,loser
-pump-fun,pump,Pump.fun,0.00281706,-10.58093,loser
-creditcoin-2,ctc,Creditcoin,0.662871,-10.32904,loser
-aioz-network,aioz,AIOZ Network,0.358913,-7.79303,loser
-starknet,strk,Starknet,0.128841,-7.70498,loser
-deep,deep,DeepBook,0.147472,-7.31491,loser
-walrus-2,wal,Walrus,0.407597,-7.01007,loser
-rekt-4,rekt,Rekt,8.65931e-07,-6.92365,loser
-akash-network,akt,Akash Network,1.15,-6.4824,loser
+okb,okb,OKB,255.05,29.92688,gainer
+bio-protocol,bio,Bio Protocol,0.181051,17.2444,gainer
+zcash,zec,Zcash,41.89,7.08748,gainer
+morpho,morpho,Morpho,2.37,3.19078,gainer
+saros-finance,saros,Saros,0.384943,2.06471,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.42,1.94236,gainer
+nexo,nexo,NEXO,1.3,1.56477,gainer
+the-open-network,ton,Toncoin,3.33,1.24682,gainer
+trust-wallet-token,twt,Trust Wallet,0.774094,0.84061,gainer
+memecore,m,MemeCore,0.443625,0.79859,gainer
+keeta,kta,Keeta,1.068,-14.35628,loser
+conflux-token,cfx,Conflux,0.176263,-10.68781,loser
+pump-fun,pump,Pump.fun,0.00281756,-10.56526,loser
+creditcoin-2,ctc,Creditcoin,0.662796,-10.33916,loser
+aioz-network,aioz,AIOZ Network,0.358961,-8.756,loser
+starknet,strk,Starknet,0.128787,-7.74407,loser
+rekt-4,rekt,Rekt,8.65462e-07,-7.34421,loser
+deep,deep,DeepBook,0.147462,-7.32142,loser
+walrus-2,wal,Walrus,0.40759,-7.01164,loser
+akash-network,akt,Akash Network,1.15,-6.44749,loser
