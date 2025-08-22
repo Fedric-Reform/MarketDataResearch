@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,190.78,51.45955,gainer
-yzy,yzy,YZY,1.8,18.65775,gainer
-neo,neo,NEO,6.72,13.43858,gainer
-aioz-network,aioz,AIOZ Network,0.386112,12.16715,gainer
-conflux-token,cfx,Conflux,0.188867,12.01415,gainer
-morpho,morpho,Morpho,2.26,10.77718,gainer
-zcash,zec,Zcash,38.74,10.36045,gainer
-chainlink,link,Chainlink,25.88,9.54003,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.36,8.15552,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03184891,7.07809,gainer
-mantle,mnt,Mantle,1.25,-6.68468,loser
-build-on,b,BUILDon,0.555913,-3.86513,loser
-qubic-network,qubic,Qubic,2.77e-06,-2.15762,loser
-vision-3,vsn,Vision,0.183044,-2.08197,loser
-creditcoin-2,ctc,Creditcoin,0.732807,-2.05608,loser
-hash-2,hash,Provenance Blockchain,0.02743211,-1.79794,loser
-wemix-token,wemix,WEMIX,0.817954,-1.50929,loser
-sky,sky,Sky,0.068971,-1.14074,loser
-syrup,syrup,Maple Finance,0.407767,-1.06034,loser
-usdb,usdb,USDB,0.999142,-1.04291,loser
+okb,okb,OKB,255.49,30.32889,gainer
+bio-protocol,bio,Bio Protocol,0.180262,18.32594,gainer
+zcash,zec,Zcash,42.18,7.9906,gainer
+morpho,morpho,Morpho,2.36,3.39016,gainer
+saros-finance,saros,Saros,0.384845,2.3624,gainer
+bitget-token,bgb,Bitget Token,4.69,2.34564,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.42,2.27699,gainer
+nexo,nexo,NEXO,1.3,1.74045,gainer
+the-open-network,ton,Toncoin,3.33,1.52489,gainer
+usdb,usdb,USDB,1.001,1.1331,gainer
+keeta,kta,Keeta,1.068,-14.5509,loser
+conflux-token,cfx,Conflux,0.176047,-10.97064,loser
+creditcoin-2,ctc,Creditcoin,0.661629,-10.5733,loser
+pump-fun,pump,Pump.fun,0.00281559,-10.14141,loser
+aioz-network,aioz,AIOZ Network,0.35818,-7.90626,loser
+deep,deep,DeepBook,0.147485,-7.26941,loser
+starknet,strk,Starknet,0.128756,-7.24765,loser
+rekt-4,rekt,Rekt,8.64002e-07,-7.16745,loser
+walrus-2,wal,Walrus,0.407632,-6.97753,loser
+akash-network,akt,Akash Network,1.16,-5.94082,loser
