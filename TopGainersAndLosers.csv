@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,242.42,27.59667,gainer
-bio-protocol,bio,Bio Protocol,0.184899,23.84639,gainer
-zcash,zec,Zcash,42.26,9.10354,gainer
-morpho,morpho,Morpho,2.4,6.20973,gainer
-gatechain-token,gt,Gate,18.68,4.04861,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.42,4.01496,gainer
-pendle,pendle,Pendle,5.55,3.05521,gainer
-aave,aave,Aave,306.16,2.78547,gainer
-nexo,nexo,NEXO,1.3,2.5843,gainer
-trust-wallet-token,twt,Trust Wallet,0.780184,2.48863,gainer
-keeta,kta,Keeta,1.096,-8.89269,loser
-qubic-network,qubic,Qubic,2.58e-06,-6.54963,loser
-conflux-token,cfx,Conflux,0.177045,-5.97684,loser
-deep,deep,DeepBook,0.148022,-5.90309,loser
-walrus-2,wal,Walrus,0.408308,-5.73134,loser
-aioz-network,aioz,AIOZ Network,0.363479,-5.70519,loser
-newton-project,ab,AB,0.00906241,-5.58562,loser
-starknet,strk,Starknet,0.13001,-5.31495,loser
-rekt-4,rekt,Rekt,8.74406e-07,-4.86426,loser
-drift-protocol,drift,Drift Protocol,0.507346,-3.97496,loser
+okb,okb,OKB,242.52,27.64904,gainer
+bio-protocol,bio,Bio Protocol,0.185024,24.76025,gainer
+zcash,zec,Zcash,42.21,8.98651,gainer
+morpho,morpho,Morpho,2.4,6.24403,gainer
+gatechain-token,gt,Gate,18.69,4.41225,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.42,4.28151,gainer
+pendle,pendle,Pendle,5.54,3.03106,gainer
+aave,aave,Aave,305.65,2.51455,gainer
+trust-wallet-token,twt,Trust Wallet,0.77995,2.45788,gainer
+nexo,nexo,NEXO,1.3,2.43463,gainer
+keeta,kta,Keeta,1.099,-8.69813,loser
+qubic-network,qubic,Qubic,2.58e-06,-6.57642,loser
+conflux-token,cfx,Conflux,0.177057,-5.97039,loser
+deep,deep,DeepBook,0.147928,-5.96289,loser
+walrus-2,wal,Walrus,0.408247,-5.73891,loser
+aioz-network,aioz,AIOZ Network,0.36339,-5.72849,loser
+newton-project,ab,AB,0.00906509,-5.55768,loser
+starknet,strk,Starknet,0.130001,-5.32144,loser
+rekt-4,rekt,Rekt,8.74381e-07,-4.86694,loser
+drift-protocol,drift,Drift Protocol,0.507572,-3.93217,loser
