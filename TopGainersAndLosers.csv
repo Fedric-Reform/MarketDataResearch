@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-okb,okb,OKB,244.93,28.44106,gainer
-bio-protocol,bio,Bio Protocol,0.183533,23.77003,gainer
-zcash,zec,Zcash,42.3,9.18464,gainer
-morpho,morpho,Morpho,2.39,6.01124,gainer
-gatechain-token,gt,Gate,18.63,4.56549,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.43,4.51272,gainer
-pendle,pendle,Pendle,5.54,3.02068,gainer
-nexo,nexo,NEXO,1.3,2.28674,gainer
-trust-wallet-token,twt,Trust Wallet,0.778124,2.11234,gainer
-jito-governance-token,jto,Jito,1.78,1.84779,gainer
-keeta,kta,Keeta,1.1,-8.31616,loser
-qubic-network,qubic,Qubic,2.55e-06,-7.6916,loser
-conflux-token,cfx,Conflux,0.17614,-6.6952,loser
-deep,deep,DeepBook,0.148017,-5.89111,loser
-starknet,strk,Starknet,0.129726,-5.82165,loser
-aioz-network,aioz,AIOZ Network,0.36373,-5.80676,loser
-walrus-2,wal,Walrus,0.407932,-5.79923,loser
-newton-project,ab,AB,0.00905709,-5.53374,loser
-pump-fun,pump,Pump.fun,0.00284336,-5.4435,loser
-rekt-4,rekt,Rekt,8.74597e-07,-4.91931,loser
+bio-protocol,bio,Bio Protocol,0.234333,31.49266,gainer
+zora,zora,Zora,0.106756,28.27911,gainer
+lido-dao,ldo,Lido DAO,1.55,21.49103,gainer
+keeta,kta,Keeta,1.27,18.89812,gainer
+ether-fi,ethfi,Ether.fi,1.28,18.4792,gainer
+ethena,ena,Ethena,0.75115,17.52525,gainer
+based-brett,brett,Brett,0.057764,16.68421,gainer
+aave,aave,Aave,349.22,15.76932,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.0356812,15.57805,gainer
+arbitrum,arb,Arbitrum,0.573746,15.4661,gainer
+okb,okb,OKB,209.27,-18.09447,loser
+hash-2,hash,Provenance Blockchain,0.02606009,-2.88021,loser
+usdb,usdb,USDB,0.979643,-2.16857,loser
+newton-project,ab,AB,0.00894003,-1.46553,loser
+gatechain-token,gt,Gate,18.01,-1.26298,loser
+leo-token,leo,LEO Token,9.57,-0.53438,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.998749,-0.21904,loser
+fasttoken,ftn,Fasttoken,4.52,-0.16204,loser
+first-digital-usd,fdusd,First Digital USD,0.996151,-0.15956,loser
+usdd,usdd,USDD,0.999589,-0.07354,loser
