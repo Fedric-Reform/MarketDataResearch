@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.23422,30.33117,gainer
-zora,zora,Zora,0.107103,28.6264,gainer
-lido-dao,ldo,Lido DAO,1.55,21.47694,gainer
-ether-fi,ethfi,Ether.fi,1.28,18.54359,gainer
-keeta,kta,Keeta,1.26,18.33902,gainer
-ethena,ena,Ethena,0.752701,17.90114,gainer
-based-brett,brett,Brett,0.057817,16.56485,gainer
-aave,aave,Aave,349.51,15.73908,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03566598,15.52874,gainer
-arbitrum,arb,Arbitrum,0.574144,15.39831,gainer
-okb,okb,OKB,209.96,-17.82327,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.99,-2.11545,loser
-gatechain-token,gt,Gate,18.01,-1.21361,loser
-newton-project,ab,AB,0.00896419,-1.1992,loser
-leo-token,leo,LEO Token,9.57,-0.56233,loser
+bio-protocol,bio,Bio Protocol,0.234271,30.35958,gainer
+zora,zora,Zora,0.107268,28.82479,gainer
+lido-dao,ldo,Lido DAO,1.55,21.51666,gainer
+ether-fi,ethfi,Ether.fi,1.28,18.55126,gainer
+keeta,kta,Keeta,1.26,18.41941,gainer
+ethena,ena,Ethena,0.753097,17.96326,gainer
+based-brett,brett,Brett,0.057829,16.58908,gainer
+aave,aave,Aave,349.59,15.76767,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03568651,15.59524,gainer
+arbitrum,arb,Arbitrum,0.574633,15.49651,gainer
+okb,okb,OKB,209.99,-17.81477,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.99,-4.67977,loser
+newton-project,ab,AB,0.00895383,-1.31338,loser
+gatechain-token,gt,Gate,18.01,-1.23712,loser
+leo-token,leo,LEO Token,9.56,-0.57073,loser
 usdb,usdb,USDB,0.996495,-0.48571,loser
-fasttoken,ftn,Fasttoken,4.52,-0.16257,loser
-first-digital-usd,fdusd,First Digital USD,0.996151,-0.15955,loser
-usdd,usdd,USDD,0.999312,-0.08761,loser
-ripple-usd,rlusd,Ripple USD,0.999234,-0.04951,loser
+fasttoken,ftn,Fasttoken,4.52,-0.27002,loser
+first-digital-usd,fdusd,First Digital USD,0.99615,-0.17288,loser
+usdd,usdd,USDD,0.999444,-0.0744,loser
+usd1-wlfi,usd1,USD1,0.999129,-0.06521,loser
