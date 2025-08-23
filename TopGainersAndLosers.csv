@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.232134,27.45786,gainer
-zora,zora,Zora,0.106507,26.60061,gainer
-lido-dao,ldo,Lido DAO,1.55,21.21962,gainer
-keeta,kta,Keeta,1.27,19.2584,gainer
-ether-fi,ethfi,Ether.fi,1.29,18.73973,gainer
-ethena,ena,Ethena,0.756262,18.42009,gainer
-based-brett,brett,Brett,0.058365,17.40112,gainer
-aave,aave,Aave,352.58,16.33395,gainer
-arbitrum,arb,Arbitrum,0.580605,16.06705,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03583734,15.48283,gainer
-okb,okb,OKB,212.73,-14.27344,loser
-gatechain-token,gt,Gate,18.03,-2.80226,loser
-newton-project,ab,AB,0.00895825,-1.24543,loser
-usdb,usdb,USDB,1.001,-0.69234,loser
-leo-token,leo,LEO Token,9.56,-0.64552,loser
-fasttoken,ftn,Fasttoken,4.52,-0.33665,loser
-binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),0.996594,-0.28897,loser
-binance-bridged-usdt-bnb-smart-chain,bsc-usd,Binance Bridged USDT (BNB Smart Chain),0.998069,-0.15677,loser
-usdt0,usdt0,USDT0,0.99908,-0.12091,loser
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.998439,-0.11257,loser
+bio-protocol,bio,Bio Protocol,0.231537,27.13039,gainer
+zora,zora,Zora,0.106413,26.48846,gainer
+lido-dao,ldo,Lido DAO,1.55,21.26701,gainer
+keeta,kta,Keeta,1.27,18.8763,gainer
+ether-fi,ethfi,Ether.fi,1.28,18.65675,gainer
+ethena,ena,Ethena,0.757052,18.54368,gainer
+based-brett,brett,Brett,0.058248,17.16549,gainer
+aave,aave,Aave,352.58,16.33339,gainer
+arbitrum,arb,Arbitrum,0.580617,16.06963,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03584626,15.51158,gainer
+okb,okb,OKB,212.6,-14.12708,loser
+gatechain-token,gt,Gate,18.03,-4.33191,loser
+newton-project,ab,AB,0.0089598,-1.27964,loser
+usdb,usdb,USDB,0.999549,-1.11889,loser
+leo-token,leo,LEO Token,9.56,-0.64732,loser
+fasttoken,ftn,Fasttoken,4.52,-0.20083,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.998285,-0.12805,loser
+usdd,usdd,USDD,0.999541,-0.08875,loser
+dai,dai,Dai,0.999364,-0.07086,loser
+usdt0,usdt0,USDT0,0.999877,-0.04115,loser
