@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.233343,28.12181,gainer
-zora,zora,Zora,0.106945,27.5677,gainer
-lido-dao,ldo,Lido DAO,1.55,21.57596,gainer
-ether-fi,ethfi,Ether.fi,1.29,19.38369,gainer
-keeta,kta,Keeta,1.27,19.17724,gainer
-ethena,ena,Ethena,0.7574,18.68387,gainer
-based-brett,brett,Brett,0.058369,17.77937,gainer
-aave,aave,Aave,352.72,16.57662,gainer
-arbitrum,arb,Arbitrum,0.580095,16.28382,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03585917,15.74429,gainer
-okb,okb,OKB,212.14,-16.89588,loser
-gatechain-token,gt,Gate,18.03,-2.79082,loser
-newton-project,ab,AB,0.00896643,-1.15521,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.01,-0.74078,loser
-usdb,usdb,USDB,1.001,-0.70219,loser
-leo-token,leo,LEO Token,9.56,-0.5795,loser
-binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),0.995701,-0.37828,loser
-fasttoken,ftn,Fasttoken,4.52,-0.33666,loser
-binance-bridged-usdt-bnb-smart-chain,bsc-usd,Binance Bridged USDT (BNB Smart Chain),0.997225,-0.24117,loser
-usdt0,usdt0,USDT0,0.999836,-0.08892,loser
+bio-protocol,bio,Bio Protocol,0.232134,27.45786,gainer
+zora,zora,Zora,0.106507,26.60061,gainer
+lido-dao,ldo,Lido DAO,1.55,21.21962,gainer
+keeta,kta,Keeta,1.27,19.2584,gainer
+ether-fi,ethfi,Ether.fi,1.29,18.73973,gainer
+ethena,ena,Ethena,0.756262,18.42009,gainer
+based-brett,brett,Brett,0.058365,17.40112,gainer
+aave,aave,Aave,352.58,16.33395,gainer
+arbitrum,arb,Arbitrum,0.580605,16.06705,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03583734,15.48283,gainer
+okb,okb,OKB,212.73,-14.27344,loser
+gatechain-token,gt,Gate,18.03,-2.80226,loser
+newton-project,ab,AB,0.00895825,-1.24543,loser
+usdb,usdb,USDB,1.001,-0.69234,loser
+leo-token,leo,LEO Token,9.56,-0.64552,loser
+fasttoken,ftn,Fasttoken,4.52,-0.33665,loser
+binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),0.996594,-0.28897,loser
+binance-bridged-usdt-bnb-smart-chain,bsc-usd,Binance Bridged USDT (BNB Smart Chain),0.998069,-0.15677,loser
+usdt0,usdt0,USDT0,0.99908,-0.12091,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.998439,-0.11257,loser
