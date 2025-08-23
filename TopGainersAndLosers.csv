@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.234223,29.16025,gainer
-zora,zora,Zora,0.107211,28.26399,gainer
-lido-dao,ldo,Lido DAO,1.55,21.74492,gainer
-ether-fi,ethfi,Ether.fi,1.29,19.31352,gainer
-ethena,ena,Ethena,0.757741,18.69067,gainer
-keeta,kta,Keeta,1.26,18.60189,gainer
-based-brett,brett,Brett,0.058066,17.14562,gainer
-aave,aave,Aave,351.27,16.13256,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03578738,15.70605,gainer
-arbitrum,arb,Arbitrum,0.576618,15.67475,gainer
-okb,okb,OKB,211.55,-17.20185,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.04,-3.62699,loser
-gatechain-token,gt,Gate,18.0,-2.99107,loser
-usdb,usdb,USDB,0.981899,-1.80802,loser
-newton-project,ab,AB,0.00895853,-1.32565,loser
-leo-token,leo,LEO Token,9.56,-0.56766,loser
-fasttoken,ftn,Fasttoken,4.52,-0.28459,loser
-usdt0,usdt0,USDT0,0.998536,-0.18212,loser
-first-digital-usd,fdusd,First Digital USD,0.99615,-0.17291,loser
-binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),0.998556,-0.14351,loser
+bio-protocol,bio,Bio Protocol,0.234386,29.25053,gainer
+zora,zora,Zora,0.107222,28.27659,gainer
+lido-dao,ldo,Lido DAO,1.55,21.76856,gainer
+ether-fi,ethfi,Ether.fi,1.28,19.24049,gainer
+ethena,ena,Ethena,0.75835,18.83278,gainer
+keeta,kta,Keeta,1.27,18.40559,gainer
+based-brett,brett,Brett,0.058107,17.22917,gainer
+aave,aave,Aave,351.78,16.30254,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03582078,15.81403,gainer
+arbitrum,arb,Arbitrum,0.577049,15.7613,gainer
+okb,okb,OKB,212.81,-16.70918,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.93,-5.73117,loser
+gatechain-token,gt,Gate,18.01,-2.93878,loser
+usdb,usdb,USDB,0.982619,-1.73597,loser
+newton-project,ab,AB,0.00895616,-1.29997,loser
+leo-token,leo,LEO Token,9.56,-0.56847,loser
+fasttoken,ftn,Fasttoken,4.52,-0.29006,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.001,-0.2111,loser
+usdt0,usdt0,USDT0,0.998255,-0.20356,loser
+first-digital-usd,fdusd,First Digital USD,0.99615,-0.17704,loser
