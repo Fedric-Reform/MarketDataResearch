@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.26901,16.29766,gainer
-zora,zora,Zora,0.114505,12.08391,gainer
-memecore,m,MemeCore,0.457522,6.37212,gainer
-monero,xmr,Monero,272.98,4.39286,gainer
-neo,neo,NEO,7.41,3.55698,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.95,3.51371,gainer
-zebec-network,zbcn,Zebec Network,0.00498782,3.21529,gainer
-drift-protocol,drift,Drift Protocol,0.581408,2.86254,gainer
-crypto-com-chain,cro,Cronos,0.159148,2.66203,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.2,2.3398,gainer
-saros-finance,saros,Saros,0.29615,-24.42586,loser
-morpho,morpho,Morpho,2.48,-10.27593,loser
-pump-fun,pump,Pump.fun,0.00293977,-8.4066,loser
-beldex,bdx,Beldex,0.076147,-7.55974,loser
+bio-protocol,bio,Bio Protocol,0.267905,15.82021,gainer
+zora,zora,Zora,0.114468,12.0485,gainer
+memecore,m,MemeCore,0.457696,6.41264,gainer
+monero,xmr,Monero,272.98,4.39293,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.96,3.52485,gainer
+neo,neo,NEO,7.41,3.51682,gainer
+zebec-network,zbcn,Zebec Network,0.00498474,3.15172,gainer
+drift-protocol,drift,Drift Protocol,0.581508,2.88038,gainer
+crypto-com-chain,cro,Cronos,0.159192,2.69019,gainer
+mantle-staked-ether,meth,Mantle Staked Ether,5150.99,2.33085,gainer
+saros-finance,saros,Saros,0.297074,-24.19002,loser
+morpho,morpho,Morpho,2.48,-10.18113,loser
+pump-fun,pump,Pump.fun,0.00294012,-8.39584,loser
+beldex,bdx,Beldex,0.076164,-7.53973,loser
 hash-2,hash,Provenance Blockchain,0.02519053,-7.49131,loser
-keeta,kta,Keeta,1.14,-7.36128,loser
-spx6900,spx,SPX6900,1.31,-5.17188,loser
-aioz-network,aioz,AIOZ Network,0.362113,-5.15479,loser
-deep,deep,DeepBook,0.149359,-5.15033,loser
-ethena,ena,Ethena,0.699271,-5.04714,loser
+keeta,kta,Keeta,1.14,-7.36059,loser
+spx6900,spx,SPX6900,1.31,-5.16714,loser
+deep,deep,DeepBook,0.149365,-5.14594,loser
+aioz-network,aioz,AIOZ Network,0.362352,-5.09217,loser
+ethena,ena,Ethena,0.699522,-5.01295,loser
