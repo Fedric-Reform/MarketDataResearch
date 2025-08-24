@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.32,31.38079,gainer
-zora,zora,Zora,0.120943,16.62416,gainer
-neo,neo,NEO,8.12,13.1095,gainer
-bio-protocol,bio,Bio Protocol,0.252418,6.46814,gainer
-monero,xmr,Monero,280.56,5.51537,gainer
-zebec-network,zbcn,Zebec Network,0.0051032,5.45349,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.27,4.47764,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.11,3.47816,gainer
-wrapped-hype,whype,Wrapped HYPE,46.05,3.12637,gainer
-algorand,algo,Algorand,0.270321,3.11649,gainer
-saros-finance,saros,Saros,0.340304,-13.09445,loser
+qtum,qtum,Qtum,3.32,31.18003,gainer
+zora,zora,Zora,0.119109,14.89689,gainer
+neo,neo,NEO,8.0,11.3542,gainer
+zebec-network,zbcn,Zebec Network,0.00510268,5.38701,gainer
+monero,xmr,Monero,279.62,5.32934,gainer
+bio-protocol,bio,Bio Protocol,0.24824,4.94141,gainer
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4735.27,3.94111,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.12,3.83304,gainer
+algorand,algo,Algorand,0.271007,3.20346,gainer
+raydium,ray,Raydium,3.62,2.86653,gainer
+saros-finance,saros,Saros,0.343473,-12.1954,loser
+sky,sky,Sky,0.063246,-7.59316,loser
 hash-2,hash,Provenance Blockchain,0.02710154,-7.32087,loser
-sky,sky,Sky,0.06326,-7.29808,loser
-ethena,ena,Ethena,0.699854,-6.18202,loser
-beldex,bdx,Beldex,0.074487,-5.93839,loser
-morpho,morpho,Morpho,2.57,-5.56209,loser
-pump-fun,pump,Pump.fun,0.00301713,-4.8878,loser
-optimism,op,Optimism,0.783693,-4.57224,loser
-celestia,tia,Celestia,1.78,-4.49427,loser
-aioz-network,aioz,AIOZ Network,0.364847,-3.89006,loser
+ethena,ena,Ethena,0.699509,-6.3125,loser
+okb,okb,OKB,195.27,-5.98862,loser
+beldex,bdx,Beldex,0.074541,-5.89868,loser
+morpho,morpho,Morpho,2.56,-5.80222,loser
+pump-fun,pump,Pump.fun,0.00299517,-5.63891,loser
+optimism,op,Optimism,0.784421,-4.76536,loser
+aioz-network,aioz,AIOZ Network,0.363259,-4.4269,loser
