@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.316166,37.77687,gainer
-zora,zora,Zora,0.110117,7.04083,gainer
-beldex,bdx,Beldex,0.075412,4.17544,gainer
-neo,neo,NEO,7.51,3.74196,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.06,3.70619,gainer
-monero,xmr,Monero,270.52,3.57828,gainer
-crypto-com-chain,cro,Cronos,0.158492,2.57747,gainer
-sun-token,sun,Sun Token,0.02467461,1.9775,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.59,1.94979,gainer
+bio-protocol,bio,Bio Protocol,0.315573,37.30105,gainer
+zora,zora,Zora,0.110344,7.15659,gainer
+beldex,bdx,Beldex,0.075385,4.12017,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.16,4.11031,gainer
+monero,xmr,Monero,270.07,3.74246,gainer
+neo,neo,NEO,7.5,3.63133,gainer
+crypto-com-chain,cro,Cronos,0.158359,2.23916,gainer
+bitcoin-cash,bch,Bitcoin Cash,596.62,1.93481,gainer
+sun-token,sun,Sun Token,0.02466344,1.92729,gainer
 cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4631.15,1.68939,gainer
-saros-finance,saros,Saros,0.278082,-29.00287,loser
-pump-fun,pump,Pump.fun,0.00294081,-9.1245,loser
-spx6900,spx,SPX6900,1.29,-7.87814,loser
-hash-2,hash,Provenance Blockchain,0.02578591,-6.98743,loser
-ethena,ena,Ethena,0.695735,-6.84326,loser
-gala,gala,GALA,0.01743007,-6.64932,loser
-okb,okb,OKB,195.19,-6.28519,loser
-deep,deep,DeepBook,0.148481,-6.14945,loser
-snek,snek,Snek,0.00461093,-5.66105,loser
-instadapp,fluid,Fluid,7.25,-5.55936,loser
+saros-finance,saros,Saros,0.275481,-29.77194,loser
+pump-fun,pump,Pump.fun,0.00293744,-9.32193,loser
+spx6900,spx,SPX6900,1.29,-7.93915,loser
+ethena,ena,Ethena,0.69478,-7.22491,loser
+gala,gala,GALA,0.01742491,-6.75763,loser
+deep,deep,DeepBook,0.148538,-6.14183,loser
+okb,okb,OKB,194.71,-6.12247,loser
+virtual-protocol,virtual,Virtuals Protocol,1.2,-5.83957,loser
+snek,snek,Snek,0.00461149,-5.64947,loser
+instadapp,fluid,Fluid,7.25,-5.61958,loser
