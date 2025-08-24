@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.35,33.06411,gainer
-zora,zora,Zora,0.123549,19.04363,gainer
-neo,neo,NEO,8.33,16.60737,gainer
-bio-protocol,bio,Bio Protocol,0.260575,8.37759,gainer
-zebec-network,zbcn,Zebec Network,0.00522879,8.04587,gainer
-monero,xmr,Monero,283.59,7.38296,gainer
-raydium,ray,Raydium,3.75,6.86552,gainer
-zksync,zk,ZKsync,0.07211,6.13905,gainer
-algorand,algo,Algorand,0.273675,5.33164,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.38,5.2362,gainer
-saros-finance,saros,Saros,0.337476,-13.71191,loser
-beldex,bdx,Beldex,0.075007,-5.89247,loser
-morpho,morpho,Morpho,2.61,-4.67301,loser
-ethena,ena,Ethena,0.71856,-3.70424,loser
-pump-fun,pump,Pump.fun,0.00309646,-3.32581,loser
-vision-3,vsn,Vision,0.180881,-3.32428,loser
-sky,sky,Sky,0.06679,-2.78694,loser
-okb,okb,OKB,198.06,-2.27722,loser
-hash-2,hash,Provenance Blockchain,0.02735687,-2.2413,loser
-newton-project,ab,AB,0.00888543,-2.17391,loser
+qtum,qtum,Qtum,3.34,32.38151,gainer
+zora,zora,Zora,0.12495,20.34733,gainer
+neo,neo,NEO,8.35,16.92347,gainer
+bio-protocol,bio,Bio Protocol,0.259626,8.48054,gainer
+zebec-network,zbcn,Zebec Network,0.00521339,7.6294,gainer
+monero,xmr,Monero,283.44,7.11404,gainer
+raydium,ray,Raydium,3.75,6.84815,gainer
+algorand,algo,Algorand,0.275523,6.06368,gainer
+zksync,zk,ZKsync,0.071958,5.63211,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.38,5.15227,gainer
+saros-finance,saros,Saros,0.340938,-12.80691,loser
+beldex,bdx,Beldex,0.074978,-5.60306,loser
+morpho,morpho,Morpho,2.61,-4.51296,loser
+hash-2,hash,Provenance Blockchain,0.02735687,-4.3405,loser
+ethena,ena,Ethena,0.718425,-3.90518,loser
+sky,sky,Sky,0.066095,-3.80484,loser
+vision-3,vsn,Vision,0.180906,-3.23375,loser
+pump-fun,pump,Pump.fun,0.00309848,-3.13476,loser
+okb,okb,OKB,197.98,-2.50616,loser
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,112343.0,-2.18941,loser
