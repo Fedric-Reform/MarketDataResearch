@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-zora,zora,Zora,0.113455,9.36749,gainer
-neo,neo,NEO,7.75,8.70812,gainer
-zebec-network,zbcn,Zebec Network,0.00521524,8.12431,gainer
-monero,xmr,Monero,284.15,7.86648,gainer
-raydium,ray,Raydium,3.66,4.3304,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.01,4.08026,gainer
-stader-ethx,ethx,Stader ETHx,5170.44,3.3843,gainer
-bio-protocol,bio,Bio Protocol,0.240764,3.12626,gainer
-frax-ether,frxeth,Frax Ether,4822.71,3.09519,gainer
-zksync,zk,ZKsync,0.06868,3.03833,gainer
-saros-finance,saros,Saros,0.321444,-17.72269,loser
-morpho,morpho,Morpho,2.54,-7.44927,loser
-hash-2,hash,Provenance Blockchain,0.02620865,-6.36667,loser
-beldex,bdx,Beldex,0.075297,-5.65997,loser
-pump-fun,pump,Pump.fun,0.00298394,-5.45651,loser
-ethena,ena,Ethena,0.701166,-5.41423,loser
-deep,deep,DeepBook,0.149959,-4.05315,loser
-beam-2,beam,Beam,0.00766317,-3.79593,loser
-gatechain-token,gt,Gate,17.67,-3.79431,loser
-aioz-network,aioz,AIOZ Network,0.364919,-3.76046,loser
+qtum,qtum,Qtum,3.22,27.62692,gainer
+zora,zora,Zora,0.115621,10.68984,gainer
+neo,neo,NEO,7.84,10.02077,gainer
+zebec-network,zbcn,Zebec Network,0.00524876,8.79792,gainer
+monero,xmr,Monero,284.74,8.01446,gainer
+bio-protocol,bio,Bio Protocol,0.252243,7.36541,gainer
+raydium,ray,Raydium,3.72,5.91117,gainer
+zksync,zk,ZKsync,0.070812,5.42755,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.2,4.70753,gainer
+frax-ether,frxeth,Frax Ether,4866.44,3.95095,gainer
+saros-finance,saros,Saros,0.321762,-17.67441,loser
+morpho,morpho,Morpho,2.57,-6.74777,loser
+beldex,bdx,Beldex,0.075048,-5.92292,loser
+pump-fun,pump,Pump.fun,0.00303524,-4.43194,loser
+ethena,ena,Ethena,0.707241,-4.42954,loser
+deep,deep,DeepBook,0.151191,-3.39196,loser
+gatechain-token,gt,Gate,17.71,-3.24306,loser
+sky,sky,Sky,0.066785,-2.74899,loser
+beam-2,beam,Beam,0.00776156,-2.6849,loser
+filecoin,fil,Filecoin,2.45,-2.61273,loser
