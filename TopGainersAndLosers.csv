@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.18,24.86386,gainer
-neo,neo,NEO,7.87,9.22445,gainer
-zora,zora,Zora,0.116596,9.01368,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.96,7.60324,gainer
-story-2,ip,Story,6.24,4.56361,gainer
-monero,xmr,Monero,275.44,3.85009,gainer
-wrapped-hype,whype,Wrapped HYPE,46.16,3.66318,gainer
-algorand,algo,Algorand,0.27362,3.51953,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.28,3.51917,gainer
-hyperliquid,hype,Hyperliquid,46.16,3.4603,gainer
-saros-finance,saros,Saros,0.338451,-13.54332,loser
-sky,sky,Sky,0.062274,-7.64696,loser
-build-on,b,BUILDon,0.528345,-7.20819,loser
-pump-fun,pump,Pump.fun,0.00293932,-6.03458,loser
-lido-dao,ldo,Lido DAO,1.44,-6.02966,loser
-ethena,ena,Ethena,0.696414,-5.94933,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03419438,-5.70885,loser
-aioz-network,aioz,AIOZ Network,0.360907,-5.38848,loser
-spx6900,spx,SPX6900,1.32,-5.21578,loser
-zcash,zec,Zcash,42.63,-5.13637,loser
+qtum,qtum,Qtum,3.18,24.882,gainer
+neo,neo,NEO,7.88,9.29898,gainer
+zora,zora,Zora,0.116814,8.79594,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.94,7.54192,gainer
+story-2,ip,Story,6.24,4.57703,gainer
+monero,xmr,Monero,275.51,3.87761,gainer
+wrapped-hype,whype,Wrapped HYPE,46.15,3.66029,gainer
+algorand,algo,Algorand,0.273631,3.52362,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.28,3.51683,gainer
+bio-protocol,bio,Bio Protocol,0.249379,3.39059,gainer
+saros-finance,saros,Saros,0.338982,-13.40756,loser
+sky,sky,Sky,0.062275,-7.64551,loser
+build-on,b,BUILDon,0.528124,-7.40748,loser
+pump-fun,pump,Pump.fun,0.00293916,-6.25778,loser
+ethena,ena,Ethena,0.695796,-6.03272,loser
+lido-dao,ldo,Lido DAO,1.44,-5.99388,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03419424,-5.70923,loser
+aioz-network,aioz,AIOZ Network,0.360943,-5.51786,loser
+spx6900,spx,SPX6900,1.32,-5.33811,loser
+zcash,zec,Zcash,42.63,-5.13772,loser
