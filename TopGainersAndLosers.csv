@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-syrup,syrup,Maple Finance,0.481011,13.70269,gainer
-zora,zora,Zora,0.114096,11.39669,gainer
-drift-protocol,drift,Drift Protocol,0.586225,9.86495,gainer
-beldex,bdx,Beldex,0.077035,8.44749,gainer
-jito-governance-token,jto,Jito,1.99,7.61821,gainer
-crypto-com-chain,cro,Cronos,0.161799,7.06821,gainer
-qubic-network,qubic,Qubic,2.75e-06,6.98825,gainer
+syrup,syrup,Maple Finance,0.48106,13.71424,gainer
+zora,zora,Zora,0.114177,11.47491,gainer
+drift-protocol,drift,Drift Protocol,0.585523,9.73344,gainer
+beldex,bdx,Beldex,0.077071,8.49792,gainer
+jito-governance-token,jto,Jito,1.99,7.63649,gainer
+crypto-com-chain,cro,Cronos,0.161835,7.09172,gainer
+qubic-network,qubic,Qubic,2.75e-06,6.99709,gainer
+raydium,ray,Raydium,3.66,5.94392,gainer
 binance-staked-sol,bnsol,Binance Staked SOL,223.7,5.87586,gainer
-raydium,ray,Raydium,3.66,5.851,gainer
 drift-staked-sol,dsol,Drift Staked SOL,237.53,5.61088,gainer
-spx6900,spx,SPX6900,1.35,-5.87637,loser
-okb,okb,OKB,203.58,-5.81682,loser
-mantle,mnt,Mantle,1.26,-4.89521,loser
-ethena,ena,Ethena,0.720368,-4.39703,loser
-memecore,m,MemeCore,0.435938,-4.24087,loser
-snek,snek,Snek,0.00463441,-4.17773,loser
-neo,neo,NEO,7.07,-4.0296,loser
-rekt-4,rekt,Rekt,9.1327e-07,-3.2763,loser
-pump-fun,pump,Pump.fun,0.00303618,-2.70542,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.41,-2.37855,loser
+okb,okb,OKB,202.65,-6.24851,loser
+spx6900,spx,SPX6900,1.35,-5.8822,loser
+mantle,mnt,Mantle,1.26,-4.78728,loser
+ethena,ena,Ethena,0.720488,-4.38108,loser
+memecore,m,MemeCore,0.435998,-4.2276,loser
+snek,snek,Snek,0.00463868,-4.08939,loser
+neo,neo,NEO,7.07,-4.00316,loser
+rekt-4,rekt,Rekt,9.13296e-07,-3.27361,loser
+pump-fun,pump,Pump.fun,0.00303764,-2.65868,loser
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.41,-2.34181,loser
