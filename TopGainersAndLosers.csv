@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-zora,zora,Zora,0.113526,9.52112,gainer
-neo,neo,NEO,7.74,8.63956,gainer
-zebec-network,zbcn,Zebec Network,0.00522549,8.33687,gainer
-monero,xmr,Monero,283.07,7.4167,gainer
-raydium,ray,Raydium,3.66,4.30613,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.01,4.0798,gainer
-stader-ethx,ethx,Stader ETHx,5170.44,3.38431,gainer
-frax-ether,frxeth,Frax Ether,4822.32,3.08674,gainer
-zksync,zk,ZKsync,0.068702,3.0708,gainer
-bio-protocol,bio,Bio Protocol,0.240576,3.04582,gainer
-saros-finance,saros,Saros,0.321551,-17.69521,loser
-morpho,morpho,Morpho,2.54,-7.47838,loser
+zora,zora,Zora,0.113455,9.36749,gainer
+neo,neo,NEO,7.75,8.70812,gainer
+zebec-network,zbcn,Zebec Network,0.00521524,8.12431,gainer
+monero,xmr,Monero,284.15,7.86648,gainer
+raydium,ray,Raydium,3.66,4.3304,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.01,4.08026,gainer
+stader-ethx,ethx,Stader ETHx,5170.44,3.3843,gainer
+bio-protocol,bio,Bio Protocol,0.240764,3.12626,gainer
+frax-ether,frxeth,Frax Ether,4822.71,3.09519,gainer
+zksync,zk,ZKsync,0.06868,3.03833,gainer
+saros-finance,saros,Saros,0.321444,-17.72269,loser
+morpho,morpho,Morpho,2.54,-7.44927,loser
 hash-2,hash,Provenance Blockchain,0.02620865,-6.36667,loser
-beldex,bdx,Beldex,0.07525,-5.71893,loser
-pump-fun,pump,Pump.fun,0.00298335,-5.47521,loser
-ethena,ena,Ethena,0.701034,-5.43197,loser
-deep,deep,DeepBook,0.149926,-4.07416,loser
-gatechain-token,gt,Gate,17.67,-3.77816,loser
-beam-2,beam,Beam,0.00766162,-3.76826,loser
-aioz-network,aioz,AIOZ Network,0.364925,-3.75893,loser
+beldex,bdx,Beldex,0.075297,-5.65997,loser
+pump-fun,pump,Pump.fun,0.00298394,-5.45651,loser
+ethena,ena,Ethena,0.701166,-5.41423,loser
+deep,deep,DeepBook,0.149959,-4.05315,loser
+beam-2,beam,Beam,0.00766317,-3.79593,loser
+gatechain-token,gt,Gate,17.67,-3.79431,loser
+aioz-network,aioz,AIOZ Network,0.364919,-3.76046,loser
