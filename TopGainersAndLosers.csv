@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-syrup,syrup,Maple Finance,0.474239,9.74873,gainer
-beldex,bdx,Beldex,0.07665,8.05469,gainer
-zora,zora,Zora,0.114463,7.50714,gainer
-hash-2,hash,Provenance Blockchain,0.02705016,3.9242,gainer
-bio-protocol,bio,Bio Protocol,0.24015,3.00991,gainer
-crypto-com-chain,cro,Cronos,0.158916,2.59105,gainer
-qubic-network,qubic,Qubic,2.71e-06,2.46551,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.8,2.20441,gainer
-stader-ethx,ethx,Stader ETHx,5108.34,2.0335,gainer
+syrup,syrup,Maple Finance,0.471733,8.96333,gainer
+beldex,bdx,Beldex,0.076667,8.12885,gainer
+zora,zora,Zora,0.11462,7.91292,gainer
+bio-protocol,bio,Bio Protocol,0.241009,3.65569,gainer
+hash-2,hash,Provenance Blockchain,0.02693986,3.4301,gainer
+crypto-com-chain,cro,Cronos,0.15925,2.97289,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.02,2.92117,gainer
+qubic-network,qubic,Qubic,2.71e-06,2.02566,gainer
 cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4631.15,1.7044,gainer
-spx6900,spx,SPX6900,1.31,-9.66513,loser
-okb,okb,OKB,198.22,-9.27596,loser
-saros-finance,saros,Saros,0.354977,-9.13565,loser
-snek,snek,Snek,0.00463925,-7.44863,loser
-ethena,ena,Ethena,0.703281,-6.8887,loser
-pump-fun,pump,Pump.fun,0.00296622,-6.17715,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.37,-5.90561,loser
-neo,neo,NEO,6.9,-5.45941,loser
-curve-dao-token,crv,Curve DAO,0.861687,-5.4553,loser
-floki,floki,FLOKI,0.00010338,-5.37668,loser
+mantle-restaked-eth,cmeth,Mantle Restaked ETH,5121.65,1.48982,gainer
+spx6900,spx,SPX6900,1.31,-9.40475,loser
+okb,okb,OKB,198.01,-8.52956,loser
+saros-finance,saros,Saros,0.357712,-8.4054,loser
+snek,snek,Snek,0.00463986,-7.32926,loser
+ethena,ena,Ethena,0.704303,-6.44425,loser
+pump-fun,pump,Pump.fun,0.00296284,-5.97257,loser
+virtual-protocol,virtual,Virtuals Protocol,1.23,-5.92298,loser
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.37,-5.77501,loser
+floki,floki,FLOKI,0.00010335,-5.53777,loser
+neo,neo,NEO,6.89,-5.49324,loser
