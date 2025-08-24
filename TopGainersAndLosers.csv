@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,114210.0,49.00435,gainer
-syrup,syrup,Maple Finance,0.468287,8.69724,gainer
-zora,zora,Zora,0.114527,8.24517,gainer
-beldex,bdx,Beldex,0.076673,8.13343,gainer
-hash-2,hash,Provenance Blockchain,0.02693986,3.22591,gainer
-crypto-com-chain,cro,Cronos,0.159205,3.0046,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.93,2.69458,gainer
-bio-protocol,bio,Bio Protocol,0.2407,2.20014,gainer
-drift-protocol,drift,Drift Protocol,0.575217,1.95761,gainer
-qubic-network,qubic,Qubic,2.72e-06,1.8249,gainer
-spx6900,spx,SPX6900,1.31,-8.88317,loser
-saros-finance,saros,Saros,0.356897,-8.58774,loser
-okb,okb,OKB,199.6,-7.76114,loser
-snek,snek,Snek,0.00464906,-6.89271,loser
-pump-fun,pump,Pump.fun,0.002968,-6.37104,loser
-ethena,ena,Ethena,0.704903,-5.95344,loser
-floki,floki,FLOKI,0.00010346,-5.53137,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.38,-5.51677,loser
-neo,neo,NEO,6.9,-5.20059,loser
-mog-coin,mog,Mog Coin,1.11e-06,-5.1652,loser
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,114168.0,49.16314,gainer
+zora,zora,Zora,0.114183,8.9119,gainer
+beldex,bdx,Beldex,0.07669,8.11624,gainer
+syrup,syrup,Maple Finance,0.463749,7.91947,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.1,3.42054,gainer
+telcoin,tel,Telcoin,0.0055451,3.11088,gainer
+crypto-com-chain,cro,Cronos,0.159422,3.08175,gainer
+hash-2,hash,Provenance Blockchain,0.0267762,3.0623,gainer
+stader-ethx,ethx,Stader ETHx,5111.47,2.33387,gainer
+drift-protocol,drift,Drift Protocol,0.572804,2.28625,gainer
+spx6900,spx,SPX6900,1.31,-8.77719,loser
+okb,okb,OKB,198.81,-7.99173,loser
+saros-finance,saros,Saros,0.359916,-7.9557,loser
+snek,snek,Snek,0.00465628,-6.79673,loser
+pump-fun,pump,Pump.fun,0.00299428,-5.73059,loser
+zebec-network,zbcn,Zebec Network,0.00474507,-4.60055,loser
+mog-coin,mog,Mog Coin,1.11e-06,-4.58214,loser
+deep,deep,DeepBook,0.151996,-4.56991,loser
+floki,floki,FLOKI,0.00010381,-4.54758,loser
+virtual-protocol,virtual,Virtuals Protocol,1.23,-4.48309,loser
