@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.317266,40.35455,gainer
-zora,zora,Zora,0.110597,6.61606,gainer
-beldex,bdx,Beldex,0.076058,4.91369,gainer
-neo,neo,NEO,7.44,3.5322,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.78,2.72766,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.12,2.50669,gainer
-sun-token,sun,Sun Token,0.024732,2.00268,gainer
-qubic-network,qubic,Qubic,2.67e-06,1.74355,gainer
-cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4631.15,1.71547,gainer
-bitcoin-cash,bch,Bitcoin Cash,594.72,1.55111,gainer
-saros-finance,saros,Saros,0.181601,-53.51834,loser
-spx6900,spx,SPX6900,1.28,-9.36511,loser
-pump-fun,pump,Pump.fun,0.0029324,-8.57735,loser
-memecore,m,MemeCore,0.42078,-7.2424,loser
-gala,gala,GALA,0.01739817,-6.74121,loser
-ethena,ena,Ethena,0.695976,-6.54127,loser
-based-brett,brett,Brett,0.053987,-6.20904,loser
-deep,deep,DeepBook,0.148285,-6.12545,loser
-okb,okb,OKB,192.98,-5.93718,loser
-instadapp,fluid,Fluid,7.25,-5.85743,loser
+bio-protocol,bio,Bio Protocol,0.317427,38.49123,gainer
+zora,zora,Zora,0.11027,6.59006,gainer
+beldex,bdx,Beldex,0.075998,5.06856,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.88,3.34062,gainer
+sun-token,sun,Sun Token,0.02473082,2.23255,gainer
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4631.15,1.70974,gainer
+bitcoin-cash,bch,Bitcoin Cash,595.96,1.65725,gainer
+monero,xmr,Monero,269.42,1.60442,gainer
+qubic-network,qubic,Qubic,2.68e-06,1.44262,gainer
+neo,neo,NEO,7.31,1.16295,gainer
+saros-finance,saros,Saros,0.341406,-12.64483,loser
+hash-2,hash,Provenance Blockchain,0.02483741,-12.48533,loser
+spx6900,spx,SPX6900,1.28,-9.08544,loser
+pump-fun,pump,Pump.fun,0.00293605,-8.49619,loser
+ethena,ena,Ethena,0.696565,-6.66986,loser
+gala,gala,GALA,0.01737096,-6.55852,loser
+deep,deep,DeepBook,0.148322,-6.24321,loser
+virtual-protocol,virtual,Virtuals Protocol,1.2,-5.97627,loser
+based-brett,brett,Brett,0.054178,-5.84816,loser
+instadapp,fluid,Fluid,7.25,-5.67705,loser
