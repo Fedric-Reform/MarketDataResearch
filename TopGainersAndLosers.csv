@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-syrup,syrup,Maple Finance,0.483966,12.90927,gainer
-zora,zora,Zora,0.118361,10.61646,gainer
-beldex,bdx,Beldex,0.076819,7.87187,gainer
-drift-protocol,drift,Drift Protocol,0.584379,5.82909,gainer
-crypto-com-chain,cro,Cronos,0.162211,5.31695,gainer
-qubic-network,qubic,Qubic,2.76e-06,5.25981,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.12,3.63291,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.12,3.0502,gainer
-build-on,b,BUILDon,0.564633,2.34066,gainer
-pendle,pendle,Pendle,5.97,2.24746,gainer
-spx6900,spx,SPX6900,1.33,-8.0547,loser
-saros-finance,saros,Saros,0.359868,-8.01553,loser
-ethena,ena,Ethena,0.713772,-6.56471,loser
-okb,okb,OKB,201.23,-6.44037,loser
-snek,snek,Snek,0.00466366,-6.36352,loser
-pump-fun,pump,Pump.fun,0.00301754,-5.62674,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.4,-5.01573,loser
-memecore,m,MemeCore,0.436065,-4.65509,loser
-rekt-4,rekt,Rekt,9.13279e-07,-4.32935,loser
-story-2,ip,Story,5.91,-4.12417,loser
+syrup,syrup,Maple Finance,0.473679,9.74838,gainer
+beldex,bdx,Beldex,0.076688,8.00908,gainer
+zora,zora,Zora,0.114552,7.61444,gainer
+hash-2,hash,Provenance Blockchain,0.02706804,3.83945,gainer
+qubic-network,qubic,Qubic,2.71e-06,3.03485,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.13,2.96708,gainer
+crypto-com-chain,cro,Cronos,0.159327,2.93895,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.8,2.2052,gainer
+stader-ethx,ethx,Stader ETHx,5109.67,2.06009,gainer
+bio-protocol,bio,Bio Protocol,0.23751,1.89971,gainer
+saros-finance,saros,Saros,0.353065,-9.73152,loser
+spx6900,spx,SPX6900,1.31,-9.37529,loser
+okb,okb,OKB,198.58,-8.5363,loser
+snek,snek,Snek,0.00464106,-7.09573,loser
+ethena,ena,Ethena,0.703487,-6.89276,loser
+pump-fun,pump,Pump.fun,0.00296927,-5.89392,loser
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.37,-5.7916,loser
+neo,neo,NEO,6.9,-5.39423,loser
+floki,floki,FLOKI,0.00010348,-5.18863,loser
+curve-dao-token,crv,Curve DAO,0.864841,-5.08938,loser
