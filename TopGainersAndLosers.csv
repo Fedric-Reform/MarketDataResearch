@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.36,33.41146,gainer
-zora,zora,Zora,0.120763,16.29459,gainer
-neo,neo,NEO,8.3,16.14013,gainer
-bio-protocol,bio,Bio Protocol,0.264008,9.31039,gainer
-monero,xmr,Monero,285.49,8.11767,gainer
-zebec-network,zbcn,Zebec Network,0.00520907,7.56598,gainer
-raydium,ray,Raydium,3.75,6.97118,gainer
-zksync,zk,ZKsync,0.072115,6.50652,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.42,5.38073,gainer
-ether-fi,ethfi,Ether.fi,1.32,4.67629,gainer
-saros-finance,saros,Saros,0.334274,-14.5599,loser
-beldex,bdx,Beldex,0.074983,-6.03786,loser
-morpho,morpho,Morpho,2.6,-4.67608,loser
-pump-fun,pump,Pump.fun,0.00309137,-3.52703,loser
-ethena,ena,Ethena,0.720177,-3.45374,loser
-vision-3,vsn,Vision,0.181078,-3.14077,loser
-sky,sky,Sky,0.066775,-2.85296,loser
+qtum,qtum,Qtum,3.35,33.06411,gainer
+zora,zora,Zora,0.123549,19.04363,gainer
+neo,neo,NEO,8.33,16.60737,gainer
+bio-protocol,bio,Bio Protocol,0.260575,8.37759,gainer
+zebec-network,zbcn,Zebec Network,0.00522879,8.04587,gainer
+monero,xmr,Monero,283.59,7.38296,gainer
+raydium,ray,Raydium,3.75,6.86552,gainer
+zksync,zk,ZKsync,0.07211,6.13905,gainer
+algorand,algo,Algorand,0.273675,5.33164,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.38,5.2362,gainer
+saros-finance,saros,Saros,0.337476,-13.71191,loser
+beldex,bdx,Beldex,0.075007,-5.89247,loser
+morpho,morpho,Morpho,2.61,-4.67301,loser
+ethena,ena,Ethena,0.71856,-3.70424,loser
+pump-fun,pump,Pump.fun,0.00309646,-3.32581,loser
+vision-3,vsn,Vision,0.180881,-3.32428,loser
+sky,sky,Sky,0.06679,-2.78694,loser
+okb,okb,OKB,198.06,-2.27722,loser
 hash-2,hash,Provenance Blockchain,0.02735687,-2.2413,loser
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,112383.0,-2.14917,loser
-newton-project,ab,AB,0.0088895,-2.10914,loser
+newton-project,ab,AB,0.00888543,-2.17391,loser
