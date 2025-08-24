@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.262753,13.84466,gainer
-zora,zora,Zora,0.11465,11.72568,gainer
-memecore,m,MemeCore,0.455121,5.47999,gainer
-monero,xmr,Monero,273.89,4.98854,gainer
-zebec-network,zbcn,Zebec Network,0.00508872,4.77224,gainer
-zksync,zk,ZKsync,0.068859,4.47318,gainer
-raydium,ray,Raydium,3.66,4.29128,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.97,3.54777,gainer
-neo,neo,NEO,7.41,3.47547,gainer
-crypto-com-chain,cro,Cronos,0.159352,2.77471,gainer
-saros-finance,saros,Saros,0.312237,-20.32181,loser
-beldex,bdx,Beldex,0.076249,-10.51524,loser
-morpho,morpho,Morpho,2.51,-9.46015,loser
+bio-protocol,bio,Bio Protocol,0.26513,14.87463,gainer
+zora,zora,Zora,0.114599,11.67627,gainer
+memecore,m,MemeCore,0.455414,5.30525,gainer
+monero,xmr,Monero,273.81,4.95655,gainer
+zksync,zk,ZKsync,0.069083,4.81228,gainer
+raydium,ray,Raydium,3.67,4.57866,gainer
+zebec-network,zbcn,Zebec Network,0.0050775,4.5412,gainer
+neo,neo,NEO,7.42,3.72598,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.99,3.62246,gainer
+crypto-com-chain,cro,Cronos,0.159452,2.83952,gainer
+saros-finance,saros,Saros,0.313465,-20.0083,loser
+beldex,bdx,Beldex,0.076264,-10.49861,loser
+morpho,morpho,Morpho,2.51,-9.41155,loser
 hash-2,hash,Provenance Blockchain,0.02519053,-7.81959,loser
-pump-fun,pump,Pump.fun,0.00297433,-7.73074,loser
-keeta,kta,Keeta,1.16,-5.90585,loser
-deep,deep,DeepBook,0.149964,-4.83791,loser
-snek,snek,Snek,0.00467047,-4.75447,loser
-spx6900,spx,SPX6900,1.32,-4.61461,loser
-ethena,ena,Ethena,0.704016,-4.32574,loser
+pump-fun,pump,Pump.fun,0.00297889,-7.35725,loser
+keeta,kta,Keeta,1.17,-5.73463,loser
+deep,deep,DeepBook,0.150087,-4.75948,loser
+snek,snek,Snek,0.0046711,-4.7416,loser
+spx6900,spx,SPX6900,1.32,-4.46381,loser
+ethena,ena,Ethena,0.70473,-4.22868,loser
