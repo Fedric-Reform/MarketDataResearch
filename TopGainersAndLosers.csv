@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,114169.0,49.0543,gainer
-zora,zora,Zora,0.113988,9.66852,gainer
-beldex,bdx,Beldex,0.076654,8.08858,gainer
-syrup,syrup,Maple Finance,0.463221,7.83669,gainer
-crypto-com-chain,cro,Cronos,0.159641,3.55448,gainer
-telcoin,tel,Telcoin,0.0055523,3.19698,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.02,3.11947,gainer
-hash-2,hash,Provenance Blockchain,0.02677625,3.0109,gainer
-drift-protocol,drift,Drift Protocol,0.573552,2.64363,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.17,2.2669,gainer
-spx6900,spx,SPX6900,1.31,-8.63589,loser
-okb,okb,OKB,198.6,-8.27506,loser
-saros-finance,saros,Saros,0.359332,-8.0841,loser
-snek,snek,Snek,0.00465719,-6.71958,loser
-pump-fun,pump,Pump.fun,0.00299543,-5.79054,loser
-zebec-network,zbcn,Zebec Network,0.00474061,-4.69023,loser
-mog-coin,mog,Mog Coin,1.11e-06,-4.51532,loser
-deep,deep,DeepBook,0.151778,-4.47678,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.38,-4.21698,loser
-floki,floki,FLOKI,0.00010378,-4.21301,loser
+zora,zora,Zora,0.113715,9.61675,gainer
+beldex,bdx,Beldex,0.076611,8.02143,gainer
+syrup,syrup,Maple Finance,0.46132,7.20026,gainer
+hash-2,hash,Provenance Blockchain,0.02677204,6.25904,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.24,4.08067,gainer
+crypto-com-chain,cro,Cronos,0.159482,3.52137,gainer
+telcoin,tel,Telcoin,0.00556635,3.50866,gainer
+bio-protocol,bio,Bio Protocol,0.240441,3.0149,gainer
+stader-ethx,ethx,Stader ETHx,5107.88,2.22923,gainer
+sun-token,sun,Sun Token,0.02472791,2.12415,gainer
+saros-finance,saros,Saros,0.354034,-10.05217,loser
+spx6900,spx,SPX6900,1.31,-8.48322,loser
+okb,okb,OKB,196.52,-8.19698,loser
+snek,snek,Snek,0.00465452,-6.76115,loser
+pump-fun,pump,Pump.fun,0.00299828,-6.36556,loser
+deep,deep,DeepBook,0.151239,-4.99674,loser
+memecore,m,MemeCore,0.43257,-4.8037,loser
+neo,neo,NEO,6.91,-4.59487,loser
+mog-coin,mog,Mog Coin,1.11e-06,-4.57859,loser
+based-brett,brett,Brett,0.055247,-4.4796,loser
