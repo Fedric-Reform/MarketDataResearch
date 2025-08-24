@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-syrup,syrup,Maple Finance,0.465648,9.81172,gainer
-jito-governance-token,jto,Jito,2.02,9.35717,gainer
-beldex,bdx,Beldex,0.077155,8.94823,gainer
-raydium,ray,Raydium,3.68,7.85655,gainer
-drift-protocol,drift,Drift Protocol,0.571876,7.77197,gainer
-solana,sol,Solana,210.85,7.71282,gainer
-bybit-staked-sol,bbsol,Bybit Staked SOL,232.82,7.59606,gainer
-jupiter-staked-sol,jupsol,Jupiter Staked SOL,238.5,7.5413,gainer
-msol,msol,Marinade Staked SOL,277.26,7.44439,gainer
-jito-staked-sol,jitosol,Jito Staked SOL,257.23,7.34992,gainer
-spx6900,spx,SPX6900,1.36,-5.45659,loser
-okb,okb,OKB,206.54,-5.20894,loser
-mantle,mnt,Mantle,1.23,-4.71291,loser
-snek,snek,Snek,0.00462865,-4.35927,loser
-memecore,m,MemeCore,0.436291,-3.59697,loser
-pump-fun,pump,Pump.fun,0.003068,-3.20292,loser
-rekt-4,rekt,Rekt,9.13201e-07,-3.19781,loser
-neo,neo,NEO,7.08,-2.88973,loser
-conflux-token,cfx,Conflux,0.186787,-2.26095,loser
-vision-3,vsn,Vision,0.182032,-2.11497,loser
+syrup,syrup,Maple Finance,0.466626,10.59503,gainer
+jito-governance-token,jto,Jito,2.03,9.89785,gainer
+beldex,bdx,Beldex,0.077226,8.8411,gainer
+raydium,ray,Raydium,3.69,7.9986,gainer
+drift-protocol,drift,Drift Protocol,0.572762,7.68533,gainer
+binance-staked-sol,bnsol,Binance Staked SOL,225.37,7.55232,gainer
+solana,sol,Solana,210.29,7.42407,gainer
+crypto-com-chain,cro,Cronos,0.160297,7.21504,gainer
+bybit-staked-sol,bbsol,Bybit Staked SOL,231.03,7.10323,gainer
+drift-staked-sol,dsol,Drift Staked SOL,238.64,7.09654,gainer
+okb,okb,OKB,206.3,-6.1388,loser
+spx6900,spx,SPX6900,1.36,-5.18145,loser
+mantle,mnt,Mantle,1.24,-4.60327,loser
+memecore,m,MemeCore,0.435212,-3.88227,loser
+snek,snek,Snek,0.00462996,-3.35821,loser
+rekt-4,rekt,Rekt,9.14313e-07,-3.17086,loser
+pump-fun,pump,Pump.fun,0.0030654,-2.83412,loser
+vision-3,vsn,Vision,0.181597,-2.37431,loser
+neo,neo,NEO,7.08,-2.37202,loser
+zebec-network,zbcn,Zebec Network,0.00476625,-2.31122,loser
