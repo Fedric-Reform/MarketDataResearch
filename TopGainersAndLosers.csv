@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.28,29.31235,gainer
-zora,zora,Zora,0.118251,14.42066,gainer
-neo,neo,NEO,8.1,12.86744,gainer
-bio-protocol,bio,Bio Protocol,0.25583,9.06709,gainer
-zebec-network,zbcn,Zebec Network,0.00513049,5.42234,gainer
-monero,xmr,Monero,277.32,4.23497,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.11,3.93204,gainer
-algorand,algo,Algorand,0.272977,3.75644,gainer
-raydium,ray,Raydium,3.62,3.23034,gainer
-vechain,vet,VeChain,0.02620923,2.81246,gainer
-saros-finance,saros,Saros,0.350462,-10.38473,loser
+qtum,qtum,Qtum,3.27,28.98202,gainer
+zora,zora,Zora,0.11757,13.55646,gainer
+neo,neo,NEO,8.09,12.83022,gainer
+bio-protocol,bio,Bio Protocol,0.255377,9.06512,gainer
+zebec-network,zbcn,Zebec Network,0.00512464,5.48071,gainer
+monero,xmr,Monero,277.26,4.2146,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.1,3.88568,gainer
+algorand,algo,Algorand,0.272178,3.45277,gainer
+raydium,ray,Raydium,3.62,3.1058,gainer
+vechain,vet,VeChain,0.02618619,2.72207,gainer
+saros-finance,saros,Saros,0.352507,-9.86177,loser
 hash-2,hash,Provenance Blockchain,0.02654194,-9.71084,loser
-sky,sky,Sky,0.062782,-8.54922,loser
-ethena,ena,Ethena,0.698173,-6.22402,loser
-pump-fun,pump,Pump.fun,0.00297345,-6.13247,loser
-morpho,morpho,Morpho,2.55,-5.69795,loser
-clbtc,clbtc,clBTC,112181.0,-4.47432,loser
-okb,okb,OKB,197.55,-4.38266,loser
-lido-dao,ldo,Lido DAO,1.46,-4.26718,loser
-beldex,bdx,Beldex,0.074445,-3.71599,loser
+sky,sky,Sky,0.062744,-8.60494,loser
+ethena,ena,Ethena,0.697946,-6.30686,loser
+pump-fun,pump,Pump.fun,0.0029724,-6.1659,loser
+morpho,morpho,Morpho,2.55,-5.66389,loser
+okb,okb,OKB,197.5,-4.40503,loser
+lido-dao,ldo,Lido DAO,1.46,-4.30997,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03436608,-3.97538,loser
+clbtc,clbtc,clBTC,112930.0,-3.83604,loser
