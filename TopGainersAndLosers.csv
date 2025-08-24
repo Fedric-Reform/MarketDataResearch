@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.28,29.77935,gainer
-zora,zora,Zora,0.118986,15.13148,gainer
-neo,neo,NEO,8.13,13.49085,gainer
-bio-protocol,bio,Bio Protocol,0.255005,8.52521,gainer
-zebec-network,zbcn,Zebec Network,0.0051369,5.55388,gainer
-monero,xmr,Monero,278.04,4.75338,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.21,4.44165,gainer
-algorand,algo,Algorand,0.273557,3.97689,gainer
-raydium,ray,Raydium,3.62,3.29633,gainer
-vechain,vet,VeChain,0.02622074,2.90891,gainer
-saros-finance,saros,Saros,0.348381,-10.91691,loser
-hash-2,hash,Provenance Blockchain,0.02654194,-9.01351,loser
-sky,sky,Sky,0.062933,-8.29829,loser
-ethena,ena,Ethena,0.698948,-6.04727,loser
-pump-fun,pump,Pump.fun,0.00298018,-5.92024,loser
-morpho,morpho,Morpho,2.54,-5.64524,loser
+qtum,qtum,Qtum,3.28,29.31235,gainer
+zora,zora,Zora,0.118251,14.42066,gainer
+neo,neo,NEO,8.1,12.86744,gainer
+bio-protocol,bio,Bio Protocol,0.25583,9.06709,gainer
+zebec-network,zbcn,Zebec Network,0.00513049,5.42234,gainer
+monero,xmr,Monero,277.32,4.23497,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.11,3.93204,gainer
+algorand,algo,Algorand,0.272977,3.75644,gainer
+raydium,ray,Raydium,3.62,3.23034,gainer
+vechain,vet,VeChain,0.02620923,2.81246,gainer
+saros-finance,saros,Saros,0.350462,-10.38473,loser
+hash-2,hash,Provenance Blockchain,0.02654194,-9.71084,loser
+sky,sky,Sky,0.062782,-8.54922,loser
+ethena,ena,Ethena,0.698173,-6.22402,loser
+pump-fun,pump,Pump.fun,0.00297345,-6.13247,loser
+morpho,morpho,Morpho,2.55,-5.69795,loser
 clbtc,clbtc,clBTC,112181.0,-4.47432,loser
-lido-dao,ldo,Lido DAO,1.46,-4.1629,loser
-okb,okb,OKB,198.38,-3.90194,loser
-beldex,bdx,Beldex,0.074495,-3.76804,loser
+okb,okb,OKB,197.55,-4.38266,loser
+lido-dao,ldo,Lido DAO,1.46,-4.26718,loser
+beldex,bdx,Beldex,0.074445,-3.71599,loser
