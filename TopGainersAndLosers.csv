@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.261991,14.31458,gainer
-zora,zora,Zora,0.114711,11.8598,gainer
-zksync,zk,ZKsync,0.069611,5.62175,gainer
-memecore,m,MemeCore,0.455651,5.2522,gainer
-monero,xmr,Monero,274.33,5.04825,gainer
-neo,neo,NEO,7.47,4.77028,gainer
-zebec-network,zbcn,Zebec Network,0.00505341,4.5463,gainer
-raydium,ray,Raydium,3.66,4.29709,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.97,3.56327,gainer
-drift-staked-sol,dsol,Drift Staked SOL,237.61,2.92966,gainer
-saros-finance,saros,Saros,0.316563,-19.24039,loser
-morpho,morpho,Morpho,2.52,-8.93016,loser
-hash-2,hash,Provenance Blockchain,0.02519053,-7.75871,loser
-pump-fun,pump,Pump.fun,0.00297804,-7.23722,loser
-beldex,bdx,Beldex,0.076205,-6.57743,loser
-keeta,kta,Keeta,1.17,-5.65905,loser
-spx6900,spx,SPX6900,1.32,-5.0205,loser
-deep,deep,DeepBook,0.150224,-4.691,loser
-instadapp,fluid,Fluid,7.35,-4.17454,loser
-ethena,ena,Ethena,0.704099,-4.15615,loser
+bio-protocol,bio,Bio Protocol,0.258307,13.49312,gainer
+zora,zora,Zora,0.115063,11.75911,gainer
+zksync,zk,ZKsync,0.069856,5.776,gainer
+memecore,m,MemeCore,0.456173,5.54065,gainer
+monero,xmr,Monero,274.47,5.04576,gainer
+neo,neo,NEO,7.48,4.8584,gainer
+raydium,ray,Raydium,3.65,3.86042,gainer
+zebec-network,zbcn,Zebec Network,0.00502635,3.83749,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.9,3.17495,gainer
+binance-staked-sol,bnsol,Binance Staked SOL,223.17,2.85382,gainer
+hash-2,hash,Provenance Blockchain,0.0261789,-43.88745,loser
+saros-finance,saros,Saros,0.309696,-20.99191,loser
+morpho,morpho,Morpho,2.52,-8.66828,loser
+pump-fun,pump,Pump.fun,0.00298438,-6.65419,loser
+keeta,kta,Keeta,1.17,-5.70403,loser
+spx6900,spx,SPX6900,1.32,-5.33156,loser
+beldex,bdx,Beldex,0.076106,-5.13697,loser
+deep,deep,DeepBook,0.149979,-4.87288,loser
+ethena,ena,Ethena,0.70295,-4.54941,loser
+instadapp,fluid,Fluid,7.35,-4.25488,loser
