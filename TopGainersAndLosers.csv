@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-zora,zora,Zora,0.113715,9.61675,gainer
-beldex,bdx,Beldex,0.076611,8.02143,gainer
-syrup,syrup,Maple Finance,0.46132,7.20026,gainer
-hash-2,hash,Provenance Blockchain,0.02677204,6.25904,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,28.24,4.08067,gainer
-crypto-com-chain,cro,Cronos,0.159482,3.52137,gainer
-telcoin,tel,Telcoin,0.00556635,3.50866,gainer
-bio-protocol,bio,Bio Protocol,0.240441,3.0149,gainer
-stader-ethx,ethx,Stader ETHx,5107.88,2.22923,gainer
-sun-token,sun,Sun Token,0.02472791,2.12415,gainer
-saros-finance,saros,Saros,0.354034,-10.05217,loser
-spx6900,spx,SPX6900,1.31,-8.48322,loser
-okb,okb,OKB,196.52,-8.19698,loser
-snek,snek,Snek,0.00465452,-6.76115,loser
-pump-fun,pump,Pump.fun,0.00299828,-6.36556,loser
-deep,deep,DeepBook,0.151239,-4.99674,loser
-memecore,m,MemeCore,0.43257,-4.8037,loser
-neo,neo,NEO,6.91,-4.59487,loser
-mog-coin,mog,Mog Coin,1.11e-06,-4.57859,loser
-based-brett,brett,Brett,0.055247,-4.4796,loser
+zora,zora,Zora,0.113699,9.6012,gainer
+beldex,bdx,Beldex,0.076586,7.98673,gainer
+syrup,syrup,Maple Finance,0.461406,7.22018,gainer
+hash-2,hash,Provenance Blockchain,0.02676948,6.24886,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,28.27,4.19895,gainer
+telcoin,tel,Telcoin,0.00556207,3.5903,gainer
+crypto-com-chain,cro,Cronos,0.159621,3.40275,gainer
+bio-protocol,bio,Bio Protocol,0.241055,3.27791,gainer
+stader-ethx,ethx,Stader ETHx,5108.0,2.23169,gainer
+sun-token,sun,Sun Token,0.02473473,2.15231,gainer
+saros-finance,saros,Saros,0.354323,-9.97872,loser
+spx6900,spx,SPX6900,1.31,-8.27324,loser
+okb,okb,OKB,196.42,-6.82881,loser
+snek,snek,Snek,0.00465386,-6.77438,loser
+pump-fun,pump,Pump.fun,0.00299887,-6.34735,loser
+memecore,m,MemeCore,0.432131,-5.13708,loser
+deep,deep,DeepBook,0.151324,-4.94339,loser
+mog-coin,mog,Mog Coin,1.11e-06,-4.62206,loser
+neo,neo,NEO,6.91,-4.53421,loser
+celestia,tia,Celestia,1.8,-4.43928,loser
