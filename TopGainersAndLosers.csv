@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-bio-protocol,bio,Bio Protocol,0.294757,27.43107,gainer
-zora,zora,Zora,0.113064,11.11677,gainer
-memecore,m,MemeCore,0.468348,8.81294,gainer
-drift-protocol,drift,Drift Protocol,0.585374,3.75836,gainer
-bitcoin-cash-sv,bsv,Bitcoin SV,27.95,3.36604,gainer
-crypto-com-chain,cro,Cronos,0.159364,3.2748,gainer
-monero,xmr,Monero,272.28,3.00046,gainer
-syrup,syrup,Maple Finance,0.447291,2.89492,gainer
-neo,neo,NEO,7.38,2.80298,gainer
-zebec-network,zbcn,Zebec Network,0.00500665,2.3667,gainer
-saros-finance,saros,Saros,0.285516,-27.17189,loser
-pump-fun,pump,Pump.fun,0.00294859,-6.64609,loser
-morpho,morpho,Morpho,2.52,-6.4723,loser
-beldex,bdx,Beldex,0.075145,-5.99373,loser
-deep,deep,DeepBook,0.148495,-5.736,loser
-keeta,kta,Keeta,1.16,-5.57516,loser
-avalanche-2,avax,Avalanche,25.11,-5.50997,loser
-spx6900,spx,SPX6900,1.31,-5.45513,loser
-wrapped-avax,wavax,Wrapped AVAX,25.07,-5.41765,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,30.66,-5.38523,loser
+bio-protocol,bio,Bio Protocol,0.274336,18.2116,gainer
+zora,zora,Zora,0.112486,10.06769,gainer
+memecore,m,MemeCore,0.460926,6.72599,gainer
+zebec-network,zbcn,Zebec Network,0.00502226,3.72023,gainer
+neo,neo,NEO,7.42,3.37304,gainer
+bitcoin-cash-sv,bsv,Bitcoin SV,27.91,3.34312,gainer
+crypto-com-chain,cro,Cronos,0.15947,3.08883,gainer
+monero,xmr,Monero,273.2,2.82291,gainer
+chain-2,xcn,Onyxcoin,0.01304853,2.34089,gainer
+drift-protocol,drift,Drift Protocol,0.581082,2.34071,gainer
+saros-finance,saros,Saros,0.286061,-26.90631,loser
+morpho,morpho,Morpho,2.46,-11.70849,loser
+pump-fun,pump,Pump.fun,0.00292899,-8.24103,loser
+keeta,kta,Keeta,1.15,-7.28899,loser
+beldex,bdx,Beldex,0.075456,-6.92065,loser
+aave,aave,Aave,352.55,-6.46324,loser
+deep,deep,DeepBook,0.148571,-5.83202,loser
+gala,gala,GALA,0.01746626,-5.67173,loser
+compound-governance-token,comp,Compound,46.68,-5.6448,loser
+aioz-network,aioz,AIOZ Network,0.361836,-5.57278,loser
