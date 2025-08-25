@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.32,35.14392,gainer
-neo,neo,NEO,8.04,14.05828,gainer
-zebec-network,zbcn,Zebec Network,0.00513393,8.02228,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.64,5.7855,gainer
-wrapped-hype,whype,Wrapped HYPE,46.54,5.74743,gainer
-hyperliquid,hype,Hyperliquid,46.57,5.69378,gainer
-zora,zora,Zora,0.116421,5.28452,gainer
-theta-token,theta,Theta Network,0.857951,4.11462,gainer
-convex-finance,cvx,Convex Finance,4.32,4.09497,gainer
-story-2,ip,Story,6.15,3.87931,gainer
-saros-finance,saros,Saros,0.334195,-13.59702,loser
-syrup,syrup,Maple Finance,0.437013,-7.58131,loser
-hash-2,hash,Provenance Blockchain,0.02574007,-5.44402,loser
-sky,sky,Sky,0.063581,-5.22471,loser
-lido-dao,ldo,Lido DAO,1.42,-5.13317,loser
-aerodrome-finance,aero,Aerodrome Finance,1.4,-4.86421,loser
-ethena,ena,Ethena,0.686764,-4.35831,loser
-morpho,morpho,Morpho,2.54,-4.22973,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03428018,-4.16939,loser
-okb,okb,OKB,194.17,-4.12049,loser
+qtum,qtum,Qtum,3.32,35.26036,gainer
+neo,neo,NEO,8.08,14.6154,gainer
+zebec-network,zbcn,Zebec Network,0.00514616,8.23108,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.73,5.9824,gainer
+wrapped-hype,whype,Wrapped HYPE,46.54,5.82908,gainer
+hyperliquid,hype,Hyperliquid,46.57,5.8157,gainer
+zora,zora,Zora,0.116236,4.85893,gainer
+theta-token,theta,Theta Network,0.860186,4.36789,gainer
+convex-finance,cvx,Convex Finance,4.33,4.06419,gainer
+vechain,vet,VeChain,0.02632617,3.93837,gainer
+saros-finance,saros,Saros,0.332419,-14.05319,loser
+syrup,syrup,Maple Finance,0.436951,-7.88772,loser
+hash-2,hash,Provenance Blockchain,0.02574007,-5.37685,loser
+lido-dao,ldo,Lido DAO,1.42,-5.17197,loser
+sky,sky,Sky,0.063669,-5.09865,loser
+aerodrome-finance,aero,Aerodrome Finance,1.4,-5.08979,loser
+ethena,ena,Ethena,0.687333,-4.27909,loser
+aioz-network,aioz,AIOZ Network,0.364001,-4.14795,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03430418,-4.1023,loser
+morpho,morpho,Morpho,2.54,-4.08559,loser
