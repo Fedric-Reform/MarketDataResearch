@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.28,33.00651,gainer
-neo,neo,NEO,8.44,19.59212,gainer
-zebec-network,zbcn,Zebec Network,0.00513278,7.66902,gainer
-vechain,vet,VeChain,0.02693403,6.33781,gainer
-wrapped-hype,whype,Wrapped HYPE,46.29,4.55937,gainer
-hyperliquid,hype,Hyperliquid,46.25,4.37962,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.31,4.18427,gainer
-theta-token,theta,Theta Network,0.858934,3.8317,gainer
-algorand,algo,Algorand,0.26966,3.35349,gainer
-story-2,ip,Story,6.11,3.21103,gainer
-saros-finance,saros,Saros,0.333082,-13.62195,loser
-syrup,syrup,Maple Finance,0.433234,-9.03828,loser
-keeta,kta,Keeta,1.14,-7.24516,loser
-lido-dao,ldo,Lido DAO,1.41,-6.27285,loser
-pump-fun,pump,Pump.fun,0.00285695,-6.1546,loser
-aerodrome-finance,aero,Aerodrome Finance,1.38,-6.08621,loser
-ethena,ena,Ethena,0.676358,-5.91292,loser
-sky,sky,Sky,0.063393,-5.76518,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.0338586,-5.64545,loser
-aioz-network,aioz,AIOZ Network,0.360071,-5.63388,loser
+qtum,qtum,Qtum,3.28,32.8067,gainer
+neo,neo,NEO,8.38,18.94435,gainer
+zebec-network,zbcn,Zebec Network,0.0051394,7.61171,gainer
+vechain,vet,VeChain,0.02699886,6.60522,gainer
+wrapped-hype,whype,Wrapped HYPE,46.34,4.58984,gainer
+hyperliquid,hype,Hyperliquid,46.31,4.46701,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.36,4.36721,gainer
+theta-token,theta,Theta Network,0.859218,3.80722,gainer
+snek,snek,Snek,0.00477671,3.31933,gainer
+algorand,algo,Algorand,0.269451,3.26341,gainer
+saros-finance,saros,Saros,0.333187,-12.39165,loser
+keeta,kta,Keeta,1.1,-10.24085,loser
+syrup,syrup,Maple Finance,0.432009,-9.22479,loser
+instadapp,fluid,Fluid,6.85,-7.10575,loser
+pump-fun,pump,Pump.fun,0.00285759,-6.59866,loser
+lido-dao,ldo,Lido DAO,1.41,-6.13427,loser
+aerodrome-finance,aero,Aerodrome Finance,1.38,-5.98768,loser
+aioz-network,aioz,AIOZ Network,0.359617,-5.70287,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03385566,-5.68108,loser
+sky,sky,Sky,0.063359,-5.661,loser
