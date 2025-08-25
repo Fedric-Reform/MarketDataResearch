@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.29,33.50159,gainer
-neo,neo,NEO,8.42,19.428,gainer
-zebec-network,zbcn,Zebec Network,0.00512876,7.63441,gainer
-vechain,vet,VeChain,0.02697618,6.38446,gainer
-wrapped-hype,whype,Wrapped HYPE,46.35,4.96432,gainer
-hyperliquid,hype,Hyperliquid,46.34,4.69836,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.4,4.58224,gainer
-theta-token,theta,Theta Network,0.86075,3.99116,gainer
-algorand,algo,Algorand,0.270573,3.59576,gainer
-story-2,ip,Story,6.11,3.34463,gainer
-saros-finance,saros,Saros,0.331347,-14.07179,loser
-syrup,syrup,Maple Finance,0.433856,-9.3589,loser
-lido-dao,ldo,Lido DAO,1.41,-5.93482,loser
-aerodrome-finance,aero,Aerodrome Finance,1.39,-5.83515,loser
-pump-fun,pump,Pump.fun,0.00286471,-5.70374,loser
-ethena,ena,Ethena,0.678219,-5.65979,loser
-sky,sky,Sky,0.063457,-5.60792,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03395632,-5.39073,loser
-instadapp,fluid,Fluid,6.98,-5.38272,loser
-aioz-network,aioz,AIOZ Network,0.361129,-5.28345,loser
+qtum,qtum,Qtum,3.28,33.00651,gainer
+neo,neo,NEO,8.44,19.59212,gainer
+zebec-network,zbcn,Zebec Network,0.00513278,7.66902,gainer
+vechain,vet,VeChain,0.02693403,6.33781,gainer
+wrapped-hype,whype,Wrapped HYPE,46.29,4.55937,gainer
+hyperliquid,hype,Hyperliquid,46.25,4.37962,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.31,4.18427,gainer
+theta-token,theta,Theta Network,0.858934,3.8317,gainer
+algorand,algo,Algorand,0.26966,3.35349,gainer
+story-2,ip,Story,6.11,3.21103,gainer
+saros-finance,saros,Saros,0.333082,-13.62195,loser
+syrup,syrup,Maple Finance,0.433234,-9.03828,loser
+keeta,kta,Keeta,1.14,-7.24516,loser
+lido-dao,ldo,Lido DAO,1.41,-6.27285,loser
+pump-fun,pump,Pump.fun,0.00285695,-6.1546,loser
+aerodrome-finance,aero,Aerodrome Finance,1.38,-6.08621,loser
+ethena,ena,Ethena,0.676358,-5.91292,loser
+sky,sky,Sky,0.063393,-5.76518,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0338586,-5.64545,loser
+aioz-network,aioz,AIOZ Network,0.360071,-5.63388,loser
