@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.18,29.398,gainer
-neo,neo,NEO,8.04,16.18034,gainer
-zebec-network,zbcn,Zebec Network,0.00505295,6.52541,gainer
-just,jst,JUST,0.03629205,4.62771,gainer
-hash-2,hash,Provenance Blockchain,0.02798651,4.51992,gainer
-newton-project,ab,AB,0.00928084,4.06679,gainer
-vechain,vet,VeChain,0.02592389,3.72663,gainer
-build-on,b,BUILDon,0.548188,3.21783,gainer
-monero,xmr,Monero,274.4,2.14424,gainer
-beldex,bdx,Beldex,0.078084,1.84867,gainer
-keeta,kta,Keeta,1.1,-9.78972,loser
-instadapp,fluid,Fluid,6.61,-9.75151,loser
-syrup,syrup,Maple Finance,0.42144,-9.71761,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03227887,-8.96637,loser
-mantle,mnt,Mantle,1.15,-8.94256,loser
-rekt-4,rekt,Rekt,8.46939e-07,-6.88631,loser
-ethena,ena,Ethena,0.659439,-6.83311,loser
-okb,okb,OKB,186.2,-6.51142,loser
-pump-fun,pump,Pump.fun,0.00279098,-6.44765,loser
-uniswap,uni,Uniswap,10.43,-6.43513,loser
+saros-finance,saros,Saros,0.350314,111.30429,gainer
+qtum,qtum,Qtum,3.0,9.9247,gainer
+neo,neo,NEO,7.84,6.31938,gainer
+just,jst,JUST,0.03645458,6.03166,gainer
+newton-project,ab,AB,0.00924523,4.72619,gainer
+zebec-network,zbcn,Zebec Network,0.00495556,4.58583,gainer
+hyperliquid,hype,Hyperliquid,45.69,4.54009,gainer
+wrapped-hype,whype,Wrapped HYPE,45.67,4.285,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.55,3.80626,gainer
+monero,xmr,Monero,276.64,2.81399,gainer
+bio-protocol,bio,Bio Protocol,0.23397,-22.70824,loser
+keeta,kta,Keeta,1.063,-12.58609,loser
+instadapp,fluid,Fluid,6.57,-9.69853,loser
+rekt-4,rekt,Rekt,8.29159e-07,-8.48944,loser
+ethena,ena,Ethena,0.641635,-7.93251,loser
+okb,okb,OKB,180.79,-7.50331,loser
+morpho,morpho,Morpho,2.41,-7.47696,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03163803,-7.39124,loser
+pendle,pendle,Pendle,5.44,-7.38102,loser
+mog-coin,mog,Mog Coin,1.02e-06,-7.35222,loser
