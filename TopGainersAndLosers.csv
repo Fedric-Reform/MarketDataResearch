@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.23,30.37967,gainer
-neo,neo,NEO,8.16,16.02646,gainer
-zebec-network,zbcn,Zebec Network,0.00517522,7.69744,gainer
-vechain,vet,VeChain,0.02674169,5.52919,gainer
-hyperliquid,hype,Hyperliquid,46.27,4.86115,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.29,4.60683,gainer
-wrapped-hype,whype,Wrapped HYPE,46.2,4.39183,gainer
-story-2,ip,Story,6.11,3.25411,gainer
-theta-token,theta,Theta Network,0.849346,2.79917,gainer
-monero,xmr,Monero,277.59,2.75765,gainer
-syrup,syrup,Maple Finance,0.431566,-10.75097,loser
-keeta,kta,Keeta,1.12,-8.81252,loser
-saros-finance,saros,Saros,0.346,-8.24858,loser
-instadapp,fluid,Fluid,6.82,-7.47752,loser
-lido-dao,ldo,Lido DAO,1.4,-6.38872,loser
-sky,sky,Sky,0.063102,-6.21359,loser
-pump-fun,pump,Pump.fun,0.00285052,-6.13705,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.0337514,-5.88364,loser
-aerodrome-finance,aero,Aerodrome Finance,1.38,-5.73657,loser
-aioz-network,aioz,AIOZ Network,0.358497,-5.66688,loser
+qtum,qtum,Qtum,3.23,30.46939,gainer
+neo,neo,NEO,8.07,14.52705,gainer
+zebec-network,zbcn,Zebec Network,0.00516474,7.45,gainer
+vechain,vet,VeChain,0.0265725,4.9081,gainer
+hyperliquid,hype,Hyperliquid,46.31,4.8431,gainer
+wrapped-hype,whype,Wrapped HYPE,46.24,4.81958,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.35,4.79005,gainer
+story-2,ip,Story,6.12,3.39379,gainer
+just,jst,JUST,0.03594551,2.9424,gainer
+monero,xmr,Monero,277.57,2.85181,gainer
+syrup,syrup,Maple Finance,0.431477,-10.46303,loser
+keeta,kta,Keeta,1.12,-8.64841,loser
+instadapp,fluid,Fluid,6.82,-7.49382,loser
+saros-finance,saros,Saros,0.348453,-7.19208,loser
+lido-dao,ldo,Lido DAO,1.4,-6.31265,loser
+pump-fun,pump,Pump.fun,0.00284695,-6.16383,loser
+sky,sky,Sky,0.063217,-5.95457,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03376133,-5.82363,loser
+aioz-network,aioz,AIOZ Network,0.358489,-5.66897,loser
+aerodrome-finance,aero,Aerodrome Finance,1.38,-5.58772,loser
