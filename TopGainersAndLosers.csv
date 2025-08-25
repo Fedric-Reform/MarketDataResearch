@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.32,35.26036,gainer
-neo,neo,NEO,8.08,14.6154,gainer
-zebec-network,zbcn,Zebec Network,0.00514616,8.23108,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.73,5.9824,gainer
-wrapped-hype,whype,Wrapped HYPE,46.54,5.82908,gainer
-hyperliquid,hype,Hyperliquid,46.57,5.8157,gainer
-zora,zora,Zora,0.116236,4.85893,gainer
-theta-token,theta,Theta Network,0.860186,4.36789,gainer
-convex-finance,cvx,Convex Finance,4.33,4.06419,gainer
-vechain,vet,VeChain,0.02632617,3.93837,gainer
-saros-finance,saros,Saros,0.332419,-14.05319,loser
-syrup,syrup,Maple Finance,0.436951,-7.88772,loser
-hash-2,hash,Provenance Blockchain,0.02574007,-5.37685,loser
-lido-dao,ldo,Lido DAO,1.42,-5.17197,loser
-sky,sky,Sky,0.063669,-5.09865,loser
-aerodrome-finance,aero,Aerodrome Finance,1.4,-5.08979,loser
-ethena,ena,Ethena,0.687333,-4.27909,loser
-aioz-network,aioz,AIOZ Network,0.364001,-4.14795,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03430418,-4.1023,loser
-morpho,morpho,Morpho,2.54,-4.08559,loser
+qtum,qtum,Qtum,3.31,34.08372,gainer
+neo,neo,NEO,8.22,16.40464,gainer
+zebec-network,zbcn,Zebec Network,0.00510655,7.20301,gainer
+wrapped-hype,whype,Wrapped HYPE,46.45,5.39659,gainer
+hyperliquid,hype,Hyperliquid,46.53,5.35614,gainer
+vechain,vet,VeChain,0.02673947,5.31732,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.46,4.6779,gainer
+theta-token,theta,Theta Network,0.859932,3.94814,gainer
+algorand,algo,Algorand,0.271194,3.74649,gainer
+story-2,ip,Story,6.11,3.20643,gainer
+saros-finance,saros,Saros,0.333429,-14.02641,loser
+syrup,syrup,Maple Finance,0.43503,-9.54795,loser
+aerodrome-finance,aero,Aerodrome Finance,1.39,-5.7263,loser
+lido-dao,ldo,Lido DAO,1.41,-5.71924,loser
+sky,sky,Sky,0.063488,-5.66527,loser
+ethena,ena,Ethena,0.68083,-5.37544,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0340743,-5.32787,loser
+instadapp,fluid,Fluid,6.99,-5.31712,loser
+aioz-network,aioz,AIOZ Network,0.362007,-5.28416,loser
+pump-fun,pump,Pump.fun,0.00287791,-5.14736,loser
