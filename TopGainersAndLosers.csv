@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-saros-finance,saros,Saros,0.330821,16.59089,gainer
-qtum,qtum,Qtum,3.17,9.75564,gainer
-build-on,b,BUILDon,0.562023,6.72856,gainer
-neo,neo,NEO,7.96,5.78846,gainer
-just,jst,JUST,0.03624425,5.43639,gainer
-newton-project,ab,AB,0.00926608,4.8,gainer
-hyperliquid,hype,Hyperliquid,45.63,4.79041,gainer
-wrapped-hype,whype,Wrapped HYPE,45.56,4.72534,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.7,4.72097,gainer
-bittorrent,btt,BitTorrent,7.1554e-07,4.6401,gainer
-bio-protocol,bio,Bio Protocol,0.228645,-24.9296,loser
-instadapp,fluid,Fluid,6.54,-9.8672,loser
-keeta,kta,Keeta,1.088,-8.25938,loser
-ethena,ena,Ethena,0.643543,-7.74253,loser
-rekt-4,rekt,Rekt,8.30385e-07,-7.29785,loser
-syrup,syrup,Maple Finance,0.418037,-7.07371,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03174971,-7.03198,loser
-morpho,morpho,Morpho,2.41,-6.86391,loser
-pendle,pendle,Pendle,5.44,-6.63091,loser
-mog-coin,mog,Mog Coin,1.02e-06,-6.54666,loser
+saros-finance,saros,Saros,0.330821,16.64485,gainer
+qtum,qtum,Qtum,3.17,9.40532,gainer
+build-on,b,BUILDon,0.562028,6.7295,gainer
+just,jst,JUST,0.03626158,5.4868,gainer
+neo,neo,NEO,7.95,5.3986,gainer
+newton-project,ab,AB,0.00926525,4.81001,gainer
+hyperliquid,hype,Hyperliquid,45.63,4.78707,gainer
+wrapped-hype,whype,Wrapped HYPE,45.56,4.72559,gainer
+bittorrent,btt,BitTorrent,7.15937e-07,4.69819,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.7,4.39876,gainer
+bio-protocol,bio,Bio Protocol,0.228721,-25.03862,loser
+instadapp,fluid,Fluid,6.54,-9.8938,loser
+keeta,kta,Keeta,1.088,-8.24039,loser
+ethena,ena,Ethena,0.644122,-7.65949,loser
+rekt-4,rekt,Rekt,8.30473e-07,-7.27376,loser
+syrup,syrup,Maple Finance,0.418119,-7.05546,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0317831,-6.93421,loser
+morpho,morpho,Morpho,2.41,-6.90618,loser
+pendle,pendle,Pendle,5.44,-6.61993,loser
+mog-coin,mog,Mog Coin,1.02e-06,-6.55516,loser
