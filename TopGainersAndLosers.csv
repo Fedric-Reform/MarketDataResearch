@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.31,34.08372,gainer
-neo,neo,NEO,8.22,16.40464,gainer
-zebec-network,zbcn,Zebec Network,0.00510655,7.20301,gainer
-wrapped-hype,whype,Wrapped HYPE,46.45,5.39659,gainer
-hyperliquid,hype,Hyperliquid,46.53,5.35614,gainer
-vechain,vet,VeChain,0.02673947,5.31732,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.46,4.6779,gainer
-theta-token,theta,Theta Network,0.859932,3.94814,gainer
-algorand,algo,Algorand,0.271194,3.74649,gainer
-story-2,ip,Story,6.11,3.20643,gainer
-saros-finance,saros,Saros,0.333429,-14.02641,loser
-syrup,syrup,Maple Finance,0.43503,-9.54795,loser
-aerodrome-finance,aero,Aerodrome Finance,1.39,-5.7263,loser
-lido-dao,ldo,Lido DAO,1.41,-5.71924,loser
-sky,sky,Sky,0.063488,-5.66527,loser
-ethena,ena,Ethena,0.68083,-5.37544,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.0340743,-5.32787,loser
-instadapp,fluid,Fluid,6.99,-5.31712,loser
-aioz-network,aioz,AIOZ Network,0.362007,-5.28416,loser
-pump-fun,pump,Pump.fun,0.00287791,-5.14736,loser
+qtum,qtum,Qtum,3.29,33.35631,gainer
+neo,neo,NEO,8.2,16.14568,gainer
+zebec-network,zbcn,Zebec Network,0.00511686,7.41941,gainer
+vechain,vet,VeChain,0.02681608,5.61906,gainer
+hyperliquid,hype,Hyperliquid,46.53,5.37,gainer
+wrapped-hype,whype,Wrapped HYPE,46.41,5.30897,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.42,4.59628,gainer
+theta-token,theta,Theta Network,0.861935,4.19034,gainer
+algorand,algo,Algorand,0.270731,3.56957,gainer
+story-2,ip,Story,6.11,3.24181,gainer
+saros-finance,saros,Saros,0.332947,-14.15072,loser
+syrup,syrup,Maple Finance,0.435056,-9.54249,loser
+lido-dao,ldo,Lido DAO,1.41,-5.79074,loser
+aerodrome-finance,aero,Aerodrome Finance,1.39,-5.73361,loser
+sky,sky,Sky,0.063496,-5.66342,loser
+ethena,ena,Ethena,0.680739,-5.38814,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03407117,-5.33659,loser
+instadapp,fluid,Fluid,6.99,-5.26742,loser
+pump-fun,pump,Pump.fun,0.00287487,-5.2475,loser
+aioz-network,aioz,AIOZ Network,0.361905,-5.19043,loser
