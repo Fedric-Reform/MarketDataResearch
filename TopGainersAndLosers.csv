@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.29,33.35631,gainer
-neo,neo,NEO,8.2,16.14568,gainer
-zebec-network,zbcn,Zebec Network,0.00511686,7.41941,gainer
-vechain,vet,VeChain,0.02681608,5.61906,gainer
-hyperliquid,hype,Hyperliquid,46.53,5.37,gainer
-wrapped-hype,whype,Wrapped HYPE,46.41,5.30897,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.42,4.59628,gainer
-theta-token,theta,Theta Network,0.861935,4.19034,gainer
-algorand,algo,Algorand,0.270731,3.56957,gainer
-story-2,ip,Story,6.11,3.24181,gainer
-saros-finance,saros,Saros,0.332947,-14.15072,loser
-syrup,syrup,Maple Finance,0.435056,-9.54249,loser
-lido-dao,ldo,Lido DAO,1.41,-5.79074,loser
-aerodrome-finance,aero,Aerodrome Finance,1.39,-5.73361,loser
-sky,sky,Sky,0.063496,-5.66342,loser
-ethena,ena,Ethena,0.680739,-5.38814,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03407117,-5.33659,loser
-instadapp,fluid,Fluid,6.99,-5.26742,loser
-pump-fun,pump,Pump.fun,0.00287487,-5.2475,loser
-aioz-network,aioz,AIOZ Network,0.361905,-5.19043,loser
+qtum,qtum,Qtum,3.29,33.26867,gainer
+neo,neo,NEO,8.34,18.12119,gainer
+zebec-network,zbcn,Zebec Network,0.00511933,7.49958,gainer
+vechain,vet,VeChain,0.02689573,6.06719,gainer
+wrapped-hype,whype,Wrapped HYPE,46.39,4.83953,gainer
+hyperliquid,hype,Hyperliquid,46.36,4.77604,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.44,4.75716,gainer
+theta-token,theta,Theta Network,0.861861,4.11479,gainer
+algorand,algo,Algorand,0.270781,3.59011,gainer
+story-2,ip,Story,6.11,3.25058,gainer
+saros-finance,saros,Saros,0.331935,-14.38662,loser
+syrup,syrup,Maple Finance,0.43495,-9.13045,loser
+lido-dao,ldo,Lido DAO,1.41,-5.82134,loser
+aerodrome-finance,aero,Aerodrome Finance,1.39,-5.65984,loser
+pump-fun,pump,Pump.fun,0.00286858,-5.5762,loser
+ethena,ena,Ethena,0.679962,-5.52852,loser
+sky,sky,Sky,0.063515,-5.5205,loser
+instadapp,fluid,Fluid,6.98,-5.34469,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03404372,-5.1472,loser
+aioz-network,aioz,AIOZ Network,0.361728,-5.12642,loser
