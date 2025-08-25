@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.28,31.53042,gainer
-neo,neo,NEO,8.18,16.36238,gainer
-zebec-network,zbcn,Zebec Network,0.00511544,6.44611,gainer
-hyperliquid,hype,Hyperliquid,45.89,4.2047,gainer
-vechain,vet,VeChain,0.02632676,4.15441,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.91,3.97156,gainer
-wrapped-hype,whype,Wrapped HYPE,45.82,3.93621,gainer
-story-2,ip,Story,6.11,3.38224,gainer
-monero,xmr,Monero,276.21,2.50044,gainer
-algorand,algo,Algorand,0.266833,2.06189,gainer
-syrup,syrup,Maple Finance,0.429766,-10.71204,loser
-keeta,kta,Keeta,1.13,-7.74613,loser
-instadapp,fluid,Fluid,6.82,-7.5578,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.0332012,-7.09369,loser
-pump-fun,pump,Pump.fun,0.00281525,-6.73747,loser
-mantle,mnt,Mantle,1.19,-6.56897,loser
-lido-dao,ldo,Lido DAO,1.4,-6.5147,loser
-sky,sky,Sky,0.063143,-6.1341,loser
-ethena,ena,Ethena,0.671466,-6.08596,loser
-okb,okb,OKB,190.45,-5.89469,loser
+qtum,qtum,Qtum,3.27,31.18661,gainer
+neo,neo,NEO,8.25,17.46011,gainer
+zebec-network,zbcn,Zebec Network,0.00519767,8.48889,gainer
+vechain,vet,VeChain,0.02639522,4.60667,gainer
+wrapped-hype,whype,Wrapped HYPE,45.91,4.30453,gainer
+hyperliquid,hype,Hyperliquid,45.8,4.00464,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.78,3.80221,gainer
+story-2,ip,Story,6.11,3.39448,gainer
+monero,xmr,Monero,276.23,2.69964,gainer
+algorand,algo,Algorand,0.266609,2.05204,gainer
+syrup,syrup,Maple Finance,0.427988,-11.15608,loser
+mantle,mnt,Mantle,1.17,-8.06539,loser
+keeta,kta,Keeta,1.13,-7.50769,loser
+instadapp,fluid,Fluid,6.82,-7.37605,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03312666,-7.25083,loser
+pump-fun,pump,Pump.fun,0.002816,-6.6303,loser
+lido-dao,ldo,Lido DAO,1.4,-6.46902,loser
+ethena,ena,Ethena,0.670542,-6.03787,loser
+sky,sky,Sky,0.063202,-5.89735,loser
+pendle,pendle,Pendle,5.63,-5.81505,loser
