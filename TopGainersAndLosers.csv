@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-qtum,qtum,Qtum,3.29,33.26867,gainer
-neo,neo,NEO,8.34,18.12119,gainer
-zebec-network,zbcn,Zebec Network,0.00511933,7.49958,gainer
-vechain,vet,VeChain,0.02689573,6.06719,gainer
-wrapped-hype,whype,Wrapped HYPE,46.39,4.83953,gainer
-hyperliquid,hype,Hyperliquid,46.36,4.77604,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.44,4.75716,gainer
-theta-token,theta,Theta Network,0.861861,4.11479,gainer
-algorand,algo,Algorand,0.270781,3.59011,gainer
-story-2,ip,Story,6.11,3.25058,gainer
-saros-finance,saros,Saros,0.331935,-14.38662,loser
-syrup,syrup,Maple Finance,0.43495,-9.13045,loser
-lido-dao,ldo,Lido DAO,1.41,-5.82134,loser
-aerodrome-finance,aero,Aerodrome Finance,1.39,-5.65984,loser
-pump-fun,pump,Pump.fun,0.00286858,-5.5762,loser
-ethena,ena,Ethena,0.679962,-5.52852,loser
-sky,sky,Sky,0.063515,-5.5205,loser
-instadapp,fluid,Fluid,6.98,-5.34469,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03404372,-5.1472,loser
-aioz-network,aioz,AIOZ Network,0.361728,-5.12642,loser
+qtum,qtum,Qtum,3.29,33.50159,gainer
+neo,neo,NEO,8.42,19.428,gainer
+zebec-network,zbcn,Zebec Network,0.00512876,7.63441,gainer
+vechain,vet,VeChain,0.02697618,6.38446,gainer
+wrapped-hype,whype,Wrapped HYPE,46.35,4.96432,gainer
+hyperliquid,hype,Hyperliquid,46.34,4.69836,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,46.4,4.58224,gainer
+theta-token,theta,Theta Network,0.86075,3.99116,gainer
+algorand,algo,Algorand,0.270573,3.59576,gainer
+story-2,ip,Story,6.11,3.34463,gainer
+saros-finance,saros,Saros,0.331347,-14.07179,loser
+syrup,syrup,Maple Finance,0.433856,-9.3589,loser
+lido-dao,ldo,Lido DAO,1.41,-5.93482,loser
+aerodrome-finance,aero,Aerodrome Finance,1.39,-5.83515,loser
+pump-fun,pump,Pump.fun,0.00286471,-5.70374,loser
+ethena,ena,Ethena,0.678219,-5.65979,loser
+sky,sky,Sky,0.063457,-5.60792,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03395632,-5.39073,loser
+instadapp,fluid,Fluid,6.98,-5.38272,loser
+aioz-network,aioz,AIOZ Network,0.361129,-5.28345,loser
