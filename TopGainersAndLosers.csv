@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8614.75,20.09003,gainer
-build-on,b,BUILDon,0.561062,6.09943,gainer
-memecore,m,MemeCore,0.463984,5.21371,gainer
+ultima,ultima,Ultima,8617.79,20.13545,gainer
+build-on,b,BUILDon,0.561246,6.13434,gainer
+memecore,m,MemeCore,0.464612,5.35619,gainer
 hash-2,hash,Provenance Blockchain,0.02708666,5.03356,gainer
-newton-project,ab,AB,0.00914599,3.38664,gainer
-dexe,dexe,DeXe,7.14,2.37799,gainer
-beldex,bdx,Beldex,0.076588,1.21402,gainer
-loaded-lions,lion,Loaded Lions,0.01766323,0.95828,gainer
-usdb,usdb,USDB,1.007,0.79493,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.22192,gainer
-fartcoin,fartcoin,Fartcoin,0.779146,-20.23305,loser
-instadapp,fluid,Fluid,5.79,-18.97263,loser
-mog-coin,mog,Mog Coin,9.43841e-07,-14.92456,loser
-keeta,kta,Keeta,1.033,-13.93943,loser
-curve-dao-token,crv,Curve DAO,0.780705,-13.82238,loser
-bio-protocol,bio,Bio Protocol,0.207555,-13.71485,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03001276,-13.61912,loser
-based-brett,brett,Brett,0.04876949,-13.54277,loser
-rekt-4,rekt,Rekt,7.63465e-07,-13.50366,loser
-zora,zora,Zora,0.100094,-13.14332,loser
+newton-project,ab,AB,0.00915153,3.44928,gainer
+dexe,dexe,DeXe,7.14,2.36942,gainer
+beldex,bdx,Beldex,0.076598,1.22704,gainer
+loaded-lions,lion,Loaded Lions,0.01765709,0.92318,gainer
+usdb,usdb,USDB,1.007,0.64311,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.22494,gainer
+fartcoin,fartcoin,Fartcoin,0.77906,-20.24185,loser
+instadapp,fluid,Fluid,5.79,-18.98963,loser
+mog-coin,mog,Mog Coin,9.43587e-07,-14.94747,loser
+keeta,kta,Keeta,1.031,-14.12942,loser
+curve-dao-token,crv,Curve DAO,0.780762,-13.81614,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03000279,-13.64781,loser
+bio-protocol,bio,Bio Protocol,0.207828,-13.60124,loser
+based-brett,brett,Brett,0.04876887,-13.54387,loser
+rekt-4,rekt,Rekt,7.63411e-07,-13.50971,loser
+zora,zora,Zora,0.100061,-13.17188,loser
