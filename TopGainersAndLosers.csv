@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8605.69,20.15213,gainer
-build-on,b,BUILDon,0.564255,7.43965,gainer
-memecore,m,MemeCore,0.46211,4.64374,gainer
-newton-project,ab,AB,0.00913901,3.42168,gainer
-beldex,bdx,Beldex,0.076585,2.13987,gainer
-dexe,dexe,DeXe,7.07,1.6704,gainer
-loaded-lions,lion,Loaded Lions,0.01766626,1.08771,gainer
-hash-2,hash,Provenance Blockchain,0.02656273,1.04906,gainer
-tether-gold,xaut,Tether Gold,3379.6,0.42289,gainer
-pax-gold,paxg,PAX Gold,3364.37,0.33978,gainer
-fartcoin,fartcoin,Fartcoin,0.783662,-19.46376,loser
-instadapp,fluid,Fluid,5.9,-17.51022,loser
-bio-protocol,bio,Bio Protocol,0.206485,-14.60991,loser
-mog-coin,mog,Mog Coin,9.44677e-07,-14.1733,loser
-keeta,kta,Keeta,1.041,-14.08019,loser
-curve-dao-token,crv,Curve DAO,0.782234,-14.03219,loser
-rekt-4,rekt,Rekt,7.69214e-07,-12.9513,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03025037,-12.93164,loser
-based-brett,brett,Brett,0.04903916,-12.57841,loser
-wormhole,w,Wormhole,0.072598,-11.47207,loser
+ultima,ultima,Ultima,8605.47,20.14906,gainer
+build-on,b,BUILDon,0.564059,7.4025,gainer
+memecore,m,MemeCore,0.464109,4.85229,gainer
+newton-project,ab,AB,0.00914643,3.50564,gainer
+beldex,bdx,Beldex,0.076563,2.11082,gainer
+dexe,dexe,DeXe,7.07,1.50272,gainer
+hash-2,hash,Provenance Blockchain,0.02656043,1.04032,gainer
+loaded-lions,lion,Loaded Lions,0.01766558,1.02147,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.96732,gainer
+tether-gold,xaut,Tether Gold,3379.62,0.43214,gainer
+fartcoin,fartcoin,Fartcoin,0.781891,-19.64579,loser
+instadapp,fluid,Fluid,5.89,-17.61797,loser
+mog-coin,mog,Mog Coin,9.43599e-07,-14.56415,loser
+bio-protocol,bio,Bio Protocol,0.207251,-14.29336,loser
+curve-dao-token,crv,Curve DAO,0.780634,-14.07581,loser
+keeta,kta,Keeta,1.041,-14.05685,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03021748,-13.02629,loser
+rekt-4,rekt,Rekt,7.69201e-07,-12.95275,loser
+based-brett,brett,Brett,0.04887462,-12.73556,loser
+wormhole,w,Wormhole,0.072447,-11.8616,loser
