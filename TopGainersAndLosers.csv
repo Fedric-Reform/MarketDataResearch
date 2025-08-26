@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8617.26,20.19144,gainer
-build-on,b,BUILDon,0.560714,5.8625,gainer
-hash-2,hash,Provenance Blockchain,0.0271641,5.68067,gainer
-memecore,m,MemeCore,0.459845,5.18356,gainer
-newton-project,ab,AB,0.00915224,3.44429,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.19,2.80126,gainer
-dexe,dexe,DeXe,7.13,2.14846,gainer
-loaded-lions,lion,Loaded Lions,0.01767097,0.98914,gainer
-beldex,bdx,Beldex,0.076547,0.73573,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.003,0.36063,gainer
-fartcoin,fartcoin,Fartcoin,0.777535,-20.76754,loser
-instadapp,fluid,Fluid,5.78,-18.79421,loser
-mog-coin,mog,Mog Coin,9.44644e-07,-14.82456,loser
-curve-dao-token,crv,Curve DAO,0.778682,-14.48628,loser
-keeta,kta,Keeta,1.027,-14.2478,loser
-based-brett,brett,Brett,0.04857365,-13.86747,loser
-bio-protocol,bio,Bio Protocol,0.206792,-13.61522,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02997858,-13.41357,loser
-rekt-4,rekt,Rekt,7.65265e-07,-13.28543,loser
-wormhole,w,Wormhole,0.072092,-12.96408,loser
+ultima,ultima,Ultima,8628.27,20.51965,gainer
+memecore,m,MemeCore,0.460608,5.55669,gainer
+hash-2,hash,Provenance Blockchain,0.02715483,5.49633,gainer
+build-on,b,BUILDon,0.561203,4.45399,gainer
+newton-project,ab,AB,0.00915758,3.50467,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.19,3.42631,gainer
+dexe,dexe,DeXe,7.12,1.96267,gainer
+loaded-lions,lion,Loaded Lions,0.01772961,1.33092,gainer
+beldex,bdx,Beldex,0.07659,0.85146,gainer
+usdb,usdb,USDB,1.007,0.57132,gainer
+fartcoin,fartcoin,Fartcoin,0.776444,-20.19474,loser
+instadapp,fluid,Fluid,5.77,-18.83405,loser
+mog-coin,mog,Mog Coin,9.43924e-07,-14.77775,loser
+curve-dao-token,crv,Curve DAO,0.777798,-14.45279,loser
+keeta,kta,Keeta,1.029,-14.15765,loser
+bio-protocol,bio,Bio Protocol,0.206092,-13.90769,loser
+based-brett,brett,Brett,0.04845366,-13.88727,loser
+rekt-4,rekt,Rekt,7.64754e-07,-13.30631,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.029983,-13.30428,loser
+dogwifcoin,wif,dogwifhat,0.771381,-13.25955,loser
