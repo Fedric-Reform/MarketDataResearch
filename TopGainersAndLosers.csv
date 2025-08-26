@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8654.69,20.7823,gainer
-build-on,b,BUILDon,0.562619,6.86952,gainer
-memecore,m,MemeCore,0.466709,5.6424,gainer
-newton-project,ab,AB,0.00915552,3.60173,gainer
-beldex,bdx,Beldex,0.07654,2.11189,gainer
-dexe,dexe,DeXe,7.09,1.84676,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.97717,gainer
-loaded-lions,lion,Loaded Lions,0.01764325,0.89494,gainer
-hash-2,hash,Provenance Blockchain,0.02653324,0.47229,gainer
-pax-gold,paxg,PAX Gold,3365.97,0.37379,gainer
-fartcoin,fartcoin,Fartcoin,0.781103,-20.02389,loser
-instadapp,fluid,Fluid,5.86,-18.01835,loser
-mog-coin,mog,Mog Coin,9.42628e-07,-14.7265,loser
-curve-dao-token,crv,Curve DAO,0.77972,-13.92257,loser
-keeta,kta,Keeta,1.038,-13.78917,loser
-bio-protocol,bio,Bio Protocol,0.20775,-13.72514,loser
-rekt-4,rekt,Rekt,7.66522e-07,-13.22856,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03016848,-13.16251,loser
-based-brett,brett,Brett,0.04876909,-13.10129,loser
-wormhole,w,Wormhole,0.072316,-12.0313,loser
+ultima,ultima,Ultima,8658.45,20.8348,gainer
+build-on,b,BUILDon,0.563396,7.01707,gainer
+memecore,m,MemeCore,0.466203,5.52782,gainer
+newton-project,ab,AB,0.00915071,3.54508,gainer
+beldex,bdx,Beldex,0.076575,2.15866,gainer
+dexe,dexe,DeXe,7.09,1.85625,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.97945,gainer
+loaded-lions,lion,Loaded Lions,0.01764339,0.89577,gainer
+hash-2,hash,Provenance Blockchain,0.02653324,0.54934,gainer
+pax-gold,paxg,PAX Gold,3365.88,0.34114,gainer
+fartcoin,fartcoin,Fartcoin,0.780586,-20.21853,loser
+instadapp,fluid,Fluid,5.86,-17.88379,loser
+mog-coin,mog,Mog Coin,9.42129e-07,-14.77163,loser
+curve-dao-token,crv,Curve DAO,0.77967,-13.91512,loser
+bio-protocol,bio,Bio Protocol,0.20776,-13.72093,loser
+keeta,kta,Keeta,1.037,-13.69828,loser
+rekt-4,rekt,Rekt,7.64715e-07,-13.43308,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03016072,-13.18484,loser
+based-brett,brett,Brett,0.04878989,-13.06423,loser
+wormhole,w,Wormhole,0.072301,-12.04955,loser
