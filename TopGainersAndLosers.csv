@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8616.15,20.13236,gainer
-build-on,b,BUILDon,0.563406,7.06809,gainer
-memecore,m,MemeCore,0.465312,5.51791,gainer
-newton-project,ab,AB,0.00915261,3.49815,gainer
-hash-2,hash,Provenance Blockchain,0.02653324,3.34997,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.13,2.02869,gainer
-dexe,dexe,DeXe,7.1,2.01024,gainer
-beldex,bdx,Beldex,0.076578,2.00857,gainer
-usdb,usdb,USDB,1.01,1.1011,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.9809,gainer
-fartcoin,fartcoin,Fartcoin,0.778798,-20.39249,loser
-instadapp,fluid,Fluid,5.85,-18.03226,loser
-mog-coin,mog,Mog Coin,9.43381e-07,-14.73052,loser
-keeta,kta,Keeta,1.036,-13.87417,loser
-curve-dao-token,crv,Curve DAO,0.780321,-13.78891,loser
-bio-protocol,bio,Bio Protocol,0.207642,-13.76996,loser
-rekt-4,rekt,Rekt,7.63999e-07,-13.47765,loser
-based-brett,brett,Brett,0.04874863,-13.24656,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03010277,-13.15998,loser
-wormhole,w,Wormhole,0.072201,-12.30325,loser
+ultima,ultima,Ultima,8612.05,20.07518,gainer
+build-on,b,BUILDon,0.56284,6.74437,gainer
+memecore,m,MemeCore,0.464714,5.25808,gainer
+hash-2,hash,Provenance Blockchain,0.02653324,4.64188,gainer
+newton-project,ab,AB,0.00914412,3.48398,gainer
+dexe,dexe,DeXe,7.11,2.00338,gainer
+beldex,bdx,Beldex,0.076588,1.71788,gainer
+usdb,usdb,USDB,1.009,1.04666,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.9754,gainer
+loaded-lions,lion,Loaded Lions,0.01766153,0.93374,gainer
+fartcoin,fartcoin,Fartcoin,0.778831,-20.1272,loser
+instadapp,fluid,Fluid,5.85,-18.07071,loser
+mog-coin,mog,Mog Coin,9.4416e-07,-14.66011,loser
+keeta,kta,Keeta,1.031,-14.15304,loser
+curve-dao-token,crv,Curve DAO,0.781316,-13.7154,loser
+rekt-4,rekt,Rekt,7.63414e-07,-13.55104,loser
+bio-protocol,bio,Bio Protocol,0.207791,-13.4437,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03007744,-13.32627,loser
+based-brett,brett,Brett,0.04884063,-13.22217,loser
+wormhole,w,Wormhole,0.072213,-12.36703,loser
