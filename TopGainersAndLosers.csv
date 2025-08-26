@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8615.43,20.12552,gainer
-build-on,b,BUILDon,0.560897,5.91965,gainer
-memecore,m,MemeCore,0.460287,5.29072,gainer
-hash-2,hash,Provenance Blockchain,0.02712983,5.25116,gainer
-newton-project,ab,AB,0.00915724,3.51734,gainer
-dexe,dexe,DeXe,7.15,2.40876,gainer
-beldex,bdx,Beldex,0.076596,0.92663,gainer
-loaded-lions,lion,Loaded Lions,0.01765633,0.90567,gainer
-usdb,usdb,USDB,1.006,0.57153,gainer
-tether-gold,xaut,Tether Gold,3378.87,0.30497,gainer
-fartcoin,fartcoin,Fartcoin,0.777927,-20.72766,loser
-instadapp,fluid,Fluid,5.78,-18.87762,loser
-mog-coin,mog,Mog Coin,9.43935e-07,-14.82606,loser
-curve-dao-token,crv,Curve DAO,0.779541,-14.18418,loser
-keeta,kta,Keeta,1.029,-14.14005,loser
-bio-protocol,bio,Bio Protocol,0.207921,-13.75264,loser
-based-brett,brett,Brett,0.04861506,-13.53264,loser
-rekt-4,rekt,Rekt,7.63677e-07,-13.3707,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03001472,-13.30918,loser
-wormhole,w,Wormhole,0.072079,-12.97933,loser
+ultima,ultima,Ultima,8613.07,20.13308,gainer
+build-on,b,BUILDon,0.560774,5.89643,gainer
+memecore,m,MemeCore,0.460279,5.28891,gainer
+hash-2,hash,Provenance Blockchain,0.02711675,5.20042,gainer
+newton-project,ab,AB,0.00915652,3.56916,gainer
+dexe,dexe,DeXe,7.15,2.36825,gainer
+loaded-lions,lion,Loaded Lions,0.01765676,0.90817,gainer
+beldex,bdx,Beldex,0.076558,0.87586,gainer
+tether-gold,xaut,Tether Gold,3378.66,0.2987,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.084,0.25332,gainer
+fartcoin,fartcoin,Fartcoin,0.777472,-20.77397,loser
+instadapp,fluid,Fluid,5.78,-18.88689,loser
+mog-coin,mog,Mog Coin,9.43639e-07,-14.85277,loser
+keeta,kta,Keeta,1.026,-14.41107,loser
+curve-dao-token,crv,Curve DAO,0.779278,-14.21306,loser
+bio-protocol,bio,Bio Protocol,0.207428,-13.95712,loser
+based-brett,brett,Brett,0.04858776,-13.58119,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02998261,-13.40192,loser
+rekt-4,rekt,Rekt,7.63442e-07,-13.39736,loser
+wormhole,w,Wormhole,0.072038,-13.02984,loser
