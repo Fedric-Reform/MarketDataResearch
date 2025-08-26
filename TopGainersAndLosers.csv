@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8617.79,20.13545,gainer
-build-on,b,BUILDon,0.561246,6.13434,gainer
-memecore,m,MemeCore,0.464612,5.35619,gainer
-hash-2,hash,Provenance Blockchain,0.02708666,5.03356,gainer
-newton-project,ab,AB,0.00915153,3.44928,gainer
-dexe,dexe,DeXe,7.14,2.36942,gainer
-beldex,bdx,Beldex,0.076598,1.22704,gainer
-loaded-lions,lion,Loaded Lions,0.01765709,0.92318,gainer
+ultima,ultima,Ultima,8616.81,20.12183,gainer
+build-on,b,BUILDon,0.56112,6.1104,gainer
+memecore,m,MemeCore,0.464071,5.23339,gainer
+hash-2,hash,Provenance Blockchain,0.02708377,5.02234,gainer
+newton-project,ab,AB,0.00914612,3.38815,gainer
+dexe,dexe,DeXe,7.14,2.34802,gainer
+beldex,bdx,Beldex,0.076647,1.29184,gainer
+loaded-lions,lion,Loaded Lions,0.01765577,0.91565,gainer
 usdb,usdb,USDB,1.007,0.64311,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.22494,gainer
-fartcoin,fartcoin,Fartcoin,0.77906,-20.24185,loser
-instadapp,fluid,Fluid,5.79,-18.98963,loser
-mog-coin,mog,Mog Coin,9.43587e-07,-14.94747,loser
-keeta,kta,Keeta,1.031,-14.12942,loser
-curve-dao-token,crv,Curve DAO,0.780762,-13.81614,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03000279,-13.64781,loser
-bio-protocol,bio,Bio Protocol,0.207828,-13.60124,loser
-based-brett,brett,Brett,0.04876887,-13.54387,loser
-rekt-4,rekt,Rekt,7.63411e-07,-13.50971,loser
-zora,zora,Zora,0.100061,-13.17188,loser
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.084,0.25362,gainer
+fartcoin,fartcoin,Fartcoin,0.779168,-20.23083,loser
+instadapp,fluid,Fluid,5.79,-19.02664,loser
+mog-coin,mog,Mog Coin,9.43423e-07,-14.96226,loser
+keeta,kta,Keeta,1.03,-14.16221,loser
+curve-dao-token,crv,Curve DAO,0.780894,-13.80152,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03000631,-13.63768,loser
+bio-protocol,bio,Bio Protocol,0.207796,-13.61469,loser
+based-brett,brett,Brett,0.04873106,-13.54067,loser
+rekt-4,rekt,Rekt,7.63406e-07,-13.51038,loser
+zora,zora,Zora,0.100061,-13.1718,loser
