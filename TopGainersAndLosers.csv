@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8611.53,20.16824,gainer
-build-on,b,BUILDon,0.563925,7.15776,gainer
-memecore,m,MemeCore,0.460831,4.32686,gainer
-newton-project,ab,AB,0.00913631,3.31518,gainer
-beldex,bdx,Beldex,0.076604,2.21843,gainer
-dexe,dexe,DeXe,7.08,1.81871,gainer
-loaded-lions,lion,Loaded Lions,0.01768154,1.22322,gainer
-pax-gold,paxg,PAX Gold,3365.73,0.397,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.28366,gainer
-fasttoken,ftn,Fasttoken,4.53,0.27755,gainer
-fartcoin,fartcoin,Fartcoin,0.787821,-18.14352,loser
-instadapp,fluid,Fluid,5.91,-16.97818,loser
-bio-protocol,bio,Bio Protocol,0.204659,-15.69547,loser
-mog-coin,mog,Mog Coin,9.47147e-07,-13.73691,loser
-keeta,kta,Keeta,1.039,-13.63975,loser
-curve-dao-token,crv,Curve DAO,0.785072,-13.38219,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03027864,-12.82228,loser
-rekt-4,rekt,Rekt,7.72027e-07,-12.31965,loser
-based-brett,brett,Brett,0.04920772,-12.07926,loser
-okb,okb,OKB,174.42,-11.43116,loser
+ultima,ultima,Ultima,8610.52,20.1542,gainer
+build-on,b,BUILDon,0.564077,7.18656,gainer
+memecore,m,MemeCore,0.460451,4.2407,gainer
+newton-project,ab,AB,0.00913594,3.40216,gainer
+beldex,bdx,Beldex,0.076583,2.19076,gainer
+dexe,dexe,DeXe,7.08,1.78679,gainer
+loaded-lions,lion,Loaded Lions,0.01769304,1.28906,gainer
+hash-2,hash,Provenance Blockchain,0.02643395,0.70003,gainer
+pax-gold,paxg,PAX Gold,3364.87,0.36741,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.28519,gainer
+fartcoin,fartcoin,Fartcoin,0.78612,-18.99148,loser
+instadapp,fluid,Fluid,5.91,-17.3368,loser
+bio-protocol,bio,Bio Protocol,0.204831,-15.38485,loser
+mog-coin,mog,Mog Coin,9.45916e-07,-13.84899,loser
+keeta,kta,Keeta,1.04,-13.68273,loser
+curve-dao-token,crv,Curve DAO,0.78461,-13.43321,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03030885,-12.73531,loser
+rekt-4,rekt,Rekt,7.7201e-07,-12.32152,loser
+based-brett,brett,Brett,0.04913552,-12.20826,loser
+snek,snek,Snek,0.0041981,-11.74229,loser
