@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8615.21,20.12245,gainer
-build-on,b,BUILDon,0.561045,6.00428,gainer
-memecore,m,MemeCore,0.460557,5.112,gainer
-hash-2,hash,Provenance Blockchain,0.02708657,5.05746,gainer
-newton-project,ab,AB,0.00915003,3.43578,gainer
-dexe,dexe,DeXe,7.15,2.38546,gainer
-beldex,bdx,Beldex,0.076549,1.0425,gainer
-loaded-lions,lion,Loaded Lions,0.01765607,0.91511,gainer
-usdb,usdb,USDB,1.007,0.67928,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.084,0.24768,gainer
-fartcoin,fartcoin,Fartcoin,0.778939,-20.3932,loser
-instadapp,fluid,Fluid,5.78,-18.7909,loser
-mog-coin,mog,Mog Coin,9.45165e-07,-14.75494,loser
-keeta,kta,Keeta,1.03,-14.14917,loser
-curve-dao-token,crv,Curve DAO,0.780437,-13.76406,loser
-based-brett,brett,Brett,0.04868115,-13.62924,loser
-bio-protocol,bio,Bio Protocol,0.208138,-13.53729,loser
-rekt-4,rekt,Rekt,7.64043e-07,-13.30655,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03003926,-13.22614,loser
-dogwifcoin,wif,dogwifhat,0.773237,-12.80882,loser
+ultima,ultima,Ultima,8615.3,20.12363,gainer
+build-on,b,BUILDon,0.561013,5.9982,gainer
+hash-2,hash,Provenance Blockchain,0.02708659,5.05755,gainer
+memecore,m,MemeCore,0.460288,5.05059,gainer
+newton-project,ab,AB,0.00915431,3.48419,gainer
+dexe,dexe,DeXe,7.15,2.40047,gainer
+beldex,bdx,Beldex,0.07661,0.94519,gainer
+loaded-lions,lion,Loaded Lions,0.0176561,0.90434,gainer
+usdb,usdb,USDB,1.008,0.71361,gainer
+tether-gold,xaut,Tether Gold,3379.01,0.30911,gainer
+fartcoin,fartcoin,Fartcoin,0.778277,-20.46089,loser
+instadapp,fluid,Fluid,5.78,-18.79889,loser
+mog-coin,mog,Mog Coin,9.44658e-07,-14.76087,loser
+keeta,kta,Keeta,1.03,-14.20683,loser
+curve-dao-token,crv,Curve DAO,0.780429,-13.76503,loser
+bio-protocol,bio,Bio Protocol,0.208107,-13.55016,loser
+based-brett,brett,Brett,0.04863611,-13.49519,loser
+rekt-4,rekt,Rekt,7.63708e-07,-13.36715,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0300282,-13.2581,loser
+wormhole,w,Wormhole,0.072087,-12.9707,loser
