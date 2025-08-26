@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8628.27,20.51965,gainer
-memecore,m,MemeCore,0.460608,5.55669,gainer
+ultima,ultima,Ultima,8628.33,20.12873,gainer
 hash-2,hash,Provenance Blockchain,0.02715483,5.49633,gainer
-build-on,b,BUILDon,0.561203,4.45399,gainer
-newton-project,ab,AB,0.00915758,3.50467,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.19,3.42631,gainer
-dexe,dexe,DeXe,7.12,1.96267,gainer
-loaded-lions,lion,Loaded Lions,0.01772961,1.33092,gainer
-beldex,bdx,Beldex,0.07659,0.85146,gainer
-usdb,usdb,USDB,1.007,0.57132,gainer
-fartcoin,fartcoin,Fartcoin,0.776444,-20.19474,loser
-instadapp,fluid,Fluid,5.77,-18.83405,loser
-mog-coin,mog,Mog Coin,9.43924e-07,-14.77775,loser
-curve-dao-token,crv,Curve DAO,0.777798,-14.45279,loser
-keeta,kta,Keeta,1.029,-14.15765,loser
-bio-protocol,bio,Bio Protocol,0.206092,-13.90769,loser
-based-brett,brett,Brett,0.04845366,-13.88727,loser
-rekt-4,rekt,Rekt,7.64754e-07,-13.30631,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.029983,-13.30428,loser
-dogwifcoin,wif,dogwifhat,0.771381,-13.25955,loser
+memecore,m,MemeCore,0.460047,5.4281,gainer
+build-on,b,BUILDon,0.560317,4.28918,gainer
+newton-project,ab,AB,0.00915717,3.51552,gainer
+dexe,dexe,DeXe,7.12,1.95895,gainer
+loaded-lions,lion,Loaded Lions,0.01772765,1.31969,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.07,1.15473,gainer
+beldex,bdx,Beldex,0.076641,0.91918,gainer
+usdb,usdb,USDB,1.005,0.60154,gainer
+fartcoin,fartcoin,Fartcoin,0.77794,-20.04098,loser
+instadapp,fluid,Fluid,5.77,-18.80143,loser
+mog-coin,mog,Mog Coin,9.45295e-07,-14.65395,loser
+curve-dao-token,crv,Curve DAO,0.778147,-14.41438,loser
+keeta,kta,Keeta,1.029,-14.20898,loser
+bio-protocol,bio,Bio Protocol,0.205803,-14.02853,loser
+based-brett,brett,Brett,0.04856593,-13.68774,loser
+rekt-4,rekt,Rekt,7.63852e-07,-13.40853,loser
+dogwifcoin,wif,dogwifhat,0.771171,-13.2832,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0300116,-13.22157,loser
