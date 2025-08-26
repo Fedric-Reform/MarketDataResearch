@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8616.49,20.11737,gainer
-build-on,b,BUILDon,0.561233,6.13183,gainer
-memecore,m,MemeCore,0.463799,5.85183,gainer
-hash-2,hash,Provenance Blockchain,0.02708666,5.03356,gainer
-newton-project,ab,AB,0.00914809,3.4104,gainer
-dexe,dexe,DeXe,7.15,2.40015,gainer
-beldex,bdx,Beldex,0.076593,1.10108,gainer
-loaded-lions,lion,Loaded Lions,0.01765822,0.92738,gainer
-usdb,usdb,USDB,1.007,0.71151,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.084,0.245,gainer
-fartcoin,fartcoin,Fartcoin,0.77985,-20.3001,loser
-instadapp,fluid,Fluid,5.79,-18.71132,loser
-mog-coin,mog,Mog Coin,9.43617e-07,-14.89454,loser
-keeta,kta,Keeta,1.03,-14.12604,loser
-curve-dao-token,crv,Curve DAO,0.780567,-13.83769,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03003944,-13.54232,loser
-based-brett,brett,Brett,0.04874989,-13.50727,loser
-rekt-4,rekt,Rekt,7.63607e-07,-13.35605,loser
-bio-protocol,bio,Bio Protocol,0.208715,-13.29769,loser
-zora,zora,Zora,0.100213,-13.03996,loser
+ultima,ultima,Ultima,8615.21,20.09954,gainer
+build-on,b,BUILDon,0.561201,6.03379,gainer
+memecore,m,MemeCore,0.462182,5.48278,gainer
+hash-2,hash,Provenance Blockchain,0.02708657,5.05746,gainer
+newton-project,ab,AB,0.00914889,3.42287,gainer
+dexe,dexe,DeXe,7.15,2.40858,gainer
+beldex,bdx,Beldex,0.076555,1.05084,gainer
+loaded-lions,lion,Loaded Lions,0.01765848,0.92883,gainer
+usdb,usdb,USDB,1.007,0.71148,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.084,0.24588,gainer
+fartcoin,fartcoin,Fartcoin,0.778948,-20.39229,loser
+instadapp,fluid,Fluid,5.79,-18.70384,loser
+mog-coin,mog,Mog Coin,9.45349e-07,-14.73834,loser
+keeta,kta,Keeta,1.03,-14.13356,loser
+curve-dao-token,crv,Curve DAO,0.780136,-13.79734,loser
+based-brett,brett,Brett,0.04867565,-13.63898,loser
+rekt-4,rekt,Rekt,7.63535e-07,-13.36418,loser
+bio-protocol,bio,Bio Protocol,0.208587,-13.35083,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.0300404,-13.22286,loser
+zora,zora,Zora,0.100401,-12.93696,loser
