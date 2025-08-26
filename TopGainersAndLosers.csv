@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8624.09,20.41044,gainer
-build-on,b,BUILDon,0.561398,6.75949,gainer
-memecore,m,MemeCore,0.46031,3.69264,gainer
-newton-project,ab,AB,0.00915272,3.5285,gainer
-beldex,bdx,Beldex,0.076695,2.37167,gainer
-dexe,dexe,DeXe,7.08,1.77179,gainer
-loaded-lions,lion,Loaded Lions,0.01768034,1.17799,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.005,0.43211,gainer
-usdb,usdb,USDB,1.013,0.41779,gainer
-fasttoken,ftn,Fasttoken,4.53,0.41258,gainer
-fartcoin,fartcoin,Fartcoin,0.784269,-18.12047,loser
-instadapp,fluid,Fluid,5.89,-17.26851,loser
-bio-protocol,bio,Bio Protocol,0.203673,-16.39328,loser
-mog-coin,mog,Mog Coin,9.33733e-07,-14.33223,loser
-keeta,kta,Keeta,1.036,-13.74843,loser
-curve-dao-token,crv,Curve DAO,0.78341,-13.10254,loser
-zora,zora,Zora,0.099375,-12.40999,loser
-rekt-4,rekt,Rekt,7.68373e-07,-12.37513,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03011645,-11.53925,loser
-based-brett,brett,Brett,0.04918373,-11.39986,loser
+ultima,ultima,Ultima,8636.78,20.58763,gainer
+build-on,b,BUILDon,0.562614,6.80771,gainer
+memecore,m,MemeCore,0.462113,4.40942,gainer
+newton-project,ab,AB,0.00915887,3.59809,gainer
+beldex,bdx,Beldex,0.076624,2.18526,gainer
+dexe,dexe,DeXe,7.08,1.74463,gainer
+loaded-lions,lion,Loaded Lions,0.0176964,1.2926,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.14,0.56491,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.006,0.53203,gainer
+pax-gold,paxg,PAX Gold,3364.52,0.33197,gainer
+fartcoin,fartcoin,Fartcoin,0.786248,-17.88281,loser
+instadapp,fluid,Fluid,5.9,-17.13421,loser
+bio-protocol,bio,Bio Protocol,0.203611,-16.35219,loser
+mog-coin,mog,Mog Coin,9.41731e-07,-14.00631,loser
+keeta,kta,Keeta,1.035,-13.82635,loser
+curve-dao-token,crv,Curve DAO,0.784455,-13.26314,loser
+rekt-4,rekt,Rekt,7.68044e-07,-12.52957,loser
+zora,zora,Zora,0.100375,-11.86991,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03017593,-11.71456,loser
+based-brett,brett,Brett,0.04918009,-11.39334,loser
