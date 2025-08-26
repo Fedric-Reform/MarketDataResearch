@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8655.52,20.63432,gainer
-build-on,b,BUILDon,0.563862,7.10556,gainer
-memecore,m,MemeCore,0.465786,5.43353,gainer
-newton-project,ab,AB,0.00915173,3.55673,gainer
-beldex,bdx,Beldex,0.076564,1.99098,gainer
-dexe,dexe,DeXe,7.1,1.90988,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.98378,gainer
-usdb,usdb,USDB,1.009,0.93116,gainer
-loaded-lions,lion,Loaded Lions,0.01764099,0.88202,gainer
-hash-2,hash,Provenance Blockchain,0.02653324,0.54934,gainer
-fartcoin,fartcoin,Fartcoin,0.780179,-20.26012,loser
-instadapp,fluid,Fluid,5.86,-17.90396,loser
-mog-coin,mog,Mog Coin,9.43387e-07,-14.65785,loser
-bio-protocol,bio,Bio Protocol,0.207393,-13.87304,loser
-curve-dao-token,crv,Curve DAO,0.7803,-13.84556,loser
-keeta,kta,Keeta,1.036,-13.78068,loser
-rekt-4,rekt,Rekt,7.64342e-07,-13.43874,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03008003,-13.41617,loser
-based-brett,brett,Brett,0.048826,-12.9999,loser
-wormhole,w,Wormhole,0.072228,-12.2702,loser
+ultima,ultima,Ultima,8650.72,20.56732,gainer
+build-on,b,BUILDon,0.563738,7.13116,gainer
+memecore,m,MemeCore,0.465276,5.50973,gainer
+newton-project,ab,AB,0.00915425,3.58515,gainer
+hash-2,hash,Provenance Blockchain,0.02653324,3.34997,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.13,2.02879,gainer
+beldex,bdx,Beldex,0.076523,1.93555,gainer
+dexe,dexe,DeXe,7.1,1.92286,gainer
+usdb,usdb,USDB,1.011,1.1635,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.98153,gainer
+fartcoin,fartcoin,Fartcoin,0.778551,-20.41774,loser
+instadapp,fluid,Fluid,5.85,-18.03414,loser
+mog-coin,mog,Mog Coin,9.42929e-07,-14.77137,loser
+curve-dao-token,crv,Curve DAO,0.779867,-13.83904,loser
+bio-protocol,bio,Bio Protocol,0.207597,-13.78872,loser
+keeta,kta,Keeta,1.036,-13.7657,loser
+rekt-4,rekt,Rekt,7.64109e-07,-13.46516,loser
+based-brett,brett,Brett,0.04871717,-13.30256,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03012686,-13.09048,loser
+wormhole,w,Wormhole,0.072196,-12.30995,loser
