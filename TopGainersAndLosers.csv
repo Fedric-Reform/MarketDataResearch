@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8650.72,20.56732,gainer
-build-on,b,BUILDon,0.563738,7.13116,gainer
-memecore,m,MemeCore,0.465276,5.50973,gainer
-newton-project,ab,AB,0.00915425,3.58515,gainer
+ultima,ultima,Ultima,8653.3,20.65045,gainer
+build-on,b,BUILDon,0.563743,7.1323,gainer
+memecore,m,MemeCore,0.465794,5.62726,gainer
+newton-project,ab,AB,0.00914919,3.45946,gainer
 hash-2,hash,Provenance Blockchain,0.02653324,3.34997,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.13,2.02879,gainer
-beldex,bdx,Beldex,0.076523,1.93555,gainer
-dexe,dexe,DeXe,7.1,1.92286,gainer
-usdb,usdb,USDB,1.011,1.1635,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.98153,gainer
-fartcoin,fartcoin,Fartcoin,0.778551,-20.41774,loser
-instadapp,fluid,Fluid,5.85,-18.03414,loser
-mog-coin,mog,Mog Coin,9.42929e-07,-14.77137,loser
-curve-dao-token,crv,Curve DAO,0.779867,-13.83904,loser
-bio-protocol,bio,Bio Protocol,0.207597,-13.78872,loser
-keeta,kta,Keeta,1.036,-13.7657,loser
-rekt-4,rekt,Rekt,7.64109e-07,-13.46516,loser
-based-brett,brett,Brett,0.04871717,-13.30256,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03012686,-13.09048,loser
-wormhole,w,Wormhole,0.072196,-12.30995,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.13,2.02869,gainer
+beldex,bdx,Beldex,0.076587,2.02089,gainer
+dexe,dexe,DeXe,7.1,1.98597,gainer
+usdb,usdb,USDB,1.011,1.23317,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.97934,gainer
+fartcoin,fartcoin,Fartcoin,0.778852,-20.38693,loser
+instadapp,fluid,Fluid,5.85,-18.03347,loser
+mog-coin,mog,Mog Coin,9.42751e-07,-14.78749,loser
+keeta,kta,Keeta,1.036,-13.84241,loser
+curve-dao-token,crv,Curve DAO,0.78009,-13.81448,loser
+bio-protocol,bio,Bio Protocol,0.207565,-13.80185,loser
+rekt-4,rekt,Rekt,7.64148e-07,-13.46075,loser
+based-brett,brett,Brett,0.04875863,-13.22878,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03009962,-13.16906,loser
+wormhole,w,Wormhole,0.072196,-12.30982,loser
