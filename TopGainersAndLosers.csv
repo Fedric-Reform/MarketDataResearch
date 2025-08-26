@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8636.78,20.58763,gainer
-build-on,b,BUILDon,0.562614,6.80771,gainer
-memecore,m,MemeCore,0.462113,4.40942,gainer
-newton-project,ab,AB,0.00915887,3.59809,gainer
-beldex,bdx,Beldex,0.076624,2.18526,gainer
-dexe,dexe,DeXe,7.08,1.74463,gainer
-loaded-lions,lion,Loaded Lions,0.0176964,1.2926,gainer
+ultima,ultima,Ultima,8635.38,20.50109,gainer
+build-on,b,BUILDon,0.562906,6.86315,gainer
+memecore,m,MemeCore,0.460879,4.13057,gainer
+newton-project,ab,AB,0.0091513,3.51279,gainer
+beldex,bdx,Beldex,0.076657,2.22908,gainer
+dexe,dexe,DeXe,7.08,1.75327,gainer
+loaded-lions,lion,Loaded Lions,0.0177005,1.31605,gainer
 tokenize-xchange,tkx,Tokenize Xchange,5.14,0.56491,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.006,0.53203,gainer
-pax-gold,paxg,PAX Gold,3364.52,0.33197,gainer
-fartcoin,fartcoin,Fartcoin,0.786248,-17.88281,loser
-instadapp,fluid,Fluid,5.9,-17.13421,loser
-bio-protocol,bio,Bio Protocol,0.203611,-16.35219,loser
-mog-coin,mog,Mog Coin,9.41731e-07,-14.00631,loser
-keeta,kta,Keeta,1.035,-13.82635,loser
-curve-dao-token,crv,Curve DAO,0.784455,-13.26314,loser
-rekt-4,rekt,Rekt,7.68044e-07,-12.52957,loser
-zora,zora,Zora,0.100375,-11.86991,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03017593,-11.71456,loser
-based-brett,brett,Brett,0.04918009,-11.39334,loser
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.006,0.41588,gainer
+tether-gold,xaut,Tether Gold,3379.54,0.35852,gainer
+fartcoin,fartcoin,Fartcoin,0.787094,-17.79451,loser
+instadapp,fluid,Fluid,5.9,-17.10611,loser
+bio-protocol,bio,Bio Protocol,0.203592,-16.35982,loser
+keeta,kta,Keeta,1.036,-13.95928,loser
+mog-coin,mog,Mog Coin,9.44402e-07,-13.76244,loser
+curve-dao-token,crv,Curve DAO,0.784726,-13.23312,loser
+rekt-4,rekt,Rekt,7.688e-07,-12.44348,loser
+zora,zora,Zora,0.100551,-11.71576,loser
+saros-finance,saros,Saros,0.314798,-11.63003,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03021177,-11.60972,loser
