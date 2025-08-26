@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8656.5,20.64801,gainer
-build-on,b,BUILDon,0.563615,7.0587,gainer
-memecore,m,MemeCore,0.465597,5.39055,gainer
-newton-project,ab,AB,0.00915576,3.60224,gainer
-beldex,bdx,Beldex,0.076535,2.1063,gainer
-dexe,dexe,DeXe,7.09,1.86647,gainer
-usdb,usdb,USDB,1.011,1.15443,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.98106,gainer
-loaded-lions,lion,Loaded Lions,0.01764093,0.88171,gainer
+ultima,ultima,Ultima,8655.52,20.63432,gainer
+build-on,b,BUILDon,0.563862,7.10556,gainer
+memecore,m,MemeCore,0.465786,5.43353,gainer
+newton-project,ab,AB,0.00915173,3.55673,gainer
+beldex,bdx,Beldex,0.076564,1.99098,gainer
+dexe,dexe,DeXe,7.1,1.90988,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.075,0.98378,gainer
+usdb,usdb,USDB,1.009,0.93116,gainer
+loaded-lions,lion,Loaded Lions,0.01764099,0.88202,gainer
 hash-2,hash,Provenance Blockchain,0.02653324,0.54934,gainer
-fartcoin,fartcoin,Fartcoin,0.780836,-20.19297,loser
-instadapp,fluid,Fluid,5.86,-17.9347,loser
-mog-coin,mog,Mog Coin,9.43414e-07,-14.65547,loser
-bio-protocol,bio,Bio Protocol,0.207397,-13.87166,loser
-curve-dao-token,crv,Curve DAO,0.780142,-13.863,loser
-keeta,kta,Keeta,1.037,-13.72963,loser
-rekt-4,rekt,Rekt,7.64617e-07,-13.44416,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.03011605,-13.31341,loser
-based-brett,brett,Brett,0.04884715,-12.96221,loser
-wormhole,w,Wormhole,0.072227,-12.13964,loser
+fartcoin,fartcoin,Fartcoin,0.780179,-20.26012,loser
+instadapp,fluid,Fluid,5.86,-17.90396,loser
+mog-coin,mog,Mog Coin,9.43387e-07,-14.65785,loser
+bio-protocol,bio,Bio Protocol,0.207393,-13.87304,loser
+curve-dao-token,crv,Curve DAO,0.7803,-13.84556,loser
+keeta,kta,Keeta,1.036,-13.78068,loser
+rekt-4,rekt,Rekt,7.64342e-07,-13.43874,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.03008003,-13.41617,loser
+based-brett,brett,Brett,0.048826,-12.9999,loser
+wormhole,w,Wormhole,0.072228,-12.2702,loser
