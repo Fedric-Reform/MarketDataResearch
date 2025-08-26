@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8613.07,20.13308,gainer
-build-on,b,BUILDon,0.560755,5.89288,gainer
-memecore,m,MemeCore,0.462252,5.74023,gainer
-hash-2,hash,Provenance Blockchain,0.02711412,5.19023,gainer
-newton-project,ab,AB,0.00915624,3.56607,gainer
-dexe,dexe,DeXe,7.15,2.36784,gainer
-loaded-lions,lion,Loaded Lions,0.01765669,0.90776,gainer
-beldex,bdx,Beldex,0.076527,0.83556,gainer
-tether-gold,xaut,Tether Gold,3378.76,0.30146,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.084,0.25153,gainer
-fartcoin,fartcoin,Fartcoin,0.777464,-20.77484,loser
-instadapp,fluid,Fluid,5.78,-18.88703,loser
-mog-coin,mog,Mog Coin,9.43883e-07,-14.83075,loser
-keeta,kta,Keeta,1.026,-14.4111,loser
-curve-dao-token,crv,Curve DAO,0.779272,-14.21371,loser
-bio-protocol,bio,Bio Protocol,0.207378,-13.97784,loser
-based-brett,brett,Brett,0.0485931,-13.57169,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02995003,-13.49601,loser
-rekt-4,rekt,Rekt,7.64143e-07,-13.31788,loser
-wormhole,w,Wormhole,0.072034,-13.03415,loser
+ultima,ultima,Ultima,8621.41,20.24938,gainer
+build-on,b,BUILDon,0.561143,5.96623,gainer
+memecore,m,MemeCore,0.460633,5.36996,gainer
+hash-2,hash,Provenance Blockchain,0.02711701,5.20144,gainer
+newton-project,ab,AB,0.00915531,3.55545,gainer
+dexe,dexe,DeXe,7.14,2.26724,gainer
+loaded-lions,lion,Loaded Lions,0.01766858,0.97553,gainer
+beldex,bdx,Beldex,0.076543,0.73046,gainer
+tether-gold,xaut,Tether Gold,3378.62,0.32008,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.23741,gainer
+fartcoin,fartcoin,Fartcoin,0.777568,-20.76418,loser
+instadapp,fluid,Fluid,5.78,-18.88193,loser
+mog-coin,mog,Mog Coin,9.44217e-07,-14.80065,loser
+curve-dao-token,crv,Curve DAO,0.778962,-14.24793,loser
+keeta,kta,Keeta,1.029,-14.1741,loser
+bio-protocol,bio,Bio Protocol,0.207285,-14.01638,loser
+based-brett,brett,Brett,0.04857387,-13.8671,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02995135,-13.49221,loser
+rekt-4,rekt,Rekt,7.6487e-07,-13.23542,loser
+wormhole,w,Wormhole,0.072069,-12.9922,loser
