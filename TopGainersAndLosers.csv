@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.206316,30.69539,gainer
-berachain-bera,bera,Berachain,2.71,17.39424,gainer
-loaded-lions,lion,Loaded Lions,0.02014565,13.65946,gainer
-wrapped-hype,whype,Wrapped HYPE,49.57,12.90315,gainer
-hyperliquid,hype,Hyperliquid,49.58,12.39891,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.62,12.26585,gainer
-story-2,ip,Story,6.17,10.87628,gainer
-rekt-4,rekt,Rekt,8.46891e-07,10.66634,gainer
-pump-fun,pump,Pump.fun,0.00293224,9.41594,gainer
-sky,sky,Sky,0.06668,8.72945,gainer
-bio-protocol,bio,Bio Protocol,0.165935,-19.91427,loser
-keeta,kta,Keeta,0.94088,-8.62495,loser
-zebec-network,zbcn,Zebec Network,0.00444737,-5.1826,loser
-ether-fi,ethfi,Ether.fi,1.075,-3.48885,loser
-memecore,m,MemeCore,0.448568,-2.56681,loser
-morpho,morpho,Morpho,2.33,-2.06983,loser
-okb,okb,OKB,171.18,-1.6594,loser
-pendle,pendle,Pendle,5.15,-1.62217,loser
-arbitrum,arb,Arbitrum,0.522081,-1.61202,loser
-usdb,usdb,USDB,0.990193,-1.60713,loser
+crypto-com-chain,cro,Cronos,0.208457,32.43476,gainer
+loaded-lions,lion,Loaded Lions,0.0204359,15.85622,gainer
+berachain-bera,bera,Berachain,2.69,14.45588,gainer
+hyperliquid,hype,Hyperliquid,49.57,12.29493,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.68,12.12388,gainer
+wrapped-hype,whype,Wrapped HYPE,49.44,11.85296,gainer
+story-2,ip,Story,6.18,10.7089,gainer
+rekt-4,rekt,Rekt,8.41816e-07,9.89502,gainer
+pump-fun,pump,Pump.fun,0.00295076,9.81896,gainer
+sky,sky,Sky,0.066587,7.99082,gainer
+bio-protocol,bio,Bio Protocol,0.161802,-21.03236,loser
+keeta,kta,Keeta,0.951775,-7.24624,loser
+zebec-network,zbcn,Zebec Network,0.00441686,-6.209,loser
+ether-fi,ethfi,Ether.fi,1.077,-3.3939,loser
+pendle,pendle,Pendle,5.14,-2.66958,loser
+morpho,morpho,Morpho,2.33,-2.18369,loser
+usdb,usdb,USDB,0.988931,-2.09619,loser
+memecore,m,MemeCore,0.4484,-2.0306,loser
+xdce-crowd-sale,xdc,XDC Network,0.078645,-1.53779,loser
+arbitrum,arb,Arbitrum,0.523151,-1.35693,loser
