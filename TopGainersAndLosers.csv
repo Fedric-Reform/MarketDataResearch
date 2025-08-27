@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.216671,36.47572,gainer
-loaded-lions,lion,Loaded Lions,0.0208971,17.62471,gainer
-wrapped-hype,whype,Wrapped HYPE,50.63,13.52395,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.65,13.47214,gainer
-hyperliquid,hype,Hyperliquid,50.5,13.12033,gainer
-pump-fun,pump,Pump.fun,0.00300293,10.98041,gainer
-story-2,ip,Story,6.14,10.31569,gainer
-berachain-bera,bera,Berachain,2.63,10.22431,gainer
-syrup,syrup,Maple Finance,0.442185,10.16902,gainer
-drift-staked-sol,dsol,Drift Staked SOL,233.17,9.1031,gainer
-bio-protocol,bio,Bio Protocol,0.162033,-19.84645,loser
-keeta,kta,Keeta,0.979445,-4.94179,loser
-zebec-network,zbcn,Zebec Network,0.00447009,-4.53766,loser
-memecore,m,MemeCore,0.445073,-2.30973,loser
-ether-fi,ethfi,Ether.fi,1.09,-2.23368,loser
-pendle,pendle,Pendle,5.18,-2.16805,loser
-arbitrum,arb,Arbitrum,0.526817,-1.79769,loser
-xdce-crowd-sale,xdc,XDC Network,0.079379,-1.36455,loser
-morpho,morpho,Morpho,2.35,-1.36436,loser
-wemix-token,wemix,WEMIX,0.78993,-0.9675,loser
+crypto-com-chain,cro,Cronos,0.216859,36.11044,gainer
+loaded-lions,lion,Loaded Lions,0.02100987,17.63468,gainer
+hyperliquid,hype,Hyperliquid,50.79,13.70415,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.96,13.60374,gainer
+wrapped-hype,whype,Wrapped HYPE,50.56,13.13774,gainer
+hash-2,hash,Provenance Blockchain,0.02783928,12.38786,gainer
+pump-fun,pump,Pump.fun,0.00302005,11.8037,gainer
+syrup,syrup,Maple Finance,0.444479,10.86194,gainer
+story-2,ip,Story,6.15,10.59634,gainer
+berachain-bera,bera,Berachain,2.64,10.0867,gainer
+bio-protocol,bio,Bio Protocol,0.164125,-19.05909,loser
+zebec-network,zbcn,Zebec Network,0.00446866,-4.61275,loser
+keeta,kta,Keeta,0.978411,-4.38717,loser
+memecore,m,MemeCore,0.442702,-2.85739,loser
+ether-fi,ethfi,Ether.fi,1.092,-2.07064,loser
+ultima,ultima,Ultima,8526.19,-1.93343,loser
+pendle,pendle,Pendle,5.2,-1.78056,loser
+arbitrum,arb,Arbitrum,0.528912,-1.37812,loser
+wemix-token,wemix,WEMIX,0.790014,-1.20961,loser
+morpho,morpho,Morpho,2.35,-1.19249,loser
