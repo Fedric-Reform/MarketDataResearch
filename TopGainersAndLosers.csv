@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.206889,30.49797,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,51.1,15.39687,gainer
-hyperliquid,hype,Hyperliquid,50.9,15.33877,gainer
-wrapped-hype,whype,Wrapped HYPE,50.92,15.1202,gainer
-loaded-lions,lion,Loaded Lions,0.02024706,14.41174,gainer
-berachain-bera,bera,Berachain,2.68,13.2552,gainer
-pump-fun,pump,Pump.fun,0.00298993,11.01702,gainer
-story-2,ip,Story,6.19,10.83409,gainer
-instadapp,fluid,Fluid,6.33,9.27956,gainer
-rekt-4,rekt,Rekt,8.49948e-07,8.63859,gainer
-bio-protocol,bio,Bio Protocol,0.164662,-18.45837,loser
-keeta,kta,Keeta,0.962647,-6.69094,loser
-zebec-network,zbcn,Zebec Network,0.00443338,-5.78893,loser
-ether-fi,ethfi,Ether.fi,1.088,-2.64249,loser
-memecore,m,MemeCore,0.44806,-2.19004,loser
-pendle,pendle,Pendle,5.2,-1.79682,loser
-usdb,usdb,USDB,0.996315,-1.43823,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.17,-1.35667,loser
-saros-finance,saros,Saros,0.323525,-1.30602,loser
-xdce-crowd-sale,xdc,XDC Network,0.079104,-1.04719,loser
+crypto-com-chain,cro,Cronos,0.207782,31.06114,gainer
+hyperliquid,hype,Hyperliquid,50.95,15.25084,gainer
+wrapped-hype,whype,Wrapped HYPE,50.88,14.76913,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,51.14,14.43614,gainer
+loaded-lions,lion,Loaded Lions,0.02028352,13.61639,gainer
+berachain-bera,bera,Berachain,2.69,13.55984,gainer
+pump-fun,pump,Pump.fun,0.00300704,11.4875,gainer
+story-2,ip,Story,6.18,10.71074,gainer
+instadapp,fluid,Fluid,6.36,9.56109,gainer
+solana,sol,Solana,203.94,8.9575,gainer
+bio-protocol,bio,Bio Protocol,0.166304,-17.87367,loser
+keeta,kta,Keeta,0.966997,-6.79692,loser
+zebec-network,zbcn,Zebec Network,0.00447932,-4.84632,loser
+memecore,m,MemeCore,0.445984,-2.23221,loser
+ether-fi,ethfi,Ether.fi,1.099,-2.02384,loser
+zora,zora,Zora,0.098795,-1.73371,loser
+pendle,pendle,Pendle,5.21,-1.50024,loser
+xdce-crowd-sale,xdc,XDC Network,0.079266,-1.2943,loser
+usdb,usdb,USDB,1.003,-0.76148,loser
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.076,-0.65122,loser
