@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.205413,30.85096,gainer
-berachain-bera,bera,Berachain,2.76,18.9667,gainer
-loaded-lions,lion,Loaded Lions,0.02014936,14.00805,gainer
-hyperliquid,hype,Hyperliquid,49.41,12.73443,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.49,12.64779,gainer
-wrapped-hype,whype,Wrapped HYPE,49.3,12.4276,gainer
-story-2,ip,Story,6.2,11.03492,gainer
-rekt-4,rekt,Rekt,8.47186e-07,10.88841,gainer
-pump-fun,pump,Pump.fun,0.0029217,8.73904,gainer
-sky,sky,Sky,0.066654,8.64612,gainer
-bio-protocol,bio,Bio Protocol,0.165537,-20.25195,loser
-keeta,kta,Keeta,0.955384,-7.5402,loser
-zebec-network,zbcn,Zebec Network,0.00447314,-4.27221,loser
-ether-fi,ethfi,Ether.fi,1.08,-4.01709,loser
-memecore,m,MemeCore,0.447991,-3.73069,loser
-arbitrum,arb,Arbitrum,0.525671,-1.86075,loser
-morpho,morpho,Morpho,2.34,-1.83636,loser
-usdb,usdb,USDB,0.992087,-1.76334,loser
-pendle,pendle,Pendle,5.17,-1.36266,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.04,-1.30355,loser
+crypto-com-chain,cro,Cronos,0.205647,30.80701,gainer
+berachain-bera,bera,Berachain,2.74,18.28318,gainer
+loaded-lions,lion,Loaded Lions,0.02018975,14.23662,gainer
+hyperliquid,hype,Hyperliquid,49.46,13.0114,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.53,12.82203,gainer
+wrapped-hype,whype,Wrapped HYPE,49.31,12.45724,gainer
+story-2,ip,Story,6.19,11.02049,gainer
+rekt-4,rekt,Rekt,8.47318e-07,10.91257,gainer
+pump-fun,pump,Pump.fun,0.00293272,9.14921,gainer
+sky,sky,Sky,0.066823,8.92185,gainer
+bio-protocol,bio,Bio Protocol,0.166159,-19.95266,loser
+keeta,kta,Keeta,0.949886,-8.02052,loser
+zebec-network,zbcn,Zebec Network,0.00447545,-4.22288,loser
+ether-fi,ethfi,Ether.fi,1.08,-3.9654,loser
+memecore,m,MemeCore,0.448109,-3.48889,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.04,-1.93496,loser
+usdb,usdb,USDB,0.991182,-1.85291,loser
+morpho,morpho,Morpho,2.34,-1.80466,loser
+arbitrum,arb,Arbitrum,0.525952,-1.54548,loser
+pendle,pendle,Pendle,5.17,-1.45426,loser
