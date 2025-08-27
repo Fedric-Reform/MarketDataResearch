@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.219474,37.25487,gainer
-loaded-lions,lion,Loaded Lions,0.02112792,18.12659,gainer
-syrup,syrup,Maple Finance,0.44947,12.33218,gainer
-hyperliquid,hype,Hyperliquid,50.93,12.15721,gainer
-wrapped-hype,whype,Wrapped HYPE,50.81,11.83318,gainer
-story-2,ip,Story,6.21,11.70246,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.91,11.69031,gainer
-pump-fun,pump,Pump.fun,0.00303725,11.20004,gainer
-instadapp,fluid,Fluid,6.37,8.94356,gainer
-berachain-bera,bera,Berachain,2.64,8.82853,gainer
-bio-protocol,bio,Bio Protocol,0.166645,-18.90671,loser
-keeta,kta,Keeta,0.973446,-5.78182,loser
-zebec-network,zbcn,Zebec Network,0.00448545,-3.26893,loser
-memecore,m,MemeCore,0.440386,-2.50314,loser
-pendle,pendle,Pendle,5.2,-2.35872,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.05,-2.26348,loser
-xdce-crowd-sale,xdc,XDC Network,0.079438,-2.15242,loser
-morpho,morpho,Morpho,2.35,-1.3851,loser
-ether-fi,ethfi,Ether.fi,1.098,-1.33152,loser
-wemix-token,wemix,WEMIX,0.787151,-0.85634,loser
+crypto-com-chain,cro,Cronos,0.225381,40.97493,gainer
+loaded-lions,lion,Loaded Lions,0.02191464,23.34439,gainer
+syrup,syrup,Maple Finance,0.448819,12.23171,gainer
+hyperliquid,hype,Hyperliquid,51.05,12.15559,gainer
+wrapped-hype,whype,Wrapped HYPE,50.84,11.88982,gainer
+story-2,ip,Story,6.21,11.82274,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.97,11.7401,gainer
+pump-fun,pump,Pump.fun,0.00303244,10.51614,gainer
+berachain-bera,bera,Berachain,2.64,9.83267,gainer
+instadapp,fluid,Fluid,6.39,9.22768,gainer
+bio-protocol,bio,Bio Protocol,0.164969,-20.04811,loser
+keeta,kta,Keeta,0.972561,-5.74838,loser
+zebec-network,zbcn,Zebec Network,0.00447755,-3.42905,loser
+memecore,m,MemeCore,0.440262,-2.58466,loser
+xdce-crowd-sale,xdc,XDC Network,0.079456,-2.51803,loser
+pendle,pendle,Pendle,5.21,-2.11407,loser
+morpho,morpho,Morpho,2.35,-1.45869,loser
+ether-fi,ethfi,Ether.fi,1.097,-1.14959,loser
+flare-networks,flr,Flare,0.022329,-0.62505,loser
+newton-project,ab,AB,0.00913526,-0.48719,loser
