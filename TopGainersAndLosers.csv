@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-livepeer,lpt,Livepeer,7.26,19.66568,gainer
-crypto-com-chain,cro,Cronos,0.230201,17.34398,gainer
-syrup,syrup,Maple Finance,0.462436,15.20871,gainer
-venom,venom,Venom,0.152487,11.81974,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.68,9.56233,gainer
-jito-governance-token,jto,Jito,1.95,9.4268,gainer
-wrapped-hype,whype,Wrapped HYPE,49.6,9.40834,gainer
-hyperliquid,hype,Hyperliquid,49.57,9.33624,gainer
-msol,msol,Marinade Staked SOL,268.95,7.8478,gainer
-solana,sol,Solana,203.8,7.74531,gainer
-keeta,kta,Keeta,0.933618,-12.68474,loser
+livepeer,lpt,Livepeer,7.26,19.71725,gainer
+crypto-com-chain,cro,Cronos,0.230586,18.00637,gainer
+syrup,syrup,Maple Finance,0.462544,15.00634,gainer
+venom,venom,Venom,0.152506,11.8339,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.68,9.56191,gainer
+wrapped-hype,whype,Wrapped HYPE,49.6,9.40768,gainer
+hyperliquid,hype,Hyperliquid,49.54,9.26822,gainer
+jito-governance-token,jto,Jito,1.95,9.1614,gainer
+jupiter-staked-sol,jupsol,Jupiter Staked SOL,231.18,7.83358,gainer
+msol,msol,Marinade Staked SOL,268.9,7.82606,gainer
+keeta,kta,Keeta,0.936296,-12.43428,loser
 hash-2,hash,Provenance Blockchain,0.02238776,-11.54523,loser
-memecore,m,MemeCore,0.419963,-4.71209,loser
-morpho,morpho,Morpho,2.23,-4.60764,loser
-bio-protocol,bio,Bio Protocol,0.193567,-4.25068,loser
-pendle,pendle,Pendle,5.2,-3.87637,loser
-zebec-network,zbcn,Zebec Network,0.00441901,-3.16704,loser
-xdce-crowd-sale,xdc,XDC Network,0.078534,-3.01603,loser
-arbitrum,arb,Arbitrum,0.518039,-2.29878,loser
-aave,aave,Aave,325.35,-2.10276,loser
+morpho,morpho,Morpho,2.23,-4.9566,loser
+bio-protocol,bio,Bio Protocol,0.193257,-4.8168,loser
+memecore,m,MemeCore,0.419872,-4.73265,loser
+pendle,pendle,Pendle,5.2,-3.90271,loser
+zebec-network,zbcn,Zebec Network,0.00441307,-3.5834,loser
+xdce-crowd-sale,xdc,XDC Network,0.078485,-3.07556,loser
+arbitrum,arb,Arbitrum,0.517488,-2.84212,loser
+aave,aave,Aave,325.03,-2.38465,loser
