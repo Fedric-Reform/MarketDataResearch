@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.217339,35.98097,gainer
-loaded-lions,lion,Loaded Lions,0.02101722,17.5846,gainer
-syrup,syrup,Maple Finance,0.447905,12.24717,gainer
-wrapped-hype,whype,Wrapped HYPE,50.82,12.11912,gainer
-hyperliquid,hype,Hyperliquid,50.86,12.02268,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.99,11.87606,gainer
-story-2,ip,Story,6.21,11.71186,gainer
-pump-fun,pump,Pump.fun,0.00303429,11.53142,gainer
-drift-staked-sol,dsol,Drift Staked SOL,233.18,9.06476,gainer
-instadapp,fluid,Fluid,6.37,8.98508,gainer
-bio-protocol,bio,Bio Protocol,0.16517,-19.62438,loser
-keeta,kta,Keeta,0.974724,-5.65808,loser
-zebec-network,zbcn,Zebec Network,0.00447471,-3.52856,loser
-memecore,m,MemeCore,0.44015,-3.32971,loser
-pendle,pendle,Pendle,5.19,-2.70004,loser
-xdce-crowd-sale,xdc,XDC Network,0.079356,-2.16185,loser
-ether-fi,ethfi,Ether.fi,1.095,-1.7311,loser
-morpho,morpho,Morpho,2.35,-1.35446,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.12,-1.16745,loser
-wemix-token,wemix,WEMIX,0.787225,-0.84702,loser
+crypto-com-chain,cro,Cronos,0.219474,37.25487,gainer
+loaded-lions,lion,Loaded Lions,0.02112792,18.12659,gainer
+syrup,syrup,Maple Finance,0.44947,12.33218,gainer
+hyperliquid,hype,Hyperliquid,50.93,12.15721,gainer
+wrapped-hype,whype,Wrapped HYPE,50.81,11.83318,gainer
+story-2,ip,Story,6.21,11.70246,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.91,11.69031,gainer
+pump-fun,pump,Pump.fun,0.00303725,11.20004,gainer
+instadapp,fluid,Fluid,6.37,8.94356,gainer
+berachain-bera,bera,Berachain,2.64,8.82853,gainer
+bio-protocol,bio,Bio Protocol,0.166645,-18.90671,loser
+keeta,kta,Keeta,0.973446,-5.78182,loser
+zebec-network,zbcn,Zebec Network,0.00448545,-3.26893,loser
+memecore,m,MemeCore,0.440386,-2.50314,loser
+pendle,pendle,Pendle,5.2,-2.35872,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.05,-2.26348,loser
+xdce-crowd-sale,xdc,XDC Network,0.079438,-2.15242,loser
+morpho,morpho,Morpho,2.35,-1.3851,loser
+ether-fi,ethfi,Ether.fi,1.098,-1.33152,loser
+wemix-token,wemix,WEMIX,0.787151,-0.85634,loser
