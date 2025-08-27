@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ultima,ultima,Ultima,8628.28,20.12808,gainer
-hash-2,hash,Provenance Blockchain,0.02715483,5.49633,gainer
-memecore,m,MemeCore,0.460021,5.4221,gainer
-build-on,b,BUILDon,0.560363,4.29776,gainer
-newton-project,ab,AB,0.00915837,3.52911,gainer
-dexe,dexe,DeXe,7.12,1.9678,gainer
-loaded-lions,lion,Loaded Lions,0.01773839,1.38108,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.07,1.15475,gainer
-beldex,bdx,Beldex,0.076629,0.90378,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.003,0.73886,gainer
-fartcoin,fartcoin,Fartcoin,0.778885,-19.94393,loser
-instadapp,fluid,Fluid,5.78,-18.74491,loser
-mog-coin,mog,Mog Coin,9.45517e-07,-14.63394,loser
-curve-dao-token,crv,Curve DAO,0.779076,-14.31221,loser
-keeta,kta,Keeta,1.028,-14.2463,loser
-bio-protocol,bio,Bio Protocol,0.205708,-14.06799,loser
-based-brett,brett,Brett,0.04861119,-13.6073,loser
-rekt-4,rekt,Rekt,7.63482e-07,-13.45051,loser
-dogwifcoin,wif,dogwifhat,0.770905,-13.31301,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02999488,-13.06853,loser
+crypto-com-chain,cro,Cronos,0.203622,30.22538,gainer
+berachain-bera,bera,Berachain,2.68,17.8106,gainer
+loaded-lions,lion,Loaded Lions,0.02002998,13.27937,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.26,11.92062,gainer
+wrapped-hype,whype,Wrapped HYPE,49.11,11.86112,gainer
+hyperliquid,hype,Hyperliquid,49.06,11.64715,gainer
+story-2,ip,Story,6.18,11.5577,gainer
+rekt-4,rekt,Rekt,8.46208e-07,10.49057,gainer
+pump-fun,pump,Pump.fun,0.00289759,8.42298,gainer
+sky,sky,Sky,0.066531,8.23332,gainer
+bio-protocol,bio,Bio Protocol,0.17135,-15.80837,loser
+keeta,kta,Keeta,0.888552,-14.03371,loser
+zebec-network,zbcn,Zebec Network,0.00446145,-5.11703,loser
+ether-fi,ethfi,Ether.fi,1.077,-4.32477,loser
+memecore,m,MemeCore,0.444472,-3.45191,loser
+morpho,morpho,Morpho,2.33,-2.51796,loser
+arbitrum,arb,Arbitrum,0.523043,-2.37311,loser
+ethena,ena,Ethena,0.61846,-2.35645,loser
+usdb,usdb,USDB,0.989011,-2.35256,loser
+neo,neo,NEO,6.95,-2.30966,loser
