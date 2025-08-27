@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.227924,42.4365,gainer
-loaded-lions,lion,Loaded Lions,0.0219145,23.03598,gainer
-syrup,syrup,Maple Finance,0.451767,12.76196,gainer
-hyperliquid,hype,Hyperliquid,50.67,11.86659,gainer
-wrapped-hype,whype,Wrapped HYPE,50.64,11.79803,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.74,11.75028,gainer
-story-2,ip,Story,6.21,11.48169,gainer
-instadapp,fluid,Fluid,6.39,8.23649,gainer
-berachain-bera,bera,Berachain,2.61,8.07689,gainer
-zcash,zec,Zcash,43.14,7.94664,gainer
-bio-protocol,bio,Bio Protocol,0.162794,-19.68575,loser
-keeta,kta,Keeta,0.974091,-5.54578,loser
-memecore,m,MemeCore,0.434313,-3.77927,loser
-zebec-network,zbcn,Zebec Network,0.00444692,-3.26629,loser
-xdce-crowd-sale,xdc,XDC Network,0.079358,-2.71891,loser
-ether-fi,ethfi,Ether.fi,1.088,-2.13142,loser
-pendle,pendle,Pendle,5.18,-2.00648,loser
-morpho,morpho,Morpho,2.34,-1.92156,loser
-arbitrum,arb,Arbitrum,0.5254,-1.19316,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.09,-0.76002,loser
+livepeer,lpt,Livepeer,7.26,19.66568,gainer
+crypto-com-chain,cro,Cronos,0.230201,17.34398,gainer
+syrup,syrup,Maple Finance,0.462436,15.20871,gainer
+venom,venom,Venom,0.152487,11.81974,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.68,9.56233,gainer
+jito-governance-token,jto,Jito,1.95,9.4268,gainer
+wrapped-hype,whype,Wrapped HYPE,49.6,9.40834,gainer
+hyperliquid,hype,Hyperliquid,49.57,9.33624,gainer
+msol,msol,Marinade Staked SOL,268.95,7.8478,gainer
+solana,sol,Solana,203.8,7.74531,gainer
+keeta,kta,Keeta,0.933618,-12.68474,loser
+hash-2,hash,Provenance Blockchain,0.02238776,-11.54523,loser
+memecore,m,MemeCore,0.419963,-4.71209,loser
+morpho,morpho,Morpho,2.23,-4.60764,loser
+bio-protocol,bio,Bio Protocol,0.193567,-4.25068,loser
+pendle,pendle,Pendle,5.2,-3.87637,loser
+zebec-network,zbcn,Zebec Network,0.00441901,-3.16704,loser
+xdce-crowd-sale,xdc,XDC Network,0.078534,-3.01603,loser
+arbitrum,arb,Arbitrum,0.518039,-2.29878,loser
+aave,aave,Aave,325.35,-2.10276,loser
