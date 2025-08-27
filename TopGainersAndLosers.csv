@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.207782,31.06114,gainer
-hyperliquid,hype,Hyperliquid,50.95,15.25084,gainer
-wrapped-hype,whype,Wrapped HYPE,50.88,14.76913,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,51.14,14.43614,gainer
-loaded-lions,lion,Loaded Lions,0.02028352,13.61639,gainer
-berachain-bera,bera,Berachain,2.69,13.55984,gainer
-pump-fun,pump,Pump.fun,0.00300704,11.4875,gainer
-story-2,ip,Story,6.18,10.71074,gainer
-instadapp,fluid,Fluid,6.36,9.56109,gainer
-solana,sol,Solana,203.94,8.9575,gainer
-bio-protocol,bio,Bio Protocol,0.166304,-17.87367,loser
-keeta,kta,Keeta,0.966997,-6.79692,loser
-zebec-network,zbcn,Zebec Network,0.00447932,-4.84632,loser
-memecore,m,MemeCore,0.445984,-2.23221,loser
-ether-fi,ethfi,Ether.fi,1.099,-2.02384,loser
-zora,zora,Zora,0.098795,-1.73371,loser
-pendle,pendle,Pendle,5.21,-1.50024,loser
-xdce-crowd-sale,xdc,XDC Network,0.079266,-1.2943,loser
-usdb,usdb,USDB,1.003,-0.76148,loser
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.076,-0.65122,loser
+crypto-com-chain,cro,Cronos,0.216671,36.47572,gainer
+loaded-lions,lion,Loaded Lions,0.0208971,17.62471,gainer
+wrapped-hype,whype,Wrapped HYPE,50.63,13.52395,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,50.65,13.47214,gainer
+hyperliquid,hype,Hyperliquid,50.5,13.12033,gainer
+pump-fun,pump,Pump.fun,0.00300293,10.98041,gainer
+story-2,ip,Story,6.14,10.31569,gainer
+berachain-bera,bera,Berachain,2.63,10.22431,gainer
+syrup,syrup,Maple Finance,0.442185,10.16902,gainer
+drift-staked-sol,dsol,Drift Staked SOL,233.17,9.1031,gainer
+bio-protocol,bio,Bio Protocol,0.162033,-19.84645,loser
+keeta,kta,Keeta,0.979445,-4.94179,loser
+zebec-network,zbcn,Zebec Network,0.00447009,-4.53766,loser
+memecore,m,MemeCore,0.445073,-2.30973,loser
+ether-fi,ethfi,Ether.fi,1.09,-2.23368,loser
+pendle,pendle,Pendle,5.18,-2.16805,loser
+arbitrum,arb,Arbitrum,0.526817,-1.79769,loser
+xdce-crowd-sale,xdc,XDC Network,0.079379,-1.36455,loser
+morpho,morpho,Morpho,2.35,-1.36436,loser
+wemix-token,wemix,WEMIX,0.78993,-0.9675,loser
