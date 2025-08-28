@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-livepeer,lpt,Livepeer,7.26,19.71725,gainer
-crypto-com-chain,cro,Cronos,0.230586,18.00637,gainer
-syrup,syrup,Maple Finance,0.462544,15.00634,gainer
-venom,venom,Venom,0.152506,11.8339,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,49.68,9.56191,gainer
-wrapped-hype,whype,Wrapped HYPE,49.6,9.40768,gainer
-hyperliquid,hype,Hyperliquid,49.54,9.26822,gainer
-jito-governance-token,jto,Jito,1.95,9.1614,gainer
-jupiter-staked-sol,jupsol,Jupiter Staked SOL,231.18,7.83358,gainer
-msol,msol,Marinade Staked SOL,268.9,7.82606,gainer
-keeta,kta,Keeta,0.936296,-12.43428,loser
-hash-2,hash,Provenance Blockchain,0.02238776,-11.54523,loser
-morpho,morpho,Morpho,2.23,-4.9566,loser
-bio-protocol,bio,Bio Protocol,0.193257,-4.8168,loser
-memecore,m,MemeCore,0.419872,-4.73265,loser
-pendle,pendle,Pendle,5.2,-3.90271,loser
-zebec-network,zbcn,Zebec Network,0.00441307,-3.5834,loser
-xdce-crowd-sale,xdc,XDC Network,0.078485,-3.07556,loser
-arbitrum,arb,Arbitrum,0.517488,-2.84212,loser
-aave,aave,Aave,325.03,-2.38465,loser
+crypto-com-chain,cro,Cronos,0.341912,68.75187,gainer
+vvs-finance,vvs,VVS Finance,7.14e-06,65.68475,gainer
+agentfun-ai,agentfun,AgentFun.AI,4.0,64.75476,gainer
+loaded-lions,lion,Loaded Lions,0.0289432,43.73801,gainer
+livepeer,lpt,Livepeer,8.46,23.74663,gainer
+kaia,kaia,Kaia,0.165937,15.88071,gainer
+venom,venom,Venom,0.16104,12.39155,gainer
+raydium,ray,Raydium,3.83,12.00083,gainer
+jito-governance-token,jto,Jito,2.01,8.96992,gainer
+syrup,syrup,Maple Finance,0.455948,8.19314,gainer
+rekt-4,rekt,Rekt,7.74802e-07,-8.4711,loser
+morpho,morpho,Morpho,2.15,-7.46309,loser
+wemix-token,wemix,WEMIX,0.75331,-4.94537,loser
+okb,okb,OKB,169.14,-4.51844,loser
+flare-networks,flr,Flare,0.0212897,-4.25478,loser
+aerodrome-finance,aero,Aerodrome Finance,1.27,-3.86668,loser
+mog-coin,mog,Mog Coin,9.54187e-07,-3.38687,loser
+chain-2,xcn,Onyxcoin,0.01152341,-3.12299,loser
+memecore,m,MemeCore,0.428395,-2.86127,loser
+reserve-rights-token,rsr,Reserve Rights,0.00765687,-2.80448,loser
