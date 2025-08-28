@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.341912,68.75187,gainer
-vvs-finance,vvs,VVS Finance,7.14e-06,65.68475,gainer
-agentfun-ai,agentfun,AgentFun.AI,4.0,64.75476,gainer
-loaded-lions,lion,Loaded Lions,0.0289432,43.73801,gainer
-livepeer,lpt,Livepeer,8.46,23.74663,gainer
-kaia,kaia,Kaia,0.165937,15.88071,gainer
-venom,venom,Venom,0.16104,12.39155,gainer
-raydium,ray,Raydium,3.83,12.00083,gainer
-jito-governance-token,jto,Jito,2.01,8.96992,gainer
-syrup,syrup,Maple Finance,0.455948,8.19314,gainer
-rekt-4,rekt,Rekt,7.74802e-07,-8.4711,loser
-morpho,morpho,Morpho,2.15,-7.46309,loser
-wemix-token,wemix,WEMIX,0.75331,-4.94537,loser
-okb,okb,OKB,169.14,-4.51844,loser
-flare-networks,flr,Flare,0.0212897,-4.25478,loser
-aerodrome-finance,aero,Aerodrome Finance,1.27,-3.86668,loser
-mog-coin,mog,Mog Coin,9.54187e-07,-3.38687,loser
-chain-2,xcn,Onyxcoin,0.01152341,-3.12299,loser
-memecore,m,MemeCore,0.428395,-2.86127,loser
-reserve-rights-token,rsr,Reserve Rights,0.00765687,-2.80448,loser
+crypto-com-chain,cro,Cronos,0.344607,67.88397,gainer
+vvs-finance,vvs,VVS Finance,7.2e-06,65.81224,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.98,63.27833,gainer
+loaded-lions,lion,Loaded Lions,0.02918166,45.68995,gainer
+livepeer,lpt,Livepeer,8.39,22.86502,gainer
+raydium,ray,Raydium,3.85,12.73463,gainer
+venom,venom,Venom,0.1613,12.28765,gainer
+kaia,kaia,Kaia,0.160633,12.04843,gainer
+jito-governance-token,jto,Jito,2.02,8.75829,gainer
+syrup,syrup,Maple Finance,0.456837,7.47979,gainer
+rekt-4,rekt,Rekt,7.75136e-07,-8.41276,loser
+morpho,morpho,Morpho,2.15,-7.74217,loser
+ultima,ultima,Ultima,8207.61,-6.83092,loser
+wemix-token,wemix,WEMIX,0.755015,-4.76222,loser
+flare-networks,flr,Flare,0.02125699,-4.48838,loser
+okb,okb,OKB,170.39,-4.0239,loser
+berachain-bera,bera,Berachain,2.58,-4.00457,loser
+mog-coin,mog,Mog Coin,9.49283e-07,-3.73118,loser
+memecore,m,MemeCore,0.428265,-3.69948,loser
+aerodrome-finance,aero,Aerodrome Finance,1.27,-3.6637,loser
