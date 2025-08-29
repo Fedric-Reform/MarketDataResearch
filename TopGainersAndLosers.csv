@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-crypto-com-chain,cro,Cronos,0.344607,67.88397,gainer
-vvs-finance,vvs,VVS Finance,7.2e-06,65.81224,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.98,63.27833,gainer
-loaded-lions,lion,Loaded Lions,0.02918166,45.68995,gainer
-livepeer,lpt,Livepeer,8.39,22.86502,gainer
-raydium,ray,Raydium,3.85,12.73463,gainer
-venom,venom,Venom,0.1613,12.28765,gainer
-kaia,kaia,Kaia,0.160633,12.04843,gainer
-jito-governance-token,jto,Jito,2.02,8.75829,gainer
-syrup,syrup,Maple Finance,0.456837,7.47979,gainer
-rekt-4,rekt,Rekt,7.75136e-07,-8.41276,loser
-morpho,morpho,Morpho,2.15,-7.74217,loser
-ultima,ultima,Ultima,8207.61,-6.83092,loser
-wemix-token,wemix,WEMIX,0.755015,-4.76222,loser
-flare-networks,flr,Flare,0.02125699,-4.48838,loser
-okb,okb,OKB,170.39,-4.0239,loser
-berachain-bera,bera,Berachain,2.58,-4.00457,loser
-mog-coin,mog,Mog Coin,9.49283e-07,-3.73118,loser
-memecore,m,MemeCore,0.428265,-3.69948,loser
-aerodrome-finance,aero,Aerodrome Finance,1.27,-3.6637,loser
+pyth-network,pyth,Pyth Network,0.230948,98.9088,gainer
+build-on,b,BUILDon,0.663428,16.47457,gainer
+pump-fun,pump,Pump.fun,0.00340058,13.31348,gainer
+wormhole,w,Wormhole,0.081064,11.04891,gainer
+conflux-token,cfx,Conflux,0.186794,9.00265,gainer
+flow,flow,Flow,0.422056,7.75496,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.258794,7.48546,gainer
+berachain-bera,bera,Berachain,2.74,6.8447,gainer
+ethena,ena,Ethena,0.657361,6.01097,gainer
+four,form,Four,3.69,5.97503,gainer
+loaded-lions,lion,Loaded Lions,0.02404501,-17.60185,loser
+agentfun-ai,agentfun,AgentFun.AI,3.52,-10.3742,loser
+crypto-com-chain,cro,Cronos,0.316372,-7.86143,loser
+livepeer,lpt,Livepeer,7.73,-7.13417,loser
+aerodrome-finance,aero,Aerodrome Finance,1.19,-5.65656,loser
+zebec-network,zbcn,Zebec Network,0.00414578,-5.28164,loser
+telcoin,tel,Telcoin,0.00483135,-5.09833,loser
+hyperliquid,hype,Hyperliquid,45.78,-4.89992,loser
+kaia,kaia,Kaia,0.155023,-4.82465,loser
+pendle,pendle,Pendle,4.84,-4.68459,loser
