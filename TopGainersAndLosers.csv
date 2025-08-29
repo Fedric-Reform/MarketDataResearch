@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.214732,83.56386,gainer
-wormhole,w,Wormhole,0.101945,38.33831,gainer
-build-on,b,BUILDon,0.689176,22.27785,gainer
-pump-fun,pump,Pump.fun,0.00345738,11.30594,gainer
-conflux-token,cfx,Conflux,0.188767,9.81108,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.26099,8.05635,gainer
-flow,flow,Flow,0.425186,7.57956,gainer
-four,form,Four,3.7,7.18994,gainer
-berachain-bera,bera,Berachain,2.75,6.73484,gainer
-ethena,ena,Ethena,0.668882,6.24369,gainer
-loaded-lions,lion,Loaded Lions,0.02288747,-19.01824,loser
-crypto-com-chain,cro,Cronos,0.294745,-18.0934,loser
-agentfun-ai,agentfun,AgentFun.AI,3.3,-17.56639,loser
-livepeer,lpt,Livepeer,7.46,-14.20943,loser
-telcoin,tel,Telcoin,0.00482742,-6.28815,loser
-wrapped-hype,whype,Wrapped HYPE,45.73,-5.89377,loser
-hyperliquid,hype,Hyperliquid,45.75,-5.86418,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.86,-5.83604,loser
-wemix-token,wemix,WEMIX,0.717495,-5.67301,loser
-aioz-network,aioz,AIOZ Network,0.326891,-5.22243,loser
+pyth-network,pyth,Pyth Network,0.215073,83.85482,gainer
+wormhole,w,Wormhole,0.101699,38.00505,gainer
+build-on,b,BUILDon,0.690653,22.5399,gainer
+pump-fun,pump,Pump.fun,0.00345878,11.35128,gainer
+conflux-token,cfx,Conflux,0.189071,9.86199,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.261012,8.06575,gainer
+flow,flow,Flow,0.426005,7.78677,gainer
+four,form,Four,3.7,6.79464,gainer
+ethena,ena,Ethena,0.670506,6.50154,gainer
+jupiter-exchange-solana,jup,Jupiter,0.541197,6.27706,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.28,-19.59788,loser
+loaded-lions,lion,Loaded Lions,0.02277158,-19.42829,loser
+crypto-com-chain,cro,Cronos,0.295075,-18.00191,loser
+livepeer,lpt,Livepeer,7.46,-14.10899,loser
+telcoin,tel,Telcoin,0.0048304,-6.23034,loser
+wrapped-hype,whype,Wrapped HYPE,45.74,-5.92506,loser
+hyperliquid,hype,Hyperliquid,45.76,-5.84375,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.91,-5.75835,loser
+wemix-token,wemix,WEMIX,0.717455,-5.66171,loser
+aioz-network,aioz,AIOZ Network,0.325732,-5.63791,loser
