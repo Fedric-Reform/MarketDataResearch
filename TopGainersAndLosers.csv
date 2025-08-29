@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.21376,82.49264,gainer
-wormhole,w,Wormhole,0.100466,36.1665,gainer
-build-on,b,BUILDon,0.686208,21.84196,gainer
-pump-fun,pump,Pump.fun,0.00345256,11.50122,gainer
-conflux-token,cfx,Conflux,0.187587,9.11417,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.261185,8.02772,gainer
-four,form,Four,3.71,7.44525,gainer
-flow,flow,Flow,0.423042,7.0438,gainer
-berachain-bera,bera,Berachain,2.74,6.88094,gainer
-ethena,ena,Ethena,0.668088,6.4743,gainer
-loaded-lions,lion,Loaded Lions,0.02287794,-16.1849,loser
-agentfun-ai,agentfun,AgentFun.AI,3.31,-15.68327,loser
-livepeer,lpt,Livepeer,7.42,-13.75142,loser
-crypto-com-chain,cro,Cronos,0.295948,-13.61332,loser
-wrapped-hype,whype,Wrapped HYPE,45.57,-6.20254,loser
-hyperliquid,hype,Hyperliquid,45.61,-6.15612,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.69,-6.09018,loser
-telcoin,tel,Telcoin,0.00482473,-6.06238,loser
-wemix-token,wemix,WEMIX,0.716666,-5.79318,loser
-pendle,pendle,Pendle,4.85,-5.24203,loser
+pyth-network,pyth,Pyth Network,0.214732,83.56386,gainer
+wormhole,w,Wormhole,0.101945,38.33831,gainer
+build-on,b,BUILDon,0.689176,22.27785,gainer
+pump-fun,pump,Pump.fun,0.00345738,11.30594,gainer
+conflux-token,cfx,Conflux,0.188767,9.81108,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.26099,8.05635,gainer
+flow,flow,Flow,0.425186,7.57956,gainer
+four,form,Four,3.7,7.18994,gainer
+berachain-bera,bera,Berachain,2.75,6.73484,gainer
+ethena,ena,Ethena,0.668882,6.24369,gainer
+loaded-lions,lion,Loaded Lions,0.02288747,-19.01824,loser
+crypto-com-chain,cro,Cronos,0.294745,-18.0934,loser
+agentfun-ai,agentfun,AgentFun.AI,3.3,-17.56639,loser
+livepeer,lpt,Livepeer,7.46,-14.20943,loser
+telcoin,tel,Telcoin,0.00482742,-6.28815,loser
+wrapped-hype,whype,Wrapped HYPE,45.73,-5.89377,loser
+hyperliquid,hype,Hyperliquid,45.75,-5.86418,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.86,-5.83604,loser
+wemix-token,wemix,WEMIX,0.717495,-5.67301,loser
+aioz-network,aioz,AIOZ Network,0.326891,-5.22243,loser
