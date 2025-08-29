@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.221881,90.5089,gainer
-build-on,b,BUILDon,0.680084,19.10763,gainer
-wormhole,w,Wormhole,0.083328,13.77502,gainer
-pump-fun,pump,Pump.fun,0.00343153,13.66716,gainer
-conflux-token,cfx,Conflux,0.189358,10.10502,gainer
-four,form,Four,3.74,9.68319,gainer
-flow,flow,Flow,0.424412,7.8967,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.257916,7.3553,gainer
-berachain-bera,bera,Berachain,2.75,7.17328,gainer
-ethena,ena,Ethena,0.66622,6.47086,gainer
-loaded-lions,lion,Loaded Lions,0.02354416,-15.91579,loser
-livepeer,lpt,Livepeer,7.55,-14.32207,loser
-agentfun-ai,agentfun,AgentFun.AI,3.43,-13.77038,loser
-crypto-com-chain,cro,Cronos,0.308149,-11.65614,loser
-telcoin,tel,Telcoin,0.00481513,-5.60249,loser
-wrapped-hype,whype,Wrapped HYPE,45.53,-5.50647,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.71,-5.38753,loser
-hyperliquid,hype,Hyperliquid,45.6,-5.2963,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.25832,loser
-wemix-token,wemix,WEMIX,0.71922,-4.99895,loser
+pyth-network,pyth,Pyth Network,0.224713,92.38219,gainer
+build-on,b,BUILDon,0.685515,20.39892,gainer
+wormhole,w,Wormhole,0.083954,14.27868,gainer
+pump-fun,pump,Pump.fun,0.00345663,13.81644,gainer
+conflux-token,cfx,Conflux,0.188602,9.65792,gainer
+four,form,Four,3.73,8.67845,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.260285,8.27766,gainer
+flow,flow,Flow,0.423209,7.39606,gainer
+berachain-bera,bera,Berachain,2.73,6.78491,gainer
+ethena,ena,Ethena,0.66709,6.6951,gainer
+loaded-lions,lion,Loaded Lions,0.02336904,-17.59013,loser
+agentfun-ai,agentfun,AgentFun.AI,3.38,-17.58171,loser
+crypto-com-chain,cro,Cronos,0.303362,-14.18075,loser
+livepeer,lpt,Livepeer,7.58,-13.44118,loser
+wrapped-hype,whype,Wrapped HYPE,45.53,-5.73685,loser
+telcoin,tel,Telcoin,0.00481882,-5.59586,loser
+wemix-token,wemix,WEMIX,0.716065,-5.57952,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.71,-5.48554,loser
+hyperliquid,hype,Hyperliquid,45.68,-5.38028,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-5.09658,loser
