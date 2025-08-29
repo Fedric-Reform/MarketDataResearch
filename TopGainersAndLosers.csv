@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.222103,90.3441,gainer
-build-on,b,BUILDon,0.687105,20.68693,gainer
-wormhole,w,Wormhole,0.086413,17.73696,gainer
-pump-fun,pump,Pump.fun,0.00348016,14.33812,gainer
-conflux-token,cfx,Conflux,0.188774,9.91002,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.259834,8.10327,gainer
-four,form,Four,3.73,8.08101,gainer
-flow,flow,Flow,0.424683,7.7407,gainer
-ethena,ena,Ethena,0.666913,6.79569,gainer
-berachain-bera,bera,Berachain,2.73,6.78188,gainer
-loaded-lions,lion,Loaded Lions,0.02340473,-18.23008,loser
-agentfun-ai,agentfun,AgentFun.AI,3.4,-17.87831,loser
-crypto-com-chain,cro,Cronos,0.303348,-15.35162,loser
-livepeer,lpt,Livepeer,7.59,-14.85826,loser
-wemix-token,wemix,WEMIX,0.716816,-5.71103,loser
-hyperliquid,hype,Hyperliquid,45.62,-5.33331,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.82,-5.32828,loser
-telcoin,tel,Telcoin,0.00483002,-5.29203,loser
-wrapped-hype,whype,Wrapped HYPE,45.76,-5.01247,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-4.68952,loser
+pyth-network,pyth,Pyth Network,0.221994,90.2504,gainer
+build-on,b,BUILDon,0.687342,20.72861,gainer
+wormhole,w,Wormhole,0.08737,19.04101,gainer
+pump-fun,pump,Pump.fun,0.00348018,14.33877,gainer
+conflux-token,cfx,Conflux,0.189013,10.04877,gainer
+four,form,Four,3.73,8.08212,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.25965,8.02697,gainer
+flow,flow,Flow,0.42442,7.67414,gainer
+ethena,ena,Ethena,0.666935,6.79923,gainer
+berachain-bera,bera,Berachain,2.73,6.77665,gainer
+loaded-lions,lion,Loaded Lions,0.02333771,-18.46422,loser
+agentfun-ai,agentfun,AgentFun.AI,3.4,-17.68963,loser
+crypto-com-chain,cro,Cronos,0.302789,-15.50763,loser
+livepeer,lpt,Livepeer,7.59,-14.85214,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.77,-5.42316,loser
+wemix-token,wemix,WEMIX,0.719266,-5.38873,loser
+wrapped-hype,whype,Wrapped HYPE,45.74,-5.36254,loser
+hyperliquid,hype,Hyperliquid,45.6,-5.36219,loser
+telcoin,tel,Telcoin,0.00483009,-5.29068,loser
+aerodrome-finance,aero,Aerodrome Finance,1.21,-4.62185,loser
