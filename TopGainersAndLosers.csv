@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.228667,93.68755,gainer
-wormhole,w,Wormhole,0.09803,32.02812,gainer
-build-on,b,BUILDon,0.687187,22.2236,gainer
-conflux-token,cfx,Conflux,0.188814,9.00795,gainer
-pump-fun,pump,Pump.fun,0.00339119,7.62103,gainer
-berachain-bera,bera,Berachain,2.74,7.25729,gainer
-flow,flow,Flow,0.426391,7.18947,gainer
-four,form,Four,3.72,7.0756,gainer
-ethena,ena,Ethena,0.669758,5.9775,gainer
-memecore,m,MemeCore,0.448676,5.66647,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.4,-15.58339,loser
-loaded-lions,lion,Loaded Lions,0.02327284,-14.93837,loser
-crypto-com-chain,cro,Cronos,0.303828,-12.59072,loser
-livepeer,lpt,Livepeer,7.45,-12.16955,loser
-telcoin,tel,Telcoin,0.00475954,-8.27786,loser
-pendle,pendle,Pendle,4.83,-6.25492,loser
-aioz-network,aioz,AIOZ Network,0.325947,-6.08092,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.35789,loser
-wemix-token,wemix,WEMIX,0.715095,-5.25701,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.68,-5.05816,loser
+pyth-network,pyth,Pyth Network,0.22782,92.96944,gainer
+wormhole,w,Wormhole,0.098601,32.90391,gainer
+build-on,b,BUILDon,0.68853,22.66968,gainer
+conflux-token,cfx,Conflux,0.188247,8.62198,gainer
+pump-fun,pump,Pump.fun,0.0033747,7.33183,gainer
+berachain-bera,bera,Berachain,2.74,7.29479,gainer
+flow,flow,Flow,0.425081,6.97056,gainer
+four,form,Four,3.7,6.68458,gainer
+ethena,ena,Ethena,0.668756,5.74765,gainer
+memecore,m,MemeCore,0.447514,5.49657,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.42,-14.50568,loser
+loaded-lions,lion,Loaded Lions,0.02343409,-13.6238,loser
+livepeer,lpt,Livepeer,7.41,-12.54024,loser
+crypto-com-chain,cro,Cronos,0.30545,-12.49612,loser
+telcoin,tel,Telcoin,0.00475219,-8.44775,loser
+pendle,pendle,Pendle,4.83,-6.27729,loser
+aioz-network,aioz,AIOZ Network,0.325875,-5.81792,loser
+wemix-token,wemix,WEMIX,0.713457,-5.54675,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-5.37615,loser
+hyperliquid,hype,Hyperliquid,45.51,-5.25168,loser
