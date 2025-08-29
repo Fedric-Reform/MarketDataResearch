@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.23191,99.72563,gainer
-build-on,b,BUILDon,0.66578,17.00545,gainer
-pump-fun,pump,Pump.fun,0.00339146,13.10092,gainer
-wormhole,w,Wormhole,0.081235,11.13803,gainer
-conflux-token,cfx,Conflux,0.186913,9.06227,gainer
-flow,flow,Flow,0.42297,7.91131,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.259623,7.77817,gainer
-berachain-bera,bera,Berachain,2.74,6.80154,gainer
-ethena,ena,Ethena,0.659803,6.44439,gainer
-four,form,Four,3.69,6.04955,gainer
-loaded-lions,lion,Loaded Lions,0.02402283,-19.49031,loser
-agentfun-ai,agentfun,AgentFun.AI,3.54,-11.40218,loser
-crypto-com-chain,cro,Cronos,0.318013,-9.40742,loser
-livepeer,lpt,Livepeer,7.76,-7.9266,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.31573,loser
-telcoin,tel,Telcoin,0.00482089,-5.26194,loser
-hyperliquid,hype,Hyperliquid,45.71,-5.04156,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.89,-4.93895,loser
-zebec-network,zbcn,Zebec Network,0.00415173,-4.82369,loser
-pendle,pendle,Pendle,4.85,-4.56978,loser
+pyth-network,pyth,Pyth Network,0.224556,92.65499,gainer
+build-on,b,BUILDon,0.680736,20.48665,gainer
+wormhole,w,Wormhole,0.084103,14.7972,gainer
+pump-fun,pump,Pump.fun,0.00343398,13.32925,gainer
+conflux-token,cfx,Conflux,0.188654,10.06505,gainer
+four,form,Four,3.71,7.96682,gainer
+berachain-bera,bera,Berachain,2.76,7.88586,gainer
+ethena,ena,Ethena,0.664386,7.65198,gainer
+flow,flow,Flow,0.422438,7.58624,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.255857,6.84966,gainer
+loaded-lions,lion,Loaded Lions,0.02358235,-18.38209,loser
+livepeer,lpt,Livepeer,7.59,-14.47366,loser
+agentfun-ai,agentfun,AgentFun.AI,3.46,-13.29974,loser
+crypto-com-chain,cro,Cronos,0.308197,-13.0175,loser
+telcoin,tel,Telcoin,0.00482521,-5.13146,loser
+wemix-token,wemix,WEMIX,0.719449,-5.01948,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-4.68146,loser
+sun-token,sun,Sun Token,0.02283728,-4.54396,loser
+pendle,pendle,Pendle,4.84,-4.54018,loser
+syrup,syrup,Maple Finance,0.442612,-3.96464,loser
