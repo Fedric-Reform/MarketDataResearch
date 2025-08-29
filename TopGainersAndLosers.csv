@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.224818,93.46272,gainer
-build-on,b,BUILDon,0.679139,19.98408,gainer
-wormhole,w,Wormhole,0.084391,15.45315,gainer
-pump-fun,pump,Pump.fun,0.00343883,14.16443,gainer
-conflux-token,cfx,Conflux,0.189677,10.64851,gainer
-berachain-bera,bera,Berachain,2.77,8.30737,gainer
-four,form,Four,3.71,7.92958,gainer
-flow,flow,Flow,0.421949,7.62612,gainer
-ethena,ena,Ethena,0.663365,7.24285,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.256343,7.17321,gainer
-loaded-lions,lion,Loaded Lions,0.02350817,-18.7577,loser
-agentfun-ai,agentfun,AgentFun.AI,3.46,-15.19767,loser
-livepeer,lpt,Livepeer,7.56,-14.38356,loser
-crypto-com-chain,cro,Cronos,0.308892,-10.18234,loser
-telcoin,tel,Telcoin,0.0048143,-5.46454,loser
-wemix-token,wemix,WEMIX,0.720386,-4.7584,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-4.74161,loser
-sun-token,sun,Sun Token,0.02282924,-4.50121,loser
-hyperliquid,hype,Hyperliquid,45.8,-4.23212,loser
-pendle,pendle,Pendle,4.86,-4.15267,loser
+pyth-network,pyth,Pyth Network,0.224349,93.56538,gainer
+build-on,b,BUILDon,0.685163,20.61614,gainer
+wormhole,w,Wormhole,0.084458,15.74915,gainer
+pump-fun,pump,Pump.fun,0.00342009,14.09857,gainer
+conflux-token,cfx,Conflux,0.189084,10.30342,gainer
+four,form,Four,3.72,8.80512,gainer
+berachain-bera,bera,Berachain,2.77,8.58004,gainer
+flow,flow,Flow,0.423975,8.23153,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.25797,7.94377,gainer
+ethena,ena,Ethena,0.667421,7.81531,gainer
+loaded-lions,lion,Loaded Lions,0.02371435,-15.14276,loser
+livepeer,lpt,Livepeer,7.59,-11.78111,loser
+agentfun-ai,agentfun,AgentFun.AI,3.49,-10.996,loser
+crypto-com-chain,cro,Cronos,0.31361,-8.80893,loser
+telcoin,tel,Telcoin,0.00482379,-5.19977,loser
+wemix-token,wemix,WEMIX,0.719608,-4.89166,loser
+wrapped-hype,whype,Wrapped HYPE,45.62,-4.68193,loser
+hyperliquid,hype,Hyperliquid,45.63,-4.59595,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.69,-4.4785,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-4.38481,loser
