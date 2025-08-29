@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.231029,95.47359,gainer
-wormhole,w,Wormhole,0.094869,28.0712,gainer
-build-on,b,BUILDon,0.690412,22.02384,gainer
-pump-fun,pump,Pump.fun,0.00343151,10.08769,gainer
-conflux-token,cfx,Conflux,0.190207,9.77548,gainer
-flow,flow,Flow,0.427988,7.78623,gainer
-four,form,Four,3.69,6.99378,gainer
-berachain-bera,bera,Berachain,2.75,6.16188,gainer
-ethena,ena,Ethena,0.669001,5.79462,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.257239,5.6388,gainer
-loaded-lions,lion,Loaded Lions,0.0232939,-16.62942,loser
-agentfun-ai,agentfun,AgentFun.AI,3.38,-16.36663,loser
-livepeer,lpt,Livepeer,7.45,-13.5849,loser
-crypto-com-chain,cro,Cronos,0.305191,-13.07074,loser
-telcoin,tel,Telcoin,0.0048395,-6.56226,loser
-wemix-token,wemix,WEMIX,0.711486,-6.21693,loser
-aioz-network,aioz,AIOZ Network,0.326885,-6.21669,loser
-pendle,pendle,Pendle,4.86,-6.02111,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.73235,loser
-wrapped-hype,whype,Wrapped HYPE,45.91,-5.51513,loser
+pyth-network,pyth,Pyth Network,0.229748,93.52261,gainer
+wormhole,w,Wormhole,0.095524,28.47736,gainer
+build-on,b,BUILDon,0.690923,22.34011,gainer
+conflux-token,cfx,Conflux,0.191316,10.25443,gainer
+pump-fun,pump,Pump.fun,0.0034134,9.21936,gainer
+flow,flow,Flow,0.427112,7.24706,gainer
+four,form,Four,3.7,6.91216,gainer
+berachain-bera,bera,Berachain,2.75,6.66204,gainer
+ethena,ena,Ethena,0.667859,5.62916,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.255697,4.9578,gainer
+loaded-lions,lion,Loaded Lions,0.0232849,-17.99414,loser
+agentfun-ai,agentfun,AgentFun.AI,3.39,-16.02427,loser
+crypto-com-chain,cro,Cronos,0.304722,-13.5353,loser
+livepeer,lpt,Livepeer,7.45,-12.87102,loser
+wemix-token,wemix,WEMIX,0.700913,-7.60565,loser
+aioz-network,aioz,AIOZ Network,0.324962,-6.98505,loser
+telcoin,tel,Telcoin,0.00482988,-6.80016,loser
+pendle,pendle,Pendle,4.85,-6.21969,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-6.13491,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.86,-5.34363,loser
