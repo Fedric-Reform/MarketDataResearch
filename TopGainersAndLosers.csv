@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.221994,90.2504,gainer
-build-on,b,BUILDon,0.687342,20.72861,gainer
-wormhole,w,Wormhole,0.08737,19.04101,gainer
-pump-fun,pump,Pump.fun,0.00348018,14.33877,gainer
-conflux-token,cfx,Conflux,0.189013,10.04877,gainer
-four,form,Four,3.73,8.08212,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.25965,8.02697,gainer
-flow,flow,Flow,0.42442,7.67414,gainer
-ethena,ena,Ethena,0.666935,6.79923,gainer
-berachain-bera,bera,Berachain,2.73,6.77665,gainer
-loaded-lions,lion,Loaded Lions,0.02333771,-18.46422,loser
-agentfun-ai,agentfun,AgentFun.AI,3.4,-17.68963,loser
-crypto-com-chain,cro,Cronos,0.302789,-15.50763,loser
-livepeer,lpt,Livepeer,7.59,-14.85214,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.77,-5.42316,loser
-wemix-token,wemix,WEMIX,0.719266,-5.38873,loser
-wrapped-hype,whype,Wrapped HYPE,45.74,-5.36254,loser
-hyperliquid,hype,Hyperliquid,45.6,-5.36219,loser
-telcoin,tel,Telcoin,0.00483009,-5.29068,loser
-aerodrome-finance,aero,Aerodrome Finance,1.21,-4.62185,loser
+pyth-network,pyth,Pyth Network,0.21181,80.8274,gainer
+wormhole,w,Wormhole,0.100708,36.49444,gainer
+build-on,b,BUILDon,0.683518,21.3669,gainer
+pump-fun,pump,Pump.fun,0.00344493,11.25476,gainer
+conflux-token,cfx,Conflux,0.187714,9.19591,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.261108,8.27278,gainer
+four,form,Four,3.71,7.40457,gainer
+flow,flow,Flow,0.422838,6.99213,gainer
+berachain-bera,bera,Berachain,2.73,6.57587,gainer
+ethena,ena,Ethena,0.667011,6.3027,gainer
+loaded-lions,lion,Loaded Lions,0.02288486,-16.15957,loser
+agentfun-ai,agentfun,AgentFun.AI,3.31,-14.35751,loser
+livepeer,lpt,Livepeer,7.42,-13.73149,loser
+crypto-com-chain,cro,Cronos,0.295831,-13.64755,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.67,-6.2909,loser
+wrapped-hype,whype,Wrapped HYPE,45.59,-6.17126,loser
+hyperliquid,hype,Hyperliquid,45.61,-6.16652,loser
+telcoin,tel,Telcoin,0.00482503,-6.05641,loser
+wemix-token,wemix,WEMIX,0.716957,-5.67166,loser
+pendle,pendle,Pendle,4.85,-5.29342,loser
