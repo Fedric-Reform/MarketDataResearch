@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.224556,92.65499,gainer
-build-on,b,BUILDon,0.680736,20.48665,gainer
-wormhole,w,Wormhole,0.084103,14.7972,gainer
-pump-fun,pump,Pump.fun,0.00343398,13.32925,gainer
-conflux-token,cfx,Conflux,0.188654,10.06505,gainer
-four,form,Four,3.71,7.96682,gainer
-berachain-bera,bera,Berachain,2.76,7.88586,gainer
-ethena,ena,Ethena,0.664386,7.65198,gainer
-flow,flow,Flow,0.422438,7.58624,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.255857,6.84966,gainer
-loaded-lions,lion,Loaded Lions,0.02358235,-18.38209,loser
-livepeer,lpt,Livepeer,7.59,-14.47366,loser
-agentfun-ai,agentfun,AgentFun.AI,3.46,-13.29974,loser
-crypto-com-chain,cro,Cronos,0.308197,-13.0175,loser
-telcoin,tel,Telcoin,0.00482521,-5.13146,loser
-wemix-token,wemix,WEMIX,0.719449,-5.01948,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-4.68146,loser
-sun-token,sun,Sun Token,0.02283728,-4.54396,loser
-pendle,pendle,Pendle,4.84,-4.54018,loser
-syrup,syrup,Maple Finance,0.442612,-3.96464,loser
+pyth-network,pyth,Pyth Network,0.223027,91.431,gainer
+build-on,b,BUILDon,0.68112,20.55456,gainer
+wormhole,w,Wormhole,0.084148,14.85905,gainer
+pump-fun,pump,Pump.fun,0.00343624,13.74385,gainer
+conflux-token,cfx,Conflux,0.188613,9.88761,gainer
+four,form,Four,3.71,7.96822,gainer
+berachain-bera,bera,Berachain,2.76,7.90561,gainer
+flow,flow,Flow,0.422086,7.49673,gainer
+ethena,ena,Ethena,0.664407,7.45835,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.256112,7.07691,gainer
+loaded-lions,lion,Loaded Lions,0.02357738,-18.39928,loser
+livepeer,lpt,Livepeer,7.58,-15.06409,loser
+agentfun-ai,agentfun,AgentFun.AI,3.45,-13.39146,loser
+crypto-com-chain,cro,Cronos,0.307854,-13.11419,loser
+telcoin,tel,Telcoin,0.004822,-5.27599,loser
+wemix-token,wemix,WEMIX,0.719183,-4.95367,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-4.80417,loser
+sun-token,sun,Sun Token,0.0228339,-4.55809,loser
+pendle,pendle,Pendle,4.85,-4.42408,loser
+hyperliquid,hype,Hyperliquid,45.97,-3.79633,loser
