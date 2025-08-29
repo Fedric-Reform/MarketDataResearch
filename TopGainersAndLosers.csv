@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.232109,99.89739,gainer
-build-on,b,BUILDon,0.662749,16.4727,gainer
-pump-fun,pump,Pump.fun,0.00339238,13.0401,gainer
-wormhole,w,Wormhole,0.081234,11.13592,gainer
-conflux-token,cfx,Conflux,0.186791,8.99147,gainer
-flow,flow,Flow,0.422977,7.91316,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.259734,7.82416,gainer
-berachain-bera,bera,Berachain,2.75,6.8716,gainer
-ethena,ena,Ethena,0.659364,6.33404,gainer
-four,form,Four,3.69,6.05608,gainer
-loaded-lions,lion,Loaded Lions,0.02401088,-19.53037,loser
-agentfun-ai,agentfun,AgentFun.AI,3.53,-11.72483,loser
-crypto-com-chain,cro,Cronos,0.31802,-9.40541,loser
-livepeer,lpt,Livepeer,7.76,-7.92729,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.3139,loser
-telcoin,tel,Telcoin,0.0048212,-5.29769,loser
-hyperliquid,hype,Hyperliquid,45.71,-5.03138,loser
-zebec-network,zbcn,Zebec Network,0.00414914,-4.88302,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.89,-4.78963,loser
-pendle,pendle,Pendle,4.85,-4.60484,loser
+pyth-network,pyth,Pyth Network,0.23191,99.72563,gainer
+build-on,b,BUILDon,0.66578,17.00545,gainer
+pump-fun,pump,Pump.fun,0.00339146,13.10092,gainer
+wormhole,w,Wormhole,0.081235,11.13803,gainer
+conflux-token,cfx,Conflux,0.186913,9.06227,gainer
+flow,flow,Flow,0.42297,7.91131,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.259623,7.77817,gainer
+berachain-bera,bera,Berachain,2.74,6.80154,gainer
+ethena,ena,Ethena,0.659803,6.44439,gainer
+four,form,Four,3.69,6.04955,gainer
+loaded-lions,lion,Loaded Lions,0.02402283,-19.49031,loser
+agentfun-ai,agentfun,AgentFun.AI,3.54,-11.40218,loser
+crypto-com-chain,cro,Cronos,0.318013,-9.40742,loser
+livepeer,lpt,Livepeer,7.76,-7.9266,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-5.31573,loser
+telcoin,tel,Telcoin,0.00482089,-5.26194,loser
+hyperliquid,hype,Hyperliquid,45.71,-5.04156,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.89,-4.93895,loser
+zebec-network,zbcn,Zebec Network,0.00415173,-4.82369,loser
+pendle,pendle,Pendle,4.85,-4.56978,loser
