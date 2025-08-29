@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.224713,92.38219,gainer
-build-on,b,BUILDon,0.685515,20.39892,gainer
-wormhole,w,Wormhole,0.083954,14.27868,gainer
-pump-fun,pump,Pump.fun,0.00345663,13.81644,gainer
-conflux-token,cfx,Conflux,0.188602,9.65792,gainer
-four,form,Four,3.73,8.67845,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.260285,8.27766,gainer
-flow,flow,Flow,0.423209,7.39606,gainer
-berachain-bera,bera,Berachain,2.73,6.78491,gainer
-ethena,ena,Ethena,0.66709,6.6951,gainer
-loaded-lions,lion,Loaded Lions,0.02336904,-17.59013,loser
-agentfun-ai,agentfun,AgentFun.AI,3.38,-17.58171,loser
-crypto-com-chain,cro,Cronos,0.303362,-14.18075,loser
-livepeer,lpt,Livepeer,7.58,-13.44118,loser
-wrapped-hype,whype,Wrapped HYPE,45.53,-5.73685,loser
-telcoin,tel,Telcoin,0.00481882,-5.59586,loser
-wemix-token,wemix,WEMIX,0.716065,-5.57952,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.71,-5.48554,loser
-hyperliquid,hype,Hyperliquid,45.68,-5.38028,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.09658,loser
+pyth-network,pyth,Pyth Network,0.222103,90.3441,gainer
+build-on,b,BUILDon,0.687105,20.68693,gainer
+wormhole,w,Wormhole,0.086413,17.73696,gainer
+pump-fun,pump,Pump.fun,0.00348016,14.33812,gainer
+conflux-token,cfx,Conflux,0.188774,9.91002,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.259834,8.10327,gainer
+four,form,Four,3.73,8.08101,gainer
+flow,flow,Flow,0.424683,7.7407,gainer
+ethena,ena,Ethena,0.666913,6.79569,gainer
+berachain-bera,bera,Berachain,2.73,6.78188,gainer
+loaded-lions,lion,Loaded Lions,0.02340473,-18.23008,loser
+agentfun-ai,agentfun,AgentFun.AI,3.4,-17.87831,loser
+crypto-com-chain,cro,Cronos,0.303348,-15.35162,loser
+livepeer,lpt,Livepeer,7.59,-14.85826,loser
+wemix-token,wemix,WEMIX,0.716816,-5.71103,loser
+hyperliquid,hype,Hyperliquid,45.62,-5.33331,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.82,-5.32828,loser
+telcoin,tel,Telcoin,0.00483002,-5.29203,loser
+wrapped-hype,whype,Wrapped HYPE,45.76,-5.01247,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-4.68952,loser
