@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.222658,89.31183,gainer
-wormhole,w,Wormhole,0.098169,33.01467,gainer
-build-on,b,BUILDon,0.689633,22.14664,gainer
-pump-fun,pump,Pump.fun,0.0034215,10.09744,gainer
-conflux-token,cfx,Conflux,0.188348,8.96628,gainer
-flow,flow,Flow,0.427971,8.16114,gainer
-four,form,Four,3.71,7.34249,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.259671,7.11082,gainer
-keeta,kta,Keeta,0.931136,5.82954,gainer
-jupiter-exchange-solana,jup,Jupiter,0.541961,5.77537,gainer
-loaded-lions,lion,Loaded Lions,0.02311766,-18.30994,loser
-agentfun-ai,agentfun,AgentFun.AI,3.36,-18.16182,loser
-crypto-com-chain,cro,Cronos,0.300374,-15.09319,loser
-livepeer,lpt,Livepeer,7.46,-14.00761,loser
-telcoin,tel,Telcoin,0.00484228,-6.16756,loser
-wemix-token,wemix,WEMIX,0.714288,-5.86788,loser
-aioz-network,aioz,AIOZ Network,0.325827,-5.77424,loser
-pendle,pendle,Pendle,4.86,-5.58477,loser
-hyperliquid,hype,Hyperliquid,45.87,-5.57681,loser
-wrapped-hype,whype,Wrapped HYPE,45.85,-5.56426,loser
+pyth-network,pyth,Pyth Network,0.227707,93.07806,gainer
+wormhole,w,Wormhole,0.094936,28.16115,gainer
+build-on,b,BUILDon,0.688779,22.06162,gainer
+pump-fun,pump,Pump.fun,0.00343276,10.12796,gainer
+conflux-token,cfx,Conflux,0.189768,9.52194,gainer
+flow,flow,Flow,0.428706,7.96687,gainer
+four,form,Four,3.7,7.17172,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.258192,6.3234,gainer
+berachain-bera,bera,Berachain,2.75,6.1948,gainer
+keeta,kta,Keeta,0.932942,5.52839,gainer
+loaded-lions,lion,Loaded Lions,0.02332399,-16.52172,loser
+agentfun-ai,agentfun,AgentFun.AI,3.38,-16.37356,loser
+livepeer,lpt,Livepeer,7.45,-13.72459,loser
+crypto-com-chain,cro,Cronos,0.303747,-13.48218,loser
+telcoin,tel,Telcoin,0.0048472,-6.26447,loser
+aioz-network,aioz,AIOZ Network,0.326833,-6.23151,loser
+wemix-token,wemix,WEMIX,0.712721,-6.05418,loser
+pendle,pendle,Pendle,4.87,-5.90451,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-5.65288,loser
+wrapped-hype,whype,Wrapped HYPE,45.85,-5.33754,loser
