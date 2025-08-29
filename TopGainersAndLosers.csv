@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.224349,93.56538,gainer
-build-on,b,BUILDon,0.685163,20.61614,gainer
-wormhole,w,Wormhole,0.084458,15.74915,gainer
-pump-fun,pump,Pump.fun,0.00342009,14.09857,gainer
-conflux-token,cfx,Conflux,0.189084,10.30342,gainer
-four,form,Four,3.72,8.80512,gainer
-berachain-bera,bera,Berachain,2.77,8.58004,gainer
-flow,flow,Flow,0.423975,8.23153,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.25797,7.94377,gainer
-ethena,ena,Ethena,0.667421,7.81531,gainer
-loaded-lions,lion,Loaded Lions,0.02371435,-15.14276,loser
-livepeer,lpt,Livepeer,7.59,-11.78111,loser
-agentfun-ai,agentfun,AgentFun.AI,3.49,-10.996,loser
-crypto-com-chain,cro,Cronos,0.31361,-8.80893,loser
-telcoin,tel,Telcoin,0.00482379,-5.19977,loser
-wemix-token,wemix,WEMIX,0.719608,-4.89166,loser
-wrapped-hype,whype,Wrapped HYPE,45.62,-4.68193,loser
-hyperliquid,hype,Hyperliquid,45.63,-4.59595,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.69,-4.4785,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-4.38481,loser
+pyth-network,pyth,Pyth Network,0.222657,91.46318,gainer
+build-on,b,BUILDon,0.682453,19.73492,gainer
+pump-fun,pump,Pump.fun,0.00342824,13.96485,gainer
+wormhole,w,Wormhole,0.083405,13.92764,gainer
+conflux-token,cfx,Conflux,0.189658,10.45566,gainer
+four,form,Four,3.74,9.63808,gainer
+berachain-bera,bera,Berachain,2.76,7.97308,gainer
+flow,flow,Flow,0.424028,7.96991,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.25731,7.36092,gainer
+ethena,ena,Ethena,0.665729,6.43651,gainer
+loaded-lions,lion,Loaded Lions,0.02377592,-16.17286,loser
+livepeer,lpt,Livepeer,7.57,-14.59562,loser
+agentfun-ai,agentfun,AgentFun.AI,3.49,-13.85098,loser
+crypto-com-chain,cro,Cronos,0.311441,-12.72755,loser
+telcoin,tel,Telcoin,0.00481694,-5.53564,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.64,-5.33229,loser
+aerodrome-finance,aero,Aerodrome Finance,1.2,-5.07198,loser
+wrapped-hype,whype,Wrapped HYPE,45.5,-5.00184,loser
+hyperliquid,hype,Hyperliquid,45.57,-4.98819,loser
+wemix-token,wemix,WEMIX,0.719937,-4.91599,loser
