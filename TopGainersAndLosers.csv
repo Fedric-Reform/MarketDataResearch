@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.228563,93.81889,gainer
-wormhole,w,Wormhole,0.09797,32.01585,gainer
-build-on,b,BUILDon,0.685387,22.317,gainer
-conflux-token,cfx,Conflux,0.18797,8.30409,gainer
-berachain-bera,bera,Berachain,2.74,7.2877,gainer
-flow,flow,Flow,0.423533,6.30757,gainer
-pump-fun,pump,Pump.fun,0.00333965,5.68161,gainer
-memecore,m,MemeCore,0.447597,5.54439,gainer
-four,form,Four,3.67,5.52593,gainer
-keeta,kta,Keeta,0.931109,5.33725,gainer
-livepeer,lpt,Livepeer,7.41,-16.33314,loser
-agentfun-ai,agentfun,AgentFun.AI,3.39,-15.42225,loser
-loaded-lions,lion,Loaded Lions,0.02342817,-13.09704,loser
-crypto-com-chain,cro,Cronos,0.304879,-12.0321,loser
-telcoin,tel,Telcoin,0.00476848,-8.12789,loser
-pendle,pendle,Pendle,4.82,-6.51157,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.34,-5.98991,loser
-aioz-network,aioz,AIOZ Network,0.32638,-5.94753,loser
-hyperliquid,hype,Hyperliquid,45.34,-5.87394,loser
-aerodrome-finance,aero,Aerodrome Finance,1.2,-5.7347,loser
+pyth-network,pyth,Pyth Network,0.228134,93.82399,gainer
+wormhole,w,Wormhole,0.097864,32.32922,gainer
+build-on,b,BUILDon,0.684559,22.10453,gainer
+conflux-token,cfx,Conflux,0.187934,8.3147,gainer
+berachain-bera,bera,Berachain,2.73,6.8184,gainer
+flow,flow,Flow,0.422658,6.17928,gainer
+memecore,m,MemeCore,0.448233,5.5791,gainer
+ethena,ena,Ethena,0.668196,5.54143,gainer
+keeta,kta,Keeta,0.930214,5.50725,gainer
+pump-fun,pump,Pump.fun,0.00331399,4.98255,gainer
+livepeer,lpt,Livepeer,7.43,-15.10964,loser
+agentfun-ai,agentfun,AgentFun.AI,3.41,-14.76936,loser
+loaded-lions,lion,Loaded Lions,0.02344752,-13.27067,loser
+crypto-com-chain,cro,Cronos,0.305386,-11.8376,loser
+telcoin,tel,Telcoin,0.00477122,-8.02509,loser
+pendle,pendle,Pendle,4.81,-6.51609,loser
+hyperliquid,hype,Hyperliquid,45.22,-6.11499,loser
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,45.3,-6.08042,loser
+aioz-network,aioz,AIOZ Network,0.326351,-6.01468,loser
+wrapped-hype,whype,Wrapped HYPE,45.21,-5.83273,loser
