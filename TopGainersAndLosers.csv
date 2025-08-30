@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.578909,29.06703,gainer
-pump-fun,pump,Pump.fun,0.00363653,9.31366,gainer
-okb,okb,OKB,177.69,5.97252,gainer
-bonk,bonk,Bonk,2.249e-05,5.19362,gainer
-xdce-crowd-sale,xdc,XDC Network,0.079424,3.07102,gainer
-kucoin-shares,kcs,KuCoin,13.97,1.73652,gainer
-pi-network,pi,Pi Network,0.365804,1.63137,gainer
-syrup,syrup,Maple Finance,0.456854,1.44269,gainer
-wemix-token,wemix,WEMIX,0.72289,1.36272,gainer
-pax-gold,paxg,PAX Gold,3458.69,1.33595,gainer
-wormhole,w,Wormhole,0.085745,-12.65165,loser
-pyth-network,pyth,Pyth Network,0.205102,-9.61913,loser
-bio-protocol,bio,Bio Protocol,0.165432,-7.22848,loser
-spx6900,spx,SPX6900,1.11,-6.39094,loser
-flow,flow,Flow,0.397072,-6.16947,loser
-fartcoin,fartcoin,Fartcoin,0.789682,-6.04859,loser
-hash-2,hash,Provenance Blockchain,0.02612984,-5.8714,loser
-zcash,zec,Zcash,40.04,-5.65868,loser
-raydium,ray,Raydium,3.5,-5.5851,loser
-zksync,zk,ZKsync,0.060632,-5.47363,loser
+memecore,m,MemeCore,0.852336,81.26014,gainer
+qtum,qtum,Qtum,3.06,15.29823,gainer
+conflux-token,cfx,Conflux,0.19638,8.10911,gainer
+bonk,bonk,Bonk,2.205e-05,7.03187,gainer
+okb,okb,OKB,177.44,6.27733,gainer
+just,jst,JUST,0.03737663,6.18943,gainer
+crypto-com-chain,cro,Cronos,0.318056,6.05474,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.56,5.64685,gainer
+instadapp,fluid,Fluid,6.27,5.57207,gainer
+wemix-token,wemix,WEMIX,0.713356,5.49049,gainer
+pyth-network,pyth,Pyth Network,0.196605,-14.82498,loser
+zcash,zec,Zcash,39.83,-5.69745,loser
+raydium,ray,Raydium,3.44,-5.34569,loser
+wormhole,w,Wormhole,0.083695,-4.97714,loser
+mantle,mnt,Mantle,1.18,-4.49076,loser
+jupiter-exchange-solana,jup,Jupiter,0.500364,-3.07651,loser
+drift-staked-sol,dsol,Drift Staked SOL,230.5,-2.86989,loser
+msol,msol,Marinade Staked SOL,266.99,-2.79737,loser
+binance-staked-sol,bnsol,Binance Staked SOL,216.71,-2.78343,loser
+bybit-staked-sol,bbsol,Bybit Staked SOL,222.95,-2.77721,loser
