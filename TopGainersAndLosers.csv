@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.532571,24.32345,gainer
-qtum,qtum,Qtum,2.96,7.11916,gainer
-evervalue-coin,eva,EverValue Coin,20.41,5.7486,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.15,2.94829,gainer
-syrup,syrup,Maple Finance,0.453196,2.93555,gainer
-pump-fun,pump,Pump.fun,0.00347674,2.58096,gainer
-tether-gold,xaut,Tether Gold,3452.75,1.34442,gainer
-saros-finance,saros,Saros,0.350789,1.29769,gainer
-pax-gold,paxg,PAX Gold,3456.86,1.27269,gainer
-hash-2,hash,Provenance Blockchain,0.02733223,1.25499,gainer
-crypto-com-chain,cro,Cronos,0.272081,-14.84629,loser
-pyth-network,pyth,Pyth Network,0.199208,-14.03212,loser
-loaded-lions,lion,Loaded Lions,0.02114904,-12.44059,loser
-mantle,mnt,Mantle,1.12,-11.64812,loser
-bio-protocol,bio,Bio Protocol,0.159044,-10.95099,loser
-spx6900,spx,SPX6900,1.089,-9.0363,loser
-fartcoin,fartcoin,Fartcoin,0.766953,-8.91469,loser
-akash-network,akt,Akash Network,1.14,-8.21848,loser
-raydium,ray,Raydium,3.45,-7.94544,loser
-immutable-x,imx,Immutable,0.51185,-7.39522,loser
+memecore,m,MemeCore,0.532419,24.23932,gainer
+qtum,qtum,Qtum,3.01,8.23,gainer
+evervalue-coin,eva,EverValue Coin,20.38,5.10845,gainer
+syrup,syrup,Maple Finance,0.452662,2.73453,gainer
+saros-finance,saros,Saros,0.350284,1.27478,gainer
+pax-gold,paxg,PAX Gold,3456.14,1.24478,gainer
+pump-fun,pump,Pump.fun,0.00346294,1.0971,gainer
+hash-2,hash,Provenance Blockchain,0.02733223,1.05606,gainer
+okb,okb,OKB,169.8,0.99343,gainer
+tether-gold,xaut,Tether Gold,3453.99,0.93631,gainer
+crypto-com-chain,cro,Cronos,0.269801,-12.51558,loser
+pyth-network,pyth,Pyth Network,0.202217,-12.34488,loser
+bio-protocol,bio,Bio Protocol,0.159159,-11.94709,loser
+mantle,mnt,Mantle,1.13,-10.85506,loser
+loaded-lions,lion,Loaded Lions,0.02100023,-10.80732,loser
+spx6900,spx,SPX6900,1.091,-9.50991,loser
+fartcoin,fartcoin,Fartcoin,0.766881,-9.38966,loser
+raydium,ray,Raydium,3.45,-8.44213,loser
+akash-network,akt,Akash Network,1.14,-8.23723,loser
+algorand,algo,Algorand,0.232042,-7.64437,loser
