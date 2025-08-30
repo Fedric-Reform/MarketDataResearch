@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.535902,24.23329,gainer
-evervalue-coin,eva,EverValue Coin,20.44,5.79317,gainer
-pump-fun,pump,Pump.fun,0.00358151,4.68279,gainer
-okb,okb,OKB,171.62,2.56507,gainer
-bonk,bonk,Bonk,2.192e-05,2.14389,gainer
-pi-network,pi,Pi Network,0.363277,2.05482,gainer
-syrup,syrup,Maple Finance,0.454717,1.97004,gainer
-hash-2,hash,Provenance Blockchain,0.0275223,1.81474,gainer
-conflux-token,cfx,Conflux,0.191715,1.45192,gainer
-pax-gold,paxg,PAX Gold,3461.98,1.40109,gainer
-crypto-com-chain,cro,Cronos,0.27313,-12.8303,loser
-bio-protocol,bio,Bio Protocol,0.159549,-11.43432,loser
-loaded-lions,lion,Loaded Lions,0.0212062,-10.9495,loser
-mantle,mnt,Mantle,1.12,-10.3515,loser
-pyth-network,pyth,Pyth Network,0.200038,-10.191,loser
-spx6900,spx,SPX6900,1.097,-8.8625,loser
-raydium,ray,Raydium,3.48,-7.39678,loser
-fartcoin,fartcoin,Fartcoin,0.779377,-7.37031,loser
-algorand,algo,Algorand,0.232507,-7.18671,loser
-aerodrome-finance,aero,Aerodrome Finance,1.11,-7.16643,loser
+memecore,m,MemeCore,0.535921,24.45641,gainer
+evervalue-coin,eva,EverValue Coin,20.46,5.90769,gainer
+pump-fun,pump,Pump.fun,0.00360613,5.0693,gainer
+rekt-4,rekt,Rekt,7.4342e-07,3.33949,gainer
+bonk,bonk,Bonk,2.215e-05,3.30112,gainer
+okb,okb,OKB,171.79,2.71533,gainer
+pi-network,pi,Pi Network,0.363605,2.11824,gainer
+hash-2,hash,Provenance Blockchain,0.02754639,1.90386,gainer
+syrup,syrup,Maple Finance,0.455522,1.70606,gainer
+kucoin-shares,kcs,KuCoin,13.86,1.46666,gainer
+bio-protocol,bio,Bio Protocol,0.159661,-11.87204,loser
+crypto-com-chain,cro,Cronos,0.274864,-11.42106,loser
+pyth-network,pyth,Pyth Network,0.198143,-10.92993,loser
+mantle,mnt,Mantle,1.13,-10.26275,loser
+loaded-lions,lion,Loaded Lions,0.02138225,-9.92831,loser
+spx6900,spx,SPX6900,1.1,-8.22717,loser
+aerodrome-finance,aero,Aerodrome Finance,1.12,-7.07475,loser
+algorand,algo,Algorand,0.233313,-6.98909,loser
+raydium,ray,Raydium,3.49,-6.92709,loser
+flow,flow,Flow,0.39568,-6.77392,loser
