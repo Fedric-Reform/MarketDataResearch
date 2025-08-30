@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.550286,24.6997,gainer
-okb,okb,OKB,179.57,7.30811,gainer
-evervalue-coin,eva,EverValue Coin,20.55,5.9376,gainer
-pump-fun,pump,Pump.fun,0.0035852,5.41496,gainer
-bonk,bonk,Bonk,2.237e-05,4.10731,gainer
-pi-network,pi,Pi Network,0.367265,2.12215,gainer
-wemix-token,wemix,WEMIX,0.725471,1.9775,gainer
-kucoin-shares,kcs,KuCoin,13.96,1.93746,gainer
-pax-gold,paxg,PAX Gold,3463.69,1.49522,gainer
-xdce-crowd-sale,xdc,XDC Network,0.078001,1.41507,gainer
-wormhole,w,Wormhole,0.084098,-13.57442,loser
-bio-protocol,bio,Bio Protocol,0.163137,-7.97802,loser
-spx6900,spx,SPX6900,1.11,-7.78542,loser
-pyth-network,pyth,Pyth Network,0.209496,-7.28697,loser
-flow,flow,Flow,0.396513,-7.16634,loser
-mantle,mnt,Mantle,1.15,-7.14303,loser
-raydium,ray,Raydium,3.49,-6.84185,loser
-beam-2,beam,Beam,0.00722521,-6.59186,loser
-morpho,morpho,Morpho,2.02,-6.59147,loser
-fartcoin,fartcoin,Fartcoin,0.791775,-6.02727,loser
+memecore,m,MemeCore,0.5513,24.96176,gainer
+okb,okb,OKB,177.27,6.03103,gainer
+evervalue-coin,eva,EverValue Coin,20.54,6.02009,gainer
+pump-fun,pump,Pump.fun,0.00359228,5.64701,gainer
+bonk,bonk,Bonk,2.259e-05,5.13678,gainer
+pi-network,pi,Pi Network,0.367887,2.49381,gainer
+kucoin-shares,kcs,KuCoin,13.95,1.79624,gainer
+xdce-crowd-sale,xdc,XDC Network,0.078127,1.77434,gainer
+pax-gold,paxg,PAX Gold,3463.57,1.51663,gainer
+wemix-token,wemix,WEMIX,0.724938,1.39984,gainer
+wormhole,w,Wormhole,0.083913,-13.83218,loser
+bio-protocol,bio,Bio Protocol,0.162935,-9.76292,loser
+mantle,mnt,Mantle,1.15,-7.52577,loser
+spx6900,spx,SPX6900,1.12,-7.37642,loser
+pyth-network,pyth,Pyth Network,0.209235,-7.16016,loser
+flow,flow,Flow,0.396748,-6.88355,loser
+raydium,ray,Raydium,3.49,-6.57134,loser
+beam-2,beam,Beam,0.00722023,-6.39548,loser
+morpho,morpho,Morpho,2.02,-6.02757,loser
+fartcoin,fartcoin,Fartcoin,0.792282,-5.85983,loser
