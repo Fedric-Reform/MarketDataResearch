@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-pyth-network,pyth,Pyth Network,0.206962,75.66508,gainer
-build-on,b,BUILDon,0.678073,21.29758,gainer
-wormhole,w,Wormhole,0.088887,19.74084,gainer
-hash-2,hash,Provenance Blockchain,0.02784038,7.60243,gainer
-berachain-bera,bera,Berachain,2.73,6.77088,gainer
-memecore,m,MemeCore,0.447147,5.33185,gainer
-four,form,Four,3.61,3.56535,gainer
-conflux-token,cfx,Conflux,0.181154,3.52869,gainer
-flow,flow,Flow,0.412134,3.36093,gainer
-saros-finance,saros,Saros,0.3461,3.28573,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.34,-13.21815,loser
-loaded-lions,lion,Loaded Lions,0.02306258,-12.57482,loser
-crypto-com-chain,cro,Cronos,0.297767,-12.00689,loser
-livepeer,lpt,Livepeer,7.32,-11.38472,loser
-bio-protocol,bio,Bio Protocol,0.17245,-10.47107,loser
-telcoin,tel,Telcoin,0.00470977,-9.13151,loser
-spx6900,spx,SPX6900,1.16,-8.09422,loser
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.9,-7.89819,loser
-wrapped-hype,whype,Wrapped HYPE,44.8,-7.86733,loser
-hyperliquid,hype,Hyperliquid,44.9,-7.61832,loser
+memecore,m,MemeCore,0.532194,24.4482,gainer
+rekt-4,rekt,Rekt,7.46648e-07,7.50638,gainer
+evervalue-coin,eva,EverValue Coin,20.31,5.16928,gainer
+syrup,syrup,Maple Finance,0.451549,3.25125,gainer
+zebec-network,zbcn,Zebec Network,0.00421302,2.11467,gainer
+okb,okb,OKB,170.48,2.06136,gainer
+hash-2,hash,Provenance Blockchain,0.02750491,2.03236,gainer
+kucoin-shares,kcs,KuCoin,13.86,1.82044,gainer
+saros-finance,saros,Saros,0.352464,1.7811,gainer
+pax-gold,paxg,PAX Gold,3459.51,1.48416,gainer
+crypto-com-chain,cro,Cronos,0.272529,-15.1676,loser
+pyth-network,pyth,Pyth Network,0.20315,-12.75251,loser
+loaded-lions,lion,Loaded Lions,0.02119354,-12.61982,loser
+mantle,mnt,Mantle,1.12,-11.1942,loser
+spx6900,spx,SPX6900,1.085,-9.44949,loser
+fartcoin,fartcoin,Fartcoin,0.766642,-8.97799,loser
+bio-protocol,bio,Bio Protocol,0.160594,-8.94128,loser
+akash-network,akt,Akash Network,1.14,-7.45779,loser
+raydium,ray,Raydium,3.47,-7.40569,loser
+immutable-x,imx,Immutable,0.512074,-7.25693,loser
