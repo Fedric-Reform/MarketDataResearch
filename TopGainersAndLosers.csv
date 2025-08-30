@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.532565,24.40536,gainer
-rekt-4,rekt,Rekt,7.46698e-07,7.51367,gainer
-evervalue-coin,eva,EverValue Coin,20.3,5.37296,gainer
-syrup,syrup,Maple Finance,0.45087,3.07471,gainer
-hash-2,hash,Provenance Blockchain,0.02750237,2.00238,gainer
-okb,okb,OKB,170.28,1.94184,gainer
-zebec-network,zbcn,Zebec Network,0.00420878,1.93005,gainer
-saros-finance,saros,Saros,0.352642,1.83257,gainer
-kucoin-shares,kcs,KuCoin,13.85,1.78312,gainer
-pax-gold,paxg,PAX Gold,3459.57,1.4859,gainer
-crypto-com-chain,cro,Cronos,0.272115,-14.69653,loser
-pyth-network,pyth,Pyth Network,0.202649,-12.9674,loser
-loaded-lions,lion,Loaded Lions,0.02119507,-12.18836,loser
-mantle,mnt,Mantle,1.12,-11.37959,loser
-spx6900,spx,SPX6900,1.085,-9.51489,loser
-bio-protocol,bio,Bio Protocol,0.160315,-9.09954,loser
-fartcoin,fartcoin,Fartcoin,0.765693,-8.75153,loser
-raydium,ray,Raydium,3.47,-7.59993,loser
-immutable-x,imx,Immutable,0.511676,-7.47169,loser
-akash-network,akt,Akash Network,1.14,-7.30189,loser
+memecore,m,MemeCore,0.531542,24.16642,gainer
+rekt-4,rekt,Rekt,7.45633e-07,7.36035,gainer
+evervalue-coin,eva,EverValue Coin,20.28,5.27427,gainer
+syrup,syrup,Maple Finance,0.448891,2.6223,gainer
+hash-2,hash,Provenance Blockchain,0.02750525,2.01308,gainer
+saros-finance,saros,Saros,0.352735,1.85941,gainer
+zebec-network,zbcn,Zebec Network,0.00420497,1.83768,gainer
+okb,okb,OKB,169.74,1.61574,gainer
+kucoin-shares,kcs,KuCoin,13.84,1.53903,gainer
+pax-gold,paxg,PAX Gold,3459.59,1.48645,gainer
+crypto-com-chain,cro,Cronos,0.271733,-14.81623,loser
+pyth-network,pyth,Pyth Network,0.201503,-13.45968,loser
+loaded-lions,lion,Loaded Lions,0.02117931,-12.25365,loser
+mantle,mnt,Mantle,1.12,-11.42703,loser
+spx6900,spx,SPX6900,1.085,-9.50357,loser
+bio-protocol,bio,Bio Protocol,0.160105,-9.21854,loser
+fartcoin,fartcoin,Fartcoin,0.763882,-8.96725,loser
+raydium,ray,Raydium,3.46,-7.69738,loser
+immutable-x,imx,Immutable,0.511171,-7.56304,loser
+akash-network,akt,Akash Network,1.14,-7.30301,loser
