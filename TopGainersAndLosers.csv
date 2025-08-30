@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.534,24.13824,gainer
-evervalue-coin,eva,EverValue Coin,20.45,5.7522,gainer
-rekt-4,rekt,Rekt,7.43312e-07,4.06233,gainer
-pump-fun,pump,Pump.fun,0.00349305,2.30097,gainer
-okb,okb,OKB,171.55,2.22418,gainer
-syrup,syrup,Maple Finance,0.453507,2.04748,gainer
-pi-network,pi,Pi Network,0.36269,1.70414,gainer
-hash-2,hash,Provenance Blockchain,0.02747212,1.62912,gainer
-kucoin-shares,kcs,KuCoin,13.85,1.54083,gainer
-saros-finance,saros,Saros,0.350267,1.49857,gainer
-crypto-com-chain,cro,Cronos,0.271965,-12.75926,loser
-bio-protocol,bio,Bio Protocol,0.158204,-12.38147,loser
-loaded-lions,lion,Loaded Lions,0.02105595,-11.13285,loser
-mantle,mnt,Mantle,1.12,-10.59792,loser
-spx6900,spx,SPX6900,1.093,-9.27589,loser
-pyth-network,pyth,Pyth Network,0.202535,-8.98144,loser
-akash-network,akt,Akash Network,1.15,-8.46494,loser
-fartcoin,fartcoin,Fartcoin,0.774343,-8.41423,loser
-raydium,ray,Raydium,3.46,-7.64229,loser
-aerodrome-finance,aero,Aerodrome Finance,1.11,-7.60683,loser
+memecore,m,MemeCore,0.535902,24.23329,gainer
+evervalue-coin,eva,EverValue Coin,20.44,5.79317,gainer
+pump-fun,pump,Pump.fun,0.00358151,4.68279,gainer
+okb,okb,OKB,171.62,2.56507,gainer
+bonk,bonk,Bonk,2.192e-05,2.14389,gainer
+pi-network,pi,Pi Network,0.363277,2.05482,gainer
+syrup,syrup,Maple Finance,0.454717,1.97004,gainer
+hash-2,hash,Provenance Blockchain,0.0275223,1.81474,gainer
+conflux-token,cfx,Conflux,0.191715,1.45192,gainer
+pax-gold,paxg,PAX Gold,3461.98,1.40109,gainer
+crypto-com-chain,cro,Cronos,0.27313,-12.8303,loser
+bio-protocol,bio,Bio Protocol,0.159549,-11.43432,loser
+loaded-lions,lion,Loaded Lions,0.0212062,-10.9495,loser
+mantle,mnt,Mantle,1.12,-10.3515,loser
+pyth-network,pyth,Pyth Network,0.200038,-10.191,loser
+spx6900,spx,SPX6900,1.097,-8.8625,loser
+raydium,ray,Raydium,3.48,-7.39678,loser
+fartcoin,fartcoin,Fartcoin,0.779377,-7.37031,loser
+algorand,algo,Algorand,0.232507,-7.18671,loser
+aerodrome-finance,aero,Aerodrome Finance,1.11,-7.16643,loser
