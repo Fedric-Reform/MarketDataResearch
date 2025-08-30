@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.852336,81.26014,gainer
-qtum,qtum,Qtum,3.06,15.29823,gainer
-conflux-token,cfx,Conflux,0.19638,8.10911,gainer
-bonk,bonk,Bonk,2.205e-05,7.03187,gainer
-okb,okb,OKB,177.44,6.27733,gainer
-just,jst,JUST,0.03737663,6.18943,gainer
-crypto-com-chain,cro,Cronos,0.318056,6.05474,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.56,5.64685,gainer
-instadapp,fluid,Fluid,6.27,5.57207,gainer
-wemix-token,wemix,WEMIX,0.713356,5.49049,gainer
-pyth-network,pyth,Pyth Network,0.196605,-14.82498,loser
-zcash,zec,Zcash,39.83,-5.69745,loser
-raydium,ray,Raydium,3.44,-5.34569,loser
-wormhole,w,Wormhole,0.083695,-4.97714,loser
-mantle,mnt,Mantle,1.18,-4.49076,loser
-jupiter-exchange-solana,jup,Jupiter,0.500364,-3.07651,loser
-drift-staked-sol,dsol,Drift Staked SOL,230.5,-2.86989,loser
-msol,msol,Marinade Staked SOL,266.99,-2.79737,loser
-binance-staked-sol,bnsol,Binance Staked SOL,216.71,-2.78343,loser
-bybit-staked-sol,bbsol,Bybit Staked SOL,222.95,-2.77721,loser
+memecore,m,MemeCore,0.62507,23.85661,gainer
+conflux-token,cfx,Conflux,0.210326,17.17007,gainer
+story-2,ip,Story,6.98,15.59511,gainer
+qtum,qtum,Qtum,2.99,13.03553,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.52,12.88493,gainer
+crypto-com-chain,cro,Cronos,0.313975,12.71864,gainer
+bonk,bonk,Bonk,2.224e-05,8.8406,gainer
+loaded-lions,lion,Loaded Lions,0.02357659,8.00376,gainer
+pi-network,pi,Pi Network,0.38346,7.66765,gainer
+okb,okb,OKB,177.74,6.57444,gainer
+pyth-network,pyth,Pyth Network,0.199724,-6.89606,loser
+zcash,zec,Zcash,40.02,-6.18674,loser
+raydium,ray,Raydium,3.45,-5.77108,loser
+solana,sol,Solana,200.36,-4.73853,loser
+jito-staked-sol,jitosol,Jito Staked SOL,245.78,-4.63675,loser
+bybit-staked-sol,bbsol,Bybit Staked SOL,220.9,-4.5546,loser
+msol,msol,Marinade Staked SOL,264.28,-4.5138,loser
+zebec-network,zbcn,Zebec Network,0.00400967,-4.45364,loser
+binance-staked-sol,bnsol,Binance Staked SOL,214.75,-4.44341,loser
+jupiter-staked-sol,jupsol,Jupiter Staked SOL,227.24,-4.32253,loser
