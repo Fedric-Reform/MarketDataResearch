@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.532419,24.23932,gainer
-qtum,qtum,Qtum,3.01,8.23,gainer
-evervalue-coin,eva,EverValue Coin,20.38,5.10845,gainer
-syrup,syrup,Maple Finance,0.452662,2.73453,gainer
-saros-finance,saros,Saros,0.350284,1.27478,gainer
-pax-gold,paxg,PAX Gold,3456.14,1.24478,gainer
-pump-fun,pump,Pump.fun,0.00346294,1.0971,gainer
-hash-2,hash,Provenance Blockchain,0.02733223,1.05606,gainer
-okb,okb,OKB,169.8,0.99343,gainer
-tether-gold,xaut,Tether Gold,3453.99,0.93631,gainer
-crypto-com-chain,cro,Cronos,0.269801,-12.51558,loser
-pyth-network,pyth,Pyth Network,0.202217,-12.34488,loser
-bio-protocol,bio,Bio Protocol,0.159159,-11.94709,loser
-mantle,mnt,Mantle,1.13,-10.85506,loser
-loaded-lions,lion,Loaded Lions,0.02100023,-10.80732,loser
-spx6900,spx,SPX6900,1.091,-9.50991,loser
-fartcoin,fartcoin,Fartcoin,0.766881,-9.38966,loser
-raydium,ray,Raydium,3.45,-8.44213,loser
-akash-network,akt,Akash Network,1.14,-8.23723,loser
-algorand,algo,Algorand,0.232042,-7.64437,loser
+memecore,m,MemeCore,0.533788,24.62705,gainer
+qtum,qtum,Qtum,2.96,6.68824,gainer
+evervalue-coin,eva,EverValue Coin,20.43,5.56681,gainer
+syrup,syrup,Maple Finance,0.452976,2.33715,gainer
+pump-fun,pump,Pump.fun,0.00348677,1.51336,gainer
+conflux-token,cfx,Conflux,0.191175,1.41573,gainer
+saros-finance,saros,Saros,0.350278,1.30345,gainer
+zebec-network,zbcn,Zebec Network,0.00422242,1.22026,gainer
+pax-gold,paxg,PAX Gold,3454.83,1.19682,gainer
+okb,okb,OKB,170.08,1.1882,gainer
+bio-protocol,bio,Bio Protocol,0.158555,-14.18434,loser
+crypto-com-chain,cro,Cronos,0.270333,-12.30207,loser
+loaded-lions,lion,Loaded Lions,0.02099787,-10.67287,loser
+mantle,mnt,Mantle,1.13,-10.61197,loser
+pyth-network,pyth,Pyth Network,0.201746,-9.80778,loser
+spx6900,spx,SPX6900,1.094,-8.77429,loser
+fartcoin,fartcoin,Fartcoin,0.772195,-8.57357,loser
+akash-network,akt,Akash Network,1.14,-8.29588,loser
+raydium,ray,Raydium,3.46,-8.03758,loser
+algorand,algo,Algorand,0.232069,-7.29299,loser
