@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.545236,26.74598,gainer
-evervalue-coin,eva,EverValue Coin,20.52,5.9372,gainer
-pump-fun,pump,Pump.fun,0.0036482,5.07878,gainer
-bonk,bonk,Bonk,2.253e-05,4.47291,gainer
-rekt-4,rekt,Rekt,7.51689e-07,3.6852,gainer
-okb,okb,OKB,173.29,2.82375,gainer
-pi-network,pi,Pi Network,0.365124,2.67723,gainer
-berachain-bera,bera,Berachain,2.79,1.86502,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.16,1.68271,gainer
-pax-gold,paxg,PAX Gold,3462.71,1.41114,gainer
-pyth-network,pyth,Pyth Network,0.198384,-10.89265,loser
-bio-protocol,bio,Bio Protocol,0.163371,-9.22195,loser
-loaded-lions,lion,Loaded Lions,0.02154506,-8.37285,loser
-spx6900,spx,SPX6900,1.11,-8.18146,loser
-mantle,mnt,Mantle,1.16,-7.37692,loser
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.242799,-6.84579,loser
-crypto-com-chain,cro,Cronos,0.282597,-6.83814,loser
-aerodrome-finance,aero,Aerodrome Finance,1.13,-6.25282,loser
-algorand,algo,Algorand,0.234932,-6.21974,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,28.83,-5.93242,loser
+memecore,m,MemeCore,0.552076,28.07484,gainer
+bonk,bonk,Bonk,2.292e-05,6.03905,gainer
+evervalue-coin,eva,EverValue Coin,20.56,6.00267,gainer
+pump-fun,pump,Pump.fun,0.00364953,4.71857,gainer
+rekt-4,rekt,Rekt,7.51083e-07,3.24399,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.41,2.74472,gainer
+pi-network,pi,Pi Network,0.364665,2.51968,gainer
+okb,okb,OKB,172.53,2.27204,gainer
+pax-gold,paxg,PAX Gold,3463.5,1.42841,gainer
+crypto-com-chain,cro,Cronos,0.301395,1.29515,gainer
+wormhole,w,Wormhole,0.082654,-14.4326,loser
+bio-protocol,bio,Bio Protocol,0.161298,-9.39681,loser
+spx6900,spx,SPX6900,1.11,-7.96811,loser
+mantle,mnt,Mantle,1.15,-7.7294,loser
+raydium,ray,Raydium,3.51,-7.15172,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,28.81,-6.53768,loser
+aerodrome-finance,aero,Aerodrome Finance,1.12,-6.50623,loser
+wrapped-avax,wavax,Wrapped AVAX,23.55,-6.4761,loser
+fartcoin,fartcoin,Fartcoin,0.79385,-6.45448,loser
+algorand,algo,Algorand,0.234561,-6.4537,loser
