@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.532643,24.40737,gainer
-qtum,qtum,Qtum,3.04,10.23347,gainer
-evervalue-coin,eva,EverValue Coin,20.25,4.8072,gainer
-syrup,syrup,Maple Finance,0.447514,2.405,gainer
-hash-2,hash,Provenance Blockchain,0.02748566,1.94259,gainer
-saros-finance,saros,Saros,0.352278,1.65344,gainer
-okb,okb,OKB,169.2,1.45694,gainer
-pax-gold,paxg,PAX Gold,3458.99,1.39212,gainer
-zebec-network,zbcn,Zebec Network,0.00420029,1.21123,gainer
-tether-gold,xaut,Tether Gold,3442.47,1.05546,gainer
-crypto-com-chain,cro,Cronos,0.266813,-15.76386,loser
-pyth-network,pyth,Pyth Network,0.200041,-13.55934,loser
-loaded-lions,lion,Loaded Lions,0.02100477,-12.6572,loser
-mantle,mnt,Mantle,1.11,-11.85535,loser
-bio-protocol,bio,Bio Protocol,0.159387,-9.77085,loser
-spx6900,spx,SPX6900,1.079,-9.57362,loser
-fartcoin,fartcoin,Fartcoin,0.760816,-9.08727,loser
-akash-network,akt,Akash Network,1.13,-8.23514,loser
-immutable-x,imx,Immutable,0.508958,-7.76068,loser
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.238026,-7.74221,loser
+memecore,m,MemeCore,0.532794,24.36922,gainer
+qtum,qtum,Qtum,2.96,7.09238,gainer
+evervalue-coin,eva,EverValue Coin,20.39,5.68157,gainer
+syrup,syrup,Maple Finance,0.453263,3.21207,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.13,2.63586,gainer
+pump-fun,pump,Pump.fun,0.00347265,2.46011,gainer
+tether-gold,xaut,Tether Gold,3453.71,1.37136,gainer
+pax-gold,paxg,PAX Gold,3457.68,1.2966,gainer
+saros-finance,saros,Saros,0.350645,1.29217,gainer
+kucoin-shares,kcs,KuCoin,13.8,1.24008,gainer
+crypto-com-chain,cro,Cronos,0.272088,-14.48112,loser
+pyth-network,pyth,Pyth Network,0.198475,-13.71614,loser
+loaded-lions,lion,Loaded Lions,0.02108606,-12.70131,loser
+mantle,mnt,Mantle,1.12,-11.69802,loser
+bio-protocol,bio,Bio Protocol,0.158973,-10.73835,loser
+spx6900,spx,SPX6900,1.087,-9.0592,loser
+fartcoin,fartcoin,Fartcoin,0.765802,-9.05149,loser
+akash-network,akt,Akash Network,1.14,-8.18214,loser
+immutable-x,imx,Immutable,0.511291,-7.49631,loser
+raydium,ray,Raydium,3.45,-7.48427,loser
