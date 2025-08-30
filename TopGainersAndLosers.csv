@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.533655,24.05798,gainer
-evervalue-coin,eva,EverValue Coin,20.44,5.72181,gainer
-rekt-4,rekt,Rekt,7.43715e-07,4.11874,gainer
-pump-fun,pump,Pump.fun,0.00348995,2.21017,gainer
-okb,okb,OKB,171.48,2.18316,gainer
-syrup,syrup,Maple Finance,0.453151,1.96746,gainer
-pi-network,pi,Pi Network,0.36265,1.69307,gainer
-hash-2,hash,Provenance Blockchain,0.02747228,1.62969,gainer
-kucoin-shares,kcs,KuCoin,13.85,1.53549,gainer
-saros-finance,saros,Saros,0.350374,1.5295,gainer
-crypto-com-chain,cro,Cronos,0.271058,-13.05045,loser
-bio-protocol,bio,Bio Protocol,0.158361,-12.29482,loser
-loaded-lions,lion,Loaded Lions,0.02104178,-11.19267,loser
-mantle,mnt,Mantle,1.12,-10.55416,loser
-spx6900,spx,SPX6900,1.093,-9.28198,loser
-pyth-network,pyth,Pyth Network,0.202429,-9.02899,loser
-akash-network,akt,Akash Network,1.15,-8.53469,loser
-fartcoin,fartcoin,Fartcoin,0.77369,-8.49143,loser
-raydium,ray,Raydium,3.46,-7.75743,loser
-aerodrome-finance,aero,Aerodrome Finance,1.11,-7.59256,loser
+memecore,m,MemeCore,0.534,24.13824,gainer
+evervalue-coin,eva,EverValue Coin,20.45,5.7522,gainer
+rekt-4,rekt,Rekt,7.43312e-07,4.06233,gainer
+pump-fun,pump,Pump.fun,0.00349305,2.30097,gainer
+okb,okb,OKB,171.55,2.22418,gainer
+syrup,syrup,Maple Finance,0.453507,2.04748,gainer
+pi-network,pi,Pi Network,0.36269,1.70414,gainer
+hash-2,hash,Provenance Blockchain,0.02747212,1.62912,gainer
+kucoin-shares,kcs,KuCoin,13.85,1.54083,gainer
+saros-finance,saros,Saros,0.350267,1.49857,gainer
+crypto-com-chain,cro,Cronos,0.271965,-12.75926,loser
+bio-protocol,bio,Bio Protocol,0.158204,-12.38147,loser
+loaded-lions,lion,Loaded Lions,0.02105595,-11.13285,loser
+mantle,mnt,Mantle,1.12,-10.59792,loser
+spx6900,spx,SPX6900,1.093,-9.27589,loser
+pyth-network,pyth,Pyth Network,0.202535,-8.98144,loser
+akash-network,akt,Akash Network,1.15,-8.46494,loser
+fartcoin,fartcoin,Fartcoin,0.774343,-8.41423,loser
+raydium,ray,Raydium,3.46,-7.64229,loser
+aerodrome-finance,aero,Aerodrome Finance,1.11,-7.60683,loser
