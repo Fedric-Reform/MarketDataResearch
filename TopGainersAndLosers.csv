@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.533788,24.62705,gainer
-qtum,qtum,Qtum,2.96,6.68824,gainer
-evervalue-coin,eva,EverValue Coin,20.43,5.56681,gainer
-syrup,syrup,Maple Finance,0.452976,2.33715,gainer
-pump-fun,pump,Pump.fun,0.00348677,1.51336,gainer
-conflux-token,cfx,Conflux,0.191175,1.41573,gainer
-saros-finance,saros,Saros,0.350278,1.30345,gainer
-zebec-network,zbcn,Zebec Network,0.00422242,1.22026,gainer
-pax-gold,paxg,PAX Gold,3454.83,1.19682,gainer
-okb,okb,OKB,170.08,1.1882,gainer
-bio-protocol,bio,Bio Protocol,0.158555,-14.18434,loser
-crypto-com-chain,cro,Cronos,0.270333,-12.30207,loser
-loaded-lions,lion,Loaded Lions,0.02099787,-10.67287,loser
-mantle,mnt,Mantle,1.13,-10.61197,loser
-pyth-network,pyth,Pyth Network,0.201746,-9.80778,loser
-spx6900,spx,SPX6900,1.094,-8.77429,loser
-fartcoin,fartcoin,Fartcoin,0.772195,-8.57357,loser
-akash-network,akt,Akash Network,1.14,-8.29588,loser
-raydium,ray,Raydium,3.46,-8.03758,loser
-algorand,algo,Algorand,0.232069,-7.29299,loser
+memecore,m,MemeCore,0.534418,24.69583,gainer
+evervalue-coin,eva,EverValue Coin,20.45,5.64591,gainer
+syrup,syrup,Maple Finance,0.453073,2.1791,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.21,2.1736,gainer
+conflux-token,cfx,Conflux,0.192025,1.85799,gainer
+okb,okb,OKB,171.03,1.62586,gainer
+hash-2,hash,Provenance Blockchain,0.02746296,1.53944,gainer
+pump-fun,pump,Pump.fun,0.00348743,1.41307,gainer
+saros-finance,saros,Saros,0.350402,1.36076,gainer
+zebec-network,zbcn,Zebec Network,0.00422772,1.27556,gainer
+bio-protocol,bio,Bio Protocol,0.158552,-13.7206,loser
+crypto-com-chain,cro,Cronos,0.270673,-12.19172,loser
+pyth-network,pyth,Pyth Network,0.200674,-10.73932,loser
+mantle,mnt,Mantle,1.13,-10.48692,loser
+loaded-lions,lion,Loaded Lions,0.0210857,-10.30482,loser
+spx6900,spx,SPX6900,1.095,-8.96046,loser
+fartcoin,fartcoin,Fartcoin,0.773245,-8.38931,loser
+akash-network,akt,Akash Network,1.14,-8.24008,loser
+raydium,ray,Raydium,3.46,-7.802,loser
+algorand,algo,Algorand,0.232523,-7.06185,loser
