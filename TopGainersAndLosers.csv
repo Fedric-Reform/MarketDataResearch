@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.534418,24.69583,gainer
-evervalue-coin,eva,EverValue Coin,20.45,5.64591,gainer
-syrup,syrup,Maple Finance,0.453073,2.1791,gainer
+memecore,m,MemeCore,0.535888,25.03868,gainer
+evervalue-coin,eva,EverValue Coin,20.45,5.64609,gainer
 tokenize-xchange,tkx,Tokenize Xchange,5.21,2.1736,gainer
-conflux-token,cfx,Conflux,0.192025,1.85799,gainer
-okb,okb,OKB,171.03,1.62586,gainer
-hash-2,hash,Provenance Blockchain,0.02746296,1.53944,gainer
-pump-fun,pump,Pump.fun,0.00348743,1.41307,gainer
-saros-finance,saros,Saros,0.350402,1.36076,gainer
-zebec-network,zbcn,Zebec Network,0.00422772,1.27556,gainer
-bio-protocol,bio,Bio Protocol,0.158552,-13.7206,loser
-crypto-com-chain,cro,Cronos,0.270673,-12.19172,loser
-pyth-network,pyth,Pyth Network,0.200674,-10.73932,loser
-mantle,mnt,Mantle,1.13,-10.48692,loser
+syrup,syrup,Maple Finance,0.452673,2.08897,gainer
+conflux-token,cfx,Conflux,0.19194,1.81245,gainer
+okb,okb,OKB,170.88,1.53687,gainer
+hash-2,hash,Provenance Blockchain,0.02745175,1.49799,gainer
+saros-finance,saros,Saros,0.350453,1.37551,gainer
+pump-fun,pump,Pump.fun,0.00348589,1.3683,gainer
+zebec-network,zbcn,Zebec Network,0.00422774,1.27614,gainer
+bio-protocol,bio,Bio Protocol,0.158748,-13.61421,loser
+crypto-com-chain,cro,Cronos,0.270673,-12.19188,loser
+pyth-network,pyth,Pyth Network,0.200725,-10.71653,loser
+mantle,mnt,Mantle,1.13,-10.50741,loser
 loaded-lions,lion,Loaded Lions,0.0210857,-10.30482,loser
-spx6900,spx,SPX6900,1.095,-8.96046,loser
-fartcoin,fartcoin,Fartcoin,0.773245,-8.38931,loser
-akash-network,akt,Akash Network,1.14,-8.24008,loser
-raydium,ray,Raydium,3.46,-7.802,loser
-algorand,algo,Algorand,0.232523,-7.06185,loser
+spx6900,spx,SPX6900,1.095,-8.94399,loser
+fartcoin,fartcoin,Fartcoin,0.773279,-8.38522,loser
+akash-network,akt,Akash Network,1.14,-8.24245,loser
+raydium,ray,Raydium,3.46,-7.81077,loser
+algorand,algo,Algorand,0.23254,-7.05495,loser
