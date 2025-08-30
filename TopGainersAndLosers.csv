@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.53612,25.00527,gainer
-evervalue-coin,eva,EverValue Coin,20.43,5.67427,gainer
-rekt-4,rekt,Rekt,7.43884e-07,4.45339,gainer
-syrup,syrup,Maple Finance,0.452444,1.88689,gainer
-hash-2,hash,Provenance Blockchain,0.02745743,1.51899,gainer
-okb,okb,OKB,170.97,1.40634,gainer
-saros-finance,saros,Saros,0.350377,1.33452,gainer
-pi-network,pi,Pi Network,0.362002,1.28892,gainer
-kucoin-shares,kcs,KuCoin,13.82,1.26088,gainer
-pax-gold,paxg,PAX Gold,3456.78,1.24236,gainer
-crypto-com-chain,cro,Cronos,0.270389,-13.22578,loser
-bio-protocol,bio,Bio Protocol,0.15861,-12.64366,loser
-loaded-lions,lion,Loaded Lions,0.02098038,-10.75281,loser
-pyth-network,pyth,Pyth Network,0.201445,-10.17468,loser
-mantle,mnt,Mantle,1.13,-10.14758,loser
-spx6900,spx,SPX6900,1.094,-9.04888,loser
-akash-network,akt,Akash Network,1.14,-8.52952,loser
-fartcoin,fartcoin,Fartcoin,0.77332,-8.41494,loser
-raydium,ray,Raydium,3.46,-7.92255,loser
-aerodrome-finance,aero,Aerodrome Finance,1.12,-7.32049,loser
+memecore,m,MemeCore,0.535213,24.7937,gainer
+evervalue-coin,eva,EverValue Coin,20.47,5.36373,gainer
+rekt-4,rekt,Rekt,7.43973e-07,4.18694,gainer
+pump-fun,pump,Pump.fun,0.00348687,2.00608,gainer
+okb,okb,OKB,170.96,1.85486,gainer
+syrup,syrup,Maple Finance,0.452665,1.77604,gainer
+hash-2,hash,Provenance Blockchain,0.02747389,1.63567,gainer
+pi-network,pi,Pi Network,0.363015,1.62831,gainer
+kucoin-shares,kcs,KuCoin,13.83,1.39853,gainer
+saros-finance,saros,Saros,0.350261,1.37,gainer
+crypto-com-chain,cro,Cronos,0.271019,-13.02365,loser
+bio-protocol,bio,Bio Protocol,0.158669,-12.30526,loser
+loaded-lions,lion,Loaded Lions,0.02099838,-11.42594,loser
+mantle,mnt,Mantle,1.13,-9.95939,loser
+pyth-network,pyth,Pyth Network,0.201938,-9.95492,loser
+spx6900,spx,SPX6900,1.093,-9.21272,loser
+fartcoin,fartcoin,Fartcoin,0.773256,-8.44727,loser
+akash-network,akt,Akash Network,1.15,-8.42114,loser
+raydium,ray,Raydium,3.46,-7.81519,loser
+aerodrome-finance,aero,Aerodrome Finance,1.12,-7.39589,loser
