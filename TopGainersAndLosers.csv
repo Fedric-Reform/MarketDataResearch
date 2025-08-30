@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.552076,28.07484,gainer
-bonk,bonk,Bonk,2.292e-05,6.03905,gainer
-evervalue-coin,eva,EverValue Coin,20.56,6.00267,gainer
-pump-fun,pump,Pump.fun,0.00364953,4.71857,gainer
-rekt-4,rekt,Rekt,7.51083e-07,3.24399,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.41,2.74472,gainer
-pi-network,pi,Pi Network,0.364665,2.51968,gainer
-okb,okb,OKB,172.53,2.27204,gainer
-pax-gold,paxg,PAX Gold,3463.5,1.42841,gainer
-crypto-com-chain,cro,Cronos,0.301395,1.29515,gainer
-wormhole,w,Wormhole,0.082654,-14.4326,loser
-bio-protocol,bio,Bio Protocol,0.161298,-9.39681,loser
-spx6900,spx,SPX6900,1.11,-7.96811,loser
-mantle,mnt,Mantle,1.15,-7.7294,loser
-raydium,ray,Raydium,3.51,-7.15172,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,28.81,-6.53768,loser
-aerodrome-finance,aero,Aerodrome Finance,1.12,-6.50623,loser
-wrapped-avax,wavax,Wrapped AVAX,23.55,-6.4761,loser
-fartcoin,fartcoin,Fartcoin,0.79385,-6.45448,loser
-algorand,algo,Algorand,0.234561,-6.4537,loser
+memecore,m,MemeCore,0.546044,26.53222,gainer
+bonk,bonk,Bonk,2.29e-05,6.28125,gainer
+evervalue-coin,eva,EverValue Coin,20.56,5.98499,gainer
+pump-fun,pump,Pump.fun,0.0036116,4.43798,gainer
+rekt-4,rekt,Rekt,7.51304e-07,3.18628,gainer
+pi-network,pi,Pi Network,0.365892,2.90598,gainer
+okb,okb,OKB,172.23,2.82479,gainer
+kucoin-shares,kcs,KuCoin,13.92,1.60524,gainer
+pax-gold,paxg,PAX Gold,3463.62,1.51104,gainer
+crypto-com-chain,cro,Cronos,0.300103,1.42259,gainer
+wormhole,w,Wormhole,0.083217,-17.42056,loser
+bio-protocol,bio,Bio Protocol,0.161844,-9.22957,loser
+spx6900,spx,SPX6900,1.11,-8.2589,loser
+mantle,mnt,Mantle,1.15,-7.88593,loser
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.242422,-7.15803,loser
+raydium,ray,Raydium,3.5,-6.95571,loser
+beam-2,beam,Beam,0.00721942,-6.45454,loser
+arweave,ar,Arweave,6.38,-6.448,loser
+fartcoin,fartcoin,Fartcoin,0.789936,-6.4469,loser
+morpho,morpho,Morpho,2.03,-6.25768,loser
