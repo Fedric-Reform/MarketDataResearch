@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.62507,23.85661,gainer
-conflux-token,cfx,Conflux,0.210326,17.17007,gainer
-story-2,ip,Story,6.98,15.59511,gainer
-qtum,qtum,Qtum,2.99,13.03553,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.52,12.88493,gainer
-crypto-com-chain,cro,Cronos,0.313975,12.71864,gainer
-bonk,bonk,Bonk,2.224e-05,8.8406,gainer
-loaded-lions,lion,Loaded Lions,0.02357659,8.00376,gainer
-pi-network,pi,Pi Network,0.38346,7.66765,gainer
-okb,okb,OKB,177.74,6.57444,gainer
-pyth-network,pyth,Pyth Network,0.199724,-6.89606,loser
-zcash,zec,Zcash,40.02,-6.18674,loser
-raydium,ray,Raydium,3.45,-5.77108,loser
-solana,sol,Solana,200.36,-4.73853,loser
-jito-staked-sol,jitosol,Jito Staked SOL,245.78,-4.63675,loser
-bybit-staked-sol,bbsol,Bybit Staked SOL,220.9,-4.5546,loser
-msol,msol,Marinade Staked SOL,264.28,-4.5138,loser
-zebec-network,zbcn,Zebec Network,0.00400967,-4.45364,loser
-binance-staked-sol,bnsol,Binance Staked SOL,214.75,-4.44341,loser
-jupiter-staked-sol,jupsol,Jupiter Staked SOL,227.24,-4.32253,loser
+story-2,ip,Story,7.98,32.85866,gainer
+axie-infinity,axs,Axie Infinity,2.74,22.09802,gainer
+memecore,m,MemeCore,0.595334,11.28136,gainer
+crypto-com-chain,cro,Cronos,0.30058,10.44496,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.26156,9.02908,gainer
+agentfun-ai,agentfun,AgentFun.AI,3.32,8.97652,gainer
+loaded-lions,lion,Loaded Lions,0.02290786,8.20498,gainer
+flow,flow,Flow,0.422822,7.3407,gainer
+wormhole,w,Wormhole,0.086885,7.0242,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.19,6.58516,gainer
+hash-2,hash,Provenance Blockchain,0.02453206,-10.67322,loser
+zebec-network,zbcn,Zebec Network,0.00396994,-5.94022,loser
+pyth-network,pyth,Pyth Network,0.193596,-4.36601,loser
+pump-fun,pump,Pump.fun,0.00347031,-2.42986,loser
+morpho,morpho,Morpho,2.0,-0.93505,loser
+berachain-bera,bera,Berachain,2.7,-0.92198,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.14,-0.83027,loser
+usdb,usdb,USDB,0.998424,-0.46612,loser
+fasttoken,ftn,Fasttoken,4.52,-0.34912,loser
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.08,-0.26491,loser
