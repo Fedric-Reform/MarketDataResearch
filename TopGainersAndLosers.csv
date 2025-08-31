@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-story-2,ip,Story,7.99,32.30147,gainer
-axie-infinity,axs,Axie Infinity,2.75,20.86419,gainer
-memecore,m,MemeCore,0.597814,9.78144,gainer
-crypto-com-chain,cro,Cronos,0.300511,9.0902,gainer
-flow,flow,Flow,0.431864,8.48698,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.262047,8.31976,gainer
-loaded-lions,lion,Loaded Lions,0.02293631,7.27857,gainer
-agentfun-ai,agentfun,AgentFun.AI,3.31,6.28148,gainer
-pi-network,pi,Pi Network,0.389464,6.19857,gainer
-wemix-token,wemix,WEMIX,0.747625,6.04717,gainer
-zebec-network,zbcn,Zebec Network,0.00395043,-6.61735,loser
-hash-2,hash,Provenance Blockchain,0.02594367,-5.87871,loser
-pump-fun,pump,Pump.fun,0.00343979,-5.2196,loser
-berachain-bera,bera,Berachain,2.7,-2.39487,loser
-pyth-network,pyth,Pyth Network,0.193697,-2.1977,loser
-morpho,morpho,Morpho,2.0,-1.77855,loser
-raydium,ray,Raydium,3.49,-1.52106,loser
-jupiter-exchange-solana,jup,Jupiter,0.505103,-1.42878,loser
-jito-governance-token,jto,Jito,1.97,-1.28367,loser
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),0.998415,-0.9955,loser
+story-2,ip,Story,7.96,32.06156,gainer
+axie-infinity,axs,Axie Infinity,2.7,18.20041,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.265329,9.49724,gainer
+flow,flow,Flow,0.431372,8.26917,gainer
+memecore,m,MemeCore,0.594595,7.70916,gainer
+pi-network,pi,Pi Network,0.389498,6.8638,gainer
+wemix-token,wemix,WEMIX,0.749739,5.96327,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.19,5.7423,gainer
+xdce-crowd-sale,xdc,XDC Network,0.08079,5.72258,gainer
+conflux-token,cfx,Conflux,0.200179,5.53008,gainer
+pyth-network,pyth,Pyth Network,0.190176,-6.21609,loser
+pump-fun,pump,Pump.fun,0.00344933,-5.3784,loser
+agentfun-ai,agentfun,AgentFun.AI,3.27,-4.56726,loser
+zebec-network,zbcn,Zebec Network,0.00399657,-4.30731,loser
+hash-2,hash,Provenance Blockchain,0.02592335,-3.59435,loser
+crypto-com-chain,cro,Cronos,0.296606,-2.99921,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.06,-1.82702,loser
+bonk,bonk,Bonk,2.259e-05,-1.54741,loser
+morpho,morpho,Morpho,2.01,-1.33834,loser
+jupiter-exchange-solana,jup,Jupiter,0.505666,-0.99443,loser
