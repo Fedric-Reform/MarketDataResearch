@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.64547,10.21157,gainer
-evervalue-coin,eva,EverValue Coin,22.21,7.20851,gainer
-build-on,b,BUILDon,0.715147,4.26736,gainer
-kucoin-shares,kcs,KuCoin,14.66,3.38732,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.276336,3.11842,gainer
-pump-fun,pump,Pump.fun,0.00340336,1.61617,gainer
-monero,xmr,Monero,265.37,1.40565,gainer
-tether-gold,xaut,Tether Gold,3499.99,1.12833,gainer
-official-trump,trump,Official Trump,8.48,0.95378,gainer
-pax-gold,paxg,PAX Gold,3496.19,0.93505,gainer
-four,form,Four,2.88,-23.56898,loser
-conflux-token,cfx,Conflux,0.177342,-11.28177,loser
-pi-network,pi,Pi Network,0.34921,-9.73848,loser
-berachain-bera,bera,Berachain,2.43,-9.13964,loser
-pyth-network,pyth,Pyth Network,0.171681,-9.03503,loser
-axie-infinity,axs,Axie Infinity,2.4,-8.71388,loser
-fartcoin,fartcoin,Fartcoin,0.728002,-8.34209,loser
-wormhole,w,Wormhole,0.080076,-8.29347,loser
-based-brett,brett,Brett,0.04478694,-8.1595,loser
-bonk,bonk,Bonk,2.082e-05,-7.68491,loser
+memecore,m,MemeCore,0.81137,24.09929,gainer
+evervalue-coin,eva,EverValue Coin,22.18,7.06307,gainer
+syrup,syrup,Maple Finance,0.480602,6.05799,gainer
+pump-fun,pump,Pump.fun,0.0034257,2.74841,gainer
+decentraland,mana,Decentraland,0.296364,2.25927,gainer
+bitget-token,bgb,Bitget Token,4.66,2.25222,gainer
+monero,xmr,Monero,265.91,2.18888,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109691.0,2.04102,gainer
+filecoin,fil,Filecoin,2.34,1.78325,gainer
+dydx-chain,dydx,dYdX,0.614078,1.63764,gainer
+pyth-network,pyth,Pyth Network,0.164716,-9.12164,loser
+conflux-token,cfx,Conflux,0.177888,-8.26407,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.258294,-8.11467,loser
+keeta,kta,Keeta,0.850162,-6.85405,loser
+flow,flow,Flow,0.406883,-6.13392,loser
+pi-network,pi,Pi Network,0.342087,-5.89451,loser
+morpho,morpho,Morpho,1.89,-5.81583,loser
+bonk,bonk,Bonk,2.1e-05,-5.78831,loser
+berachain-bera,bera,Berachain,2.44,-5.67622,loser
+virtual-protocol,virtual,Virtuals Protocol,1.066,-5.67447,loser
