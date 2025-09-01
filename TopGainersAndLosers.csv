@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.660171,9.92877,gainer
-evervalue-coin,eva,EverValue Coin,22.21,6.4035,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.279119,6.25026,gainer
-build-on,b,BUILDon,0.718702,3.73105,gainer
-kucoin-shares,kcs,KuCoin,14.6,3.49102,gainer
-hash-2,hash,Provenance Blockchain,0.02645757,2.03846,gainer
-monero,xmr,Monero,264.47,1.74122,gainer
-flow,flow,Flow,0.430187,1.52147,gainer
-pax-gold,paxg,PAX Gold,3492.53,0.88351,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.37221,gainer
-four,form,Four,3.0,-20.50335,loser
-axie-infinity,axs,Axie Infinity,2.45,-11.09552,loser
-berachain-bera,bera,Berachain,2.45,-9.26845,loser
-pi-network,pi,Pi Network,0.35282,-9.13791,loser
-okb,okb,OKB,166.51,-8.06227,loser
-pyth-network,pyth,Pyth Network,0.177254,-7.81689,loser
-conflux-token,cfx,Conflux,0.185588,-7.58556,loser
-based-brett,brett,Brett,0.04544717,-7.57431,loser
-fartcoin,fartcoin,Fartcoin,0.736228,-7.30039,loser
-agentfun-ai,agentfun,AgentFun.AI,3.08,-7.19505,loser
+memecore,m,MemeCore,0.657419,10.44498,gainer
+evervalue-coin,eva,EverValue Coin,22.14,6.01918,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.279921,5.46537,gainer
+build-on,b,BUILDon,0.719235,5.16057,gainer
+kucoin-shares,kcs,KuCoin,14.62,3.57597,gainer
+monero,xmr,Monero,265.67,2.04134,gainer
+hash-2,hash,Provenance Blockchain,0.02642393,1.931,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.091,1.11499,gainer
+pax-gold,paxg,PAX Gold,3492.45,0.9173,gainer
+official-trump,trump,Official Trump,8.48,0.67583,gainer
+four,form,Four,3.01,-20.49146,loser
+pi-network,pi,Pi Network,0.349997,-10.0252,loser
+axie-infinity,axs,Axie Infinity,2.45,-10.00418,loser
+berachain-bera,bera,Berachain,2.46,-8.52817,loser
+based-brett,brett,Brett,0.04559308,-7.26648,loser
+conflux-token,cfx,Conflux,0.185699,-7.23723,loser
+ethereum-name-service,ens,Ethereum Name Service,21.97,-7.07479,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02806667,-7.04126,loser
+okb,okb,OKB,167.06,-7.01812,loser
+pyth-network,pyth,Pyth Network,0.176783,-6.94795,loser
