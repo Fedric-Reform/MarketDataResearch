@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.284071,10.29201,gainer
-memecore,m,MemeCore,0.653581,7.9431,gainer
-evervalue-coin,eva,EverValue Coin,22.13,6.12214,gainer
-flow,flow,Flow,0.434441,5.75035,gainer
-build-on,b,BUILDon,0.7169,4.11387,gainer
-kucoin-shares,kcs,KuCoin,14.61,3.62973,gainer
-wemix-token,wemix,WEMIX,0.761014,2.7932,gainer
-monero,xmr,Monero,263.6,1.25765,gainer
-just,jst,JUST,0.03671247,1.08689,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.57958,gainer
-four,form,Four,2.98,-21.176,loser
-okb,okb,OKB,166.41,-9.14021,loser
-pyth-network,pyth,Pyth Network,0.176241,-8.63355,loser
-axie-infinity,axs,Axie Infinity,2.45,-8.39772,loser
-pi-network,pi,Pi Network,0.352647,-7.71591,loser
-crypto-com-chain,cro,Cronos,0.278536,-7.54571,loser
-conflux-token,cfx,Conflux,0.187183,-7.35501,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02822156,-6.99441,loser
-loaded-lions,lion,Loaded Lions,0.02157981,-6.56762,loser
-berachain-bera,bera,Berachain,2.51,-6.53145,loser
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.28279,9.98636,gainer
+memecore,m,MemeCore,0.654741,7.61265,gainer
+evervalue-coin,eva,EverValue Coin,22.23,5.90006,gainer
+flow,flow,Flow,0.432408,5.28034,gainer
+build-on,b,BUILDon,0.720304,4.52436,gainer
+kucoin-shares,kcs,KuCoin,14.61,3.73651,gainer
+wemix-token,wemix,WEMIX,0.760364,2.65172,gainer
+monero,xmr,Monero,263.15,1.13703,gainer
+just,jst,JUST,0.03661545,0.81633,gainer
+tether-gold,xaut,Tether Gold,3472.35,0.74516,gainer
+four,form,Four,2.97,-21.22886,loser
+okb,okb,OKB,166.76,-9.02842,loser
+axie-infinity,axs,Axie Infinity,2.44,-8.71343,loser
+pyth-network,pyth,Pyth Network,0.175953,-8.49969,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02783192,-8.16907,loser
+pi-network,pi,Pi Network,0.352541,-7.88104,loser
+conflux-token,cfx,Conflux,0.186714,-7.77616,loser
+crypto-com-chain,cro,Cronos,0.278327,-7.70083,loser
+berachain-bera,bera,Berachain,2.5,-7.07514,loser
+based-brett,brett,Brett,0.04567538,-6.76138,loser
