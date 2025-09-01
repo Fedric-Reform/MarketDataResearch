@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-story-2,ip,Story,7.96,32.06156,gainer
-axie-infinity,axs,Axie Infinity,2.7,18.20041,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.265329,9.49724,gainer
-flow,flow,Flow,0.431372,8.26917,gainer
-memecore,m,MemeCore,0.594595,7.70916,gainer
-pi-network,pi,Pi Network,0.389498,6.8638,gainer
-wemix-token,wemix,WEMIX,0.749739,5.96327,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.19,5.7423,gainer
-xdce-crowd-sale,xdc,XDC Network,0.08079,5.72258,gainer
-conflux-token,cfx,Conflux,0.200179,5.53008,gainer
-pyth-network,pyth,Pyth Network,0.190176,-6.21609,loser
-pump-fun,pump,Pump.fun,0.00344933,-5.3784,loser
-agentfun-ai,agentfun,AgentFun.AI,3.27,-4.56726,loser
-zebec-network,zbcn,Zebec Network,0.00399657,-4.30731,loser
-hash-2,hash,Provenance Blockchain,0.02592335,-3.59435,loser
-crypto-com-chain,cro,Cronos,0.296606,-2.99921,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.06,-1.82702,loser
-bonk,bonk,Bonk,2.259e-05,-1.54741,loser
-morpho,morpho,Morpho,2.01,-1.33834,loser
-jupiter-exchange-solana,jup,Jupiter,0.505666,-0.99443,loser
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.284263,9.32412,gainer
+memecore,m,MemeCore,0.656557,8.98835,gainer
+evervalue-coin,eva,EverValue Coin,22.19,6.27206,gainer
+flow,flow,Flow,0.434153,5.8664,gainer
+build-on,b,BUILDon,0.718858,4.90934,gainer
+kucoin-shares,kcs,KuCoin,14.64,3.7838,gainer
+wemix-token,wemix,WEMIX,0.761042,2.85516,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.22,2.61395,gainer
+just,jst,JUST,0.03689473,1.65581,gainer
+monero,xmr,Monero,263.11,1.11309,gainer
+four,form,Four,3.0,-20.60349,loser
+pyth-network,pyth,Pyth Network,0.176579,-9.11841,loser
+hash-2,hash,Provenance Blockchain,0.02580287,-8.48909,loser
+okb,okb,OKB,167.13,-8.4365,loser
+axie-infinity,axs,Axie Infinity,2.46,-7.86158,loser
+crypto-com-chain,cro,Cronos,0.279402,-7.42679,loser
+pi-network,pi,Pi Network,0.353984,-7.26325,loser
+conflux-token,cfx,Conflux,0.188234,-6.76781,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02843448,-6.12315,loser
+loaded-lions,lion,Loaded Lions,0.02162344,-6.10144,loser
