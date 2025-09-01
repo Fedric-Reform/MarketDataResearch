@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.738737,9.52565,gainer
-evervalue-coin,eva,EverValue Coin,22.25,5.77685,gainer
-four,form,Four,3.17,5.7654,gainer
-syrup,syrup,Maple Finance,0.472401,4.39056,gainer
-bitget-token,bgb,Bitget Token,4.66,2.2412,gainer
-monero,xmr,Monero,264.7,2.0525,gainer
-pump-fun,pump,Pump.fun,0.00341488,2.01415,gainer
-kucoin-shares,kcs,KuCoin,14.74,1.64871,gainer
+memecore,m,MemeCore,0.754175,11.24375,gainer
+evervalue-coin,eva,EverValue Coin,22.33,6.00958,gainer
+four,form,Four,3.17,5.68982,gainer
+syrup,syrup,Maple Finance,0.472095,4.33991,gainer
+pump-fun,pump,Pump.fun,0.00342266,2.54635,gainer
+bitget-token,bgb,Bitget Token,4.66,2.22066,gainer
+kucoin-shares,kcs,KuCoin,14.75,1.75998,gainer
+sky,sky,Sky,0.065341,1.47047,gainer
 eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.42856,gainer
-sky,sky,Sky,0.065284,1.40225,gainer
-keeta,kta,Keeta,0.822186,-9.44312,loser
-pyth-network,pyth,Pyth Network,0.165114,-9.28853,loser
-bonk,bonk,Bonk,2.079e-05,-8.59426,loser
-flow,flow,Flow,0.405433,-8.11572,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.260323,-7.39274,loser
-conflux-token,cfx,Conflux,0.178082,-7.17236,loser
-fartcoin,fartcoin,Fartcoin,0.732875,-6.8187,loser
-virtual-protocol,virtual,Virtuals Protocol,1.062,-6.55957,loser
-wemix-token,wemix,WEMIX,0.708006,-6.24291,loser
-mog-coin,mog,Mog Coin,8.12301e-07,-6.16014,loser
+solv-btc,solvbtc,Solv Protocol BTC,109253.0,1.32755,gainer
+keeta,kta,Keeta,0.818905,-9.88419,loser
+pyth-network,pyth,Pyth Network,0.165312,-9.21668,loser
+bonk,bonk,Bonk,2.079e-05,-8.47738,loser
+flow,flow,Flow,0.406215,-7.93841,loser
+conflux-token,cfx,Conflux,0.178186,-7.09748,loser
+fartcoin,fartcoin,Fartcoin,0.73223,-6.88583,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.26215,-6.74282,loser
+virtual-protocol,virtual,Virtuals Protocol,1.064,-6.30747,loser
+mog-coin,mog,Mog Coin,8.12613e-07,-6.00137,loser
+wemix-token,wemix,WEMIX,0.70761,-5.64635,loser
