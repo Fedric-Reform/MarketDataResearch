@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.8648,27.88282,gainer
-four,form,Four,3.15,3.6621,gainer
-bitget-token,bgb,Bitget Token,4.67,2.495,gainer
-sky,sky,Sky,0.065943,1.99888,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.8004,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.41455,gainer
-evervalue-coin,eva,EverValue Coin,22.21,1.33384,gainer
-solv-btc,solvbtc,Solv Protocol BTC,108883.0,0.86176,gainer
-syrup,syrup,Maple Finance,0.459058,0.84367,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107690.0,0.80901,gainer
-keeta,kta,Keeta,0.774277,-15.09684,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.244611,-12.98217,loser
-pyth-network,pyth,Pyth Network,0.163711,-11.04846,loser
-flow,flow,Flow,0.400338,-9.9948,loser
-bonk,bonk,Bonk,2.047e-05,-9.59647,loser
-mog-coin,mog,Mog Coin,7.80066e-07,-9.27691,loser
-loaded-lions,lion,Loaded Lions,0.02060351,-8.23078,loser
-conflux-token,cfx,Conflux,0.177116,-8.01416,loser
-fartcoin,fartcoin,Fartcoin,0.726623,-7.79012,loser
-crypto-com-chain,cro,Cronos,0.26942,-7.40218,loser
+memecore,m,MemeCore,0.870953,29.39564,gainer
+four,form,Four,3.16,4.09795,gainer
+bitget-token,bgb,Bitget Token,4.67,2.39002,gainer
+sky,sky,Sky,0.066001,2.1469,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.84568,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.41348,gainer
+evervalue-coin,eva,EverValue Coin,22.19,1.09801,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107847.0,0.95567,gainer
+solv-btc,solvbtc,Solv Protocol BTC,108945.0,0.91958,gainer
+syrup,syrup,Maple Finance,0.458663,0.71343,gainer
+keeta,kta,Keeta,0.742025,-18.63813,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.245636,-12.61734,loser
+pyth-network,pyth,Pyth Network,0.163817,-11.16385,loser
+bonk,bonk,Bonk,2.049e-05,-9.73389,loser
+flow,flow,Flow,0.400653,-9.65204,loser
+mog-coin,mog,Mog Coin,7.80087e-07,-9.48565,loser
+loaded-lions,lion,Loaded Lions,0.0205448,-8.44499,loser
+conflux-token,cfx,Conflux,0.177067,-8.17762,loser
+fartcoin,fartcoin,Fartcoin,0.72775,-7.70359,loser
+crypto-com-chain,cro,Cronos,0.26894,-7.59264,loser
