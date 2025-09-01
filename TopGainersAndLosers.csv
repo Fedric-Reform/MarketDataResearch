@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.782689,16.26667,gainer
-evervalue-coin,eva,EverValue Coin,22.14,7.1872,gainer
-syrup,syrup,Maple Finance,0.474409,4.65706,gainer
-four,form,Four,3.14,2.96741,gainer
-bitget-token,bgb,Bitget Token,4.66,2.34447,gainer
-pump-fun,pump,Pump.fun,0.00342398,2.17879,gainer
-monero,xmr,Monero,265.16,1.66221,gainer
-sky,sky,Sky,0.06565,1.60559,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.4712,gainer
-kucoin-shares,kcs,KuCoin,14.7,1.40691,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.250616,-10.846,loser
-pyth-network,pyth,Pyth Network,0.163806,-10.47167,loser
-conflux-token,cfx,Conflux,0.177282,-9.28002,loser
-bonk,bonk,Bonk,2.084e-05,-7.39751,loser
-keeta,kta,Keeta,0.846633,-7.23662,loser
-virtual-protocol,virtual,Virtuals Protocol,1.059,-6.56125,loser
-morpho,morpho,Morpho,1.88,-6.55188,loser
-flow,flow,Flow,0.405374,-6.26008,loser
-wemix-token,wemix,WEMIX,0.700919,-6.24731,loser
-mog-coin,mog,Mog Coin,8.13192e-07,-6.09118,loser
+memecore,m,MemeCore,0.785002,15.24809,gainer
+four,form,Four,3.19,6.31693,gainer
+evervalue-coin,eva,EverValue Coin,22.24,5.71082,gainer
+syrup,syrup,Maple Finance,0.473331,4.49242,gainer
+monero,xmr,Monero,265.53,2.35325,gainer
+pump-fun,pump,Pump.fun,0.00343134,2.35299,gainer
+bitget-token,bgb,Bitget Token,4.65,2.12675,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.46763,gainer
+kucoin-shares,kcs,KuCoin,14.71,1.44128,gainer
+filecoin,fil,Filecoin,2.34,1.43523,gainer
+pyth-network,pyth,Pyth Network,0.165558,-9.01241,loser
+keeta,kta,Keeta,0.831148,-8.52376,loser
+bonk,bonk,Bonk,2.084e-05,-8.16959,loser
+conflux-token,cfx,Conflux,0.177081,-7.99651,loser
+flow,flow,Flow,0.405947,-7.53481,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.260989,-7.15594,loser
+raydium,ray,Raydium,3.34,-6.71416,loser
+fartcoin,fartcoin,Fartcoin,0.737322,-6.30235,loser
+virtual-protocol,virtual,Virtuals Protocol,1.065,-6.10995,loser
+wemix-token,wemix,WEMIX,0.708037,-6.09402,loser
