@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.831911,21.61574,gainer
-four,form,Four,3.18,3.25807,gainer
-bitget-token,bgb,Bitget Token,4.64,2.12838,gainer
-saros-finance,saros,Saros,0.352429,2.09236,gainer
-sky,sky,Sky,0.06523,1.38085,gainer
-usdb,usdb,USDB,1.006,1.01953,gainer
-pax-gold,paxg,PAX Gold,3495.0,0.97657,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107659.0,0.53162,gainer
-tether-gold,xaut,Tether Gold,3475.55,0.4657,gainer
-kucoin-shares,kcs,KuCoin,14.59,0.44417,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.232931,-17.13718,loser
-keeta,kta,Keeta,0.751768,-16.60516,loser
-pyth-network,pyth,Pyth Network,0.162715,-12.08584,loser
-bonk,bonk,Bonk,2.007e-05,-10.96662,loser
-virtual-protocol,virtual,Virtuals Protocol,1.019,-10.8373,loser
-fartcoin,fartcoin,Fartcoin,0.703193,-9.02229,loser
-crypto-com-chain,cro,Cronos,0.269186,-8.65664,loser
-conflux-token,cfx,Conflux,0.174569,-8.49751,loser
-loaded-lions,lion,Loaded Lions,0.02075912,-8.20208,loser
-axie-infinity,axs,Axie Infinity,2.32,-8.16926,loser
+memecore,m,MemeCore,0.834086,23.77245,gainer
+four,form,Four,3.18,3.40817,gainer
+bitget-token,bgb,Bitget Token,4.65,2.46383,gainer
+sky,sky,Sky,0.065262,1.14945,gainer
+pax-gold,paxg,PAX Gold,3497.61,1.06195,gainer
+kucoin-shares,kcs,KuCoin,14.61,0.77234,gainer
+saros-finance,saros,Saros,0.352533,0.66108,gainer
+solv-btc,solvbtc,Solv Protocol BTC,108880.0,0.6018,gainer
+bitcoin,btc,Bitcoin,108785.0,0.59689,gainer
+tether-gold,xaut,Tether Gold,3476.33,0.49621,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.235228,-16.31991,loser
+keeta,kta,Keeta,0.749903,-16.23783,loser
+pyth-network,pyth,Pyth Network,0.16148,-12.56372,loser
+virtual-protocol,virtual,Virtuals Protocol,1.02,-10.06614,loser
+bonk,bonk,Bonk,2.009e-05,-10.043,loser
+fartcoin,fartcoin,Fartcoin,0.705127,-7.89754,loser
+conflux-token,cfx,Conflux,0.175481,-7.88071,loser
+zksync,zk,ZKsync,0.054388,-7.69467,loser
+loaded-lions,lion,Loaded Lions,0.02078712,-7.66826,loser
+spx6900,spx,SPX6900,1.064,-7.60827,loser
