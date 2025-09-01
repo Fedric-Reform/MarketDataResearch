@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.754175,11.24375,gainer
-evervalue-coin,eva,EverValue Coin,22.33,6.00958,gainer
-four,form,Four,3.17,5.68982,gainer
-syrup,syrup,Maple Finance,0.472095,4.33991,gainer
-pump-fun,pump,Pump.fun,0.00342266,2.54635,gainer
-bitget-token,bgb,Bitget Token,4.66,2.22066,gainer
-kucoin-shares,kcs,KuCoin,14.75,1.75998,gainer
-sky,sky,Sky,0.065341,1.47047,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.42856,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109253.0,1.32755,gainer
-keeta,kta,Keeta,0.818905,-9.88419,loser
-pyth-network,pyth,Pyth Network,0.165312,-9.21668,loser
-bonk,bonk,Bonk,2.079e-05,-8.47738,loser
-flow,flow,Flow,0.406215,-7.93841,loser
-conflux-token,cfx,Conflux,0.178186,-7.09748,loser
-fartcoin,fartcoin,Fartcoin,0.73223,-6.88583,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.26215,-6.74282,loser
-virtual-protocol,virtual,Virtuals Protocol,1.064,-6.30747,loser
-mog-coin,mog,Mog Coin,8.12613e-07,-6.00137,loser
-wemix-token,wemix,WEMIX,0.70761,-5.64635,loser
+memecore,m,MemeCore,0.779795,13.39094,gainer
+four,form,Four,3.16,5.96015,gainer
+evervalue-coin,eva,EverValue Coin,22.22,5.5376,gainer
+syrup,syrup,Maple Finance,0.472746,4.49363,gainer
+pump-fun,pump,Pump.fun,0.00341699,2.40682,gainer
+bitget-token,bgb,Bitget Token,4.65,2.12553,gainer
+kucoin-shares,kcs,KuCoin,14.74,2.03139,gainer
+sky,sky,Sky,0.065376,1.6436,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40066,gainer
+filecoin,fil,Filecoin,2.34,1.36821,gainer
+keeta,kta,Keeta,0.813533,-10.46711,loser
+pyth-network,pyth,Pyth Network,0.16567,-8.92091,loser
+bonk,bonk,Bonk,2.071e-05,-8.5088,loser
+flow,flow,Flow,0.406245,-8.4313,loser
+fartcoin,fartcoin,Fartcoin,0.728238,-7.15581,loser
+conflux-token,cfx,Conflux,0.178177,-7.01894,loser
+mog-coin,mog,Mog Coin,8.04831e-07,-6.85797,loser
+virtual-protocol,virtual,Virtuals Protocol,1.06,-6.62848,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.264488,-5.91096,loser
+based-brett,brett,Brett,0.04517195,-5.83125,loser
