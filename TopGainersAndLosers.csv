@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.823914,22.6966,gainer
-syrup,syrup,Maple Finance,0.467832,3.24171,gainer
-bitget-token,bgb,Bitget Token,4.68,2.8214,gainer
-four,form,Four,3.11,2.72741,gainer
-kucoin-shares,kcs,KuCoin,14.77,1.97157,gainer
-evervalue-coin,eva,EverValue Coin,22.16,1.91104,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.37492,gainer
-sky,sky,Sky,0.065266,1.34369,gainer
-solv-btc,solvbtc,Solv Protocol BTC,108993.0,1.26238,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108061.0,0.91883,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.235202,-16.32923,loser
-keeta,kta,Keeta,0.81018,-10.95704,loser
-flow,flow,Flow,0.403135,-10.28816,loser
-pyth-network,pyth,Pyth Network,0.164898,-10.00962,loser
-bonk,bonk,Bonk,2.048e-05,-9.23391,loser
-fartcoin,fartcoin,Fartcoin,0.720494,-8.1643,loser
-mog-coin,mog,Mog Coin,7.97613e-07,-7.62175,loser
-conflux-token,cfx,Conflux,0.179155,-7.48794,loser
-pi-network,pi,Pi Network,0.342156,-6.83445,loser
-loaded-lions,lion,Loaded Lions,0.02073398,-6.25409,loser
+memecore,m,MemeCore,0.795385,17.31087,gainer
+bitget-token,bgb,Bitget Token,4.69,2.9945,gainer
+four,form,Four,3.12,2.46279,gainer
+syrup,syrup,Maple Finance,0.463534,2.16927,gainer
+evervalue-coin,eva,EverValue Coin,22.24,2.00216,gainer
+kucoin-shares,kcs,KuCoin,14.77,1.89919,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40078,gainer
+sky,sky,Sky,0.065271,1.19103,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108240.0,1.09547,gainer
+pump-fun,pump,Pump.fun,0.00338343,1.074,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.237624,-15.46767,loser
+keeta,kta,Keeta,0.804475,-11.61168,loser
+pyth-network,pyth,Pyth Network,0.164791,-9.99855,loser
+flow,flow,Flow,0.401632,-9.71249,loser
+bonk,bonk,Bonk,2.051e-05,-9.08216,loser
+fartcoin,fartcoin,Fartcoin,0.720886,-8.13006,loser
+mog-coin,mog,Mog Coin,7.97948e-07,-7.51632,loser
+wormhole,w,Wormhole,0.079248,-7.11431,loser
+conflux-token,cfx,Conflux,0.179894,-6.9083,loser
+aerodrome-finance,aero,Aerodrome Finance,1.09,-6.31024,loser
