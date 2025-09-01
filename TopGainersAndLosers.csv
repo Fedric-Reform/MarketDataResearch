@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.283568,9.99547,gainer
-memecore,m,MemeCore,0.656014,9.08347,gainer
-evervalue-coin,eva,EverValue Coin,22.18,5.66799,gainer
-build-on,b,BUILDon,0.726495,4.59236,gainer
-flow,flow,Flow,0.428892,3.59717,gainer
-kucoin-shares,kcs,KuCoin,14.6,3.57906,gainer
-wemix-token,wemix,WEMIX,0.757532,2.36993,gainer
-monero,xmr,Monero,263.56,1.25432,gainer
-just,jst,JUST,0.03672623,1.11405,gainer
-tether-gold,xaut,Tether Gold,3476.4,0.89843,gainer
-four,form,Four,3.0,-20.70194,loser
-axie-infinity,axs,Axie Infinity,2.44,-11.13987,loser
-okb,okb,OKB,166.07,-9.05605,loser
-pi-network,pi,Pi Network,0.34877,-8.78769,loser
-pyth-network,pyth,Pyth Network,0.175915,-8.78508,loser
-conflux-token,cfx,Conflux,0.184792,-8.26456,loser
-agentfun-ai,agentfun,AgentFun.AI,3.09,-7.72938,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02781219,-7.71813,loser
-berachain-bera,bera,Berachain,2.48,-7.71746,loser
-crypto-com-chain,cro,Cronos,0.27924,-6.87446,loser
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.282612,9.60326,gainer
+memecore,m,MemeCore,0.656486,9.16201,gainer
+evervalue-coin,eva,EverValue Coin,22.23,5.90757,gainer
+build-on,b,BUILDon,0.723395,4.14603,gainer
+kucoin-shares,kcs,KuCoin,14.61,3.68343,gainer
+flow,flow,Flow,0.428808,2.98752,gainer
+wemix-token,wemix,WEMIX,0.756017,2.16519,gainer
+monero,xmr,Monero,263.42,1.20007,gainer
+just,jst,JUST,0.03674043,1.15314,gainer
+pax-gold,paxg,PAX Gold,3482.29,0.52245,gainer
+four,form,Four,3.0,-20.6786,loser
+axie-infinity,axs,Axie Infinity,2.44,-11.08637,loser
+okb,okb,OKB,165.84,-9.18053,loser
+pyth-network,pyth,Pyth Network,0.17591,-8.78768,loser
+pi-network,pi,Pi Network,0.349834,-8.50957,loser
+conflux-token,cfx,Conflux,0.185054,-8.13469,loser
+berachain-bera,bera,Berachain,2.47,-7.95063,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02782544,-7.67417,loser
+agentfun-ai,agentfun,AgentFun.AI,3.1,-7.44783,loser
+crypto-com-chain,cro,Cronos,0.279096,-7.12288,loser
