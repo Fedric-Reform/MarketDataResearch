@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.833455,24.93666,gainer
-four,form,Four,3.13,3.49724,gainer
-bitget-token,bgb,Bitget Token,4.66,2.41389,gainer
-sky,sky,Sky,0.065709,2.02033,gainer
-syrup,syrup,Maple Finance,0.462825,1.95262,gainer
-kucoin-shares,kcs,KuCoin,14.75,1.7451,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40659,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.2,1.33829,gainer
-solv-btc,solvbtc,Solv Protocol BTC,108886.0,0.97051,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108139.0,0.91528,gainer
-keeta,kta,Keeta,0.79076,-13.08075,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.247171,-12.07149,loser
-bonk,bonk,Bonk,2.041e-05,-9.93706,loser
-flow,flow,Flow,0.401054,-9.88291,loser
-pyth-network,pyth,Pyth Network,0.164282,-9.81872,loser
-fartcoin,fartcoin,Fartcoin,0.721593,-8.23075,loser
-conflux-token,cfx,Conflux,0.177231,-7.76766,loser
-mog-coin,mog,Mog Coin,7.94731e-07,-7.43648,loser
-virtual-protocol,virtual,Virtuals Protocol,1.051,-7.26542,loser
-wormhole,w,Wormhole,0.079307,-6.71998,loser
+memecore,m,MemeCore,0.845163,25.87972,gainer
+four,form,Four,3.14,3.28206,gainer
+bitget-token,bgb,Bitget Token,4.66,2.34663,gainer
+sky,sky,Sky,0.065814,1.96261,gainer
+kucoin-shares,kcs,KuCoin,14.75,1.69577,gainer
+syrup,syrup,Maple Finance,0.462905,1.56014,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.39793,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108227.0,1.00157,gainer
+tether-gold,xaut,Tether Gold,3492.35,0.75008,gainer
+pax-gold,paxg,PAX Gold,3492.5,0.73249,gainer
+keeta,kta,Keeta,0.784599,-13.88228,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.246357,-12.36112,loser
+pyth-network,pyth,Pyth Network,0.16379,-10.72686,loser
+bonk,bonk,Bonk,2.033e-05,-10.25418,loser
+flow,flow,Flow,0.399287,-10.18899,loser
+mog-coin,mog,Mog Coin,7.85833e-07,-8.77217,loser
+fartcoin,fartcoin,Fartcoin,0.7199,-8.66728,loser
+virtual-protocol,virtual,Virtuals Protocol,1.046,-7.70807,loser
+conflux-token,cfx,Conflux,0.177113,-7.6645,loser
+wormhole,w,Wormhole,0.078882,-7.31933,loser
