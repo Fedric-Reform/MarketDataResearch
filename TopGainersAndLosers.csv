@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.802637,18.38046,gainer
-bitget-token,bgb,Bitget Token,4.68,2.91949,gainer
-syrup,syrup,Maple Finance,0.462929,2.02266,gainer
-kucoin-shares,kcs,KuCoin,14.77,1.91308,gainer
-evervalue-coin,eva,EverValue Coin,22.15,1.45248,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40921,gainer
-four,form,Four,3.1,1.4082,gainer
-sky,sky,Sky,0.065285,1.1565,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109184.0,1.1453,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108227.0,1.08197,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.238723,-15.07652,loser
-keeta,kta,Keeta,0.800153,-12.08654,loser
-flow,flow,Flow,0.401335,-10.87428,loser
-pyth-network,pyth,Pyth Network,0.165077,-9.69685,loser
-bonk,bonk,Bonk,2.048e-05,-9.43651,loser
-fartcoin,fartcoin,Fartcoin,0.719484,-8.30876,loser
-mog-coin,mog,Mog Coin,7.98379e-07,-7.52021,loser
-conflux-token,cfx,Conflux,0.178714,-7.51926,loser
-wormhole,w,Wormhole,0.079252,-6.9638,loser
-virtual-protocol,virtual,Virtuals Protocol,1.055,-6.88336,loser
+memecore,m,MemeCore,0.820391,20.2303,gainer
+bitget-token,bgb,Bitget Token,4.67,2.61448,gainer
+sky,sky,Sky,0.065452,2.06785,gainer
+syrup,syrup,Maple Finance,0.462379,1.81099,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.7891,gainer
+four,form,Four,3.09,1.50167,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.4028,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108232.0,1.00536,gainer
+evervalue-coin,eva,EverValue Coin,22.2,0.99479,gainer
+tether-gold,xaut,Tether Gold,3491.67,0.75431,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.238646,-15.10391,loser
+keeta,kta,Keeta,0.805052,-11.46715,loser
+flow,flow,Flow,0.402025,-10.12243,loser
+bonk,bonk,Bonk,2.051e-05,-9.87712,loser
+pyth-network,pyth,Pyth Network,0.165907,-9.45043,loser
+fartcoin,fartcoin,Fartcoin,0.722858,-8.03632,loser
+conflux-token,cfx,Conflux,0.178705,-7.37506,loser
+mog-coin,mog,Mog Coin,8.0099e-07,-7.16268,loser
+wormhole,w,Wormhole,0.079449,-6.56186,loser
+aerodrome-finance,aero,Aerodrome Finance,1.089,-6.41374,loser
