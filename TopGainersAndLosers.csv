@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.807371,20.48751,gainer
-four,form,Four,3.18,5.70397,gainer
-bitget-token,bgb,Bitget Token,4.69,2.93018,gainer
-sky,sky,Sky,0.066139,1.82839,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.76321,gainer
-syrup,syrup,Maple Finance,0.464107,1.61296,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.19,1.07046,gainer
-filecoin,fil,Filecoin,2.33,1.00203,gainer
-evervalue-coin,eva,EverValue Coin,22.26,0.81559,gainer
-bitcoin-cash,bch,Bitcoin Cash,547.52,0.7327,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.216239,-23.07516,loser
-keeta,kta,Keeta,0.802165,-12.7441,loser
-pyth-network,pyth,Pyth Network,0.162548,-11.65093,loser
-bonk,bonk,Bonk,2.064e-05,-9.70856,loser
-flow,flow,Flow,0.399934,-8.45216,loser
-crypto-com-chain,cro,Cronos,0.26817,-8.02759,loser
-fartcoin,fartcoin,Fartcoin,0.729276,-7.91229,loser
-loaded-lions,lion,Loaded Lions,0.02061373,-7.70565,loser
-pi-network,pi,Pi Network,0.341461,-7.3541,loser
-conflux-token,cfx,Conflux,0.177886,-7.23047,loser
+memecore,m,MemeCore,0.808971,20.72631,gainer
+four,form,Four,3.18,5.8112,gainer
+bitget-token,bgb,Bitget Token,4.69,2.93365,gainer
+sky,sky,Sky,0.066131,1.81527,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.80096,gainer
+syrup,syrup,Maple Finance,0.464358,1.69454,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.19,1.17086,gainer
+filecoin,fil,Filecoin,2.33,1.02037,gainer
+evervalue-coin,eva,EverValue Coin,22.24,0.73852,gainer
+bitcoin-cash,bch,Bitcoin Cash,547.33,0.69909,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.215135,-23.46772,loser
+keeta,kta,Keeta,0.801759,-12.59299,loser
+pyth-network,pyth,Pyth Network,0.162616,-11.62918,loser
+bonk,bonk,Bonk,2.064e-05,-9.7236,loser
+flow,flow,Flow,0.399802,-8.53452,loser
+crypto-com-chain,cro,Cronos,0.268121,-8.0444,loser
+fartcoin,fartcoin,Fartcoin,0.729199,-7.92202,loser
+loaded-lions,lion,Loaded Lions,0.02065784,-7.50815,loser
+pi-network,pi,Pi Network,0.341348,-7.3847,loser
+conflux-token,cfx,Conflux,0.177834,-7.25745,loser
