@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.871118,29.42008,gainer
-four,form,Four,3.15,3.95271,gainer
-bitget-token,bgb,Bitget Token,4.67,2.47876,gainer
-sky,sky,Sky,0.065939,2.0511,gainer
-kucoin-shares,kcs,KuCoin,14.77,1.82721,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.44126,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107840.0,0.94931,gainer
-solv-btc,solvbtc,Solv Protocol BTC,108826.0,0.83271,gainer
-pax-gold,paxg,PAX Gold,3491.27,0.69877,gainer
-syrup,syrup,Maple Finance,0.458594,0.69813,gainer
-keeta,kta,Keeta,0.75281,-17.45562,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.247595,-11.92049,loser
-pyth-network,pyth,Pyth Network,0.163878,-11.42862,loser
-bonk,bonk,Bonk,2.05e-05,-9.68994,loser
-mog-coin,mog,Mog Coin,7.79047e-07,-9.60635,loser
-flow,flow,Flow,0.401302,-9.2942,loser
-loaded-lions,lion,Loaded Lions,0.02056316,-8.36316,loser
-conflux-token,cfx,Conflux,0.176956,-8.23516,loser
-crypto-com-chain,cro,Cronos,0.26904,-7.53286,loser
-fartcoin,fartcoin,Fartcoin,0.729375,-7.49759,loser
+memecore,m,MemeCore,0.840514,23.99859,gainer
+four,form,Four,3.15,4.35597,gainer
+bitget-token,bgb,Bitget Token,4.68,2.64298,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.8575,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.4352,gainer
+sky,sky,Sky,0.065708,1.34601,gainer
+syrup,syrup,Maple Finance,0.461744,1.22811,gainer
+evervalue-coin,eva,EverValue Coin,22.28,1.20557,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107948.0,1.02687,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109044.0,0.99594,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.230503,-18.00078,loser
+keeta,kta,Keeta,0.788657,-14.00472,loser
+pyth-network,pyth,Pyth Network,0.162882,-12.03067,loser
+bonk,bonk,Bonk,2.069e-05,-10.14898,loser
+crypto-com-chain,cro,Cronos,0.268386,-8.62882,loser
+flow,flow,Flow,0.400872,-8.55251,loser
+fartcoin,fartcoin,Fartcoin,0.72936,-8.46394,loser
+loaded-lions,lion,Loaded Lions,0.02072139,-8.16932,loser
+mog-coin,mog,Mog Coin,8.03188e-07,-7.8721,loser
+conflux-token,cfx,Conflux,0.177201,-7.86006,loser
