@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.284263,9.32412,gainer
-memecore,m,MemeCore,0.656557,8.98835,gainer
-evervalue-coin,eva,EverValue Coin,22.19,6.27206,gainer
-flow,flow,Flow,0.434153,5.8664,gainer
-build-on,b,BUILDon,0.718858,4.90934,gainer
-kucoin-shares,kcs,KuCoin,14.64,3.7838,gainer
-wemix-token,wemix,WEMIX,0.761042,2.85516,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.22,2.61395,gainer
-just,jst,JUST,0.03689473,1.65581,gainer
-monero,xmr,Monero,263.11,1.11309,gainer
-four,form,Four,3.0,-20.60349,loser
-pyth-network,pyth,Pyth Network,0.176579,-9.11841,loser
-hash-2,hash,Provenance Blockchain,0.02580287,-8.48909,loser
-okb,okb,OKB,167.13,-8.4365,loser
-axie-infinity,axs,Axie Infinity,2.46,-7.86158,loser
-crypto-com-chain,cro,Cronos,0.279402,-7.42679,loser
-pi-network,pi,Pi Network,0.353984,-7.26325,loser
-conflux-token,cfx,Conflux,0.188234,-6.76781,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02843448,-6.12315,loser
-loaded-lions,lion,Loaded Lions,0.02162344,-6.10144,loser
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.284071,10.29201,gainer
+memecore,m,MemeCore,0.653581,7.9431,gainer
+evervalue-coin,eva,EverValue Coin,22.13,6.12214,gainer
+flow,flow,Flow,0.434441,5.75035,gainer
+build-on,b,BUILDon,0.7169,4.11387,gainer
+kucoin-shares,kcs,KuCoin,14.61,3.62973,gainer
+wemix-token,wemix,WEMIX,0.761014,2.7932,gainer
+monero,xmr,Monero,263.6,1.25765,gainer
+just,jst,JUST,0.03671247,1.08689,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.57958,gainer
+four,form,Four,2.98,-21.176,loser
+okb,okb,OKB,166.41,-9.14021,loser
+pyth-network,pyth,Pyth Network,0.176241,-8.63355,loser
+axie-infinity,axs,Axie Infinity,2.45,-8.39772,loser
+pi-network,pi,Pi Network,0.352647,-7.71591,loser
+crypto-com-chain,cro,Cronos,0.278536,-7.54571,loser
+conflux-token,cfx,Conflux,0.187183,-7.35501,loser
+pudgy-penguins,pengu,Pudgy Penguins,0.02822156,-6.99441,loser
+loaded-lions,lion,Loaded Lions,0.02157981,-6.56762,loser
+berachain-bera,bera,Berachain,2.51,-6.53145,loser
