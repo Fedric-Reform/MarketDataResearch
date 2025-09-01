@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.794244,20.94266,gainer
-four,form,Four,3.18,4.8841,gainer
-bitget-token,bgb,Bitget Token,4.69,2.9069,gainer
-kucoin-shares,kcs,KuCoin,14.75,1.7288,gainer
-sky,sky,Sky,0.066099,1.65966,gainer
-syrup,syrup,Maple Finance,0.464207,1.5619,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107830.0,0.7862,gainer
-tether-gold,xaut,Tether Gold,3490.34,0.729,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.085,0.69547,gainer
-pax-gold,paxg,PAX Gold,3490.01,0.62958,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.213358,-24.10006,loser
-keeta,kta,Keeta,0.790188,-13.71047,loser
-pyth-network,pyth,Pyth Network,0.162883,-11.75382,loser
-bonk,bonk,Bonk,2.061e-05,-9.29235,loser
-crypto-com-chain,cro,Cronos,0.269785,-8.361,loser
-fartcoin,fartcoin,Fartcoin,0.724986,-8.34342,loser
-flow,flow,Flow,0.398669,-8.31992,loser
-loaded-lions,lion,Loaded Lions,0.02080107,-7.87398,loser
-raydium,ray,Raydium,3.32,-7.82646,loser
-deep,deep,DeepBook,0.126563,-7.76889,loser
+memecore,m,MemeCore,0.792257,20.81439,gainer
+four,form,Four,3.15,3.94407,gainer
+bitget-token,bgb,Bitget Token,4.67,2.3796,gainer
+kucoin-shares,kcs,KuCoin,14.74,1.69727,gainer
+sky,sky,Sky,0.06575,1.13886,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.77753,gainer
+syrup,syrup,Maple Finance,0.459909,0.75373,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107744.0,0.70796,gainer
+pax-gold,paxg,PAX Gold,3490.4,0.66899,gainer
+saros-finance,saros,Saros,0.350737,0.2669,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.216664,-22.92388,loser
+keeta,kta,Keeta,0.7809,-14.51548,loser
+pyth-network,pyth,Pyth Network,0.161507,-12.45115,loser
+bonk,bonk,Bonk,2.033e-05,-10.69882,loser
+fartcoin,fartcoin,Fartcoin,0.71415,-9.48127,loser
+crypto-com-chain,cro,Cronos,0.267302,-9.13916,loser
+flow,flow,Flow,0.395403,-9.06615,loser
+deep,deep,DeepBook,0.12483,-9.05296,loser
+raydium,ray,Raydium,3.28,-8.4858,loser
+loaded-lions,lion,Loaded Lions,0.02058057,-8.46163,loser
