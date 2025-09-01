@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.819521,20.46809,gainer
-four,form,Four,3.15,3.93925,gainer
-bitget-token,bgb,Bitget Token,4.69,2.85998,gainer
-sky,sky,Sky,0.066066,1.88917,gainer
-kucoin-shares,kcs,KuCoin,14.75,1.873,gainer
-syrup,syrup,Maple Finance,0.462613,1.41839,gainer
-evervalue-coin,eva,EverValue Coin,22.3,1.04661,gainer
-filecoin,fil,Filecoin,2.32,0.85707,gainer
-pax-gold,paxg,PAX Gold,3489.27,0.72505,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.70104,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.217609,-22.58793,loser
-keeta,kta,Keeta,0.802437,-12.66526,loser
-pyth-network,pyth,Pyth Network,0.162216,-11.70885,loser
-bonk,bonk,Bonk,2.059e-05,-9.8822,loser
-loaded-lions,lion,Loaded Lions,0.02063101,-8.31299,loser
-flow,flow,Flow,0.400284,-8.23706,loser
-fartcoin,fartcoin,Fartcoin,0.727235,-8.02868,loser
-crypto-com-chain,cro,Cronos,0.268211,-7.98841,loser
-conflux-token,cfx,Conflux,0.177892,-7.32391,loser
-raydium,ray,Raydium,3.31,-7.32062,loser
+memecore,m,MemeCore,0.810364,20.6368,gainer
+four,form,Four,3.17,5.15191,gainer
+bitget-token,bgb,Bitget Token,4.69,2.86171,gainer
+sky,sky,Sky,0.066079,1.83651,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.79435,gainer
+syrup,syrup,Maple Finance,0.46408,1.53293,gainer
+filecoin,fil,Filecoin,2.33,1.02991,gainer
+bitcoin-cash,bch,Bitcoin Cash,547.55,0.75078,gainer
+evervalue-coin,eva,EverValue Coin,22.24,0.73615,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.7271,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.218339,-22.32807,loser
+keeta,kta,Keeta,0.803151,-12.56647,loser
+pyth-network,pyth,Pyth Network,0.162091,-11.77997,loser
+bonk,bonk,Bonk,2.064e-05,-9.51851,loser
+flow,flow,Flow,0.399768,-8.35549,loser
+crypto-com-chain,cro,Cronos,0.26806,-8.12761,loser
+fartcoin,fartcoin,Fartcoin,0.727779,-8.00456,loser
+loaded-lions,lion,Loaded Lions,0.02063405,-7.74943,loser
+pi-network,pi,Pi Network,0.341809,-7.33255,loser
+raydium,ray,Raydium,3.32,-7.0888,loser
