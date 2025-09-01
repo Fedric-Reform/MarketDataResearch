@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.840586,24.84574,gainer
-four,form,Four,3.15,3.19198,gainer
-bitget-token,bgb,Bitget Token,4.66,2.39796,gainer
-sky,sky,Sky,0.065744,1.81314,gainer
-kucoin-shares,kcs,KuCoin,14.75,1.73822,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.39793,gainer
-syrup,syrup,Maple Finance,0.461227,1.19193,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108213.0,0.99387,gainer
-solv-btc,solvbtc,Solv Protocol BTC,108738.0,0.8627,gainer
-evervalue-coin,eva,EverValue Coin,22.11,0.84454,gainer
-keeta,kta,Keeta,0.781972,-14.13742,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.247867,-11.82395,loser
-pyth-network,pyth,Pyth Network,0.163581,-10.84035,loser
-bonk,bonk,Bonk,2.033e-05,-10.23579,loser
-flow,flow,Flow,0.399834,-10.06606,loser
-mog-coin,mog,Mog Coin,7.86006e-07,-8.75203,loser
-fartcoin,fartcoin,Fartcoin,0.720201,-8.50287,loser
-virtual-protocol,virtual,Virtuals Protocol,1.046,-7.76739,loser
-conflux-token,cfx,Conflux,0.176923,-7.76358,loser
-wormhole,w,Wormhole,0.078812,-7.65088,loser
+memecore,m,MemeCore,0.866364,28.23042,gainer
+four,form,Four,3.14,3.24338,gainer
+bitget-token,bgb,Bitget Token,4.67,2.5505,gainer
+sky,sky,Sky,0.066049,2.32789,gainer
+kucoin-shares,kcs,KuCoin,14.75,1.76437,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.41526,gainer
+evervalue-coin,eva,EverValue Coin,22.1,0.93772,gainer
+syrup,syrup,Maple Finance,0.459604,0.84194,gainer
+pax-gold,paxg,PAX Gold,3494.12,0.82735,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107666.0,0.78727,gainer
+keeta,kta,Keeta,0.784647,-13.9937,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.247762,-11.86108,loser
+pyth-network,pyth,Pyth Network,0.163663,-10.83052,loser
+flow,flow,Flow,0.400555,-10.08516,loser
+bonk,bonk,Bonk,2.043e-05,-9.75336,loser
+mog-coin,mog,Mog Coin,7.80431e-07,-9.3664,loser
+fartcoin,fartcoin,Fartcoin,0.722827,-8.17271,loser
+conflux-token,cfx,Conflux,0.177076,-7.89974,loser
+wormhole,w,Wormhole,0.078915,-7.52621,loser
+loaded-lions,lion,Loaded Lions,0.020711,-7.41279,loser
