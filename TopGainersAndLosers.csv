@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.790166,17.85724,gainer
-four,form,Four,3.19,5.32662,gainer
-bitget-token,bgb,Bitget Token,4.64,1.81884,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.16,1.5823,gainer
-sky,sky,Sky,0.065539,0.98967,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108024.0,0.84849,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.74481,gainer
-tether-gold,xaut,Tether Gold,3489.72,0.68263,gainer
-kucoin-shares,kcs,KuCoin,14.62,0.65967,gainer
-pax-gold,paxg,PAX Gold,3490.31,0.6345,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.221647,-21.1513,loser
-keeta,kta,Keeta,0.739056,-19.22877,loser
-pyth-network,pyth,Pyth Network,0.161295,-12.88277,loser
-bonk,bonk,Bonk,2.016e-05,-11.36037,loser
-fartcoin,fartcoin,Fartcoin,0.702852,-10.7801,loser
-hash-2,hash,Provenance Blockchain,0.02468771,-10.29098,loser
-deep,deep,DeepBook,0.123626,-9.79847,loser
-based-brett,brett,Brett,0.04333564,-9.50905,loser
-crypto-com-chain,cro,Cronos,0.265566,-9.26465,loser
-flow,flow,Flow,0.3949,-9.24766,loser
+memecore,m,MemeCore,0.791739,18.61338,gainer
+four,form,Four,3.19,4.28724,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.22,2.57744,gainer
+bitget-token,bgb,Bitget Token,4.63,1.52821,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.085,0.73544,gainer
+pax-gold,paxg,PAX Gold,3490.51,0.68341,gainer
+sky,sky,Sky,0.065371,0.65911,gainer
+saros-finance,saros,Saros,0.351485,0.46724,gainer
+tether-gold,xaut,Tether Gold,3473.95,0.23038,gainer
+true-usd,tusd,TrueUSD,0.998462,0.22027,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.225214,-19.88224,loser
+pyth-network,pyth,Pyth Network,0.161457,-12.66079,loser
+bonk,bonk,Bonk,1.996e-05,-12.28359,loser
+fartcoin,fartcoin,Fartcoin,0.692627,-12.23046,loser
+spx6900,spx,SPX6900,1.045,-11.13041,loser
+loaded-lions,lion,Loaded Lions,0.02024935,-10.37134,loser
+crypto-com-chain,cro,Cronos,0.26225,-10.32689,loser
+deep,deep,DeepBook,0.123356,-10.25998,loser
+virtual-protocol,virtual,Virtuals Protocol,1.02,-10.09099,loser
+based-brett,brett,Brett,0.04316525,-10.07393,loser
