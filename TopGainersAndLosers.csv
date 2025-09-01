@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.657419,10.44498,gainer
-evervalue-coin,eva,EverValue Coin,22.14,6.01918,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.279921,5.46537,gainer
-build-on,b,BUILDon,0.719235,5.16057,gainer
-kucoin-shares,kcs,KuCoin,14.62,3.57597,gainer
-monero,xmr,Monero,265.67,2.04134,gainer
-hash-2,hash,Provenance Blockchain,0.02642393,1.931,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.091,1.11499,gainer
-pax-gold,paxg,PAX Gold,3492.45,0.9173,gainer
-official-trump,trump,Official Trump,8.48,0.67583,gainer
-four,form,Four,3.01,-20.49146,loser
-pi-network,pi,Pi Network,0.349997,-10.0252,loser
-axie-infinity,axs,Axie Infinity,2.45,-10.00418,loser
-berachain-bera,bera,Berachain,2.46,-8.52817,loser
-based-brett,brett,Brett,0.04559308,-7.26648,loser
-conflux-token,cfx,Conflux,0.185699,-7.23723,loser
-ethereum-name-service,ens,Ethereum Name Service,21.97,-7.07479,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02806667,-7.04126,loser
-okb,okb,OKB,167.06,-7.01812,loser
-pyth-network,pyth,Pyth Network,0.176783,-6.94795,loser
+memecore,m,MemeCore,0.651602,9.91156,gainer
+evervalue-coin,eva,EverValue Coin,22.09,5.77505,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.279476,5.29764,gainer
+build-on,b,BUILDon,0.718659,5.07647,gainer
+kucoin-shares,kcs,KuCoin,14.62,3.56392,gainer
+monero,xmr,Monero,265.71,2.05356,gainer
+hash-2,hash,Provenance Blockchain,0.02642388,1.93083,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.091,1.4312,gainer
+pax-gold,paxg,PAX Gold,3492.21,0.90959,gainer
+official-trump,trump,Official Trump,8.48,0.60227,gainer
+four,form,Four,3.01,-20.72219,loser
+pi-network,pi,Pi Network,0.350112,-9.99553,loser
+axie-infinity,axs,Axie Infinity,2.44,-9.37726,loser
+berachain-bera,bera,Berachain,2.46,-8.45199,loser
+conflux-token,cfx,Conflux,0.185401,-7.38573,loser
+based-brett,brett,Brett,0.045553,-7.37172,loser
+ethereum-name-service,ens,Ethereum Name Service,21.96,-7.11285,loser
+pyth-network,pyth,Pyth Network,0.176525,-7.08384,loser
+virtual-protocol,virtual,Virtuals Protocol,1.084,-7.03636,loser
+okb,okb,OKB,167.03,-7.03337,loser
