@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.779795,13.39094,gainer
-four,form,Four,3.16,5.96015,gainer
-evervalue-coin,eva,EverValue Coin,22.22,5.5376,gainer
-syrup,syrup,Maple Finance,0.472746,4.49363,gainer
-pump-fun,pump,Pump.fun,0.00341699,2.40682,gainer
-bitget-token,bgb,Bitget Token,4.65,2.12553,gainer
-kucoin-shares,kcs,KuCoin,14.74,2.03139,gainer
-sky,sky,Sky,0.065376,1.6436,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40066,gainer
-filecoin,fil,Filecoin,2.34,1.36821,gainer
-keeta,kta,Keeta,0.813533,-10.46711,loser
-pyth-network,pyth,Pyth Network,0.16567,-8.92091,loser
-bonk,bonk,Bonk,2.071e-05,-8.5088,loser
-flow,flow,Flow,0.406245,-8.4313,loser
-fartcoin,fartcoin,Fartcoin,0.728238,-7.15581,loser
-conflux-token,cfx,Conflux,0.178177,-7.01894,loser
-mog-coin,mog,Mog Coin,8.04831e-07,-6.85797,loser
-virtual-protocol,virtual,Virtuals Protocol,1.06,-6.62848,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.264488,-5.91096,loser
-based-brett,brett,Brett,0.04517195,-5.83125,loser
+memecore,m,MemeCore,0.791126,15.03858,gainer
+four,form,Four,3.17,6.13903,gainer
+evervalue-coin,eva,EverValue Coin,22.21,5.35139,gainer
+syrup,syrup,Maple Finance,0.472297,4.36054,gainer
+pump-fun,pump,Pump.fun,0.00342061,2.51546,gainer
+bitget-token,bgb,Bitget Token,4.65,2.06077,gainer
+kucoin-shares,kcs,KuCoin,14.73,1.99381,gainer
+sky,sky,Sky,0.065407,1.90699,gainer
+filecoin,fil,Filecoin,2.34,1.43956,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.41775,gainer
+keeta,kta,Keeta,0.809715,-11.01783,loser
+pyth-network,pyth,Pyth Network,0.166117,-8.42175,loser
+bonk,bonk,Bonk,2.074e-05,-8.26365,loser
+flow,flow,Flow,0.406784,-8.09227,loser
+mog-coin,mog,Mog Coin,8.05019e-07,-7.11449,loser
+conflux-token,cfx,Conflux,0.178277,-6.9667,loser
+fartcoin,fartcoin,Fartcoin,0.730397,-6.79771,loser
+virtual-protocol,virtual,Virtuals Protocol,1.061,-6.49866,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.264934,-5.75227,loser
+aerodrome-finance,aero,Aerodrome Finance,1.096,-5.70537,loser
