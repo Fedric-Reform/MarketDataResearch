@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.807436,20.20204,gainer
-four,form,Four,3.14,3.85084,gainer
-bitget-token,bgb,Bitget Token,4.66,2.44314,gainer
-syrup,syrup,Maple Finance,0.465219,2.44104,gainer
-kucoin-shares,kcs,KuCoin,14.77,1.82536,gainer
+memecore,m,MemeCore,0.814656,22.6284,gainer
+four,form,Four,3.14,3.05542,gainer
+bitget-token,bgb,Bitget Token,4.67,2.47901,gainer
+syrup,syrup,Maple Finance,0.464127,2.20073,gainer
+sky,sky,Sky,0.065724,2.03622,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.78162,gainer
 eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40659,gainer
-evervalue-coin,eva,EverValue Coin,22.21,1.07119,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109135.0,0.99113,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108210.0,0.97709,gainer
-sky,sky,Sky,0.064932,0.81083,gainer
-keeta,kta,Keeta,0.80287,-11.75507,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.248582,-11.56958,loser
-flow,flow,Flow,0.402104,-9.83839,loser
-bonk,bonk,Bonk,2.052e-05,-9.68816,loser
-pyth-network,pyth,Pyth Network,0.165588,-9.38863,loser
-fartcoin,fartcoin,Fartcoin,0.724664,-7.83241,loser
-conflux-token,cfx,Conflux,0.178706,-7.25589,loser
-virtual-protocol,virtual,Virtuals Protocol,1.056,-6.81793,loser
-mog-coin,mog,Mog Coin,8.03918e-07,-6.57002,loser
-wormhole,w,Wormhole,0.079409,-6.53775,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.21,0.98425,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108138.0,0.90921,gainer
+evervalue-coin,eva,EverValue Coin,22.05,0.69297,gainer
+keeta,kta,Keeta,0.79692,-12.24024,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.248407,-11.63173,loser
+bonk,bonk,Bonk,2.049e-05,-9.84718,loser
+flow,flow,Flow,0.402817,-9.67835,loser
+pyth-network,pyth,Pyth Network,0.16543,-9.47502,loser
+fartcoin,fartcoin,Fartcoin,0.723219,-7.99232,loser
+conflux-token,cfx,Conflux,0.178098,-7.50961,loser
+mog-coin,mog,Mog Coin,7.97854e-07,-7.35299,loser
+virtual-protocol,virtual,Virtuals Protocol,1.054,-7.01157,loser
+wormhole,w,Wormhole,0.079377,-6.55289,loser
