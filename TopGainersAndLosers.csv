@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.651161,9.56301,gainer
-evervalue-coin,eva,EverValue Coin,22.21,6.47444,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.278691,6.34185,gainer
-hash-2,hash,Provenance Blockchain,0.02645757,4.79912,gainer
-build-on,b,BUILDon,0.722657,4.36055,gainer
-kucoin-shares,kcs,KuCoin,14.61,3.68979,gainer
-flow,flow,Flow,0.432227,2.14699,gainer
-monero,xmr,Monero,264.39,1.88625,gainer
-just,jst,JUST,0.03683592,1.40283,gainer
-tether-gold,xaut,Tether Gold,3488.13,1.20005,gainer
-four,form,Four,3.0,-20.9798,loser
-axie-infinity,axs,Axie Infinity,2.44,-11.52118,loser
-pi-network,pi,Pi Network,0.352594,-9.77859,loser
-pyth-network,pyth,Pyth Network,0.176065,-9.21103,loser
-okb,okb,OKB,166.97,-8.29695,loser
-conflux-token,cfx,Conflux,0.185722,-7.97908,loser
-fartcoin,fartcoin,Fartcoin,0.737715,-7.43868,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02802111,-7.10104,loser
-based-brett,brett,Brett,0.04556704,-6.98157,loser
-wormhole,w,Wormhole,0.080994,-6.79936,loser
+memecore,m,MemeCore,0.651244,9.90585,gainer
+evervalue-coin,eva,EverValue Coin,22.26,6.66138,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.27776,5.98666,gainer
+build-on,b,BUILDon,0.721486,4.20064,gainer
+kucoin-shares,kcs,KuCoin,14.61,3.56644,gainer
+hash-2,hash,Provenance Blockchain,0.02645757,2.36581,gainer
+monero,xmr,Monero,264.04,1.45055,gainer
+flow,flow,Flow,0.4321,1.23251,gainer
+just,jst,JUST,0.03673443,1.09429,gainer
+pax-gold,paxg,PAX Gold,3492.8,0.89008,gainer
+four,form,Four,3.0,-21.21201,loser
+axie-infinity,axs,Axie Infinity,2.44,-11.58245,loser
+pi-network,pi,Pi Network,0.351918,-9.95167,loser
+pyth-network,pyth,Pyth Network,0.175875,-8.91903,loser
+okb,okb,OKB,167.69,-8.22563,loser
+conflux-token,cfx,Conflux,0.185521,-7.83927,loser
+fartcoin,fartcoin,Fartcoin,0.735233,-7.65511,loser
+based-brett,brett,Brett,0.0453687,-7.40437,loser
+agentfun-ai,agentfun,AgentFun.AI,3.08,-7.33538,loser
+crypto-com-chain,cro,Cronos,0.279311,-7.11326,loser
