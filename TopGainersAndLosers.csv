@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.856592,26.00397,gainer
-four,form,Four,3.19,4.01439,gainer
-bitget-token,bgb,Bitget Token,4.63,1.73397,gainer
-saros-finance,saros,Saros,0.351715,1.13702,gainer
-pax-gold,paxg,PAX Gold,3494.14,0.95138,gainer
-tether-gold,xaut,Tether Gold,3492.28,0.9013,gainer
-sky,sky,Sky,0.065072,0.83312,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.004,0.59938,gainer
-usdb,usdb,USDB,1.003,0.43058,gainer
-kucoin-shares,kcs,KuCoin,14.57,0.37764,gainer
-keeta,kta,Keeta,0.746344,-17.90855,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.23336,-16.98454,loser
-pyth-network,pyth,Pyth Network,0.16114,-13.67145,loser
-bonk,bonk,Bonk,2.003e-05,-11.49785,loser
-crypto-com-chain,cro,Cronos,0.261753,-11.00663,loser
-fartcoin,fartcoin,Fartcoin,0.696977,-10.72214,loser
-loaded-lions,lion,Loaded Lions,0.02021912,-10.42013,loser
-virtual-protocol,virtual,Virtuals Protocol,1.016,-9.94359,loser
-axie-infinity,axs,Axie Infinity,2.31,-9.17445,loser
-conflux-token,cfx,Conflux,0.174177,-8.90675,loser
+memecore,m,MemeCore,0.855171,26.12347,gainer
+four,form,Four,3.19,4.01839,gainer
+bitget-token,bgb,Bitget Token,4.63,1.79893,gainer
+saros-finance,saros,Saros,0.352056,1.23491,gainer
+pax-gold,paxg,PAX Gold,3493.72,0.92085,gainer
+tether-gold,xaut,Tether Gold,3491.3,0.89085,gainer
+sky,sky,Sky,0.06504,0.78157,gainer
+usdb,usdb,USDB,1.003,0.40282,gainer
+kucoin-shares,kcs,KuCoin,14.57,0.38375,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107560.0,0.37576,gainer
+keeta,kta,Keeta,0.747924,-17.76523,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.23386,-16.8067,loser
+pyth-network,pyth,Pyth Network,0.161096,-13.50247,loser
+bonk,bonk,Bonk,2.005e-05,-11.43952,loser
+virtual-protocol,virtual,Virtuals Protocol,1.016,-10.99055,loser
+crypto-com-chain,cro,Cronos,0.2632,-10.55981,loser
+fartcoin,fartcoin,Fartcoin,0.69911,-10.44891,loser
+loaded-lions,lion,Loaded Lions,0.02031589,-9.9914,loser
+axie-infinity,axs,Axie Infinity,2.31,-9.07488,loser
+conflux-token,cfx,Conflux,0.174161,-8.91517,loser
