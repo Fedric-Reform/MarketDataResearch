@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.791317,20.61347,gainer
-four,form,Four,3.15,3.92683,gainer
-bitget-token,bgb,Bitget Token,4.67,2.36104,gainer
-kucoin-shares,kcs,KuCoin,14.72,1.51378,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.79541,gainer
-tether-gold,xaut,Tether Gold,3491.38,0.76212,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107734.0,0.69871,gainer
-pax-gold,paxg,PAX Gold,3490.35,0.66732,gainer
-sky,sky,Sky,0.065424,0.60802,gainer
-syrup,syrup,Maple Finance,0.458856,0.52305,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.217399,-22.66261,loser
-keeta,kta,Keeta,0.780583,-14.55023,loser
-pyth-network,pyth,Pyth Network,0.161332,-12.54599,loser
-bonk,bonk,Bonk,2.026e-05,-10.97649,loser
-fartcoin,fartcoin,Fartcoin,0.704991,-10.64218,loser
-deep,deep,DeepBook,0.124222,-9.38009,loser
-flow,flow,Flow,0.394393,-9.29839,loser
-crypto-com-chain,cro,Cronos,0.2669,-9.27577,loser
-based-brett,brett,Brett,0.04345112,-9.15659,loser
-raydium,ray,Raydium,3.27,-8.81347,loser
+memecore,m,MemeCore,0.790166,17.85724,gainer
+four,form,Four,3.19,5.32662,gainer
+bitget-token,bgb,Bitget Token,4.64,1.81884,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.16,1.5823,gainer
+sky,sky,Sky,0.065539,0.98967,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108024.0,0.84849,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.74481,gainer
+tether-gold,xaut,Tether Gold,3489.72,0.68263,gainer
+kucoin-shares,kcs,KuCoin,14.62,0.65967,gainer
+pax-gold,paxg,PAX Gold,3490.31,0.6345,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.221647,-21.1513,loser
+keeta,kta,Keeta,0.739056,-19.22877,loser
+pyth-network,pyth,Pyth Network,0.161295,-12.88277,loser
+bonk,bonk,Bonk,2.016e-05,-11.36037,loser
+fartcoin,fartcoin,Fartcoin,0.702852,-10.7801,loser
+hash-2,hash,Provenance Blockchain,0.02468771,-10.29098,loser
+deep,deep,DeepBook,0.123626,-9.79847,loser
+based-brett,brett,Brett,0.04333564,-9.50905,loser
+crypto-com-chain,cro,Cronos,0.265566,-9.26465,loser
+flow,flow,Flow,0.3949,-9.24766,loser
