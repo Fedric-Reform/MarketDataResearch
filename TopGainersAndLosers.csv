@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.839958,23.47225,gainer
-four,form,Four,3.14,3.79339,gainer
-bitget-token,bgb,Bitget Token,4.68,2.77503,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.93952,gainer
-sky,sky,Sky,0.066016,1.8119,gainer
-syrup,syrup,Maple Finance,0.463479,1.74293,gainer
-evervalue-coin,eva,EverValue Coin,22.27,0.91797,gainer
-filecoin,fil,Filecoin,2.32,0.87767,gainer
-pax-gold,paxg,PAX Gold,3489.48,0.73106,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.70408,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.218309,-22.33868,loser
-keeta,kta,Keeta,0.801262,-12.79324,loser
-pyth-network,pyth,Pyth Network,0.162544,-11.68751,loser
-bonk,bonk,Bonk,2.064e-05,-9.75941,loser
-crypto-com-chain,cro,Cronos,0.268234,-8.35041,loser
-loaded-lions,lion,Loaded Lions,0.02064864,-8.23467,loser
-flow,flow,Flow,0.400813,-8.11584,loser
-fartcoin,fartcoin,Fartcoin,0.729528,-7.78238,loser
-raydium,ray,Raydium,3.32,-7.44184,loser
-conflux-token,cfx,Conflux,0.177785,-7.41136,loser
+memecore,m,MemeCore,0.819521,20.46809,gainer
+four,form,Four,3.15,3.93925,gainer
+bitget-token,bgb,Bitget Token,4.69,2.85998,gainer
+sky,sky,Sky,0.066066,1.88917,gainer
+kucoin-shares,kcs,KuCoin,14.75,1.873,gainer
+syrup,syrup,Maple Finance,0.462613,1.41839,gainer
+evervalue-coin,eva,EverValue Coin,22.3,1.04661,gainer
+filecoin,fil,Filecoin,2.32,0.85707,gainer
+pax-gold,paxg,PAX Gold,3489.27,0.72505,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.70104,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.217609,-22.58793,loser
+keeta,kta,Keeta,0.802437,-12.66526,loser
+pyth-network,pyth,Pyth Network,0.162216,-11.70885,loser
+bonk,bonk,Bonk,2.059e-05,-9.8822,loser
+loaded-lions,lion,Loaded Lions,0.02063101,-8.31299,loser
+flow,flow,Flow,0.400284,-8.23706,loser
+fartcoin,fartcoin,Fartcoin,0.727235,-8.02868,loser
+crypto-com-chain,cro,Cronos,0.268211,-7.98841,loser
+conflux-token,cfx,Conflux,0.177892,-7.32391,loser
+raydium,ray,Raydium,3.31,-7.32062,loser
