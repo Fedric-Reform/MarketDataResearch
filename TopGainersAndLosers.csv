@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.820391,20.2303,gainer
-bitget-token,bgb,Bitget Token,4.67,2.61448,gainer
-sky,sky,Sky,0.065452,2.06785,gainer
-syrup,syrup,Maple Finance,0.462379,1.81099,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.7891,gainer
-four,form,Four,3.09,1.50167,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.4028,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108232.0,1.00536,gainer
-evervalue-coin,eva,EverValue Coin,22.2,0.99479,gainer
-tether-gold,xaut,Tether Gold,3491.67,0.75431,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.238646,-15.10391,loser
-keeta,kta,Keeta,0.805052,-11.46715,loser
-flow,flow,Flow,0.402025,-10.12243,loser
-bonk,bonk,Bonk,2.051e-05,-9.87712,loser
-pyth-network,pyth,Pyth Network,0.165907,-9.45043,loser
-fartcoin,fartcoin,Fartcoin,0.722858,-8.03632,loser
-conflux-token,cfx,Conflux,0.178705,-7.37506,loser
-mog-coin,mog,Mog Coin,8.0099e-07,-7.16268,loser
-wormhole,w,Wormhole,0.079449,-6.56186,loser
-aerodrome-finance,aero,Aerodrome Finance,1.089,-6.41374,loser
+memecore,m,MemeCore,0.81568,20.23433,gainer
+four,form,Four,3.12,3.45592,gainer
+bitget-token,bgb,Bitget Token,4.67,2.5095,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.94273,gainer
+syrup,syrup,Maple Finance,0.462609,1.90275,gainer
+sky,sky,Sky,0.065612,1.85515,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40826,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108209.0,0.97079,gainer
+evervalue-coin,eva,EverValue Coin,22.16,0.88498,gainer
+pax-gold,paxg,PAX Gold,3491.83,0.6644,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.244976,-12.85216,loser
+keeta,kta,Keeta,0.804187,-11.61039,loser
+bonk,bonk,Bonk,2.05e-05,-9.98275,loser
+flow,flow,Flow,0.401914,-9.95102,loser
+pyth-network,pyth,Pyth Network,0.165428,-9.71895,loser
+fartcoin,fartcoin,Fartcoin,0.722348,-8.12706,loser
+conflux-token,cfx,Conflux,0.17878,-7.29345,loser
+virtual-protocol,virtual,Virtuals Protocol,1.056,-6.8872,loser
+mog-coin,mog,Mog Coin,8.02084e-07,-6.81402,loser
+wormhole,w,Wormhole,0.079298,-6.63716,loser
