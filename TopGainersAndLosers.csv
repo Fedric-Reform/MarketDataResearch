@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.791739,18.61338,gainer
-four,form,Four,3.19,4.28724,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.22,2.57744,gainer
-bitget-token,bgb,Bitget Token,4.63,1.52821,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.085,0.73544,gainer
-pax-gold,paxg,PAX Gold,3490.51,0.68341,gainer
-sky,sky,Sky,0.065371,0.65911,gainer
-saros-finance,saros,Saros,0.351485,0.46724,gainer
-tether-gold,xaut,Tether Gold,3473.95,0.23038,gainer
-true-usd,tusd,TrueUSD,0.998462,0.22027,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.225214,-19.88224,loser
-pyth-network,pyth,Pyth Network,0.161457,-12.66079,loser
-bonk,bonk,Bonk,1.996e-05,-12.28359,loser
-fartcoin,fartcoin,Fartcoin,0.692627,-12.23046,loser
-spx6900,spx,SPX6900,1.045,-11.13041,loser
-loaded-lions,lion,Loaded Lions,0.02024935,-10.37134,loser
-crypto-com-chain,cro,Cronos,0.26225,-10.32689,loser
-deep,deep,DeepBook,0.123356,-10.25998,loser
-virtual-protocol,virtual,Virtuals Protocol,1.02,-10.09099,loser
-based-brett,brett,Brett,0.04316525,-10.07393,loser
+memecore,m,MemeCore,0.774509,14.0152,gainer
+four,form,Four,3.19,4.75492,gainer
+bitget-token,bgb,Bitget Token,4.62,1.43729,gainer
+pax-gold,paxg,PAX Gold,3492.33,0.89522,gainer
+sky,sky,Sky,0.065318,0.78549,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.085,0.7357,gainer
+tether-gold,xaut,Tether Gold,3473.46,0.51074,gainer
+saros-finance,saros,Saros,0.351153,0.35933,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.001,0.32676,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,0.19353,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.21762,-22.58382,loser
+keeta,kta,Keeta,0.742341,-18.67644,loser
+pyth-network,pyth,Pyth Network,0.160419,-13.51361,loser
+fartcoin,fartcoin,Fartcoin,0.69486,-11.80973,loser
+bonk,bonk,Bonk,2.006e-05,-11.74259,loser
+crypto-com-chain,cro,Cronos,0.260555,-11.39981,loser
+virtual-protocol,virtual,Virtuals Protocol,1.018,-11.31564,loser
+loaded-lions,lion,Loaded Lions,0.0201893,-10.75375,loser
+spx6900,spx,SPX6900,1.044,-10.45146,loser
+deep,deep,DeepBook,0.122848,-10.43926,loser
