@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.792257,20.81439,gainer
-four,form,Four,3.15,3.94407,gainer
-bitget-token,bgb,Bitget Token,4.67,2.3796,gainer
-kucoin-shares,kcs,KuCoin,14.74,1.69727,gainer
-sky,sky,Sky,0.06575,1.13886,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.77753,gainer
-syrup,syrup,Maple Finance,0.459909,0.75373,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107744.0,0.70796,gainer
-pax-gold,paxg,PAX Gold,3490.4,0.66899,gainer
-saros-finance,saros,Saros,0.350737,0.2669,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.216664,-22.92388,loser
-keeta,kta,Keeta,0.7809,-14.51548,loser
-pyth-network,pyth,Pyth Network,0.161507,-12.45115,loser
-bonk,bonk,Bonk,2.033e-05,-10.69882,loser
-fartcoin,fartcoin,Fartcoin,0.71415,-9.48127,loser
-crypto-com-chain,cro,Cronos,0.267302,-9.13916,loser
-flow,flow,Flow,0.395403,-9.06615,loser
-deep,deep,DeepBook,0.12483,-9.05296,loser
-raydium,ray,Raydium,3.28,-8.4858,loser
-loaded-lions,lion,Loaded Lions,0.02058057,-8.46163,loser
+memecore,m,MemeCore,0.791317,20.61347,gainer
+four,form,Four,3.15,3.92683,gainer
+bitget-token,bgb,Bitget Token,4.67,2.36104,gainer
+kucoin-shares,kcs,KuCoin,14.72,1.51378,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.79541,gainer
+tether-gold,xaut,Tether Gold,3491.38,0.76212,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107734.0,0.69871,gainer
+pax-gold,paxg,PAX Gold,3490.35,0.66732,gainer
+sky,sky,Sky,0.065424,0.60802,gainer
+syrup,syrup,Maple Finance,0.458856,0.52305,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.217399,-22.66261,loser
+keeta,kta,Keeta,0.780583,-14.55023,loser
+pyth-network,pyth,Pyth Network,0.161332,-12.54599,loser
+bonk,bonk,Bonk,2.026e-05,-10.97649,loser
+fartcoin,fartcoin,Fartcoin,0.704991,-10.64218,loser
+deep,deep,DeepBook,0.124222,-9.38009,loser
+flow,flow,Flow,0.394393,-9.29839,loser
+crypto-com-chain,cro,Cronos,0.2669,-9.27577,loser
+based-brett,brett,Brett,0.04345112,-9.15659,loser
+raydium,ray,Raydium,3.27,-8.81347,loser
