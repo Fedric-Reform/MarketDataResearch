@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.866364,28.23042,gainer
-four,form,Four,3.14,3.24338,gainer
-bitget-token,bgb,Bitget Token,4.67,2.5505,gainer
-sky,sky,Sky,0.066049,2.32789,gainer
-kucoin-shares,kcs,KuCoin,14.75,1.76437,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.41526,gainer
-evervalue-coin,eva,EverValue Coin,22.1,0.93772,gainer
-syrup,syrup,Maple Finance,0.459604,0.84194,gainer
-pax-gold,paxg,PAX Gold,3494.12,0.82735,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107666.0,0.78727,gainer
-keeta,kta,Keeta,0.784647,-13.9937,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.247762,-11.86108,loser
-pyth-network,pyth,Pyth Network,0.163663,-10.83052,loser
-flow,flow,Flow,0.400555,-10.08516,loser
-bonk,bonk,Bonk,2.043e-05,-9.75336,loser
-mog-coin,mog,Mog Coin,7.80431e-07,-9.3664,loser
-fartcoin,fartcoin,Fartcoin,0.722827,-8.17271,loser
-conflux-token,cfx,Conflux,0.177076,-7.89974,loser
-wormhole,w,Wormhole,0.078915,-7.52621,loser
-loaded-lions,lion,Loaded Lions,0.020711,-7.41279,loser
+memecore,m,MemeCore,0.863306,27.66193,gainer
+four,form,Four,3.16,3.73932,gainer
+bitget-token,bgb,Bitget Token,4.67,2.57066,gainer
+sky,sky,Sky,0.065954,2.01676,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.7879,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.41455,gainer
+syrup,syrup,Maple Finance,0.45967,1.01832,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107668.0,0.78672,gainer
+solv-btc,solvbtc,Solv Protocol BTC,108794.0,0.78259,gainer
+pax-gold,paxg,PAX Gold,3492.58,0.75194,gainer
+keeta,kta,Keeta,0.788745,-13.60451,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.246352,-12.36271,loser
+pyth-network,pyth,Pyth Network,0.163659,-11.07707,loser
+flow,flow,Flow,0.400784,-9.89431,loser
+bonk,bonk,Bonk,2.044e-05,-9.71409,loser
+mog-coin,mog,Mog Coin,7.77598e-07,-9.56404,loser
+conflux-token,cfx,Conflux,0.177188,-7.90119,loser
+fartcoin,fartcoin,Fartcoin,0.725569,-7.79897,loser
+crypto-com-chain,cro,Cronos,0.269306,-7.44119,loser
+virtual-protocol,virtual,Virtuals Protocol,1.049,-7.3839,loser
