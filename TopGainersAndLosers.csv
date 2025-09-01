@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.814656,22.6284,gainer
-four,form,Four,3.14,3.05542,gainer
-bitget-token,bgb,Bitget Token,4.67,2.47901,gainer
-syrup,syrup,Maple Finance,0.464127,2.20073,gainer
-sky,sky,Sky,0.065724,2.03622,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.78162,gainer
+memecore,m,MemeCore,0.814376,22.58611,gainer
+four,form,Four,3.14,3.08718,gainer
+bitget-token,bgb,Bitget Token,4.67,2.4606,gainer
+syrup,syrup,Maple Finance,0.464033,2.18,gainer
+sky,sky,Sky,0.06561,1.89019,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.8156,gainer
 eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40659,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.21,0.98425,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108138.0,0.90921,gainer
-evervalue-coin,eva,EverValue Coin,22.05,0.69297,gainer
-keeta,kta,Keeta,0.79692,-12.24024,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.248407,-11.63173,loser
-bonk,bonk,Bonk,2.049e-05,-9.84718,loser
-flow,flow,Flow,0.402817,-9.67835,loser
-pyth-network,pyth,Pyth Network,0.16543,-9.47502,loser
-fartcoin,fartcoin,Fartcoin,0.723219,-7.99232,loser
-conflux-token,cfx,Conflux,0.178098,-7.50961,loser
-mog-coin,mog,Mog Coin,7.97854e-07,-7.35299,loser
-virtual-protocol,virtual,Virtuals Protocol,1.054,-7.01157,loser
-wormhole,w,Wormhole,0.079377,-6.55289,loser
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108138.0,0.90985,gainer
+pax-gold,paxg,PAX Gold,3491.33,0.66747,gainer
+evervalue-coin,eva,EverValue Coin,22.08,0.62825,gainer
+keeta,kta,Keeta,0.798108,-12.15915,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.248243,-11.69005,loser
+bonk,bonk,Bonk,2.045e-05,-9.90173,loser
+flow,flow,Flow,0.40269,-9.69278,loser
+pyth-network,pyth,Pyth Network,0.165343,-9.52295,loser
+fartcoin,fartcoin,Fartcoin,0.723054,-8.11598,loser
+conflux-token,cfx,Conflux,0.178009,-7.5561,loser
+mog-coin,mog,Mog Coin,7.97851e-07,-7.3533,loser
+virtual-protocol,virtual,Virtuals Protocol,1.053,-7.05565,loser
+based-brett,brett,Brett,0.04473367,-6.61063,loser
