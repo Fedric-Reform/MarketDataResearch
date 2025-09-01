@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.651783,9.99672,gainer
-evervalue-coin,eva,EverValue Coin,22.23,6.44884,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.278651,6.32653,gainer
-build-on,b,BUILDon,0.719529,4.1094,gainer
-kucoin-shares,kcs,KuCoin,14.61,3.53872,gainer
-hash-2,hash,Provenance Blockchain,0.02645757,2.02638,gainer
-flow,flow,Flow,0.433309,1.51584,gainer
-monero,xmr,Monero,263.7,1.28272,gainer
-pax-gold,paxg,PAX Gold,3493.73,0.91354,gainer
-just,jst,JUST,0.036669,0.79754,gainer
-four,form,Four,3.0,-20.95306,loser
-axie-infinity,axs,Axie Infinity,2.44,-11.60041,loser
-pi-network,pi,Pi Network,0.351936,-9.83515,loser
-pyth-network,pyth,Pyth Network,0.176074,-8.81615,loser
-okb,okb,OKB,167.22,-8.00197,loser
-fartcoin,fartcoin,Fartcoin,0.736474,-7.43194,loser
-conflux-token,cfx,Conflux,0.185683,-7.31822,loser
-agentfun-ai,agentfun,AgentFun.AI,3.07,-7.30756,loser
-based-brett,brett,Brett,0.04542528,-7.28891,loser
-crypto-com-chain,cro,Cronos,0.279222,-7.1428,loser
+memecore,m,MemeCore,0.658545,9.65805,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.279456,6.37275,gainer
+evervalue-coin,eva,EverValue Coin,22.18,6.26244,gainer
+build-on,b,BUILDon,0.718556,3.70997,gainer
+kucoin-shares,kcs,KuCoin,14.6,3.4366,gainer
+hash-2,hash,Provenance Blockchain,0.02645757,2.03846,gainer
+monero,xmr,Monero,264.37,1.70431,gainer
+pax-gold,paxg,PAX Gold,3492.03,0.86899,gainer
+flow,flow,Flow,0.43008,0.51384,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.003,0.44395,gainer
+four,form,Four,3.0,-20.61666,loser
+axie-infinity,axs,Axie Infinity,2.44,-11.16322,loser
+berachain-bera,bera,Berachain,2.45,-9.44358,loser
+pi-network,pi,Pi Network,0.352671,-9.17621,loser
+okb,okb,OKB,166.64,-7.99004,loser
+pyth-network,pyth,Pyth Network,0.177056,-7.91986,loser
+conflux-token,cfx,Conflux,0.185611,-7.51279,loser
+based-brett,brett,Brett,0.04546783,-7.39802,loser
+agentfun-ai,agentfun,AgentFun.AI,3.08,-7.21118,loser
+fartcoin,fartcoin,Fartcoin,0.737095,-7.19129,loser
