@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.652569,10.31815,gainer
-evervalue-coin,eva,EverValue Coin,22.04,5.55153,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.279842,5.43578,gainer
-build-on,b,BUILDon,0.717613,4.96167,gainer
-kucoin-shares,kcs,KuCoin,14.61,3.55361,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.08,2.6201,gainer
-monero,xmr,Monero,266.01,2.32181,gainer
-hash-2,hash,Provenance Blockchain,0.02642341,1.929,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.091,1.43223,gainer
-tether-gold,xaut,Tether Gold,3482.84,1.00302,gainer
-four,form,Four,3.0,-20.8644,loser
-axie-infinity,axs,Axie Infinity,2.44,-10.45516,loser
-pi-network,pi,Pi Network,0.350834,-9.33748,loser
-berachain-bera,bera,Berachain,2.45,-8.54327,loser
-based-brett,brett,Brett,0.04548713,-7.51049,loser
-pyth-network,pyth,Pyth Network,0.176059,-7.50415,loser
-conflux-token,cfx,Conflux,0.185123,-7.48395,loser
-okb,okb,OKB,167.14,-7.26179,loser
-ethereum-name-service,ens,Ethereum Name Service,21.95,-7.17388,loser
-pudgy-penguins,pengu,Pudgy Penguins,0.02802845,-7.0631,loser
+memecore,m,MemeCore,0.650533,7.35206,gainer
+evervalue-coin,eva,EverValue Coin,22.17,6.94775,gainer
+build-on,b,BUILDon,0.715216,4.849,gainer
+kucoin-shares,kcs,KuCoin,14.64,3.7391,gainer
+official-trump,trump,Official Trump,8.64,2.79445,gainer
+monero,xmr,Monero,266.79,2.32128,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.13,2.17303,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.275499,2.13095,gainer
+tether-gold,xaut,Tether Gold,3501.97,1.67962,gainer
+story-2,ip,Story,7.92,1.39238,gainer
+four,form,Four,3.0,-20.92333,loser
+conflux-token,cfx,Conflux,0.17964,-10.2483,loser
+axie-infinity,axs,Axie Infinity,2.41,-10.0897,loser
+pi-network,pi,Pi Network,0.346991,-9.9047,loser
+based-brett,brett,Brett,0.04480949,-8.18198,loser
+wormhole,w,Wormhole,0.080599,-7.90758,loser
+pyth-network,pyth,Pyth Network,0.173613,-7.90487,loser
+virtual-protocol,virtual,Virtuals Protocol,1.068,-7.65901,loser
+ethereum-name-service,ens,Ethereum Name Service,21.75,-7.53942,loser
+aerodrome-finance,aero,Aerodrome Finance,1.11,-7.15332,loser
