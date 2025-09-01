@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.843947,23.1423,gainer
-four,form,Four,3.15,4.14983,gainer
-bitget-token,bgb,Bitget Token,4.68,2.61679,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.8285,gainer
-sky,sky,Sky,0.06606,1.74071,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.22,1.37839,gainer
-evervalue-coin,eva,EverValue Coin,22.31,1.13504,gainer
-syrup,syrup,Maple Finance,0.461255,1.08551,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.085,0.86202,gainer
-tether-gold,xaut,Tether Gold,3492.16,0.78294,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.225,-19.95838,loser
-keeta,kta,Keeta,0.798294,-13.20386,loser
-pyth-network,pyth,Pyth Network,0.162949,-11.42955,loser
-bonk,bonk,Bonk,2.071e-05,-9.59323,loser
-loaded-lions,lion,Loaded Lions,0.02057267,-8.86065,loser
-flow,flow,Flow,0.401332,-8.45388,loser
-crypto-com-chain,cro,Cronos,0.268397,-8.3625,loser
-raydium,ray,Raydium,3.32,-7.95179,loser
-conflux-token,cfx,Conflux,0.177501,-7.54809,loser
-fartcoin,fartcoin,Fartcoin,0.732766,-7.41025,loser
+memecore,m,MemeCore,0.852149,24.25341,gainer
+four,form,Four,3.15,3.99886,gainer
+bitget-token,bgb,Bitget Token,4.68,2.77716,gainer
+sky,sky,Sky,0.066119,1.9271,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.86684,gainer
+syrup,syrup,Maple Finance,0.46141,1.29686,gainer
+evervalue-coin,eva,EverValue Coin,22.29,0.9674,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.86889,gainer
+tether-gold,xaut,Tether Gold,3492.39,0.76932,gainer
+filecoin,fil,Filecoin,2.32,0.6904,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.222287,-20.92348,loser
+keeta,kta,Keeta,0.802143,-12.7713,loser
+pyth-network,pyth,Pyth Network,0.162854,-11.48115,loser
+bonk,bonk,Bonk,2.07e-05,-9.29869,loser
+loaded-lions,lion,Loaded Lions,0.02056788,-8.8407,loser
+crypto-com-chain,cro,Cronos,0.26831,-8.2903,loser
+flow,flow,Flow,0.401599,-8.06311,loser
+raydium,ray,Raydium,3.32,-7.44409,loser
+fartcoin,fartcoin,Fartcoin,0.731852,-7.41204,loser
+conflux-token,cfx,Conflux,0.177687,-7.35499,loser
