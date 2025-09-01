@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.835821,26.70037,gainer
-evervalue-coin,eva,EverValue Coin,22.16,7.16808,gainer
-syrup,syrup,Maple Finance,0.478269,5.50725,gainer
-decentraland,mana,Decentraland,0.298595,2.79647,gainer
-bitget-token,bgb,Bitget Token,4.67,2.43639,gainer
-pump-fun,pump,Pump.fun,0.00342344,2.36884,gainer
-monero,xmr,Monero,265.6,2.03863,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109606.0,1.88699,gainer
-filecoin,fil,Filecoin,2.34,1.73511,gainer
-four,form,Four,3.12,1.71121,gainer
-pyth-network,pyth,Pyth Network,0.164026,-9.94215,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.255296,-9.18101,loser
-conflux-token,cfx,Conflux,0.178103,-8.85986,loser
-keeta,kta,Keeta,0.846497,-7.26911,loser
-bonk,bonk,Bonk,2.096e-05,-6.61762,loser
-virtual-protocol,virtual,Virtuals Protocol,1.064,-5.96176,loser
-pi-network,pi,Pi Network,0.342743,-5.91642,loser
-morpho,morpho,Morpho,1.89,-5.77613,loser
-wemix-token,wemix,WEMIX,0.701872,-5.75867,loser
-mog-coin,mog,Mog Coin,8.16198e-07,-5.74918,loser
+memecore,m,MemeCore,0.849077,28.70977,gainer
+evervalue-coin,eva,EverValue Coin,22.28,7.84567,gainer
+syrup,syrup,Maple Finance,0.475771,4.95622,gainer
+decentraland,mana,Decentraland,0.29809,2.55041,gainer
+pump-fun,pump,Pump.fun,0.00342151,2.31105,gainer
+bitget-token,bgb,Bitget Token,4.65,2.09253,gainer
+monero,xmr,Monero,265.57,2.03569,gainer
+four,form,Four,3.13,1.78863,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109538.0,1.67392,gainer
+sky,sky,Sky,0.06554,1.55232,gainer
+pyth-network,pyth,Pyth Network,0.163682,-10.35612,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.254143,-9.59121,loser
+conflux-token,cfx,Conflux,0.177855,-8.98713,loser
+keeta,kta,Keeta,0.846441,-7.13315,loser
+bonk,bonk,Bonk,2.093e-05,-6.99373,loser
+virtual-protocol,virtual,Virtuals Protocol,1.062,-6.26288,loser
+morpho,morpho,Morpho,1.89,-6.2589,loser
+pi-network,pi,Pi Network,0.342314,-6.17203,loser
+wemix-token,wemix,WEMIX,0.701657,-6.03322,loser
+flow,flow,Flow,0.405947,-5.96758,loser
