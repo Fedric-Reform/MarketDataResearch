@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.814376,22.58611,gainer
-four,form,Four,3.14,3.08718,gainer
-bitget-token,bgb,Bitget Token,4.67,2.4606,gainer
-syrup,syrup,Maple Finance,0.464033,2.18,gainer
-sky,sky,Sky,0.06561,1.89019,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.8156,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40659,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108138.0,0.90985,gainer
-pax-gold,paxg,PAX Gold,3491.33,0.66747,gainer
-evervalue-coin,eva,EverValue Coin,22.08,0.62825,gainer
-keeta,kta,Keeta,0.798108,-12.15915,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.248243,-11.69005,loser
-bonk,bonk,Bonk,2.045e-05,-9.90173,loser
-flow,flow,Flow,0.40269,-9.69278,loser
-pyth-network,pyth,Pyth Network,0.165343,-9.52295,loser
-fartcoin,fartcoin,Fartcoin,0.723054,-8.11598,loser
-conflux-token,cfx,Conflux,0.178009,-7.5561,loser
-mog-coin,mog,Mog Coin,7.97851e-07,-7.3533,loser
-virtual-protocol,virtual,Virtuals Protocol,1.053,-7.05565,loser
-based-brett,brett,Brett,0.04473367,-6.61063,loser
+memecore,m,MemeCore,0.805291,20.71475,gainer
+four,form,Four,3.14,3.44642,gainer
+bitget-token,bgb,Bitget Token,4.66,2.48628,gainer
+syrup,syrup,Maple Finance,0.464451,2.29432,gainer
+sky,sky,Sky,0.065631,1.92257,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.80063,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.40375,gainer
+solv-btc,solvbtc,Solv Protocol BTC,108924.0,1.00877,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108139.0,0.91565,gainer
+evervalue-coin,eva,EverValue Coin,22.1,0.71581,gainer
+keeta,kta,Keeta,0.793966,-12.61504,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.247929,-11.80181,loser
+bonk,bonk,Bonk,2.044e-05,-9.77761,loser
+flow,flow,Flow,0.402622,-9.70814,loser
+pyth-network,pyth,Pyth Network,0.165232,-9.58364,loser
+fartcoin,fartcoin,Fartcoin,0.723411,-8.07058,loser
+conflux-token,cfx,Conflux,0.177957,-7.37122,loser
+mog-coin,mog,Mog Coin,7.97099e-07,-7.14288,loser
+virtual-protocol,virtual,Virtuals Protocol,1.055,-6.79474,loser
+wormhole,w,Wormhole,0.07933,-6.56136,loser
