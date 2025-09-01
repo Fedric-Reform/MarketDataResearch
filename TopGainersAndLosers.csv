@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.849077,28.70977,gainer
-evervalue-coin,eva,EverValue Coin,22.28,7.84567,gainer
-syrup,syrup,Maple Finance,0.475771,4.95622,gainer
-decentraland,mana,Decentraland,0.29809,2.55041,gainer
-pump-fun,pump,Pump.fun,0.00342151,2.31105,gainer
-bitget-token,bgb,Bitget Token,4.65,2.09253,gainer
-monero,xmr,Monero,265.57,2.03569,gainer
-four,form,Four,3.13,1.78863,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109538.0,1.67392,gainer
-sky,sky,Sky,0.06554,1.55232,gainer
-pyth-network,pyth,Pyth Network,0.163682,-10.35612,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.254143,-9.59121,loser
-conflux-token,cfx,Conflux,0.177855,-8.98713,loser
-keeta,kta,Keeta,0.846441,-7.13315,loser
-bonk,bonk,Bonk,2.093e-05,-6.99373,loser
-virtual-protocol,virtual,Virtuals Protocol,1.062,-6.26288,loser
-morpho,morpho,Morpho,1.89,-6.2589,loser
-pi-network,pi,Pi Network,0.342314,-6.17203,loser
-wemix-token,wemix,WEMIX,0.701657,-6.03322,loser
-flow,flow,Flow,0.405947,-5.96758,loser
+memecore,m,MemeCore,0.780599,15.95617,gainer
+evervalue-coin,eva,EverValue Coin,22.13,7.13893,gainer
+syrup,syrup,Maple Finance,0.473808,4.52444,gainer
+four,form,Four,3.14,2.87083,gainer
+bitget-token,bgb,Bitget Token,4.66,2.28082,gainer
+pump-fun,pump,Pump.fun,0.00342109,2.09242,gainer
+monero,xmr,Monero,265.11,1.64245,gainer
+sky,sky,Sky,0.065667,1.63088,gainer
+decentraland,mana,Decentraland,0.29569,1.63011,gainer
+kucoin-shares,kcs,KuCoin,14.71,1.47307,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.250616,-10.846,loser
+pyth-network,pyth,Pyth Network,0.163476,-10.65221,loser
+conflux-token,cfx,Conflux,0.177232,-9.30559,loser
+bonk,bonk,Bonk,2.085e-05,-7.35015,loser
+keeta,kta,Keeta,0.846776,-7.22097,loser
+morpho,morpho,Morpho,1.88,-6.60824,loser
+virtual-protocol,virtual,Virtuals Protocol,1.059,-6.56548,loser
+flow,flow,Flow,0.405245,-6.28986,loser
+wemix-token,wemix,WEMIX,0.701017,-6.23425,loser
+fartcoin,fartcoin,Fartcoin,0.734251,-6.20407,loser
