@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.840514,23.99859,gainer
-four,form,Four,3.15,4.35597,gainer
-bitget-token,bgb,Bitget Token,4.68,2.64298,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.8575,gainer
+memecore,m,MemeCore,0.839173,23.80069,gainer
+four,form,Four,3.15,4.05353,gainer
+bitget-token,bgb,Bitget Token,4.68,2.62495,gainer
+kucoin-shares,kcs,KuCoin,14.77,1.86172,gainer
+sky,sky,Sky,0.065879,1.60876,gainer
 eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.4352,gainer
-sky,sky,Sky,0.065708,1.34601,gainer
-syrup,syrup,Maple Finance,0.461744,1.22811,gainer
-evervalue-coin,eva,EverValue Coin,22.28,1.20557,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107948.0,1.02687,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109044.0,0.99594,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.230503,-18.00078,loser
-keeta,kta,Keeta,0.788657,-14.00472,loser
-pyth-network,pyth,Pyth Network,0.162882,-12.03067,loser
-bonk,bonk,Bonk,2.069e-05,-10.14898,loser
-crypto-com-chain,cro,Cronos,0.268386,-8.62882,loser
-flow,flow,Flow,0.400872,-8.55251,loser
-fartcoin,fartcoin,Fartcoin,0.72936,-8.46394,loser
-loaded-lions,lion,Loaded Lions,0.02072139,-8.16932,loser
-mog-coin,mog,Mog Coin,8.03188e-07,-7.8721,loser
-conflux-token,cfx,Conflux,0.177201,-7.86006,loser
+evervalue-coin,eva,EverValue Coin,22.27,1.15829,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107947.0,1.02618,gainer
+syrup,syrup,Maple Finance,0.460794,1.01981,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109000.0,0.95506,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.229536,-18.34472,loser
+keeta,kta,Keeta,0.79013,-14.45077,loser
+pyth-network,pyth,Pyth Network,0.162997,-11.96902,loser
+bonk,bonk,Bonk,2.068e-05,-9.89791,loser
+crypto-com-chain,cro,Cronos,0.268189,-8.69576,loser
+flow,flow,Flow,0.40113,-8.49361,loser
+fartcoin,fartcoin,Fartcoin,0.729553,-8.43978,loser
+loaded-lions,lion,Loaded Lions,0.02066362,-8.42535,loser
+mog-coin,mog,Mog Coin,8.04038e-07,-7.87755,loser
+conflux-token,cfx,Conflux,0.177286,-7.81579,loser
