@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.818186,18.83406,gainer
-evervalue-coin,eva,EverValue Coin,22.19,5.0622,gainer
-four,form,Four,3.11,3.95365,gainer
-syrup,syrup,Maple Finance,0.468764,3.09771,gainer
-bitget-token,bgb,Bitget Token,4.65,2.02587,gainer
-kucoin-shares,kcs,KuCoin,14.74,1.9797,gainer
-sky,sky,Sky,0.065332,1.50562,gainer
-eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.3793,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.16,1.20838,gainer
-pump-fun,pump,Pump.fun,0.00338188,1.16288,gainer
-keeta,kta,Keeta,0.799037,-12.62332,loser
-flow,flow,Flow,0.403865,-9.82172,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.254242,-9.55583,loser
-pyth-network,pyth,Pyth Network,0.164894,-9.47615,loser
-bonk,bonk,Bonk,2.055e-05,-9.04246,loser
-fartcoin,fartcoin,Fartcoin,0.721658,-8.43986,loser
-conflux-token,cfx,Conflux,0.177038,-8.35102,loser
-mog-coin,mog,Mog Coin,8.01528e-07,-7.97269,loser
-based-brett,brett,Brett,0.04496639,-6.513,loser
-virtual-protocol,virtual,Virtuals Protocol,1.065,-6.38598,loser
+memecore,m,MemeCore,0.823914,22.6966,gainer
+syrup,syrup,Maple Finance,0.467832,3.24171,gainer
+bitget-token,bgb,Bitget Token,4.68,2.8214,gainer
+four,form,Four,3.11,2.72741,gainer
+kucoin-shares,kcs,KuCoin,14.77,1.97157,gainer
+evervalue-coin,eva,EverValue Coin,22.16,1.91104,gainer
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,1.22,1.37492,gainer
+sky,sky,Sky,0.065266,1.34369,gainer
+solv-btc,solvbtc,Solv Protocol BTC,108993.0,1.26238,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108061.0,0.91883,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.235202,-16.32923,loser
+keeta,kta,Keeta,0.81018,-10.95704,loser
+flow,flow,Flow,0.403135,-10.28816,loser
+pyth-network,pyth,Pyth Network,0.164898,-10.00962,loser
+bonk,bonk,Bonk,2.048e-05,-9.23391,loser
+fartcoin,fartcoin,Fartcoin,0.720494,-8.1643,loser
+mog-coin,mog,Mog Coin,7.97613e-07,-7.62175,loser
+conflux-token,cfx,Conflux,0.179155,-7.48794,loser
+pi-network,pi,Pi Network,0.342156,-6.83445,loser
+loaded-lions,lion,Loaded Lions,0.02073398,-6.25409,loser
