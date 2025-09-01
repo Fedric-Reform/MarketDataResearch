@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.810364,20.6368,gainer
-four,form,Four,3.17,5.15191,gainer
-bitget-token,bgb,Bitget Token,4.69,2.86171,gainer
-sky,sky,Sky,0.066079,1.83651,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.79435,gainer
-syrup,syrup,Maple Finance,0.46408,1.53293,gainer
-filecoin,fil,Filecoin,2.33,1.02991,gainer
-bitcoin-cash,bch,Bitcoin Cash,547.55,0.75078,gainer
-evervalue-coin,eva,EverValue Coin,22.24,0.73615,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.7271,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.218339,-22.32807,loser
-keeta,kta,Keeta,0.803151,-12.56647,loser
-pyth-network,pyth,Pyth Network,0.162091,-11.77997,loser
-bonk,bonk,Bonk,2.064e-05,-9.51851,loser
-flow,flow,Flow,0.399768,-8.35549,loser
-crypto-com-chain,cro,Cronos,0.26806,-8.12761,loser
-fartcoin,fartcoin,Fartcoin,0.727779,-8.00456,loser
-loaded-lions,lion,Loaded Lions,0.02063405,-7.74943,loser
-pi-network,pi,Pi Network,0.341809,-7.33255,loser
-raydium,ray,Raydium,3.32,-7.0888,loser
+memecore,m,MemeCore,0.807371,20.48751,gainer
+four,form,Four,3.18,5.70397,gainer
+bitget-token,bgb,Bitget Token,4.69,2.93018,gainer
+sky,sky,Sky,0.066139,1.82839,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.76321,gainer
+syrup,syrup,Maple Finance,0.464107,1.61296,gainer
+tokenize-xchange,tkx,Tokenize Xchange,5.19,1.07046,gainer
+filecoin,fil,Filecoin,2.33,1.00203,gainer
+evervalue-coin,eva,EverValue Coin,22.26,0.81559,gainer
+bitcoin-cash,bch,Bitcoin Cash,547.52,0.7327,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.216239,-23.07516,loser
+keeta,kta,Keeta,0.802165,-12.7441,loser
+pyth-network,pyth,Pyth Network,0.162548,-11.65093,loser
+bonk,bonk,Bonk,2.064e-05,-9.70856,loser
+flow,flow,Flow,0.399934,-8.45216,loser
+crypto-com-chain,cro,Cronos,0.26817,-8.02759,loser
+fartcoin,fartcoin,Fartcoin,0.729276,-7.91229,loser
+loaded-lions,lion,Loaded Lions,0.02061373,-7.70565,loser
+pi-network,pi,Pi Network,0.341461,-7.3541,loser
+conflux-token,cfx,Conflux,0.177886,-7.23047,loser
