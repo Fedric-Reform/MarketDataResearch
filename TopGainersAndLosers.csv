@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.824835,25.03501,gainer
-evervalue-coin,eva,EverValue Coin,22.22,7.42611,gainer
-syrup,syrup,Maple Finance,0.480386,6.07901,gainer
-decentraland,mana,Decentraland,0.298435,2.74131,gainer
-bitget-token,bgb,Bitget Token,4.67,2.46012,gainer
-pump-fun,pump,Pump.fun,0.00342245,2.43738,gainer
-monero,xmr,Monero,265.65,2.05819,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109681.0,1.95682,gainer
-filecoin,fil,Filecoin,2.34,1.84218,gainer
-four,form,Four,3.12,1.71021,gainer
-pyth-network,pyth,Pyth Network,0.164144,-9.87776,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.255211,-9.21117,loser
-conflux-token,cfx,Conflux,0.178038,-8.65977,loser
-keeta,kta,Keeta,0.8466,-7.25777,loser
-bonk,bonk,Bonk,2.098e-05,-6.54905,loser
-virtual-protocol,virtual,Virtuals Protocol,1.065,-5.91356,loser
-pi-network,pi,Pi Network,0.342884,-5.87786,loser
-morpho,morpho,Morpho,1.89,-5.75239,loser
-mog-coin,mog,Mog Coin,8.16485e-07,-5.71602,loser
-flow,flow,Flow,0.406993,-5.63111,loser
+memecore,m,MemeCore,0.835821,26.70037,gainer
+evervalue-coin,eva,EverValue Coin,22.16,7.16808,gainer
+syrup,syrup,Maple Finance,0.478269,5.50725,gainer
+decentraland,mana,Decentraland,0.298595,2.79647,gainer
+bitget-token,bgb,Bitget Token,4.67,2.43639,gainer
+pump-fun,pump,Pump.fun,0.00342344,2.36884,gainer
+monero,xmr,Monero,265.6,2.03863,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109606.0,1.88699,gainer
+filecoin,fil,Filecoin,2.34,1.73511,gainer
+four,form,Four,3.12,1.71121,gainer
+pyth-network,pyth,Pyth Network,0.164026,-9.94215,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.255296,-9.18101,loser
+conflux-token,cfx,Conflux,0.178103,-8.85986,loser
+keeta,kta,Keeta,0.846497,-7.26911,loser
+bonk,bonk,Bonk,2.096e-05,-6.61762,loser
+virtual-protocol,virtual,Virtuals Protocol,1.064,-5.96176,loser
+pi-network,pi,Pi Network,0.342743,-5.91642,loser
+morpho,morpho,Morpho,1.89,-5.77613,loser
+wemix-token,wemix,WEMIX,0.701872,-5.75867,loser
+mog-coin,mog,Mog Coin,8.16198e-07,-5.74918,loser
