@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.651602,9.91156,gainer
-evervalue-coin,eva,EverValue Coin,22.09,5.77505,gainer
-polygon-ecosystem-token,pol,POL (ex-MATIC),0.279476,5.29764,gainer
-build-on,b,BUILDon,0.718659,5.07647,gainer
-kucoin-shares,kcs,KuCoin,14.62,3.56392,gainer
-monero,xmr,Monero,265.71,2.05356,gainer
-hash-2,hash,Provenance Blockchain,0.02642388,1.93083,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.091,1.4312,gainer
-pax-gold,paxg,PAX Gold,3492.21,0.90959,gainer
-official-trump,trump,Official Trump,8.48,0.60227,gainer
-four,form,Four,3.01,-20.72219,loser
-pi-network,pi,Pi Network,0.350112,-9.99553,loser
-axie-infinity,axs,Axie Infinity,2.44,-9.37726,loser
-berachain-bera,bera,Berachain,2.46,-8.45199,loser
-conflux-token,cfx,Conflux,0.185401,-7.38573,loser
-based-brett,brett,Brett,0.045553,-7.37172,loser
-ethereum-name-service,ens,Ethereum Name Service,21.96,-7.11285,loser
-pyth-network,pyth,Pyth Network,0.176525,-7.08384,loser
-virtual-protocol,virtual,Virtuals Protocol,1.084,-7.03636,loser
-okb,okb,OKB,167.03,-7.03337,loser
+memecore,m,MemeCore,0.652689,10.33836,gainer
+evervalue-coin,eva,EverValue Coin,22.05,5.609,gainer
+polygon-ecosystem-token,pol,POL (ex-MATIC),0.279359,5.25351,gainer
+build-on,b,BUILDon,0.717827,4.99297,gainer
+kucoin-shares,kcs,KuCoin,14.62,3.59611,gainer
+monero,xmr,Monero,265.73,2.21548,gainer
+hash-2,hash,Provenance Blockchain,0.0264259,1.93862,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.091,1.43076,gainer
+tether-gold,xaut,Tether Gold,3483.32,1.01701,gainer
+pax-gold,paxg,PAX Gold,3491.96,0.90253,gainer
+four,form,Four,3.0,-20.86784,loser
+axie-infinity,axs,Axie Infinity,2.44,-10.42229,loser
+pi-network,pi,Pi Network,0.350341,-9.46487,loser
+berachain-bera,bera,Berachain,2.45,-8.63338,loser
+based-brett,brett,Brett,0.0455319,-7.41464,loser
+conflux-token,cfx,Conflux,0.185294,-7.3985,loser
+pyth-network,pyth,Pyth Network,0.176496,-7.27479,loser
+okb,okb,OKB,167.15,-7.25783,loser
+ethereum-name-service,ens,Ethereum Name Service,21.96,-7.13164,loser
+virtual-protocol,virtual,Virtuals Protocol,1.085,-7.03003,loser
