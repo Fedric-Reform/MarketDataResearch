@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.849643,23.84982,gainer
-four,form,Four,3.15,4.05954,gainer
-bitget-token,bgb,Bitget Token,4.68,2.79495,gainer
-sky,sky,Sky,0.066056,1.97982,gainer
-kucoin-shares,kcs,KuCoin,14.76,1.93089,gainer
-syrup,syrup,Maple Finance,0.46211,1.44234,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.085,0.85722,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,108327.0,0.80354,gainer
-evervalue-coin,eva,EverValue Coin,22.24,0.79675,gainer
-filecoin,fil,Filecoin,2.32,0.78145,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.220279,-21.6379,loser
-keeta,kta,Keeta,0.80284,-12.78822,loser
-pyth-network,pyth,Pyth Network,0.162751,-11.57538,loser
-bonk,bonk,Bonk,2.065e-05,-9.71771,loser
-crypto-com-chain,cro,Cronos,0.268182,-8.22179,loser
-flow,flow,Flow,0.400792,-8.12065,loser
-fartcoin,fartcoin,Fartcoin,0.73058,-7.67158,loser
-raydium,ray,Raydium,3.32,-7.58624,loser
-loaded-lions,lion,Loaded Lions,0.02079297,-7.52462,loser
-conflux-token,cfx,Conflux,0.177723,-7.43591,loser
+memecore,m,MemeCore,0.839958,23.47225,gainer
+four,form,Four,3.14,3.79339,gainer
+bitget-token,bgb,Bitget Token,4.68,2.77503,gainer
+kucoin-shares,kcs,KuCoin,14.76,1.93952,gainer
+sky,sky,Sky,0.066016,1.8119,gainer
+syrup,syrup,Maple Finance,0.463479,1.74293,gainer
+evervalue-coin,eva,EverValue Coin,22.27,0.91797,gainer
+filecoin,fil,Filecoin,2.32,0.87767,gainer
+pax-gold,paxg,PAX Gold,3489.48,0.73106,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.086,0.70408,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.218309,-22.33868,loser
+keeta,kta,Keeta,0.801262,-12.79324,loser
+pyth-network,pyth,Pyth Network,0.162544,-11.68751,loser
+bonk,bonk,Bonk,2.064e-05,-9.75941,loser
+crypto-com-chain,cro,Cronos,0.268234,-8.35041,loser
+loaded-lions,lion,Loaded Lions,0.02064864,-8.23467,loser
+flow,flow,Flow,0.400813,-8.11584,loser
+fartcoin,fartcoin,Fartcoin,0.729528,-7.78238,loser
+raydium,ray,Raydium,3.32,-7.44184,loser
+conflux-token,cfx,Conflux,0.177785,-7.41136,loser
