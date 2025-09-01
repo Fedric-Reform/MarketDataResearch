@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.855171,26.12347,gainer
-four,form,Four,3.19,4.01839,gainer
-bitget-token,bgb,Bitget Token,4.63,1.79893,gainer
-saros-finance,saros,Saros,0.352056,1.23491,gainer
-pax-gold,paxg,PAX Gold,3493.72,0.92085,gainer
-tether-gold,xaut,Tether Gold,3491.3,0.89085,gainer
-sky,sky,Sky,0.06504,0.78157,gainer
-usdb,usdb,USDB,1.003,0.40282,gainer
-kucoin-shares,kcs,KuCoin,14.57,0.38375,gainer
-solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107560.0,0.37576,gainer
-keeta,kta,Keeta,0.747924,-17.76523,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.23386,-16.8067,loser
-pyth-network,pyth,Pyth Network,0.161096,-13.50247,loser
-bonk,bonk,Bonk,2.005e-05,-11.43952,loser
-virtual-protocol,virtual,Virtuals Protocol,1.016,-10.99055,loser
-crypto-com-chain,cro,Cronos,0.2632,-10.55981,loser
-fartcoin,fartcoin,Fartcoin,0.69911,-10.44891,loser
-loaded-lions,lion,Loaded Lions,0.02031589,-9.9914,loser
-axie-infinity,axs,Axie Infinity,2.31,-9.07488,loser
-conflux-token,cfx,Conflux,0.174161,-8.91517,loser
+memecore,m,MemeCore,0.842874,23.36483,gainer
+four,form,Four,3.18,3.41936,gainer
+saros-finance,saros,Saros,0.352391,2.01553,gainer
+bitget-token,bgb,Bitget Token,4.64,1.96848,gainer
+sky,sky,Sky,0.065185,1.0979,gainer
+pax-gold,paxg,PAX Gold,3494.79,0.94719,gainer
+usdb,usdb,USDB,1.006,0.61706,gainer
+solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,107650.0,0.51464,gainer
+kucoin-shares,kcs,KuCoin,14.6,0.4951,gainer
+tether-gold,xaut,Tether Gold,3475.68,0.4733,gainer
+keeta,kta,Keeta,0.752342,-16.494,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.235216,-16.32435,loser
+pyth-network,pyth,Pyth Network,0.162089,-12.75902,loser
+bonk,bonk,Bonk,2.008e-05,-11.09958,loser
+virtual-protocol,virtual,Virtuals Protocol,1.018,-9.59752,loser
+crypto-com-chain,cro,Cronos,0.267631,-9.37553,loser
+fartcoin,fartcoin,Fartcoin,0.704889,-9.1278,loser
+conflux-token,cfx,Conflux,0.174575,-8.67728,loser
+loaded-lions,lion,Loaded Lions,0.02071014,-8.46133,loser
+axie-infinity,axs,Axie Infinity,2.32,-8.37411,loser
