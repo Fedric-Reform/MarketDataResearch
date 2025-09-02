@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073082,11.75136,gainer
-beam-2,beam,Beam,0.00747546,9.91267,gainer
-zebec-network,zbcn,Zebec Network,0.00397249,8.81533,gainer
-ethena,ena,Ethena,0.675423,7.53888,gainer
-bitget-token,bgb,Bitget Token,4.97,7.09295,gainer
-pump-fun,pump,Pump.fun,0.00361289,6.89139,gainer
-four,form,Four,3.34,6.88353,gainer
-bitcoin-cash,bch,Bitcoin Cash,574.31,5.90238,gainer
-walrus-2,wal,Walrus,0.398908,5.15236,gainer
-reserve-rights-token,rsr,Reserve Rights,0.00748234,4.64033,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.221814,-10.73832,loser
-hash-2,hash,Provenance Blockchain,0.02403141,-7.37375,loser
-crypto-com-chain,cro,Cronos,0.254953,-5.76918,loser
-loaded-lions,lion,Loaded Lions,0.01979229,-5.52901,loser
-syrup,syrup,Maple Finance,0.44552,-4.8419,loser
-virtual-protocol,virtual,Virtuals Protocol,1.024,-3.86997,loser
-pyth-network,pyth,Pyth Network,0.158962,-3.74914,loser
-wormhole,w,Wormhole,0.077118,-3.66333,loser
-evervalue-coin,eva,EverValue Coin,21.48,-3.48547,loser
-dydx-chain,dydx,dYdX,0.577795,-3.45205,loser
+sky,sky,Sky,0.073116,11.92404,gainer
+beam-2,beam,Beam,0.00754353,11.00065,gainer
+pump-fun,pump,Pump.fun,0.00363053,8.28065,gainer
+zebec-network,zbcn,Zebec Network,0.00398094,8.22348,gainer
+ethena,ena,Ethena,0.675603,7.58237,gainer
+four,form,Four,3.33,6.95233,gainer
+bitget-token,bgb,Bitget Token,4.95,6.6949,gainer
+bitcoin-cash,bch,Bitcoin Cash,574.79,5.99753,gainer
+walrus-2,wal,Walrus,0.399882,5.4167,gainer
+reserve-rights-token,rsr,Reserve Rights,0.00751983,5.20861,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.221931,-7.85849,loser
+crypto-com-chain,cro,Cronos,0.254754,-5.65596,loser
+hash-2,hash,Provenance Blockchain,0.02466064,-4.94844,loser
+syrup,syrup,Maple Finance,0.447118,-4.21896,loser
+loaded-lions,lion,Loaded Lions,0.01989829,-4.03888,loser
+pyth-network,pyth,Pyth Network,0.159291,-3.62469,loser
+virtual-protocol,virtual,Virtuals Protocol,1.018,-3.23622,loser
+wormhole,w,Wormhole,0.077415,-3.01393,loser
+evervalue-coin,eva,EverValue Coin,21.54,-2.88564,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.96,-2.83577,loser
