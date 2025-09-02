@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.878201,27.55564,gainer
-four,form,Four,3.32,9.75481,gainer
-bitget-token,bgb,Bitget Token,5.07,9.3761,gainer
-sky,sky,Sky,0.071022,8.49773,gainer
-beam-2,beam,Beam,0.00724218,5.44137,gainer
-ethena,ena,Ethena,0.665864,4.63594,gainer
-pump-fun,pump,Pump.fun,0.00361562,4.29105,gainer
-zebec-network,zbcn,Zebec Network,0.00386216,4.04789,gainer
-bitcoin-cash,bch,Bitcoin Cash,566.43,3.4111,gainer
-walrus-2,wal,Walrus,0.397829,3.15332,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.229293,-27.76904,loser
-keeta,kta,Keeta,0.749216,-11.97725,loser
-syrup,syrup,Maple Finance,0.440309,-6.80099,loser
-crypto-com-chain,cro,Cronos,0.257534,-6.78626,loser
-dydx-chain,dydx,dYdX,0.57417,-5.85956,loser
-spx6900,spx,SPX6900,1.064,-5.82254,loser
-bonk,bonk,Bonk,1.996e-05,-5.5215,loser
-virtual-protocol,virtual,Virtuals Protocol,1.016,-5.52141,loser
-loaded-lions,lion,Loaded Lions,0.02008144,-5.37019,loser
-build-on,b,BUILDon,0.668296,-5.06167,loser
+memecore,m,MemeCore,0.884059,28.40645,gainer
+four,form,Four,3.32,9.90275,gainer
+bitget-token,bgb,Bitget Token,5.08,9.32208,gainer
+sky,sky,Sky,0.07104,8.53301,gainer
+beam-2,beam,Beam,0.00726386,5.48664,gainer
+zebec-network,zbcn,Zebec Network,0.00387161,5.13249,gainer
+ethena,ena,Ethena,0.668404,5.0528,gainer
+pump-fun,pump,Pump.fun,0.00363394,3.69236,gainer
+bitcoin-cash,bch,Bitcoin Cash,567.44,3.42834,gainer
+walrus-2,wal,Walrus,0.399131,3.33795,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.230606,-28.13064,loser
+keeta,kta,Keeta,0.75486,-11.61834,loser
+crypto-com-chain,cro,Cronos,0.25761,-7.09944,loser
+syrup,syrup,Maple Finance,0.441058,-6.87605,loser
+dydx-chain,dydx,dYdX,0.577912,-5.50503,loser
+virtual-protocol,virtual,Virtuals Protocol,1.02,-5.3949,loser
+bonk,bonk,Bonk,2.004e-05,-5.32691,loser
+loaded-lions,lion,Loaded Lions,0.02005657,-5.20635,loser
+build-on,b,BUILDon,0.667586,-5.01263,loser
+evervalue-coin,eva,EverValue Coin,21.15,-4.94086,loser
