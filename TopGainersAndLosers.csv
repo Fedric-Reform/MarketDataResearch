@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.074882,14.16708,gainer
-beam-2,beam,Beam,0.00756184,10.90635,gainer
-pump-fun,pump,Pump.fun,0.00373283,9.22588,gainer
-ethena,ena,Ethena,0.689196,9.06426,gainer
-bitget-token,bgb,Bitget Token,5.08,8.93686,gainer
-zebec-network,zbcn,Zebec Network,0.00398424,8.44901,gainer
-bitcoin-cash,bch,Bitcoin Cash,582.64,7.10567,gainer
-memecore,m,MemeCore,0.857585,6.35636,gainer
-walrus-2,wal,Walrus,0.405436,6.1555,gainer
-four,form,Four,3.32,5.93352,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.22049,-15.1609,loser
-keeta,kta,Keeta,0.775686,-7.06349,loser
-build-on,b,BUILDon,0.662681,-4.5416,loser
-crypto-com-chain,cro,Cronos,0.261542,-4.38678,loser
-syrup,syrup,Maple Finance,0.452335,-4.0509,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.94,-3.85509,loser
-loaded-lions,lion,Loaded Lions,0.02038415,-3.39692,loser
-dydx-chain,dydx,dYdX,0.590982,-3.2512,loser
-evervalue-coin,eva,EverValue Coin,21.6,-3.1214,loser
-wormhole,w,Wormhole,0.07834,-2.84244,loser
+sky,sky,Sky,0.074944,14.31712,gainer
+beam-2,beam,Beam,0.00757802,10.84514,gainer
+ethena,ena,Ethena,0.687526,8.71312,gainer
+pump-fun,pump,Pump.fun,0.00373278,8.56448,gainer
+zebec-network,zbcn,Zebec Network,0.00398264,8.28286,gainer
+bitget-token,bgb,Bitget Token,5.04,8.06534,gainer
+bitcoin-cash,bch,Bitcoin Cash,581.12,6.67344,gainer
+four,form,Four,3.33,6.00223,gainer
+walrus-2,wal,Walrus,0.404828,5.71116,gainer
+memecore,m,MemeCore,0.856303,5.36665,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.218246,-18.29915,loser
+keeta,kta,Keeta,0.774808,-6.65919,loser
+syrup,syrup,Maple Finance,0.450228,-4.83742,loser
+crypto-com-chain,cro,Cronos,0.260565,-4.77864,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.91,-4.36143,loser
+build-on,b,BUILDon,0.662106,-4.12319,loser
+dydx-chain,dydx,dYdX,0.588913,-3.66281,loser
+wormhole,w,Wormhole,0.078064,-3.44717,loser
+evervalue-coin,eva,EverValue Coin,21.56,-3.17528,loser
+filecoin,fil,Filecoin,2.27,-2.86045,loser
