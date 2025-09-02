@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073599,12.73386,gainer
-memecore,m,MemeCore,0.880878,9.59546,gainer
-pump-fun,pump,Pump.fun,0.00369435,9.54835,gainer
-beam-2,beam,Beam,0.0074452,9.43916,gainer
-four,form,Four,3.36,8.43879,gainer
-bitcoin-cash,bch,Bitcoin Cash,577.09,6.73303,gainer
-ethena,ena,Ethena,0.672352,6.52363,gainer
-zebec-network,zbcn,Zebec Network,0.00395108,6.44897,gainer
-bitget-token,bgb,Bitget Token,4.97,6.06735,gainer
-walrus-2,wal,Walrus,0.399664,5.24509,gainer
-crypto-com-chain,cro,Cronos,0.253165,-6.68479,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.223753,-5.98975,loser
-loaded-lions,lion,Loaded Lions,0.01984391,-4.86519,loser
-pyth-network,pyth,Pyth Network,0.157566,-4.41343,loser
-virtual-protocol,virtual,Virtuals Protocol,1.027,-3.70832,loser
-hash-2,hash,Provenance Blockchain,0.02487342,-3.29956,loser
-syrup,syrup,Maple Finance,0.447805,-3.28906,loser
-filecoin,fil,Filecoin,2.24,-2.999,loser
-wormhole,w,Wormhole,0.077098,-2.75753,loser
-spx6900,spx,SPX6900,1.071,-2.56779,loser
+sky,sky,Sky,0.073446,12.425,gainer
+pump-fun,pump,Pump.fun,0.00371798,10.32797,gainer
+beam-2,beam,Beam,0.00745637,9.72073,gainer
+four,form,Four,3.37,9.0372,gainer
+memecore,m,MemeCore,0.881066,7.99579,gainer
+bitcoin-cash,bch,Bitcoin Cash,577.61,6.94165,gainer
+zebec-network,zbcn,Zebec Network,0.00395222,6.9093,gainer
+ethena,ena,Ethena,0.673731,6.83678,gainer
+bitget-token,bgb,Bitget Token,4.99,6.66294,gainer
+zcash,zec,Zcash,41.58,5.46614,gainer
+crypto-com-chain,cro,Cronos,0.252926,-6.93412,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.224894,-5.74211,loser
+loaded-lions,lion,Loaded Lions,0.01983565,-4.9484,loser
+pyth-network,pyth,Pyth Network,0.157984,-4.86099,loser
+virtual-protocol,virtual,Virtuals Protocol,1.03,-3.70682,loser
+syrup,syrup,Maple Finance,0.448583,-3.22379,loser
+filecoin,fil,Filecoin,2.24,-3.11483,loser
+hash-2,hash,Provenance Blockchain,0.02487374,-3.00204,loser
+wormhole,w,Wormhole,0.076938,-2.9846,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.06,-2.94097,loser
