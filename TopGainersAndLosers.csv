@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.800174,22.17538,gainer
-sky,sky,Sky,0.066728,4.7692,gainer
-four,form,Four,3.16,4.57027,gainer
-walrus-2,wal,Walrus,0.397367,3.78435,gainer
-bitget-token,bgb,Bitget Token,4.66,3.0386,gainer
-saros-finance,saros,Saros,0.36086,2.85466,gainer
-pump-fun,pump,Pump.fun,0.00343614,1.83129,gainer
-pax-gold,paxg,PAX Gold,3512.3,1.61925,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109535.0,1.42879,gainer
-stellar,xlm,Stellar,0.355345,1.33431,gainer
-keeta,kta,Keeta,0.763866,-13.03078,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.246728,-12.22881,loser
-pyth-network,pyth,Pyth Network,0.160573,-9.71144,loser
-crypto-com-chain,cro,Cronos,0.263925,-8.56423,loser
-loaded-lions,lion,Loaded Lions,0.02029831,-8.48411,loser
-bonk,bonk,Bonk,2.014e-05,-8.37808,loser
-virtual-protocol,virtual,Virtuals Protocol,1.02,-7.43138,loser
-flow,flow,Flow,0.397175,-7.23094,loser
-conflux-token,cfx,Conflux,0.177164,-6.23229,loser
-build-on,b,BUILDon,0.683551,-6.21876,loser
+memecore,m,MemeCore,0.806968,23.30652,gainer
+four,form,Four,3.15,5.18606,gainer
+walrus-2,wal,Walrus,0.403336,5.06424,gainer
+sky,sky,Sky,0.066788,4.78029,gainer
+bitget-token,bgb,Bitget Token,4.67,3.08062,gainer
+saros-finance,saros,Saros,0.362231,2.99667,gainer
+pump-fun,pump,Pump.fun,0.00347556,2.91628,gainer
+pax-gold,paxg,PAX Gold,3526.59,2.09689,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109597.0,1.39299,gainer
+tether-gold,xaut,Tether Gold,3500.48,1.32377,gainer
+keeta,kta,Keeta,0.764101,-12.79071,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.248506,-11.59642,loser
+pyth-network,pyth,Pyth Network,0.160944,-9.52149,loser
+bonk,bonk,Bonk,2.01e-05,-8.43538,loser
+crypto-com-chain,cro,Cronos,0.2635,-7.63807,loser
+virtual-protocol,virtual,Virtuals Protocol,1.02,-7.51531,loser
+loaded-lions,lion,Loaded Lions,0.02033645,-7.46352,loser
+flow,flow,Flow,0.398794,-7.37046,loser
+conflux-token,cfx,Conflux,0.176894,-6.34937,loser
+axie-infinity,axs,Axie Infinity,2.31,-6.18303,loser
