@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.795554,19.54519,gainer
-sky,sky,Sky,0.066468,4.34302,gainer
-four,form,Four,3.17,3.16318,gainer
-bitget-token,bgb,Bitget Token,4.65,2.87096,gainer
-walrus-2,wal,Walrus,0.392682,2.85993,gainer
-stellar,xlm,Stellar,0.356136,2.04729,gainer
-saros-finance,saros,Saros,0.357905,1.76342,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109436.0,1.54849,gainer
-pax-gold,paxg,PAX Gold,3505.97,1.40793,gainer
-dexe,dexe,DeXe,7.49,1.29602,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.242784,-13.632,loser
-keeta,kta,Keeta,0.765433,-12.35084,loser
-crypto-com-chain,cro,Cronos,0.265371,-11.12335,loser
-pyth-network,pyth,Pyth Network,0.160158,-10.73845,loser
-loaded-lions,lion,Loaded Lions,0.02053306,-8.61018,loser
-bonk,bonk,Bonk,2.017e-05,-8.5583,loser
-flow,flow,Flow,0.397232,-7.67058,loser
-conflux-token,cfx,Conflux,0.17691,-7.29176,loser
-virtual-protocol,virtual,Virtuals Protocol,1.024,-6.9082,loser
-wormhole,w,Wormhole,0.077473,-6.03412,loser
+memecore,m,MemeCore,0.797526,20.4933,gainer
+four,form,Four,3.17,4.19465,gainer
+sky,sky,Sky,0.066139,3.20926,gainer
+bitget-token,bgb,Bitget Token,4.66,2.92912,gainer
+walrus-2,wal,Walrus,0.39325,2.39823,gainer
+saros-finance,saros,Saros,0.359049,2.13704,gainer
+pax-gold,paxg,PAX Gold,3505.32,1.41683,gainer
+dexe,dexe,DeXe,7.48,1.17126,gainer
+stellar,xlm,Stellar,0.355522,1.16389,gainer
+lombard-staked-btc,lbtc,Lombard Staked BTC,109144.0,1.06248,gainer
+keeta,kta,Keeta,0.763123,-13.20175,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.247492,-11.95736,loser
+crypto-com-chain,cro,Cronos,0.264454,-11.04985,loser
+pyth-network,pyth,Pyth Network,0.159311,-11.0177,loser
+loaded-lions,lion,Loaded Lions,0.02044981,-9.95617,loser
+bonk,bonk,Bonk,2.015e-05,-9.05242,loser
+flow,flow,Flow,0.39646,-8.8032,loser
+virtual-protocol,virtual,Virtuals Protocol,1.016,-7.8427,loser
+conflux-token,cfx,Conflux,0.177173,-7.13808,loser
+wormhole,w,Wormhole,0.077209,-6.0242,loser
