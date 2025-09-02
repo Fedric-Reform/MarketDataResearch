@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.904191,38.21999,gainer
-pump-fun,pump,Pump.fun,0.00360017,7.35901,gainer
-four,form,Four,3.18,7.17163,gainer
-walrus-2,wal,Walrus,0.405389,6.3659,gainer
-sky,sky,Sky,0.067452,6.12003,gainer
-bitcoin-cash,bch,Bitcoin Cash,559.31,4.05472,gainer
-saros-finance,saros,Saros,0.36445,3.90257,gainer
-bitget-token,bgb,Bitget Token,4.68,3.74467,gainer
-beam-2,beam,Beam,0.00709732,2.8558,gainer
-stellar,xlm,Stellar,0.356614,2.74376,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.237172,-15.62838,loser
-keeta,kta,Keeta,0.766513,-12.84632,loser
-pyth-network,pyth,Pyth Network,0.163439,-6.99667,loser
-crypto-com-chain,cro,Cronos,0.261159,-6.3464,loser
-virtual-protocol,virtual,Virtuals Protocol,1.021,-6.23555,loser
-flow,flow,Flow,0.408782,-6.22363,loser
-loaded-lions,lion,Loaded Lions,0.02024297,-6.14856,loser
-bonk,bonk,Bonk,2.018e-05,-5.80321,loser
-wemix-token,wemix,WEMIX,0.72188,-5.10827,loser
-conflux-token,cfx,Conflux,0.177632,-4.78605,loser
+memecore,m,MemeCore,0.911232,39.29624,gainer
+pump-fun,pump,Pump.fun,0.00360387,7.46926,gainer
+four,form,Four,3.18,7.19829,gainer
+walrus-2,wal,Walrus,0.404721,6.75052,gainer
+sky,sky,Sky,0.067541,6.26002,gainer
+bitcoin-cash,bch,Bitcoin Cash,559.52,4.39246,gainer
+saros-finance,saros,Saros,0.364703,4.0543,gainer
+bitget-token,bgb,Bitget Token,4.68,3.75332,gainer
+clbtc,clbtc,clBTC,110313.0,3.01681,gainer
+stellar,xlm,Stellar,0.356785,2.79296,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.236869,-15.73637,loser
+keeta,kta,Keeta,0.768207,-12.64508,loser
+pyth-network,pyth,Pyth Network,0.163626,-6.89062,loser
+crypto-com-chain,cro,Cronos,0.26144,-6.09814,loser
+loaded-lions,lion,Loaded Lions,0.02024731,-6.04705,loser
+virtual-protocol,virtual,Virtuals Protocol,1.023,-6.01897,loser
+flow,flow,Flow,0.40767,-5.80688,loser
+bonk,bonk,Bonk,2.019e-05,-5.7463,loser
+evervalue-coin,eva,EverValue Coin,21.05,-5.61229,loser
+wemix-token,wemix,WEMIX,0.721781,-5.12126,loser
