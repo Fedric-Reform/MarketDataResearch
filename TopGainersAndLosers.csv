@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.867317,13.77376,gainer
-sky,sky,Sky,0.073274,12.07825,gainer
-beam-2,beam,Beam,0.007545,10.55406,gainer
-zebec-network,zbcn,Zebec Network,0.0039807,9.34996,gainer
-bitget-token,bgb,Bitget Token,5.03,8.03494,gainer
-ethena,ena,Ethena,0.67891,7.7795,gainer
-pump-fun,pump,Pump.fun,0.00364484,6.60493,gainer
-bitcoin-cash,bch,Bitcoin Cash,575.89,5.70058,gainer
-four,form,Four,3.35,5.59357,gainer
-walrus-2,wal,Walrus,0.401583,5.03929,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.222725,-15.6432,loser
-hash-2,hash,Provenance Blockchain,0.02427905,-6.84412,loser
-syrup,syrup,Maple Finance,0.449374,-5.03123,loser
-dydx-chain,dydx,dYdX,0.58293,-4.69832,loser
-crypto-com-chain,cro,Cronos,0.258601,-4.59574,loser
-keeta,kta,Keeta,0.781899,-4.09133,loser
-pyth-network,pyth,Pyth Network,0.159731,-3.82577,loser
-wormhole,w,Wormhole,0.077432,-3.77042,loser
-filecoin,fil,Filecoin,2.26,-3.55359,loser
-loaded-lions,lion,Loaded Lions,0.02019046,-3.33553,loser
+sky,sky,Sky,0.073248,11.93784,gainer
+beam-2,beam,Beam,0.00752406,10.0744,gainer
+memecore,m,MemeCore,0.863661,9.16854,gainer
+zebec-network,zbcn,Zebec Network,0.00396658,9.00136,gainer
+bitget-token,bgb,Bitget Token,5.02,8.00077,gainer
+ethena,ena,Ethena,0.677166,7.39867,gainer
+pump-fun,pump,Pump.fun,0.00364093,6.41875,gainer
+four,form,Four,3.35,5.61915,gainer
+bitcoin-cash,bch,Bitcoin Cash,575.51,5.54318,gainer
+walrus-2,wal,Walrus,0.400871,4.85318,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.222696,-14.95737,loser
+hash-2,hash,Provenance Blockchain,0.02416383,-7.28619,loser
+syrup,syrup,Maple Finance,0.447448,-5.43816,loser
+dydx-chain,dydx,dYdX,0.580269,-5.13339,loser
+crypto-com-chain,cro,Cronos,0.258208,-4.64464,loser
+pyth-network,pyth,Pyth Network,0.159359,-4.04968,loser
+wormhole,w,Wormhole,0.077273,-3.97996,loser
+filecoin,fil,Filecoin,2.25,-3.86323,loser
+loaded-lions,lion,Loaded Lions,0.02016502,-3.4573,loser
+keeta,kta,Keeta,0.783044,-3.29379,loser
