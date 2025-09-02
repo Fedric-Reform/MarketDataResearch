@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.869227,14.02436,gainer
-sky,sky,Sky,0.073468,12.3751,gainer
-beam-2,beam,Beam,0.007545,10.55407,gainer
-zebec-network,zbcn,Zebec Network,0.00398264,9.40336,gainer
-bitget-token,bgb,Bitget Token,5.02,7.97167,gainer
-ethena,ena,Ethena,0.67926,7.83515,gainer
-pump-fun,pump,Pump.fun,0.00365712,6.96411,gainer
-bitcoin-cash,bch,Bitcoin Cash,575.95,5.71108,gainer
-four,form,Four,3.35,5.57651,gainer
-walrus-2,wal,Walrus,0.402298,5.22642,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.223171,-15.47463,loser
+memecore,m,MemeCore,0.867317,13.77376,gainer
+sky,sky,Sky,0.073274,12.07825,gainer
+beam-2,beam,Beam,0.007545,10.55406,gainer
+zebec-network,zbcn,Zebec Network,0.0039807,9.34996,gainer
+bitget-token,bgb,Bitget Token,5.03,8.03494,gainer
+ethena,ena,Ethena,0.67891,7.7795,gainer
+pump-fun,pump,Pump.fun,0.00364484,6.60493,gainer
+bitcoin-cash,bch,Bitcoin Cash,575.89,5.70058,gainer
+four,form,Four,3.35,5.59357,gainer
+walrus-2,wal,Walrus,0.401583,5.03929,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.222725,-15.6432,loser
 hash-2,hash,Provenance Blockchain,0.02427905,-6.84412,loser
-syrup,syrup,Maple Finance,0.449641,-4.97476,loser
-dydx-chain,dydx,dYdX,0.583141,-4.66381,loser
-crypto-com-chain,cro,Cronos,0.25919,-4.3783,loser
-keeta,kta,Keeta,0.782571,-4.00885,loser
-pyth-network,pyth,Pyth Network,0.159968,-3.68272,loser
-wormhole,w,Wormhole,0.077543,-3.6324,loser
-filecoin,fil,Filecoin,2.26,-3.5084,loser
-loaded-lions,lion,Loaded Lions,0.02019423,-3.31747,loser
+syrup,syrup,Maple Finance,0.449374,-5.03123,loser
+dydx-chain,dydx,dYdX,0.58293,-4.69832,loser
+crypto-com-chain,cro,Cronos,0.258601,-4.59574,loser
+keeta,kta,Keeta,0.781899,-4.09133,loser
+pyth-network,pyth,Pyth Network,0.159731,-3.82577,loser
+wormhole,w,Wormhole,0.077432,-3.77042,loser
+filecoin,fil,Filecoin,2.26,-3.55359,loser
+loaded-lions,lion,Loaded Lions,0.02019046,-3.33553,loser
