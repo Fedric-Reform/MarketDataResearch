@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073248,11.93784,gainer
-beam-2,beam,Beam,0.00752406,10.0744,gainer
-memecore,m,MemeCore,0.863661,9.16854,gainer
-zebec-network,zbcn,Zebec Network,0.00396658,9.00136,gainer
-bitget-token,bgb,Bitget Token,5.02,8.00077,gainer
-ethena,ena,Ethena,0.677166,7.39867,gainer
-pump-fun,pump,Pump.fun,0.00364093,6.41875,gainer
-four,form,Four,3.35,5.61915,gainer
-bitcoin-cash,bch,Bitcoin Cash,575.51,5.54318,gainer
-walrus-2,wal,Walrus,0.400871,4.85318,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.222696,-14.95737,loser
-hash-2,hash,Provenance Blockchain,0.02416383,-7.28619,loser
-syrup,syrup,Maple Finance,0.447448,-5.43816,loser
-dydx-chain,dydx,dYdX,0.580269,-5.13339,loser
-crypto-com-chain,cro,Cronos,0.258208,-4.64464,loser
-pyth-network,pyth,Pyth Network,0.159359,-4.04968,loser
-wormhole,w,Wormhole,0.077273,-3.97996,loser
-filecoin,fil,Filecoin,2.25,-3.86323,loser
-loaded-lions,lion,Loaded Lions,0.02016502,-3.4573,loser
-keeta,kta,Keeta,0.783044,-3.29379,loser
+sky,sky,Sky,0.073053,11.63287,gainer
+beam-2,beam,Beam,0.00747663,9.44482,gainer
+zebec-network,zbcn,Zebec Network,0.00396984,9.40738,gainer
+bitget-token,bgb,Bitget Token,5.02,8.16284,gainer
+ethena,ena,Ethena,0.673911,6.85012,gainer
+four,form,Four,3.35,6.30665,gainer
+pump-fun,pump,Pump.fun,0.00360875,5.70214,gainer
+bitcoin-cash,bch,Bitcoin Cash,574.85,5.42295,gainer
+memecore,m,MemeCore,0.859005,4.71158,gainer
+walrus-2,wal,Walrus,0.39981,4.56876,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.222039,-14.98188,loser
+hash-2,hash,Provenance Blockchain,0.02416383,-7.16013,loser
+syrup,syrup,Maple Finance,0.447167,-5.74662,loser
+crypto-com-chain,cro,Cronos,0.257541,-4.89077,loser
+dydx-chain,dydx,dYdX,0.578799,-4.39162,loser
+pyth-network,pyth,Pyth Network,0.159047,-4.14225,loser
+loaded-lions,lion,Loaded Lions,0.02008015,-3.94769,loser
+wormhole,w,Wormhole,0.077206,-3.94452,loser
+filecoin,fil,Filecoin,2.25,-3.76109,loser
+keeta,kta,Keeta,0.780333,-3.40243,loser
