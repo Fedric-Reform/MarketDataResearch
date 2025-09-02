@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073627,12.77664,gainer
-memecore,m,MemeCore,0.878899,10.05689,gainer
-beam-2,beam,Beam,0.00745019,9.51252,gainer
-pump-fun,pump,Pump.fun,0.00369984,9.33722,gainer
-four,form,Four,3.36,7.67214,gainer
-bitcoin-cash,bch,Bitcoin Cash,576.96,6.70872,gainer
-ethena,ena,Ethena,0.672547,6.55451,gainer
-zebec-network,zbcn,Zebec Network,0.0039453,6.29329,gainer
-bitget-token,bgb,Bitget Token,4.97,6.07853,gainer
-walrus-2,wal,Walrus,0.399735,5.26379,gainer
-crypto-com-chain,cro,Cronos,0.253352,-6.89588,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.223035,-6.2914,loser
-loaded-lions,lion,Loaded Lions,0.01984282,-4.87045,loser
-pyth-network,pyth,Pyth Network,0.157711,-4.32558,loser
-virtual-protocol,virtual,Virtuals Protocol,1.028,-3.64273,loser
+sky,sky,Sky,0.073599,12.73386,gainer
+memecore,m,MemeCore,0.880878,9.59546,gainer
+pump-fun,pump,Pump.fun,0.00369435,9.54835,gainer
+beam-2,beam,Beam,0.0074452,9.43916,gainer
+four,form,Four,3.36,8.43879,gainer
+bitcoin-cash,bch,Bitcoin Cash,577.09,6.73303,gainer
+ethena,ena,Ethena,0.672352,6.52363,gainer
+zebec-network,zbcn,Zebec Network,0.00395108,6.44897,gainer
+bitget-token,bgb,Bitget Token,4.97,6.06735,gainer
+walrus-2,wal,Walrus,0.399664,5.24509,gainer
+crypto-com-chain,cro,Cronos,0.253165,-6.68479,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.223753,-5.98975,loser
+loaded-lions,lion,Loaded Lions,0.01984391,-4.86519,loser
+pyth-network,pyth,Pyth Network,0.157566,-4.41343,loser
+virtual-protocol,virtual,Virtuals Protocol,1.027,-3.70832,loser
 hash-2,hash,Provenance Blockchain,0.02487342,-3.29956,loser
-syrup,syrup,Maple Finance,0.447817,-3.28654,loser
-conflux-token,cfx,Conflux,0.174113,-3.20612,loser
-keeta,kta,Keeta,0.780024,-3.05406,loser
-filecoin,fil,Filecoin,2.24,-2.9965,loser
+syrup,syrup,Maple Finance,0.447805,-3.28906,loser
+filecoin,fil,Filecoin,2.24,-2.999,loser
+wormhole,w,Wormhole,0.077098,-2.75753,loser
+spx6900,spx,SPX6900,1.071,-2.56779,loser
