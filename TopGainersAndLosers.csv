@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.88181,15.80742,gainer
-bitget-token,bgb,Bitget Token,5.09,9.47381,gainer
-four,form,Four,3.31,8.6814,gainer
-sky,sky,Sky,0.071037,8.6724,gainer
-zebec-network,zbcn,Zebec Network,0.0038881,6.03273,gainer
-ethena,ena,Ethena,0.670004,5.82521,gainer
-beam-2,beam,Beam,0.0072682,5.77064,gainer
-pump-fun,pump,Pump.fun,0.00367299,5.57901,gainer
-walrus-2,wal,Walrus,0.400659,4.07488,gainer
-bitcoin-cash,bch,Bitcoin Cash,567.88,3.8371,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.231549,-26.0267,loser
-keeta,kta,Keeta,0.756435,-11.52353,loser
-syrup,syrup,Maple Finance,0.442642,-6.9884,loser
-crypto-com-chain,cro,Cronos,0.258955,-6.0771,loser
-virtual-protocol,virtual,Virtuals Protocol,1.018,-5.36013,loser
-dydx-chain,dydx,dYdX,0.578765,-5.22554,loser
-loaded-lions,lion,Loaded Lions,0.02006437,-4.91151,loser
-wormhole,w,Wormhole,0.077296,-4.73598,loser
-build-on,b,BUILDon,0.670442,-4.69936,loser
-evervalue-coin,eva,EverValue Coin,21.17,-4.44143,loser
+memecore,m,MemeCore,0.892622,17.22734,gainer
+bitget-token,bgb,Bitget Token,5.1,9.68805,gainer
+sky,sky,Sky,0.071482,9.3043,gainer
+four,form,Four,3.32,7.63636,gainer
+zebec-network,zbcn,Zebec Network,0.00390711,6.551,gainer
+ethena,ena,Ethena,0.67342,6.36468,gainer
+beam-2,beam,Beam,0.00728189,6.11327,gainer
+pump-fun,pump,Pump.fun,0.00368604,5.95424,gainer
+walrus-2,wal,Walrus,0.402326,4.5079,gainer
+zcash,zec,Zcash,41.37,4.09087,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.232258,-25.80024,loser
+keeta,kta,Keeta,0.75737,-11.41417,loser
+syrup,syrup,Maple Finance,0.443119,-6.88815,loser
+crypto-com-chain,cro,Cronos,0.259437,-5.90232,loser
+dydx-chain,dydx,dYdX,0.579289,-5.13965,loser
+loaded-lions,lion,Loaded Lions,0.02007106,-4.87978,loser
+build-on,b,BUILDon,0.672182,-4.4521,loser
+wormhole,w,Wormhole,0.077605,-4.35485,loser
+virtual-protocol,virtual,Virtuals Protocol,1.028,-4.12189,loser
+evervalue-coin,eva,EverValue Coin,21.33,-3.72587,loser
