@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.824671,25.56359,gainer
-walrus-2,wal,Walrus,0.408081,5.96814,gainer
-four,form,Four,3.16,5.02247,gainer
-pump-fun,pump,Pump.fun,0.00359686,4.59752,gainer
-sky,sky,Sky,0.066198,3.66569,gainer
-bitget-token,bgb,Bitget Token,4.68,3.23566,gainer
-bitcoin-cash,bch,Bitcoin Cash,555.03,2.4339,gainer
-saros-finance,saros,Saros,0.362308,2.21707,gainer
-pax-gold,paxg,PAX Gold,3533.12,2.19088,gainer
-tether-gold,xaut,Tether Gold,3524.46,1.88755,gainer
-keeta,kta,Keeta,0.762264,-13.28058,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.245111,-12.80424,loser
-bonk,bonk,Bonk,2.007e-05,-8.57731,loser
-pyth-network,pyth,Pyth Network,0.163025,-8.11482,loser
-crypto-com-chain,cro,Cronos,0.262394,-8.04748,loser
-flow,flow,Flow,0.403215,-7.84568,loser
-virtual-protocol,virtual,Virtuals Protocol,1.021,-7.76432,loser
-conflux-token,cfx,Conflux,0.176697,-6.5447,loser
-just,jst,JUST,0.03486268,-6.22382,loser
-loaded-lions,lion,Loaded Lions,0.02041374,-6.05928,loser
+memecore,m,MemeCore,0.841609,28.60333,gainer
+walrus-2,wal,Walrus,0.408694,6.46953,gainer
+four,form,Four,3.16,5.38959,gainer
+pump-fun,pump,Pump.fun,0.00361532,5.37466,gainer
+sky,sky,Sky,0.06647,4.27863,gainer
+bitcoin-cash,bch,Bitcoin Cash,560.82,3.62122,gainer
+bitget-token,bgb,Bitget Token,4.69,3.54894,gainer
+saros-finance,saros,Saros,0.363065,2.61972,gainer
+stellar,xlm,Stellar,0.358334,2.09916,gainer
+pax-gold,paxg,PAX Gold,3531.46,2.0435,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.243276,-13.45717,loser
+keeta,kta,Keeta,0.764307,-13.13734,loser
+bonk,bonk,Bonk,2.011e-05,-7.64777,loser
+virtual-protocol,virtual,Virtuals Protocol,1.026,-7.22237,loser
+pyth-network,pyth,Pyth Network,0.16428,-7.1483,loser
+flow,flow,Flow,0.405266,-7.06337,loser
+just,jst,JUST,0.03489891,-6.05372,loser
+conflux-token,cfx,Conflux,0.177273,-5.98312,loser
+crypto-com-chain,cro,Cronos,0.262875,-5.93525,loser
+axie-infinity,axs,Axie Infinity,2.33,-5.34032,loser
