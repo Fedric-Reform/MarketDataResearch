@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.876334,18.39478,gainer
-sky,sky,Sky,0.073954,13.24651,gainer
-beam-2,beam,Beam,0.00749126,9.55876,gainer
-pump-fun,pump,Pump.fun,0.00370732,8.53436,gainer
-bitget-token,bgb,Bitget Token,5.03,8.13861,gainer
-ethena,ena,Ethena,0.682344,8.00959,gainer
-zebec-network,zbcn,Zebec Network,0.00391721,6.93495,gainer
-bitcoin-cash,bch,Bitcoin Cash,579.92,6.44249,gainer
-walrus-2,wal,Walrus,0.403554,5.47486,gainer
-four,form,Four,3.34,5.16445,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.21976,-15.63066,loser
-hash-2,hash,Provenance Blockchain,0.02427905,-5.78313,loser
-keeta,kta,Keeta,0.784841,-5.48022,loser
-crypto-com-chain,cro,Cronos,0.258739,-5.2504,loser
-syrup,syrup,Maple Finance,0.45019,-4.74008,loser
-dydx-chain,dydx,dYdX,0.585088,-4.36506,loser
-loaded-lions,lion,Loaded Lions,0.02021824,-4.02324,loser
-evervalue-coin,eva,EverValue Coin,21.52,-3.79649,loser
-wormhole,w,Wormhole,0.077661,-3.62058,loser
-filecoin,fil,Filecoin,2.26,-3.19717,loser
+sky,sky,Sky,0.074191,13.58062,gainer
+memecore,m,MemeCore,0.836083,11.36181,gainer
+beam-2,beam,Beam,0.00754948,10.62767,gainer
+zebec-network,zbcn,Zebec Network,0.00395247,8.5807,gainer
+ethena,ena,Ethena,0.682769,8.1681,gainer
+bitget-token,bgb,Bitget Token,5.02,7.88511,gainer
+pump-fun,pump,Pump.fun,0.00367239,7.41754,gainer
+four,form,Four,3.35,6.07992,gainer
+bitcoin-cash,bch,Bitcoin Cash,577.57,6.00142,gainer
+walrus-2,wal,Walrus,0.404008,5.85967,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.222854,-15.8029,loser
+hash-2,hash,Provenance Blockchain,0.02427905,-6.73349,loser
+crypto-com-chain,cro,Cronos,0.259001,-4.44209,loser
+dydx-chain,dydx,dYdX,0.583595,-4.42537,loser
+keeta,kta,Keeta,0.78596,-4.10095,loser
+syrup,syrup,Maple Finance,0.451727,-4.04122,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.97,-3.66423,loser
+wormhole,w,Wormhole,0.077611,-3.50034,loser
+evervalue-coin,eva,EverValue Coin,21.57,-3.38526,loser
+loaded-lions,lion,Loaded Lions,0.02017062,-3.3295,loser
