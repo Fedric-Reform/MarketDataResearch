@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.907119,38.66744,gainer
-pump-fun,pump,Pump.fun,0.00360627,7.54074,gainer
-four,form,Four,3.18,7.06706,gainer
-walrus-2,wal,Walrus,0.404693,6.74314,gainer
-sky,sky,Sky,0.06757,6.30641,gainer
-bitcoin-cash,bch,Bitcoin Cash,559.54,4.39762,gainer
-saros-finance,saros,Saros,0.364699,4.05309,gainer
-bitget-token,bgb,Bitget Token,4.68,3.73304,gainer
-clbtc,clbtc,clBTC,110313.0,3.01681,gainer
-stellar,xlm,Stellar,0.356931,2.83517,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.236351,-15.92056,loser
-keeta,kta,Keeta,0.765854,-12.91269,loser
-pyth-network,pyth,Pyth Network,0.163562,-6.92691,loser
-crypto-com-chain,cro,Cronos,0.261501,-6.07636,loser
-loaded-lions,lion,Loaded Lions,0.0202484,-6.04197,loser
-virtual-protocol,virtual,Virtuals Protocol,1.023,-6.00843,loser
-flow,flow,Flow,0.407276,-5.89797,loser
-bonk,bonk,Bonk,2.02e-05,-5.73182,loser
-wemix-token,wemix,WEMIX,0.721702,-5.13157,loser
-evervalue-coin,eva,EverValue Coin,21.17,-5.09718,loser
+memecore,m,MemeCore,0.931981,43.36611,gainer
+walrus-2,wal,Walrus,0.406278,7.86641,gainer
+pump-fun,pump,Pump.fun,0.00358242,7.38625,gainer
+sky,sky,Sky,0.067819,6.99127,gainer
+bitcoin-cash,bch,Bitcoin Cash,564.07,5.53175,gainer
+four,form,Four,3.16,5.3858,gainer
+ethena,ena,Ethena,0.665903,4.86002,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.02902542,4.61153,gainer
+saros-finance,saros,Saros,0.365515,4.37247,gainer
+zcash,zec,Zcash,40.51,4.16521,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.228997,-18.53662,loser
+keeta,kta,Keeta,0.772171,-11.4163,loser
+pyth-network,pyth,Pyth Network,0.162647,-6.95187,loser
+crypto-com-chain,cro,Cronos,0.263006,-5.59552,loser
+bonk,bonk,Bonk,2.027e-05,-5.09764,loser
+virtual-protocol,virtual,Virtuals Protocol,1.027,-5.09005,loser
+build-on,b,BUILDon,0.685889,-5.01386,loser
+just,jst,JUST,0.03494857,-4.76359,loser
+loaded-lions,lion,Loaded Lions,0.02061733,-4.38114,loser
+wemix-token,wemix,WEMIX,0.722655,-4.3103,loser
