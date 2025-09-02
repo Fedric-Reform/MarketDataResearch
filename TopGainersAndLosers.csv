@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.799911,21.0328,gainer
-four,form,Four,3.16,4.191,gainer
-sky,sky,Sky,0.066082,3.62297,gainer
-walrus-2,wal,Walrus,0.39555,3.10608,gainer
-saros-finance,saros,Saros,0.361861,3.10044,gainer
-bitget-token,bgb,Bitget Token,4.65,2.8015,gainer
-pax-gold,paxg,PAX Gold,3509.23,1.52375,gainer
-dexe,dexe,DeXe,7.47,1.16136,gainer
-tether-gold,xaut,Tether Gold,3494.11,1.03891,gainer
-stellar,xlm,Stellar,0.35526,1.00718,gainer
-keeta,kta,Keeta,0.760344,-13.36435,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.245391,-12.70457,loser
-crypto-com-chain,cro,Cronos,0.262454,-10.70488,loser
-pyth-network,pyth,Pyth Network,0.159894,-10.45503,loser
-loaded-lions,lion,Loaded Lions,0.02028455,-9.3247,loser
-bonk,bonk,Bonk,2.01e-05,-9.19791,loser
-flow,flow,Flow,0.396929,-8.06911,loser
-virtual-protocol,virtual,Virtuals Protocol,1.021,-7.68706,loser
-conflux-token,cfx,Conflux,0.177497,-6.80512,loser
-axie-infinity,axs,Axie Infinity,2.31,-6.24642,loser
+memecore,m,MemeCore,0.799983,21.04377,gainer
+four,form,Four,3.16,4.23312,gainer
+saros-finance,saros,Saros,0.362613,3.36733,gainer
+sky,sky,Sky,0.065812,3.26692,gainer
+walrus-2,wal,Walrus,0.395551,3.10623,gainer
+bitget-token,bgb,Bitget Token,4.66,2.84573,gainer
+pax-gold,paxg,PAX Gold,3510.92,1.55901,gainer
+dexe,dexe,DeXe,7.47,1.15399,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109477.0,1.08836,gainer
+stellar,xlm,Stellar,0.355453,1.06189,gainer
+keeta,kta,Keeta,0.761679,-13.21223,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.245351,-12.71883,loser
+crypto-com-chain,cro,Cronos,0.262984,-10.52434,loser
+pyth-network,pyth,Pyth Network,0.160318,-10.21723,loser
+loaded-lions,lion,Loaded Lions,0.02028776,-8.98188,loser
+bonk,bonk,Bonk,2.012e-05,-8.86905,loser
+virtual-protocol,virtual,Virtuals Protocol,1.019,-7.78081,loser
+flow,flow,Flow,0.396882,-7.38416,loser
+conflux-token,cfx,Conflux,0.177632,-6.49394,loser
+axie-infinity,axs,Axie Infinity,2.31,-6.21122,loser
