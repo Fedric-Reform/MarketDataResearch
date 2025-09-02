@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.890621,35.07429,gainer
-pump-fun,pump,Pump.fun,0.00371521,14.04892,gainer
-zebec-network,zbcn,Zebec Network,0.00400482,8.68394,gainer
-sky,sky,Sky,0.068696,8.45262,gainer
-walrus-2,wal,Walrus,0.405414,8.16906,gainer
-ethena,ena,Ethena,0.67986,7.62458,gainer
-four,form,Four,3.2,6.58891,gainer
-bitcoin-cash,bch,Bitcoin Cash,562.72,5.96846,gainer
-decentraland,mana,Decentraland,0.296023,5.37122,gainer
-zcash,zec,Zcash,41.08,5.09331,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.237045,-15.67368,loser
-keeta,kta,Keeta,0.804459,-6.91387,loser
-build-on,b,BUILDon,0.673526,-5.77101,loser
-official-trump,trump,Official Trump,8.38,-5.31037,loser
-loaded-lions,lion,Loaded Lions,0.02034274,-4.53528,loser
-pyth-network,pyth,Pyth Network,0.166236,-4.33297,loser
-crypto-com-chain,cro,Cronos,0.262765,-4.08413,loser
-vision-3,vsn,Vision,0.158221,-3.60458,loser
-virtual-protocol,virtual,Virtuals Protocol,1.037,-3.45931,loser
-newton-project,ab,AB,0.0088195,-3.31324,loser
+memecore,m,MemeCore,0.865431,21.37071,gainer
+four,form,Four,3.32,18.25591,gainer
+sky,sky,Sky,0.071611,10.55706,gainer
+bitget-token,bgb,Bitget Token,5.08,10.24273,gainer
+ethena,ena,Ethena,0.68393,7.36045,gainer
+beam-2,beam,Beam,0.00730627,5.89948,gainer
+walrus-2,wal,Walrus,0.404665,4.92442,gainer
+pump-fun,pump,Pump.fun,0.00362313,4.41988,gainer
+zebec-network,zbcn,Zebec Network,0.00384681,3.69646,gainer
+wemix-token,wemix,WEMIX,0.735301,3.40076,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.236573,-25.27279,loser
+keeta,kta,Keeta,0.789784,-7.02051,loser
+official-trump,trump,Official Trump,8.36,-6.60137,loser
+crypto-com-chain,cro,Cronos,0.261331,-6.08549,loser
+syrup,syrup,Maple Finance,0.444998,-5.90702,loser
+loaded-lions,lion,Loaded Lions,0.02030222,-5.79576,loser
+virtual-protocol,virtual,Virtuals Protocol,1.023,-5.55957,loser
+filecoin,fil,Filecoin,2.26,-5.27782,loser
+spx6900,spx,SPX6900,1.077,-4.95405,loser
+dydx-chain,dydx,dYdX,0.580824,-4.83591,loser
