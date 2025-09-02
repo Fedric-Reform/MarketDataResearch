@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073465,12.46028,gainer
-beam-2,beam,Beam,0.00745281,9.41141,gainer
-four,form,Four,3.36,7.92717,gainer
-pump-fun,pump,Pump.fun,0.00362726,7.32087,gainer
-zebec-network,zbcn,Zebec Network,0.00392912,6.62135,gainer
-ethena,ena,Ethena,0.671789,6.61561,gainer
-bitcoin-cash,bch,Bitcoin Cash,576.17,6.32662,gainer
-memecore,m,MemeCore,0.863201,6.21805,gainer
-bitget-token,bgb,Bitget Token,4.97,6.16705,gainer
-walrus-2,wal,Walrus,0.398508,5.0573,gainer
-crypto-com-chain,cro,Cronos,0.253629,-6.83175,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.2201,-6.15774,loser
-loaded-lions,lion,Loaded Lions,0.01988502,-5.474,loser
-syrup,syrup,Maple Finance,0.445361,-4.78211,loser
+sky,sky,Sky,0.073401,12.31296,gainer
+beam-2,beam,Beam,0.00745567,9.53408,gainer
+memecore,m,MemeCore,0.872891,9.30462,gainer
+four,form,Four,3.36,7.85982,gainer
+pump-fun,pump,Pump.fun,0.00363661,7.46865,gainer
+zebec-network,zbcn,Zebec Network,0.00394258,6.46336,gainer
+ethena,ena,Ethena,0.670773,6.45445,gainer
+bitcoin-cash,bch,Bitcoin Cash,576.15,6.32345,gainer
+bitget-token,bgb,Bitget Token,4.97,6.00574,gainer
+walrus-2,wal,Walrus,0.398537,4.99217,gainer
+crypto-com-chain,cro,Cronos,0.253422,-6.87028,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.2219,-6.48561,loser
+loaded-lions,lion,Loaded Lions,0.01983887,-4.88936,loser
+virtual-protocol,virtual,Virtuals Protocol,1.024,-4.27168,loser
 tokenize-xchange,tkx,Tokenize Xchange,4.99,-4.23357,loser
-keeta,kta,Keeta,0.778237,-3.9764,loser
-pyth-network,pyth,Pyth Network,0.158494,-3.78727,loser
-hash-2,hash,Provenance Blockchain,0.02487256,-3.2987,loser
-spx6900,spx,SPX6900,1.068,-3.27708,loser
-virtual-protocol,virtual,Virtuals Protocol,1.023,-3.23209,loser
+syrup,syrup,Maple Finance,0.445481,-3.9778,loser
+pyth-network,pyth,Pyth Network,0.158285,-3.91446,loser
+keeta,kta,Keeta,0.77702,-3.86518,loser
+hash-2,hash,Provenance Blockchain,0.02484851,-3.39222,loser
+spx6900,spx,SPX6900,1.067,-3.35142,loser
