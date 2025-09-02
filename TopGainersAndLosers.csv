@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.819304,24.00367,gainer
-walrus-2,wal,Walrus,0.40506,5.3346,gainer
-four,form,Four,3.15,5.18209,gainer
-sky,sky,Sky,0.066919,4.87283,gainer
-pump-fun,pump,Pump.fun,0.00355998,3.79532,gainer
-bitget-token,bgb,Bitget Token,4.67,3.16565,gainer
-saros-finance,saros,Saros,0.362302,2.66207,gainer
-pax-gold,paxg,PAX Gold,3528.19,2.04831,gainer
-tether-gold,xaut,Tether Gold,3522.69,1.95437,gainer
-bitcoin-cash,bch,Bitcoin Cash,550.56,1.70006,gainer
-keeta,kta,Keeta,0.7623,-13.2765,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.245704,-12.59318,loser
-bonk,bonk,Bonk,2e-05,-8.82923,loser
-loaded-lions,lion,Loaded Lions,0.02020662,-8.71198,loser
-pyth-network,pyth,Pyth Network,0.162416,-8.69889,loser
-crypto-com-chain,cro,Cronos,0.261448,-8.37905,loser
-flow,flow,Flow,0.399909,-8.24818,loser
-virtual-protocol,virtual,Virtuals Protocol,1.016,-8.04529,loser
-conflux-token,cfx,Conflux,0.175991,-6.77885,loser
-just,jst,JUST,0.03481088,-6.29792,loser
+memecore,m,MemeCore,0.824671,25.56359,gainer
+walrus-2,wal,Walrus,0.408081,5.96814,gainer
+four,form,Four,3.16,5.02247,gainer
+pump-fun,pump,Pump.fun,0.00359686,4.59752,gainer
+sky,sky,Sky,0.066198,3.66569,gainer
+bitget-token,bgb,Bitget Token,4.68,3.23566,gainer
+bitcoin-cash,bch,Bitcoin Cash,555.03,2.4339,gainer
+saros-finance,saros,Saros,0.362308,2.21707,gainer
+pax-gold,paxg,PAX Gold,3533.12,2.19088,gainer
+tether-gold,xaut,Tether Gold,3524.46,1.88755,gainer
+keeta,kta,Keeta,0.762264,-13.28058,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.245111,-12.80424,loser
+bonk,bonk,Bonk,2.007e-05,-8.57731,loser
+pyth-network,pyth,Pyth Network,0.163025,-8.11482,loser
+crypto-com-chain,cro,Cronos,0.262394,-8.04748,loser
+flow,flow,Flow,0.403215,-7.84568,loser
+virtual-protocol,virtual,Virtuals Protocol,1.021,-7.76432,loser
+conflux-token,cfx,Conflux,0.176697,-6.5447,loser
+just,jst,JUST,0.03486268,-6.22382,loser
+loaded-lions,lion,Loaded Lions,0.02041374,-6.05928,loser
