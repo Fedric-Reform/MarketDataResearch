@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.7957,19.75482,gainer
-sky,sky,Sky,0.066466,4.34009,gainer
-four,form,Four,3.17,2.92077,gainer
-bitget-token,bgb,Bitget Token,4.65,2.8733,gainer
-walrus-2,wal,Walrus,0.392566,2.64136,gainer
-stellar,xlm,Stellar,0.356147,2.05049,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109632.0,1.73095,gainer
-saros-finance,saros,Saros,0.357387,1.61614,gainer
-wrapped-bitcoin,wbtc,Wrapped Bitcoin,109420.0,1.4803,gainer
-pax-gold,paxg,PAX Gold,3505.09,1.38249,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.239975,-14.63126,loser
-keeta,kta,Keeta,0.766859,-12.57317,loser
-crypto-com-chain,cro,Cronos,0.266508,-10.74268,loser
-pyth-network,pyth,Pyth Network,0.160648,-10.46504,loser
-bonk,bonk,Bonk,2.019e-05,-8.22672,loser
-loaded-lions,lion,Loaded Lions,0.02070845,-7.82955,loser
-flow,flow,Flow,0.396934,-7.37649,loser
-conflux-token,cfx,Conflux,0.177245,-6.97007,loser
-virtual-protocol,virtual,Virtuals Protocol,1.026,-6.67366,loser
-build-on,b,BUILDon,0.679766,-5.97774,loser
+memecore,m,MemeCore,0.795554,19.54519,gainer
+sky,sky,Sky,0.066468,4.34302,gainer
+four,form,Four,3.17,3.16318,gainer
+bitget-token,bgb,Bitget Token,4.65,2.87096,gainer
+walrus-2,wal,Walrus,0.392682,2.85993,gainer
+stellar,xlm,Stellar,0.356136,2.04729,gainer
+saros-finance,saros,Saros,0.357905,1.76342,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109436.0,1.54849,gainer
+pax-gold,paxg,PAX Gold,3505.97,1.40793,gainer
+dexe,dexe,DeXe,7.49,1.29602,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.242784,-13.632,loser
+keeta,kta,Keeta,0.765433,-12.35084,loser
+crypto-com-chain,cro,Cronos,0.265371,-11.12335,loser
+pyth-network,pyth,Pyth Network,0.160158,-10.73845,loser
+loaded-lions,lion,Loaded Lions,0.02053306,-8.61018,loser
+bonk,bonk,Bonk,2.017e-05,-8.5583,loser
+flow,flow,Flow,0.397232,-7.67058,loser
+conflux-token,cfx,Conflux,0.17691,-7.29176,loser
+virtual-protocol,virtual,Virtuals Protocol,1.024,-6.9082,loser
+wormhole,w,Wormhole,0.077473,-6.03412,loser
