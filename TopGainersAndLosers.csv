@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.880679,16.45697,gainer
-bitget-token,bgb,Bitget Token,5.07,9.02679,gainer
-four,form,Four,3.31,8.50191,gainer
-sky,sky,Sky,0.070868,8.41328,gainer
-zebec-network,zbcn,Zebec Network,0.00386832,5.38731,gainer
-beam-2,beam,Beam,0.00724074,5.37092,gainer
-ethena,ena,Ethena,0.667284,5.18434,gainer
-pump-fun,pump,Pump.fun,0.00364642,4.04854,gainer
-bitcoin-cash,bch,Bitcoin Cash,567.2,3.50394,gainer
-walrus-2,wal,Walrus,0.398089,3.28305,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.229579,-26.65604,loser
-keeta,kta,Keeta,0.753939,-11.72619,loser
-syrup,syrup,Maple Finance,0.440077,-7.08823,loser
-crypto-com-chain,cro,Cronos,0.257297,-6.67843,loser
-dydx-chain,dydx,dYdX,0.577315,-5.5532,loser
-build-on,b,BUILDon,0.664998,-5.38785,loser
-virtual-protocol,virtual,Virtuals Protocol,1.018,-5.32267,loser
-loaded-lions,lion,Loaded Lions,0.02004219,-5.1937,loser
-wormhole,w,Wormhole,0.07699,-5.11292,loser
-bonk,bonk,Bonk,2.002e-05,-5.06602,loser
+memecore,m,MemeCore,0.88181,15.80742,gainer
+bitget-token,bgb,Bitget Token,5.09,9.47381,gainer
+four,form,Four,3.31,8.6814,gainer
+sky,sky,Sky,0.071037,8.6724,gainer
+zebec-network,zbcn,Zebec Network,0.0038881,6.03273,gainer
+ethena,ena,Ethena,0.670004,5.82521,gainer
+beam-2,beam,Beam,0.0072682,5.77064,gainer
+pump-fun,pump,Pump.fun,0.00367299,5.57901,gainer
+walrus-2,wal,Walrus,0.400659,4.07488,gainer
+bitcoin-cash,bch,Bitcoin Cash,567.88,3.8371,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.231549,-26.0267,loser
+keeta,kta,Keeta,0.756435,-11.52353,loser
+syrup,syrup,Maple Finance,0.442642,-6.9884,loser
+crypto-com-chain,cro,Cronos,0.258955,-6.0771,loser
+virtual-protocol,virtual,Virtuals Protocol,1.018,-5.36013,loser
+dydx-chain,dydx,dYdX,0.578765,-5.22554,loser
+loaded-lions,lion,Loaded Lions,0.02006437,-4.91151,loser
+wormhole,w,Wormhole,0.077296,-4.73598,loser
+build-on,b,BUILDon,0.670442,-4.69936,loser
+evervalue-coin,eva,EverValue Coin,21.17,-4.44143,loser
