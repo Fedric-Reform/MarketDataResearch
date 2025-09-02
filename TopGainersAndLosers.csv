@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.785075,17.86909,gainer
-bitget-token,bgb,Bitget Token,4.66,3.13644,gainer
-four,form,Four,3.15,2.86287,gainer
-sky,sky,Sky,0.065952,2.80874,gainer
-tokenize-xchange,tkx,Tokenize Xchange,5.21,2.67813,gainer
-stellar,xlm,Stellar,0.357939,1.95278,gainer
-walrus-2,wal,Walrus,0.390517,1.85226,gainer
-solv-btc,solvbtc,Solv Protocol BTC,109795.0,1.7304,gainer
-tbtc,tbtc,tBTC,109099.0,1.36265,gainer
-bitcoin,btc,Bitcoin,109140.0,1.33617,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.238754,-15.06562,loser
-keeta,kta,Keeta,0.764892,-13.03847,loser
-pyth-network,pyth,Pyth Network,0.161558,-10.67947,loser
-bonk,bonk,Bonk,2.029e-05,-8.94926,loser
-conflux-token,cfx,Conflux,0.177063,-7.51014,loser
-virtual-protocol,virtual,Virtuals Protocol,1.026,-7.33936,loser
-crypto-com-chain,cro,Cronos,0.267862,-7.26007,loser
-flow,flow,Flow,0.397135,-6.96032,loser
-loaded-lions,lion,Loaded Lions,0.02060335,-6.92412,loser
-wormhole,w,Wormhole,0.077743,-6.6158,loser
+memecore,m,MemeCore,0.782338,17.83613,gainer
+bitget-token,bgb,Bitget Token,4.66,3.07232,gainer
+four,form,Four,3.17,2.8705,gainer
+sky,sky,Sky,0.065843,2.76895,gainer
+stellar,xlm,Stellar,0.357897,2.19466,gainer
+walrus-2,wal,Walrus,0.390856,1.93991,gainer
+saros-finance,saros,Saros,0.358027,1.70635,gainer
+solv-btc,solvbtc,Solv Protocol BTC,109624.0,1.66785,gainer
+tbtc,tbtc,tBTC,109075.0,1.50314,gainer
+wrapped-bitcoin,wbtc,Wrapped Bitcoin,109420.0,1.45013,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.238245,-15.24688,loser
+keeta,kta,Keeta,0.766645,-12.83915,loser
+pyth-network,pyth,Pyth Network,0.161136,-10.71678,loser
+bonk,bonk,Bonk,2.027e-05,-8.72883,loser
+loaded-lions,lion,Loaded Lions,0.02062445,-8.65879,loser
+flow,flow,Flow,0.397764,-7.64031,loser
+conflux-token,cfx,Conflux,0.177333,-7.36911,loser
+crypto-com-chain,cro,Cronos,0.267619,-7.34436,loser
+virtual-protocol,virtual,Virtuals Protocol,1.027,-7.10248,loser
+wormhole,w,Wormhole,0.077724,-6.32852,loser
