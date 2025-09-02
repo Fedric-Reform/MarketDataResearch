@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073293,12.21458,gainer
-beam-2,beam,Beam,0.0075407,10.959,gainer
-zebec-network,zbcn,Zebec Network,0.00399477,8.59944,gainer
-pump-fun,pump,Pump.fun,0.00363836,8.1433,gainer
-ethena,ena,Ethena,0.675505,7.69229,gainer
-four,form,Four,3.35,7.42131,gainer
-bitget-token,bgb,Bitget Token,4.96,6.56635,gainer
-bitcoin-cash,bch,Bitcoin Cash,575.64,6.08879,gainer
-zcash,zec,Zcash,41.56,5.65454,gainer
-walrus-2,wal,Walrus,0.400245,5.60478,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.220926,-8.27551,loser
-crypto-com-chain,cro,Cronos,0.255344,-5.42047,loser
-loaded-lions,lion,Loaded Lions,0.01991407,-4.84861,loser
-syrup,syrup,Maple Finance,0.447088,-4.22539,loser
+sky,sky,Sky,0.073281,12.19581,gainer
+beam-2,beam,Beam,0.00755227,11.07743,gainer
+zebec-network,zbcn,Zebec Network,0.00399597,8.33924,gainer
+pump-fun,pump,Pump.fun,0.00363933,8.17203,gainer
+ethena,ena,Ethena,0.675488,7.68969,gainer
+four,form,Four,3.36,7.48693,gainer
+bitget-token,bgb,Bitget Token,4.96,6.60767,gainer
+bitcoin-cash,bch,Bitcoin Cash,576.03,6.22146,gainer
+walrus-2,wal,Walrus,0.400555,5.68653,gainer
+zcash,zec,Zcash,41.56,5.37284,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.22103,-7.99453,loser
+crypto-com-chain,cro,Cronos,0.255362,-5.41397,loser
+loaded-lions,lion,Loaded Lions,0.01992948,-4.77496,loser
+syrup,syrup,Maple Finance,0.447175,-4.43964,loser
 hash-2,hash,Provenance Blockchain,0.02492543,-3.92784,loser
-pyth-network,pyth,Pyth Network,0.159296,-3.62188,loser
-keeta,kta,Keeta,0.781292,-3.25537,loser
-wormhole,w,Wormhole,0.077437,-2.98656,loser
-evervalue-coin,eva,EverValue Coin,21.59,-2.77158,loser
-frax-ether,frxeth,Frax Ether,4269.79,-2.49595,loser
+pyth-network,pyth,Pyth Network,0.159462,-3.53651,loser
+keeta,kta,Keeta,0.779411,-3.48821,loser
+evervalue-coin,eva,EverValue Coin,21.49,-3.19762,loser
+wormhole,w,Wormhole,0.077435,-2.7209,loser
+frax-ether,frxeth,Frax Ether,4268.77,-2.51929,loser
