@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.074191,13.58062,gainer
-memecore,m,MemeCore,0.836083,11.36181,gainer
-beam-2,beam,Beam,0.00754948,10.62767,gainer
-zebec-network,zbcn,Zebec Network,0.00395247,8.5807,gainer
-ethena,ena,Ethena,0.682769,8.1681,gainer
-bitget-token,bgb,Bitget Token,5.02,7.88511,gainer
-pump-fun,pump,Pump.fun,0.00367239,7.41754,gainer
-four,form,Four,3.35,6.07992,gainer
-bitcoin-cash,bch,Bitcoin Cash,577.57,6.00142,gainer
-walrus-2,wal,Walrus,0.404008,5.85967,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.222854,-15.8029,loser
-hash-2,hash,Provenance Blockchain,0.02427905,-6.73349,loser
-crypto-com-chain,cro,Cronos,0.259001,-4.44209,loser
-dydx-chain,dydx,dYdX,0.583595,-4.42537,loser
-keeta,kta,Keeta,0.78596,-4.10095,loser
-syrup,syrup,Maple Finance,0.451727,-4.04122,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.97,-3.66423,loser
-wormhole,w,Wormhole,0.077611,-3.50034,loser
-evervalue-coin,eva,EverValue Coin,21.57,-3.38526,loser
-loaded-lions,lion,Loaded Lions,0.02017062,-3.3295,loser
+memecore,m,MemeCore,0.869227,14.02436,gainer
+sky,sky,Sky,0.073468,12.3751,gainer
+beam-2,beam,Beam,0.007545,10.55407,gainer
+zebec-network,zbcn,Zebec Network,0.00398264,9.40336,gainer
+bitget-token,bgb,Bitget Token,5.02,7.97167,gainer
+ethena,ena,Ethena,0.67926,7.83515,gainer
+pump-fun,pump,Pump.fun,0.00365712,6.96411,gainer
+bitcoin-cash,bch,Bitcoin Cash,575.95,5.71108,gainer
+four,form,Four,3.35,5.57651,gainer
+walrus-2,wal,Walrus,0.402298,5.22642,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.223171,-15.47463,loser
+hash-2,hash,Provenance Blockchain,0.02427905,-6.84412,loser
+syrup,syrup,Maple Finance,0.449641,-4.97476,loser
+dydx-chain,dydx,dYdX,0.583141,-4.66381,loser
+crypto-com-chain,cro,Cronos,0.25919,-4.3783,loser
+keeta,kta,Keeta,0.782571,-4.00885,loser
+pyth-network,pyth,Pyth Network,0.159968,-3.68272,loser
+wormhole,w,Wormhole,0.077543,-3.6324,loser
+filecoin,fil,Filecoin,2.26,-3.5084,loser
+loaded-lions,lion,Loaded Lions,0.02019423,-3.31747,loser
