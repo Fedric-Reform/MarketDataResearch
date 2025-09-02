@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.879232,32.92571,gainer
-pump-fun,pump,Pump.fun,0.00368462,11.4535,gainer
-walrus-2,wal,Walrus,0.40706,7.74061,gainer
-sky,sky,Sky,0.068568,7.62734,gainer
-ethena,ena,Ethena,0.677038,6.51258,gainer
-bitcoin-cash,bch,Bitcoin Cash,565.55,5.82588,gainer
-four,form,Four,3.18,5.61964,gainer
-zcash,zec,Zcash,40.68,4.72996,gainer
-bitget-token,bgb,Bitget Token,4.7,3.98117,gainer
-saros-finance,saros,Saros,0.364875,3.96395,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.228399,-18.74916,loser
-keeta,kta,Keeta,0.797475,-8.39383,loser
-pyth-network,pyth,Pyth Network,0.164711,-6.92103,loser
-loaded-lions,lion,Loaded Lions,0.02021429,-6.25173,loser
-crypto-com-chain,cro,Cronos,0.261205,-6.01946,loser
-bonk,bonk,Bonk,2.053e-05,-5.62954,loser
-build-on,b,BUILDon,0.678811,-5.50273,loser
-flow,flow,Flow,0.408942,-4.96503,loser
-virtual-protocol,virtual,Virtuals Protocol,1.036,-4.44279,loser
-vision-3,vsn,Vision,0.158224,-3.75315,loser
+memecore,m,MemeCore,0.861806,32.12546,gainer
+pump-fun,pump,Pump.fun,0.00365788,11.50847,gainer
+walrus-2,wal,Walrus,0.405246,7.44821,gainer
+sky,sky,Sky,0.068167,7.28707,gainer
+ethena,ena,Ethena,0.674608,6.4279,gainer
+bitcoin-cash,bch,Bitcoin Cash,565.05,5.64483,gainer
+four,form,Four,3.17,5.58632,gainer
+zcash,zec,Zcash,40.73,4.77904,gainer
+saros-finance,saros,Saros,0.365359,3.84351,gainer
+decentraland,mana,Decentraland,0.294255,3.74078,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.230609,-17.96308,loser
+keeta,kta,Keeta,0.795605,-8.36858,loser
+pyth-network,pyth,Pyth Network,0.164438,-6.57944,loser
+crypto-com-chain,cro,Cronos,0.260919,-6.14635,loser
+build-on,b,BUILDon,0.675132,-5.84055,loser
+bonk,bonk,Bonk,2.047e-05,-5.49256,loser
+loaded-lions,lion,Loaded Lions,0.02037084,-5.4418,loser
+virtual-protocol,virtual,Virtuals Protocol,1.033,-4.7471,loser
+vision-3,vsn,Vision,0.158086,-3.85178,loser
+story-2,ip,Story,7.65,-3.54469,loser
