@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.074944,14.31712,gainer
-beam-2,beam,Beam,0.00757802,10.84514,gainer
-ethena,ena,Ethena,0.687526,8.71312,gainer
-pump-fun,pump,Pump.fun,0.00373278,8.56448,gainer
-zebec-network,zbcn,Zebec Network,0.00398264,8.28286,gainer
-bitget-token,bgb,Bitget Token,5.04,8.06534,gainer
-bitcoin-cash,bch,Bitcoin Cash,581.12,6.67344,gainer
-four,form,Four,3.33,6.00223,gainer
-walrus-2,wal,Walrus,0.404828,5.71116,gainer
-memecore,m,MemeCore,0.856303,5.36665,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.218246,-18.29915,loser
-keeta,kta,Keeta,0.774808,-6.65919,loser
-syrup,syrup,Maple Finance,0.450228,-4.83742,loser
-crypto-com-chain,cro,Cronos,0.260565,-4.77864,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.91,-4.36143,loser
-build-on,b,BUILDon,0.662106,-4.12319,loser
-dydx-chain,dydx,dYdX,0.588913,-3.66281,loser
-wormhole,w,Wormhole,0.078064,-3.44717,loser
-evervalue-coin,eva,EverValue Coin,21.56,-3.17528,loser
-filecoin,fil,Filecoin,2.27,-2.86045,loser
+sky,sky,Sky,0.074848,14.17026,gainer
+beam-2,beam,Beam,0.00757062,10.73682,gainer
+pump-fun,pump,Pump.fun,0.00376084,9.38055,gainer
+zebec-network,zbcn,Zebec Network,0.00399719,8.67844,gainer
+ethena,ena,Ethena,0.687136,8.65151,gainer
+memecore,m,MemeCore,0.861779,8.54718,gainer
+bitget-token,bgb,Bitget Token,5.05,8.17593,gainer
+bitcoin-cash,bch,Bitcoin Cash,580.6,6.57667,gainer
+walrus-2,wal,Walrus,0.404899,5.6985,gainer
+four,form,Four,3.32,5.57626,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.217886,-18.43372,loser
+keeta,kta,Keeta,0.779423,-6.10329,loser
+crypto-com-chain,cro,Cronos,0.260159,-4.92699,loser
+syrup,syrup,Maple Finance,0.450596,-4.75965,loser
+loaded-lions,lion,Loaded Lions,0.0203124,-4.4986,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.91,-4.09013,loser
+build-on,b,BUILDon,0.662387,-4.08254,loser
+dydx-chain,dydx,dYdX,0.588712,-3.69574,loser
+wormhole,w,Wormhole,0.078036,-3.48106,loser
+evervalue-coin,eva,EverValue Coin,21.62,-3.24198,loser
