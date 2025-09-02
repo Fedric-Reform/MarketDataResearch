@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073281,12.19581,gainer
-beam-2,beam,Beam,0.00755227,11.07743,gainer
-zebec-network,zbcn,Zebec Network,0.00399597,8.33924,gainer
-pump-fun,pump,Pump.fun,0.00363933,8.17203,gainer
-ethena,ena,Ethena,0.675488,7.68969,gainer
-four,form,Four,3.36,7.48693,gainer
-bitget-token,bgb,Bitget Token,4.96,6.60767,gainer
-bitcoin-cash,bch,Bitcoin Cash,576.03,6.22146,gainer
-walrus-2,wal,Walrus,0.400555,5.68653,gainer
-zcash,zec,Zcash,41.56,5.37284,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.22103,-7.99453,loser
-crypto-com-chain,cro,Cronos,0.255362,-5.41397,loser
-loaded-lions,lion,Loaded Lions,0.01992948,-4.77496,loser
-syrup,syrup,Maple Finance,0.447175,-4.43964,loser
-hash-2,hash,Provenance Blockchain,0.02492543,-3.92784,loser
-pyth-network,pyth,Pyth Network,0.159462,-3.53651,loser
-keeta,kta,Keeta,0.779411,-3.48821,loser
-evervalue-coin,eva,EverValue Coin,21.49,-3.19762,loser
-wormhole,w,Wormhole,0.077435,-2.7209,loser
-frax-ether,frxeth,Frax Ether,4268.77,-2.51929,loser
+sky,sky,Sky,0.073978,13.37295,gainer
+beam-2,beam,Beam,0.0075082,10.31759,gainer
+pump-fun,pump,Pump.fun,0.00364795,8.27726,gainer
+zebec-network,zbcn,Zebec Network,0.00398387,8.1756,gainer
+four,form,Four,3.36,8.09373,gainer
+ethena,ena,Ethena,0.675691,7.722,gainer
+bitcoin-cash,bch,Bitcoin Cash,576.53,6.31421,gainer
+bitget-token,bgb,Bitget Token,4.97,6.30765,gainer
+walrus-2,wal,Walrus,0.400399,5.48672,gainer
+reserve-rights-token,rsr,Reserve Rights,0.00753943,5.32143,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.218251,-6.94739,loser
+crypto-com-chain,cro,Cronos,0.254502,-5.90559,loser
+syrup,syrup,Maple Finance,0.447309,-4.41101,loser
+hash-2,hash,Provenance Blockchain,0.02494623,-3.84768,loser
+keeta,kta,Keeta,0.780424,-3.84502,loser
+loaded-lions,lion,Loaded Lions,0.01992253,-3.78832,loser
+virtual-protocol,virtual,Virtuals Protocol,1.016,-3.69023,loser
+pyth-network,pyth,Pyth Network,0.159625,-3.43798,loser
+conflux-token,cfx,Conflux,0.174185,-2.82975,loser
+evervalue-coin,eva,EverValue Coin,21.58,-2.78902,loser
