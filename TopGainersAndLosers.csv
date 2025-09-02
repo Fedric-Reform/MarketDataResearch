@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073113,11.90106,gainer
-zebec-network,zbcn,Zebec Network,0.00399221,10.0579,gainer
-beam-2,beam,Beam,0.00747086,9.48889,gainer
-bitget-token,bgb,Bitget Token,5.01,8.09185,gainer
-ethena,ena,Ethena,0.674015,6.86668,gainer
-four,form,Four,3.35,6.7,gainer
-pump-fun,pump,Pump.fun,0.00362349,6.3732,gainer
-bitcoin-cash,bch,Bitcoin Cash,575.24,5.50914,gainer
-walrus-2,wal,Walrus,0.399238,4.62454,gainer
-reserve-rights-token,rsr,Reserve Rights,0.00748946,4.1967,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.222488,-14.80974,loser
-hash-2,hash,Provenance Blockchain,0.02416383,-6.95163,loser
-syrup,syrup,Maple Finance,0.446704,-5.72085,loser
-crypto-com-chain,cro,Cronos,0.257464,-5.01614,loser
-dydx-chain,dydx,dYdX,0.579027,-4.27615,loser
-pyth-network,pyth,Pyth Network,0.15897,-4.18905,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.99,-3.94352,loser
-wormhole,w,Wormhole,0.077233,-3.83499,loser
-loaded-lions,lion,Loaded Lions,0.0200783,-3.81283,loser
-filecoin,fil,Filecoin,2.25,-3.31943,loser
+sky,sky,Sky,0.072929,11.62811,gainer
+beam-2,beam,Beam,0.00741857,8.84856,gainer
+zebec-network,zbcn,Zebec Network,0.00395422,8.6207,gainer
+four,form,Four,3.34,7.15643,gainer
+ethena,ena,Ethena,0.671779,6.95878,gainer
+bitget-token,bgb,Bitget Token,4.96,6.80837,gainer
+pump-fun,pump,Pump.fun,0.00360275,6.47406,gainer
+bitcoin-cash,bch,Bitcoin Cash,573.21,5.52715,gainer
+walrus-2,wal,Walrus,0.39769,4.28951,gainer
+reserve-rights-token,rsr,Reserve Rights,0.00746068,4.17547,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.220116,-13.4574,loser
+hash-2,hash,Provenance Blockchain,0.02416388,-6.86641,loser
+loaded-lions,lion,Loaded Lions,0.01981758,-5.87459,loser
+crypto-com-chain,cro,Cronos,0.254991,-5.84708,loser
+syrup,syrup,Maple Finance,0.443082,-5.48214,loser
+dydx-chain,dydx,dYdX,0.575106,-4.55463,loser
+virtual-protocol,virtual,Virtuals Protocol,1.019,-4.24735,loser
+wormhole,w,Wormhole,0.076905,-3.92975,loser
+pyth-network,pyth,Pyth Network,0.158434,-3.92517,loser
+spx6900,spx,SPX6900,1.066,-3.45722,loser
