@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.822373,25.52993,gainer
-four,form,Four,3.15,5.27264,gainer
-walrus-2,wal,Walrus,0.403651,5.03239,gainer
-sky,sky,Sky,0.066855,4.81803,gainer
-pump-fun,pump,Pump.fun,0.00353499,3.81323,gainer
-bitget-token,bgb,Bitget Token,4.67,3.06298,gainer
-saros-finance,saros,Saros,0.362432,2.99331,gainer
-pax-gold,paxg,PAX Gold,3527.94,2.18601,gainer
-bitcoin-cash,bch,Bitcoin Cash,550.19,1.63695,gainer
-tether-gold,xaut,Tether Gold,3499.88,1.32168,gainer
-keeta,kta,Keeta,0.764508,-12.74427,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.245993,-12.49053,loser
-pyth-network,pyth,Pyth Network,0.161327,-9.40238,loser
-crypto-com-chain,cro,Cronos,0.261491,-8.83798,loser
-bonk,bonk,Bonk,2.007e-05,-8.44055,loser
-flow,flow,Flow,0.399492,-8.25632,loser
-virtual-protocol,virtual,Virtuals Protocol,1.018,-7.86774,loser
-loaded-lions,lion,Loaded Lions,0.02025254,-7.81396,loser
-conflux-token,cfx,Conflux,0.176366,-6.59317,loser
-axie-infinity,axs,Axie Infinity,2.31,-6.07201,loser
+memecore,m,MemeCore,0.819304,24.00367,gainer
+walrus-2,wal,Walrus,0.40506,5.3346,gainer
+four,form,Four,3.15,5.18209,gainer
+sky,sky,Sky,0.066919,4.87283,gainer
+pump-fun,pump,Pump.fun,0.00355998,3.79532,gainer
+bitget-token,bgb,Bitget Token,4.67,3.16565,gainer
+saros-finance,saros,Saros,0.362302,2.66207,gainer
+pax-gold,paxg,PAX Gold,3528.19,2.04831,gainer
+tether-gold,xaut,Tether Gold,3522.69,1.95437,gainer
+bitcoin-cash,bch,Bitcoin Cash,550.56,1.70006,gainer
+keeta,kta,Keeta,0.7623,-13.2765,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.245704,-12.59318,loser
+bonk,bonk,Bonk,2e-05,-8.82923,loser
+loaded-lions,lion,Loaded Lions,0.02020662,-8.71198,loser
+pyth-network,pyth,Pyth Network,0.162416,-8.69889,loser
+crypto-com-chain,cro,Cronos,0.261448,-8.37905,loser
+flow,flow,Flow,0.399909,-8.24818,loser
+virtual-protocol,virtual,Virtuals Protocol,1.016,-8.04529,loser
+conflux-token,cfx,Conflux,0.175991,-6.77885,loser
+just,jst,JUST,0.03481088,-6.29792,loser
