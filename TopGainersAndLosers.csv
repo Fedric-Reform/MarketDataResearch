@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.910226,38.57439,gainer
-pump-fun,pump,Pump.fun,0.00364149,9.96816,gainer
-walrus-2,wal,Walrus,0.407714,8.2928,gainer
-sky,sky,Sky,0.068519,7.54489,gainer
-four,form,Four,3.18,6.05149,gainer
-bitcoin-cash,bch,Bitcoin Cash,565.19,5.56613,gainer
-ethena,ena,Ethena,0.668979,5.39207,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.02933954,4.64386,gainer
-clbtc,clbtc,clBTC,111390.0,4.36941,gainer
-saros-finance,saros,Saros,0.365446,4.29931,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.229154,-18.48085,loser
-keeta,kta,Keeta,0.793745,-8.77261,loser
-pyth-network,pyth,Pyth Network,0.163978,-7.29245,loser
-bonk,bonk,Bonk,2.037e-05,-6.92764,loser
-crypto-com-chain,cro,Cronos,0.26281,-6.01884,loser
-loaded-lions,lion,Loaded Lions,0.02042706,-5.13686,loser
-flow,flow,Flow,0.409929,-5.1305,loser
-build-on,b,BUILDon,0.684105,-4.87613,loser
-virtual-protocol,virtual,Virtuals Protocol,1.036,-4.46858,loser
-just,jst,JUST,0.03514796,-3.91425,loser
+memecore,m,MemeCore,0.888442,34.57753,gainer
+pump-fun,pump,Pump.fun,0.00361394,9.17937,gainer
+sky,sky,Sky,0.068724,8.23012,gainer
+walrus-2,wal,Walrus,0.406538,8.00682,gainer
+four,form,Four,3.18,5.8669,gainer
+bitcoin-cash,bch,Bitcoin Cash,564.61,5.6842,gainer
+ethena,ena,Ethena,0.666007,5.04502,gainer
+saros-finance,saros,Saros,0.365285,4.13232,gainer
+bitget-token,bgb,Bitget Token,4.7,4.13105,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.02917365,4.04765,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.226791,-19.32138,loser
+keeta,kta,Keeta,0.797785,-8.446,loser
+pyth-network,pyth,Pyth Network,0.163254,-7.89355,loser
+bonk,bonk,Bonk,2.034e-05,-7.08761,loser
+crypto-com-chain,cro,Cronos,0.261446,-6.46752,loser
+loaded-lions,lion,Loaded Lions,0.0203772,-5.58567,loser
+flow,flow,Flow,0.408167,-5.14949,loser
+virtual-protocol,virtual,Virtuals Protocol,1.03,-5.01349,loser
+build-on,b,BUILDon,0.684745,-4.70361,loser
+evervalue-coin,eva,EverValue Coin,21.33,-3.82208,loser
