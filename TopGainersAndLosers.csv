@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073867,12.94369,gainer
-pump-fun,pump,Pump.fun,0.0036993,10.58787,gainer
-beam-2,beam,Beam,0.00744499,9.7638,gainer
-four,form,Four,3.36,8.67805,gainer
-ethena,ena,Ethena,0.675635,7.54374,gainer
-bitcoin-cash,bch,Bitcoin Cash,580.32,7.43624,gainer
-bitget-token,bgb,Bitget Token,5.02,7.41316,gainer
-zebec-network,zbcn,Zebec Network,0.00397268,6.65903,gainer
-memecore,m,MemeCore,0.872022,5.77345,gainer
-zcash,zec,Zcash,41.64,5.54099,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.227987,-7.03567,loser
-crypto-com-chain,cro,Cronos,0.252423,-6.9738,loser
-loaded-lions,lion,Loaded Lions,0.01982088,-5.27961,loser
-pyth-network,pyth,Pyth Network,0.158337,-4.28221,loser
-virtual-protocol,virtual,Virtuals Protocol,1.032,-3.4144,loser
+sky,sky,Sky,0.074071,12.81696,gainer
+pump-fun,pump,Pump.fun,0.00369828,10.64907,gainer
+beam-2,beam,Beam,0.00744604,9.91082,gainer
+four,form,Four,3.36,8.62151,gainer
+bitget-token,bgb,Bitget Token,5.04,8.02806,gainer
+ethena,ena,Ethena,0.676993,7.75242,gainer
+memecore,m,MemeCore,0.871086,7.6294,gainer
+bitcoin-cash,bch,Bitcoin Cash,580.65,7.38056,gainer
+zebec-network,zbcn,Zebec Network,0.00397846,6.14597,gainer
+zcash,zec,Zcash,41.67,5.59974,gainer
+crypto-com-chain,cro,Cronos,0.253155,-6.58558,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.229102,-6.58094,loser
+loaded-lions,lion,Loaded Lions,0.01978808,-4.80578,loser
+pyth-network,pyth,Pyth Network,0.158635,-4.10947,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.93,-3.52475,loser
+build-on,b,BUILDon,0.678251,-3.39885,loser
 hash-2,hash,Provenance Blockchain,0.02487374,-3.21906,loser
-build-on,b,BUILDon,0.678387,-3.18378,loser
-wormhole,w,Wormhole,0.077099,-2.87194,loser
-conflux-token,cfx,Conflux,0.173647,-2.76851,loser
-keeta,kta,Keeta,0.781493,-2.61367,loser
+conflux-token,cfx,Conflux,0.173687,-2.84907,loser
+wormhole,w,Wormhole,0.077222,-2.78038,loser
+filecoin,fil,Filecoin,2.25,-2.69045,loser
