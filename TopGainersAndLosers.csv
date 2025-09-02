@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.074303,14.4559,gainer
-pump-fun,pump,Pump.fun,0.00371342,11.10186,gainer
-beam-2,beam,Beam,0.00747626,10.42803,gainer
-ethena,ena,Ethena,0.677058,7.7006,gainer
-memecore,m,MemeCore,0.876615,7.64509,gainer
-four,form,Four,3.37,7.55095,gainer
-bitget-token,bgb,Bitget Token,5.02,7.53442,gainer
-bitcoin-cash,bch,Bitcoin Cash,583.21,7.50361,gainer
-zebec-network,zbcn,Zebec Network,0.00400506,6.34724,gainer
-fartcoin,fartcoin,Fartcoin,0.762913,5.54032,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.228021,-8.27122,loser
-crypto-com-chain,cro,Cronos,0.253093,-6.55916,loser
-loaded-lions,lion,Loaded Lions,0.01979448,-4.77497,loser
-pyth-network,pyth,Pyth Network,0.158421,-4.33519,loser
+sky,sky,Sky,0.074264,14.39627,gainer
+pump-fun,pump,Pump.fun,0.00370948,10.94746,gainer
+beam-2,beam,Beam,0.00747961,10.6242,gainer
+memecore,m,MemeCore,0.876506,8.64979,gainer
+four,form,Four,3.38,7.60843,gainer
+ethena,ena,Ethena,0.67611,7.54977,gainer
+bitcoin-cash,bch,Bitcoin Cash,583.24,7.50953,gainer
+bitget-token,bgb,Bitget Token,4.98,6.80034,gainer
+zebec-network,zbcn,Zebec Network,0.00400794,6.42361,gainer
+walrus-2,wal,Walrus,0.400484,5.7056,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.22805,-8.07512,loser
+crypto-com-chain,cro,Cronos,0.253002,-6.59282,loser
+loaded-lions,lion,Loaded Lions,0.01979718,-4.56071,loser
+pyth-network,pyth,Pyth Network,0.158367,-4.24137,loser
 tokenize-xchange,tkx,Tokenize Xchange,4.93,-3.56219,loser
-syrup,syrup,Maple Finance,0.449257,-3.425,loser
+syrup,syrup,Maple Finance,0.449043,-3.24826,loser
 hash-2,hash,Provenance Blockchain,0.02487374,-3.21906,loser
-build-on,b,BUILDon,0.67805,-3.13588,loser
-keeta,kta,Keeta,0.780022,-2.8567,loser
-conflux-token,cfx,Conflux,0.173842,-2.81335,loser
+build-on,b,BUILDon,0.676638,-3.20022,loser
+keeta,kta,Keeta,0.780502,-2.79696,loser
+filecoin,fil,Filecoin,2.26,-2.50374,loser
