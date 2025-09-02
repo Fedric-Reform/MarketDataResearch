@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073978,13.37295,gainer
-beam-2,beam,Beam,0.0075082,10.31759,gainer
-pump-fun,pump,Pump.fun,0.00364795,8.27726,gainer
-zebec-network,zbcn,Zebec Network,0.00398387,8.1756,gainer
-four,form,Four,3.36,8.09373,gainer
-ethena,ena,Ethena,0.675691,7.722,gainer
-bitcoin-cash,bch,Bitcoin Cash,576.53,6.31421,gainer
-bitget-token,bgb,Bitget Token,4.97,6.30765,gainer
-walrus-2,wal,Walrus,0.400399,5.48672,gainer
-reserve-rights-token,rsr,Reserve Rights,0.00753943,5.32143,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.218251,-6.94739,loser
-crypto-com-chain,cro,Cronos,0.254502,-5.90559,loser
-syrup,syrup,Maple Finance,0.447309,-4.41101,loser
-hash-2,hash,Provenance Blockchain,0.02494623,-3.84768,loser
-keeta,kta,Keeta,0.780424,-3.84502,loser
-loaded-lions,lion,Loaded Lions,0.01992253,-3.78832,loser
-virtual-protocol,virtual,Virtuals Protocol,1.016,-3.69023,loser
-pyth-network,pyth,Pyth Network,0.159625,-3.43798,loser
-conflux-token,cfx,Conflux,0.174185,-2.82975,loser
-evervalue-coin,eva,EverValue Coin,21.58,-2.78902,loser
+sky,sky,Sky,0.073465,12.46028,gainer
+beam-2,beam,Beam,0.00745281,9.41141,gainer
+four,form,Four,3.36,7.92717,gainer
+pump-fun,pump,Pump.fun,0.00362726,7.32087,gainer
+zebec-network,zbcn,Zebec Network,0.00392912,6.62135,gainer
+ethena,ena,Ethena,0.671789,6.61561,gainer
+bitcoin-cash,bch,Bitcoin Cash,576.17,6.32662,gainer
+memecore,m,MemeCore,0.863201,6.21805,gainer
+bitget-token,bgb,Bitget Token,4.97,6.16705,gainer
+walrus-2,wal,Walrus,0.398508,5.0573,gainer
+crypto-com-chain,cro,Cronos,0.253629,-6.83175,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.2201,-6.15774,loser
+loaded-lions,lion,Loaded Lions,0.01988502,-5.474,loser
+syrup,syrup,Maple Finance,0.445361,-4.78211,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.99,-4.23357,loser
+keeta,kta,Keeta,0.778237,-3.9764,loser
+pyth-network,pyth,Pyth Network,0.158494,-3.78727,loser
+hash-2,hash,Provenance Blockchain,0.02487256,-3.2987,loser
+spx6900,spx,SPX6900,1.068,-3.27708,loser
+virtual-protocol,virtual,Virtuals Protocol,1.023,-3.23209,loser
