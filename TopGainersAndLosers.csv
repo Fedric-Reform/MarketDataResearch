@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.073401,12.31296,gainer
-beam-2,beam,Beam,0.00745567,9.53408,gainer
-memecore,m,MemeCore,0.872891,9.30462,gainer
-four,form,Four,3.36,7.85982,gainer
-pump-fun,pump,Pump.fun,0.00363661,7.46865,gainer
-zebec-network,zbcn,Zebec Network,0.00394258,6.46336,gainer
-ethena,ena,Ethena,0.670773,6.45445,gainer
-bitcoin-cash,bch,Bitcoin Cash,576.15,6.32345,gainer
-bitget-token,bgb,Bitget Token,4.97,6.00574,gainer
-walrus-2,wal,Walrus,0.398537,4.99217,gainer
-crypto-com-chain,cro,Cronos,0.253422,-6.87028,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.2219,-6.48561,loser
-loaded-lions,lion,Loaded Lions,0.01983887,-4.88936,loser
-virtual-protocol,virtual,Virtuals Protocol,1.024,-4.27168,loser
+sky,sky,Sky,0.073419,12.48282,gainer
+memecore,m,MemeCore,0.875879,9.67883,gainer
+beam-2,beam,Beam,0.00745692,9.55242,gainer
+pump-fun,pump,Pump.fun,0.0036762,8.63856,gainer
+four,form,Four,3.36,7.84476,gainer
+zebec-network,zbcn,Zebec Network,0.00395445,6.78398,gainer
+bitcoin-cash,bch,Bitcoin Cash,576.59,6.54519,gainer
+ethena,ena,Ethena,0.670444,6.40216,gainer
+bitget-token,bgb,Bitget Token,4.97,6.13139,gainer
+walrus-2,wal,Walrus,0.399018,5.11877,gainer
+crypto-com-chain,cro,Cronos,0.253365,-6.89115,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.221976,-6.45343,loser
+loaded-lions,lion,Loaded Lions,0.01984008,-4.88355,loser
 tokenize-xchange,tkx,Tokenize Xchange,4.99,-4.23357,loser
-syrup,syrup,Maple Finance,0.445481,-3.9778,loser
-pyth-network,pyth,Pyth Network,0.158285,-3.91446,loser
-keeta,kta,Keeta,0.77702,-3.86518,loser
-hash-2,hash,Provenance Blockchain,0.02484851,-3.39222,loser
-spx6900,spx,SPX6900,1.067,-3.35142,loser
+virtual-protocol,virtual,Virtuals Protocol,1.025,-4.18986,loser
+pyth-network,pyth,Pyth Network,0.157905,-4.14496,loser
+keeta,kta,Keeta,0.776561,-3.92193,loser
+syrup,syrup,Maple Finance,0.445948,-3.87713,loser
+hash-2,hash,Provenance Blockchain,0.02484851,-3.39632,loser
+filecoin,fil,Filecoin,2.24,-3.31079,loser
