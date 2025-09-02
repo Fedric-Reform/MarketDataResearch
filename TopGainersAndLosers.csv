@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.074701,14.10747,gainer
-memecore,m,MemeCore,0.864474,10.0996,gainer
-beam-2,beam,Beam,0.00753428,10.0468,gainer
-pump-fun,pump,Pump.fun,0.0037662,9.73689,gainer
-ethena,ena,Ethena,0.688508,8.89609,gainer
-bitget-token,bgb,Bitget Token,5.04,8.189,gainer
-zebec-network,zbcn,Zebec Network,0.00397321,8.18709,gainer
-bitcoin-cash,bch,Bitcoin Cash,580.28,6.40842,gainer
-walrus-2,wal,Walrus,0.405037,5.83424,gainer
-ether-fi,ethfi,Ether.fi,1.094,4.57502,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.217581,-16.57497,loser
-keeta,kta,Keeta,0.780456,-5.98736,loser
-crypto-com-chain,cro,Cronos,0.259639,-5.08279,loser
-syrup,syrup,Maple Finance,0.451025,-4.72155,loser
-loaded-lions,lion,Loaded Lions,0.02029893,-3.92613,loser
-dydx-chain,dydx,dYdX,0.588846,-3.6655,loser
-build-on,b,BUILDon,0.664464,-3.62795,loser
-wormhole,w,Wormhole,0.078006,-3.40732,loser
-evervalue-coin,eva,EverValue Coin,21.59,-3.35508,loser
-filecoin,fil,Filecoin,2.27,-2.78948,loser
+sky,sky,Sky,0.074638,14.3717,gainer
+memecore,m,MemeCore,0.873823,11.29024,gainer
+beam-2,beam,Beam,0.00754328,10.17823,gainer
+pump-fun,pump,Pump.fun,0.00376205,9.61577,gainer
+ethena,ena,Ethena,0.688856,8.95113,gainer
+bitget-token,bgb,Bitget Token,5.03,7.87222,gainer
+zebec-network,zbcn,Zebec Network,0.0039614,7.86561,gainer
+bitcoin-cash,bch,Bitcoin Cash,579.89,6.33681,gainer
+walrus-2,wal,Walrus,0.404936,5.80768,gainer
+ether-fi,ethfi,Ether.fi,1.094,4.56643,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.217854,-16.82669,loser
+keeta,kta,Keeta,0.786535,-5.36096,loser
+crypto-com-chain,cro,Cronos,0.2592,-5.24354,loser
+syrup,syrup,Maple Finance,0.450988,-4.72924,loser
+loaded-lions,lion,Loaded Lions,0.02029171,-3.96031,loser
+dydx-chain,dydx,dYdX,0.588609,-3.70431,loser
+wormhole,w,Wormhole,0.077883,-3.55874,loser
+build-on,b,BUILDon,0.665447,-3.48534,loser
+evervalue-coin,eva,EverValue Coin,21.6,-3.29138,loser
+filecoin,fil,Filecoin,2.27,-2.93335,loser
