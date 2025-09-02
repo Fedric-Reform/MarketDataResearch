@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,0.841609,28.60333,gainer
-walrus-2,wal,Walrus,0.408694,6.46953,gainer
-four,form,Four,3.16,5.38959,gainer
-pump-fun,pump,Pump.fun,0.00361532,5.37466,gainer
-sky,sky,Sky,0.06647,4.27863,gainer
-bitcoin-cash,bch,Bitcoin Cash,560.82,3.62122,gainer
-bitget-token,bgb,Bitget Token,4.69,3.54894,gainer
-saros-finance,saros,Saros,0.363065,2.61972,gainer
-stellar,xlm,Stellar,0.358334,2.09916,gainer
-pax-gold,paxg,PAX Gold,3531.46,2.0435,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.243276,-13.45717,loser
-keeta,kta,Keeta,0.764307,-13.13734,loser
-bonk,bonk,Bonk,2.011e-05,-7.64777,loser
-virtual-protocol,virtual,Virtuals Protocol,1.026,-7.22237,loser
-pyth-network,pyth,Pyth Network,0.16428,-7.1483,loser
-flow,flow,Flow,0.405266,-7.06337,loser
-just,jst,JUST,0.03489891,-6.05372,loser
-conflux-token,cfx,Conflux,0.177273,-5.98312,loser
-crypto-com-chain,cro,Cronos,0.262875,-5.93525,loser
-axie-infinity,axs,Axie Infinity,2.33,-5.34032,loser
+memecore,m,MemeCore,0.846398,28.88124,gainer
+walrus-2,wal,Walrus,0.406949,6.14149,gainer
+four,form,Four,3.17,5.68987,gainer
+sky,sky,Sky,0.067138,5.30159,gainer
+pump-fun,pump,Pump.fun,0.0035911,4.65746,gainer
+bitget-token,bgb,Bitget Token,4.69,3.49865,gainer
+bitcoin-cash,bch,Bitcoin Cash,556.99,3.22621,gainer
+saros-finance,saros,Saros,0.363882,3.20543,gainer
+clbtc,clbtc,clBTC,110044.0,2.14284,gainer
+beam-2,beam,Beam,0.00708996,1.87724,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.239378,-14.84353,loser
+keeta,kta,Keeta,0.762538,-14.08434,loser
+bonk,bonk,Bonk,1.998e-05,-7.88457,loser
+pyth-network,pyth,Pyth Network,0.163366,-7.69095,loser
+virtual-protocol,virtual,Virtuals Protocol,1.017,-7.65936,loser
+flow,flow,Flow,0.404082,-6.90687,loser
+crypto-com-chain,cro,Cronos,0.261844,-6.36132,loser
+conflux-token,cfx,Conflux,0.176485,-6.3385,loser
+just,jst,JUST,0.03483828,-5.74936,loser
+loaded-lions,lion,Loaded Lions,0.02040039,-5.65511,loser
