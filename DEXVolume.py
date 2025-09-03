@@ -2,29 +2,49 @@
 
 import requests
 import pandas as pd
+import matplotlib.pyplot as plt
 
-# Fetch data
-url = "https://api.llama.fi/overview/dexs?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true"
-response = requests.get(url)
-response.raise_for_status()
-data = response.json()
+# Set dark theme for charts
+plt.style.use("dark_background")
 
-# Extract protocols and create DataFrame
-dex_data = data["protocols"]
-df = pd.DataFrame(dex_data)
+# CoinGecko API endpoint
+url = "https://api.coingecko.com/api/v3/exchanges/decentralized"
 
-# Select and clean relevant columns
-df = df[["name", "chains", "category", "total24h", "total7d", "total30d", "change_1d", "change_7d", "change_1m"]]
-df["total24h"] = df["total24h"].round(0)
-df["total7d"] = df["total7d"].round(0)
-df["total30d"] = df["total30d"].round(0)
-df[["change_1d", "change_7d", "change_1m"]] = df[["change_1d", "change_7d", "change_1m"]].round(2)
+try:
+    response = requests.get(url, timeout=10)
+    response.raise_for_status()
+    data = response.json()
+except requests.exceptions.RequestException as e:
+    print(f"❌ Error fetching data from CoinGecko: {e}")
+    exit()
 
-# Sort by 24h volume
-top_dexes = df.sort_values("total24h", ascending=False)
+# Extract and prepare data
+exchanges = []
+volumes = []
+trust_scores = []
+coins = []
+pairs = []
 
-# Display
-print(top_dexes)
+for item in data:
+    exchanges.append(item.get("name", "Unknown"))
+    volumes.append(item.get("trade_volume_24h_btc", 0))  # BTC volume
+    trust_scores.append(item.get("trust_score", 0))
+    coins.append(item.get("year_established", 0))
+    pairs.append(item.get("country", "Unknown"))
+
+# Convert BTC to USD (approx.)
+BTC_PRICE = 110000  # Adjust based on real-time price if needed
+volume_usd = [v * BTC_PRICE / 1e9 for v in volumes]  # USD billions
+
+# Create DataFrame
+df = pd.DataFrame({
+    "Exchange": exchanges,
+    "24h Volume (B USD)": volume_usd,
+    "Trust Score": trust_scores,
+    "Founded Year": coins,
+    "Country": pairs
+})
 
 # Save to CSV
-top_dexes.to_csv("DEX_Volume.csv", index=False)
+df.to_csv("DEX_Volume.csv", index=False)
+print("✅ Data saved to 'DEX_Volume.csv'.")
