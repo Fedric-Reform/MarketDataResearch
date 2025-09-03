@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-fartcoin,fartcoin,Fartcoin,0.790561,5.84893,gainer
-four,form,Four,3.31,5.64842,gainer
-walrus-2,wal,Walrus,0.428242,5.44317,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.42,5.24254,gainer
-bitget-token,bgb,Bitget Token,4.94,4.88618,gainer
-ondo-finance,ondo,Ondo,0.956288,4.86101,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03049037,4.32997,gainer
-instadapp,fluid,Fluid,6.29,3.45273,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,3.23855,gainer
-msol,msol,Marinade Staked SOL,276.44,3.23223,gainer
-pyth-network,pyth,Pyth Network,0.157589,-5.26765,loser
-conflux-token,cfx,Conflux,0.174057,-3.45897,loser
-mantle,mnt,Mantle,1.11,-3.31843,loser
-zebec-network,zbcn,Zebec Network,0.00394294,-3.25504,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.229782,-2.38927,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.05,-2.2262,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.14781,loser
-jasmycoin,jasmy,JasmyCoin,0.01428845,-1.98284,loser
-flare-networks,flr,Flare,0.0205882,-1.93688,loser
-wormhole,w,Wormhole,0.077915,-1.91313,loser
+four,form,Four,3.35,6.54036,gainer
+fartcoin,fartcoin,Fartcoin,0.788698,5.53676,gainer
+walrus-2,wal,Walrus,0.42766,5.51642,gainer
+bitcoin-cash,bch,Bitcoin Cash,596.42,4.94714,gainer
+bitget-token,bgb,Bitget Token,4.95,4.82036,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03049156,4.08691,gainer
+ondo-finance,ondo,Ondo,0.951268,4.05265,gainer
+instadapp,fluid,Fluid,6.28,3.18266,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.21,3.11959,gainer
+binance-staked-sol,bnsol,Binance Staked SOL,224.15,2.88661,gainer
+pyth-network,pyth,Pyth Network,0.157872,-4.89053,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.232645,-4.42981,loser
+conflux-token,cfx,Conflux,0.173892,-3.42737,loser
+mantle,mnt,Mantle,1.11,-3.02962,loser
+zebec-network,zbcn,Zebec Network,0.00393969,-2.52433,loser
+jasmycoin,jasmy,JasmyCoin,0.0142436,-2.30929,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-2.2464,loser
+telcoin,tel,Telcoin,0.00447127,-2.19464,loser
+wormhole,w,Wormhole,0.078038,-2.13613,loser
+flare-networks,flr,Flare,0.02058717,-2.12383,loser
