@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-walrus-2,wal,Walrus,0.430382,6.42102,gainer
-fartcoin,fartcoin,Fartcoin,0.789243,6.03332,gainer
-ondo-finance,ondo,Ondo,0.957071,5.29685,gainer
-bitcoin-cash,bch,Bitcoin Cash,594.26,4.77662,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03049431,4.62108,gainer
-four,form,Four,3.31,4.11587,gainer
-bitget-token,bgb,Bitget Token,4.9,4.06015,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,3.70171,gainer
-instadapp,fluid,Fluid,6.29,3.53148,gainer
-drift-staked-sol,dsol,Drift Staked SOL,239.03,3.49737,gainer
-pyth-network,pyth,Pyth Network,0.157554,-5.22298,loser
-mantle,mnt,Mantle,1.11,-3.20178,loser
-zebec-network,zbcn,Zebec Network,0.00394941,-2.9787,loser
-conflux-token,cfx,Conflux,0.174467,-2.88006,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.02049,loser
-flare-networks,flr,Flare,0.02059111,-1.90508,loser
-wormhole,w,Wormhole,0.078065,-1.88934,loser
-jasmycoin,jasmy,JasmyCoin,0.01427394,-1.82439,loser
-telcoin,tel,Telcoin,0.0044861,-1.74607,loser
-cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4149.93,-1.71953,loser
+fartcoin,fartcoin,Fartcoin,0.790561,5.84893,gainer
+four,form,Four,3.31,5.64842,gainer
+walrus-2,wal,Walrus,0.428242,5.44317,gainer
+bitcoin-cash,bch,Bitcoin Cash,596.42,5.24254,gainer
+bitget-token,bgb,Bitget Token,4.94,4.88618,gainer
+ondo-finance,ondo,Ondo,0.956288,4.86101,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03049037,4.32997,gainer
+instadapp,fluid,Fluid,6.29,3.45273,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,3.23855,gainer
+msol,msol,Marinade Staked SOL,276.44,3.23223,gainer
+pyth-network,pyth,Pyth Network,0.157589,-5.26765,loser
+conflux-token,cfx,Conflux,0.174057,-3.45897,loser
+mantle,mnt,Mantle,1.11,-3.31843,loser
+zebec-network,zbcn,Zebec Network,0.00394294,-3.25504,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.229782,-2.38927,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.05,-2.2262,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-2.14781,loser
+jasmycoin,jasmy,JasmyCoin,0.01428845,-1.98284,loser
+flare-networks,flr,Flare,0.0205882,-1.93688,loser
+wormhole,w,Wormhole,0.077915,-1.91313,loser
