@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-walrus-2,wal,Walrus,0.430764,6.50066,gainer
-fartcoin,fartcoin,Fartcoin,0.790413,6.02988,gainer
-ondo-finance,ondo,Ondo,0.956689,5.08202,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03052632,4.81753,gainer
-bitcoin-cash,bch,Bitcoin Cash,592.4,4.37242,gainer
-bitget-token,bgb,Bitget Token,4.9,4.07177,gainer
-jupiter-staked-sol,jupsol,Jupiter Staked SOL,238.45,3.77289,gainer
-jito-staked-sol,jitosol,Jito Staked SOL,257.78,3.76895,gainer
-drift-staked-sol,dsol,Drift Staked SOL,239.37,3.75955,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,3.71627,gainer
-pyth-network,pyth,Pyth Network,0.157776,-4.88339,loser
-conflux-token,cfx,Conflux,0.174357,-3.4396,loser
-mantle,mnt,Mantle,1.11,-3.03261,loser
-wormhole,w,Wormhole,0.078084,-2.00333,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-1.93372,loser
-flare-networks,flr,Flare,0.02059216,-1.88089,loser
-jasmycoin,jasmy,JasmyCoin,0.01430223,-1.77955,loser
-wemix-token,wemix,WEMIX,0.721808,-1.76916,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.01,-1.7365,loser
-cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4149.71,-1.71913,loser
+walrus-2,wal,Walrus,0.430382,6.42102,gainer
+fartcoin,fartcoin,Fartcoin,0.789243,6.03332,gainer
+ondo-finance,ondo,Ondo,0.957071,5.29685,gainer
+bitcoin-cash,bch,Bitcoin Cash,594.26,4.77662,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03049431,4.62108,gainer
+four,form,Four,3.31,4.11587,gainer
+bitget-token,bgb,Bitget Token,4.9,4.06015,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,3.70171,gainer
+instadapp,fluid,Fluid,6.29,3.53148,gainer
+drift-staked-sol,dsol,Drift Staked SOL,239.03,3.49737,gainer
+pyth-network,pyth,Pyth Network,0.157554,-5.22298,loser
+mantle,mnt,Mantle,1.11,-3.20178,loser
+zebec-network,zbcn,Zebec Network,0.00394941,-2.9787,loser
+conflux-token,cfx,Conflux,0.174467,-2.88006,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-2.02049,loser
+flare-networks,flr,Flare,0.02059111,-1.90508,loser
+wormhole,w,Wormhole,0.078065,-1.88934,loser
+jasmycoin,jasmy,JasmyCoin,0.01427394,-1.82439,loser
+telcoin,tel,Telcoin,0.0044861,-1.74607,loser
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4149.93,-1.71953,loser
