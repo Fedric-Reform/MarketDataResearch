@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-walrus-2,wal,Walrus,0.435603,7.5047,gainer
-ondo-finance,ondo,Ondo,0.961434,5.94343,gainer
-fartcoin,fartcoin,Fartcoin,0.790586,5.25162,gainer
-bitcoin-cash,bch,Bitcoin Cash,590.67,4.96435,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03063629,4.94284,gainer
-sky,sky,Sky,0.072228,4.91629,gainer
-bitget-token,bgb,Bitget Token,4.93,4.74081,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.23,4.00677,gainer
-dogwifcoin,wif,dogwifhat,0.806817,3.89027,gainer
+walrus-2,wal,Walrus,0.435516,7.48332,gainer
+ondo-finance,ondo,Ondo,0.961069,5.9032,gainer
+fartcoin,fartcoin,Fartcoin,0.790633,5.25792,gainer
+bitcoin-cash,bch,Bitcoin Cash,590.67,4.96365,gainer
+sky,sky,Sky,0.072234,4.9337,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03063253,4.92995,gainer
+bitget-token,bgb,Bitget Token,4.93,4.74116,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.23,4.15889,gainer
+dogwifcoin,wif,dogwifhat,0.806868,3.95606,gainer
 bybit-staked-sol,bbsol,Bybit Staked SOL,231.95,3.81918,gainer
-memecore,m,MemeCore,0.837009,-5.7009,loser
-pyth-network,pyth,Pyth Network,0.158352,-4.80606,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.229545,-3.21274,loser
-mantle,mnt,Mantle,1.11,-2.61243,loser
-flare-networks,flr,Flare,0.02058038,-2.40777,loser
-conflux-token,cfx,Conflux,0.174943,-2.2401,loser
-wormhole,w,Wormhole,0.078151,-2.04929,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.04138,loser
-tokenize-xchange,tkx,Tokenize Xchange,5.01,-1.98406,loser
-okb,okb,OKB,165.6,-1.74656,loser
+memecore,m,MemeCore,0.837694,-5.62372,loser
+pyth-network,pyth,Pyth Network,0.158362,-4.8002,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.229678,-3.15687,loser
+mantle,mnt,Mantle,1.11,-2.6143,loser
+flare-networks,flr,Flare,0.02058102,-2.40472,loser
+conflux-token,cfx,Conflux,0.174914,-2.25626,loser
+wormhole,w,Wormhole,0.078152,-2.04848,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-2.03703,loser
+okb,okb,OKB,165.63,-1.81789,loser
+zebec-network,zbcn,Zebec Network,0.00393153,-1.7659,loser
