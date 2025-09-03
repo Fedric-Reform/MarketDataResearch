@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-four,form,Four,3.35,6.54036,gainer
-fartcoin,fartcoin,Fartcoin,0.788698,5.53676,gainer
-walrus-2,wal,Walrus,0.42766,5.51642,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.42,4.94714,gainer
-bitget-token,bgb,Bitget Token,4.95,4.82036,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03049156,4.08691,gainer
-ondo-finance,ondo,Ondo,0.951268,4.05265,gainer
-instadapp,fluid,Fluid,6.28,3.18266,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.21,3.11959,gainer
-binance-staked-sol,bnsol,Binance Staked SOL,224.15,2.88661,gainer
-pyth-network,pyth,Pyth Network,0.157872,-4.89053,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.232645,-4.42981,loser
-conflux-token,cfx,Conflux,0.173892,-3.42737,loser
-mantle,mnt,Mantle,1.11,-3.02962,loser
-zebec-network,zbcn,Zebec Network,0.00393969,-2.52433,loser
-jasmycoin,jasmy,JasmyCoin,0.0142436,-2.30929,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.2464,loser
-telcoin,tel,Telcoin,0.00447127,-2.19464,loser
-wormhole,w,Wormhole,0.078038,-2.13613,loser
-flare-networks,flr,Flare,0.02058717,-2.12383,loser
+ether-fi-staked-eth,eeth,ether.fi Staked ETH,4275.68,338.29418,gainer
+four,form,Four,3.33,6.18821,gainer
+bitget-token,bgb,Bitget Token,4.98,5.40269,gainer
+fartcoin,fartcoin,Fartcoin,0.788054,5.37486,gainer
+walrus-2,wal,Walrus,0.426423,5.32218,gainer
+bitcoin-cash,bch,Bitcoin Cash,596.71,4.88054,gainer
+ondo-finance,ondo,Ondo,0.950148,3.93012,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03034048,3.49089,gainer
+drift-staked-sol,dsol,Drift Staked SOL,238.14,2.8728,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.21,2.71101,gainer
+pyth-network,pyth,Pyth Network,0.157719,-4.70475,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.232112,-4.63238,loser
+conflux-token,cfx,Conflux,0.173417,-3.76322,loser
+mantle,mnt,Mantle,1.11,-3.14923,loser
+zebec-network,zbcn,Zebec Network,0.003947,-2.9942,loser
+jasmycoin,jasmy,JasmyCoin,0.01418952,-2.77522,loser
+telcoin,tel,Telcoin,0.00446144,-2.39051,loser
+pancakeswap-token,cake,PancakeSwap,2.37,-2.35917,loser
+flare-networks,flr,Flare,0.02055419,-2.34245,loser
+kelp-dao-restaked-eth,rseth,Kelp DAO Restaked ETH,4515.37,-2.31811,loser
