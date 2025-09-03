@@ -30,14 +30,11 @@ for item in data:
     coins.append(item.get("year_established", 0))
     pairs.append(item.get("country", "Unknown"))
 
-# Convert BTC to USD (approx.)
-BTC_PRICE = 118000  # Adjust based on real-time price if needed
-volume_usd = [v * BTC_PRICE / 1e9 for v in volumes]  # USD billions
 
 # Create DataFrame
 df = pd.DataFrame({
     "Exchange": exchanges,
-    "24h Volume (B USD)": volume_usd,
+    "24h Volume (B USD)": volumes,
     "Trust Score": trust_scores,
     "Founded Year": coins,
     "Country": pairs
