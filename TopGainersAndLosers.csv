@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-sky,sky,Sky,0.074264,14.39627,gainer
-pump-fun,pump,Pump.fun,0.00370948,10.94746,gainer
-beam-2,beam,Beam,0.00747961,10.6242,gainer
-memecore,m,MemeCore,0.876506,8.64979,gainer
-four,form,Four,3.38,7.60843,gainer
-ethena,ena,Ethena,0.67611,7.54977,gainer
-bitcoin-cash,bch,Bitcoin Cash,583.24,7.50953,gainer
-bitget-token,bgb,Bitget Token,4.98,6.80034,gainer
-zebec-network,zbcn,Zebec Network,0.00400794,6.42361,gainer
-walrus-2,wal,Walrus,0.400484,5.7056,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.22805,-8.07512,loser
-crypto-com-chain,cro,Cronos,0.253002,-6.59282,loser
-loaded-lions,lion,Loaded Lions,0.01979718,-4.56071,loser
-pyth-network,pyth,Pyth Network,0.158367,-4.24137,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.93,-3.56219,loser
-syrup,syrup,Maple Finance,0.449043,-3.24826,loser
-hash-2,hash,Provenance Blockchain,0.02487374,-3.21906,loser
-build-on,b,BUILDon,0.676638,-3.20022,loser
-keeta,kta,Keeta,0.780502,-2.79696,loser
-filecoin,fil,Filecoin,2.26,-2.50374,loser
+walrus-2,wal,Walrus,0.43892,7.96508,gainer
+ondo-finance,ondo,Ondo,0.962142,6.54695,gainer
+sky,sky,Sky,0.072251,5.6868,gainer
+fartcoin,fartcoin,Fartcoin,0.789126,5.26876,gainer
+bitget-token,bgb,Bitget Token,4.94,5.12949,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.0306313,4.79945,gainer
+pump-fun,pump,Pump.fun,0.00386474,4.72225,gainer
+bitcoin-cash,bch,Bitcoin Cash,590.9,4.70024,gainer
+four,form,Four,3.32,4.14125,gainer
+instadapp,fluid,Fluid,6.29,4.13836,gainer
+memecore,m,MemeCore,0.836608,-5.18298,loser
+pyth-network,pyth,Pyth Network,0.15859,-4.51028,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.229055,-2.84022,loser
+flare-networks,flr,Flare,0.02052371,-2.6339,loser
+mantle,mnt,Mantle,1.12,-2.62255,loser
+wormhole,w,Wormhole,0.07811,-2.03754,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-1.91013,loser
+conflux-token,cfx,Conflux,0.175204,-1.87861,loser
+saros-finance,saros,Saros,0.361065,-1.78452,loser
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4149.93,-1.71569,loser
