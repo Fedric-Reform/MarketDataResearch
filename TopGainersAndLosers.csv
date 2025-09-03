@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-walrus-2,wal,Walrus,0.435786,7.40684,gainer
-ondo-finance,ondo,Ondo,0.962006,6.13862,gainer
-sky,sky,Sky,0.072252,5.48125,gainer
-fartcoin,fartcoin,Fartcoin,0.789517,5.20249,gainer
-bitget-token,bgb,Bitget Token,4.95,5.03137,gainer
-bitcoin-cash,bch,Bitcoin Cash,590.79,5.00539,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03060479,4.74898,gainer
-pump-fun,pump,Pump.fun,0.00385675,4.39441,gainer
-dogwifcoin,wif,dogwifhat,0.805769,3.95174,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,3.92982,gainer
-memecore,m,MemeCore,0.837168,-5.38687,loser
-pyth-network,pyth,Pyth Network,0.158367,-4.76728,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.229088,-3.40569,loser
-mantle,mnt,Mantle,1.11,-2.53183,loser
-flare-networks,flr,Flare,0.02054704,-2.48921,loser
-conflux-token,cfx,Conflux,0.175112,-2.22927,loser
-wormhole,w,Wormhole,0.078006,-2.18515,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.006,loser
-zebec-network,zbcn,Zebec Network,0.0039346,-1.71113,loser
-cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4149.94,-1.71083,loser
+walrus-2,wal,Walrus,0.435603,7.5047,gainer
+ondo-finance,ondo,Ondo,0.961434,5.94343,gainer
+fartcoin,fartcoin,Fartcoin,0.790586,5.25162,gainer
+bitcoin-cash,bch,Bitcoin Cash,590.67,4.96435,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03063629,4.94284,gainer
+sky,sky,Sky,0.072228,4.91629,gainer
+bitget-token,bgb,Bitget Token,4.93,4.74081,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.23,4.00677,gainer
+dogwifcoin,wif,dogwifhat,0.806817,3.89027,gainer
+bybit-staked-sol,bbsol,Bybit Staked SOL,231.95,3.81918,gainer
+memecore,m,MemeCore,0.837009,-5.7009,loser
+pyth-network,pyth,Pyth Network,0.158352,-4.80606,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.229545,-3.21274,loser
+mantle,mnt,Mantle,1.11,-2.61243,loser
+flare-networks,flr,Flare,0.02058038,-2.40777,loser
+conflux-token,cfx,Conflux,0.174943,-2.2401,loser
+wormhole,w,Wormhole,0.078151,-2.04929,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-2.04138,loser
+tokenize-xchange,tkx,Tokenize Xchange,5.01,-1.98406,loser
+okb,okb,OKB,165.6,-1.74656,loser
