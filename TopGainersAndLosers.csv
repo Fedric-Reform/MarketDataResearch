@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-walrus-2,wal,Walrus,0.435516,7.48332,gainer
-ondo-finance,ondo,Ondo,0.961069,5.9032,gainer
-fartcoin,fartcoin,Fartcoin,0.790633,5.25792,gainer
-bitcoin-cash,bch,Bitcoin Cash,590.67,4.96365,gainer
-sky,sky,Sky,0.072234,4.9337,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03063253,4.92995,gainer
-bitget-token,bgb,Bitget Token,4.93,4.74116,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.23,4.15889,gainer
-dogwifcoin,wif,dogwifhat,0.806868,3.95606,gainer
-bybit-staked-sol,bbsol,Bybit Staked SOL,231.95,3.81918,gainer
-memecore,m,MemeCore,0.837694,-5.62372,loser
-pyth-network,pyth,Pyth Network,0.158362,-4.8002,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.229678,-3.15687,loser
-mantle,mnt,Mantle,1.11,-2.6143,loser
-flare-networks,flr,Flare,0.02058102,-2.40472,loser
-conflux-token,cfx,Conflux,0.174914,-2.25626,loser
-wormhole,w,Wormhole,0.078152,-2.04848,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.03703,loser
-okb,okb,OKB,165.63,-1.81789,loser
-zebec-network,zbcn,Zebec Network,0.00393153,-1.7659,loser
+walrus-2,wal,Walrus,0.432392,6.65551,gainer
+ondo-finance,ondo,Ondo,0.959163,5.82732,gainer
+fartcoin,fartcoin,Fartcoin,0.790745,5.79994,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03059749,4.96514,gainer
+bitcoin-cash,bch,Bitcoin Cash,590.67,4.87587,gainer
+bitget-token,bgb,Bitget Token,4.94,4.7709,gainer
+pump-fun,pump,Pump.fun,0.00385807,4.53386,gainer
+instadapp,fluid,Fluid,6.37,4.52403,gainer
+sky,sky,Sky,0.0719,4.45114,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,4.10477,gainer
+pyth-network,pyth,Pyth Network,0.158483,-5.83324,loser
+memecore,m,MemeCore,0.851665,-4.99927,loser
+mantle,mnt,Mantle,1.11,-2.60468,loser
+conflux-token,cfx,Conflux,0.174806,-2.51911,loser
+okb,okb,OKB,165.53,-2.08419,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.230247,-2.06811,loser
+wormhole,w,Wormhole,0.078187,-2.06355,loser
+zebec-network,zbcn,Zebec Network,0.00392796,-1.92284,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-1.90822,loser
+flare-networks,flr,Flare,0.02060003,-1.87101,loser
