@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ether-fi-staked-eth,eeth,ether.fi Staked ETH,4275.68,338.29418,gainer
-four,form,Four,3.33,6.18821,gainer
-bitget-token,bgb,Bitget Token,4.98,5.40269,gainer
-fartcoin,fartcoin,Fartcoin,0.788054,5.37486,gainer
-walrus-2,wal,Walrus,0.426423,5.32218,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.71,4.88054,gainer
-ondo-finance,ondo,Ondo,0.950148,3.93012,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03034048,3.49089,gainer
-drift-staked-sol,dsol,Drift Staked SOL,238.14,2.8728,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.21,2.71101,gainer
-pyth-network,pyth,Pyth Network,0.157719,-4.70475,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.232112,-4.63238,loser
-conflux-token,cfx,Conflux,0.173417,-3.76322,loser
-mantle,mnt,Mantle,1.11,-3.14923,loser
-zebec-network,zbcn,Zebec Network,0.003947,-2.9942,loser
-jasmycoin,jasmy,JasmyCoin,0.01418952,-2.77522,loser
-telcoin,tel,Telcoin,0.00446144,-2.39051,loser
-pancakeswap-token,cake,PancakeSwap,2.37,-2.35917,loser
-flare-networks,flr,Flare,0.02055419,-2.34245,loser
-kelp-dao-restaked-eth,rseth,Kelp DAO Restaked ETH,4515.37,-2.31811,loser
+ether-fi-staked-eth,eeth,ether.fi Staked ETH,4286.62,339.32839,gainer
+four,form,Four,3.33,6.23045,gainer
+bitget-token,bgb,Bitget Token,4.98,5.48533,gainer
+fartcoin,fartcoin,Fartcoin,0.789974,5.34684,gainer
+walrus-2,wal,Walrus,0.427084,5.23066,gainer
+bitcoin-cash,bch,Bitcoin Cash,596.93,4.92007,gainer
+ondo-finance,ondo,Ondo,0.952511,4.12774,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03041606,3.5177,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.21,2.88257,gainer
+beam-2,beam,Beam,0.00719158,2.80354,gainer
+tokenize-xchange,tkx,Tokenize Xchange,4.9,-5.0702,loser
+world-liberty-financial,wlfi,World Liberty Financial,0.231716,-4.99159,loser
+pyth-network,pyth,Pyth Network,0.157869,-4.61396,loser
+conflux-token,cfx,Conflux,0.173662,-3.4468,loser
+mantle,mnt,Mantle,1.11,-3.11256,loser
+jasmycoin,jasmy,JasmyCoin,0.01418714,-3.01211,loser
+zebec-network,zbcn,Zebec Network,0.00395948,-2.68743,loser
+telcoin,tel,Telcoin,0.00445909,-2.59813,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-2.42796,loser
+flare-networks,flr,Flare,0.02055257,-2.32015,loser
