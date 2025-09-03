@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-walrus-2,wal,Walrus,0.431862,6.24388,gainer
-fartcoin,fartcoin,Fartcoin,0.791687,5.93863,gainer
-ondo-finance,ondo,Ondo,0.95845,5.50507,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03065491,5.30916,gainer
-bitget-token,bgb,Bitget Token,4.94,5.02095,gainer
-instadapp,fluid,Fluid,6.37,4.55285,gainer
-sky,sky,Sky,0.071881,4.37532,gainer
-pump-fun,pump,Pump.fun,0.00386067,4.17829,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,4.14605,gainer
-bitcoin-cash,bch,Bitcoin Cash,590.54,3.95224,gainer
-pyth-network,pyth,Pyth Network,0.158303,-5.41415,loser
+walrus-2,wal,Walrus,0.431387,6.61332,gainer
+fartcoin,fartcoin,Fartcoin,0.790395,5.76568,gainer
+ondo-finance,ondo,Ondo,0.957575,5.36654,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.0306123,5.33123,gainer
+instadapp,fluid,Fluid,6.37,4.85936,gainer
+sky,sky,Sky,0.071887,4.36432,gainer
+pump-fun,pump,Pump.fun,0.00386059,4.10509,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.22,4.00549,gainer
+bitcoin-cash,bch,Bitcoin Cash,590.76,3.99143,gainer
+jupiter-staked-sol,jupsol,Jupiter Staked SOL,238.63,3.873,gainer
+pyth-network,pyth,Pyth Network,0.158058,-4.80014,loser
 tokenize-xchange,tkx,Tokenize Xchange,4.98,-3.76068,loser
-memecore,m,MemeCore,0.86067,-3.3093,loser
-conflux-token,cfx,Conflux,0.174639,-2.77949,loser
-mantle,mnt,Mantle,1.11,-2.59397,loser
-wormhole,w,Wormhole,0.078132,-2.01887,loser
-zebec-network,zbcn,Zebec Network,0.00392096,-1.88582,loser
-flare-networks,flr,Flare,0.02061504,-1.834,loser
-okb,okb,OKB,165.72,-1.77031,loser
-pancakeswap-token,cake,PancakeSwap,2.39,-1.73157,loser
+memecore,m,MemeCore,0.862112,-3.14736,loser
+conflux-token,cfx,Conflux,0.174512,-2.93355,loser
+mantle,mnt,Mantle,1.11,-2.69723,loser
+wormhole,w,Wormhole,0.078119,-2.03526,loser
+flare-networks,flr,Flare,0.02060724,-1.90282,loser
+okb,okb,OKB,165.74,-1.75738,loser
+pancakeswap-token,cake,PancakeSwap,2.38,-1.72071,loser
+cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,4149.92,-1.71476,loser
