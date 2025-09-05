@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,1.69,17.99596,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.183474,9.69111,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.32,9.58648,gainer
-superfarm,super,SuperVerse,0.597765,7.15996,gainer
-telcoin,tel,Telcoin,0.00512702,6.88971,gainer
-keeta,kta,Keeta,0.868675,6.66173,gainer
-decentraland,mana,Decentraland,0.319187,6.28304,gainer
-walrus-2,wal,Walrus,0.43277,5.53641,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.17,5.11299,gainer
-arweave,ar,Arweave,6.53,4.28355,gainer
-aave,aave,Aave,300.44,-5.6222,loser
-ethena,ena,Ethena,0.657255,-4.49022,loser
-chainlink,link,Chainlink,22.24,-3.64834,loser
-ronin,ron,Ronin,0.472714,-3.50213,loser
-eos,eos,EOS,0.460062,-3.23882,loser
-vaulta,a,Vaulta,0.460555,-3.19717,loser
-vision-3,vsn,Vision,0.154288,-2.90942,loser
-zebec-network,zbcn,Zebec Network,0.00392111,-2.8608,loser
-helium,hnt,Helium,2.39,-2.83609,loser
-morpho,morpho,Morpho,1.97,-2.79485,loser
+memecore,m,MemeCore,1.67,15.5872,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.184879,11.26615,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.32,10.1233,gainer
+keeta,kta,Keeta,0.872173,7.56103,gainer
+superfarm,super,SuperVerse,0.598053,7.4454,gainer
+decentraland,mana,Decentraland,0.319024,6.64541,gainer
+telcoin,tel,Telcoin,0.00511102,6.44712,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.17,5.14114,gainer
+walrus-2,wal,Walrus,0.43029,5.0857,gainer
+arweave,ar,Arweave,6.55,4.80587,gainer
+aave,aave,Aave,300.06,-5.82934,loser
+ethena,ena,Ethena,0.656882,-4.38399,loser
+ronin,ron,Ronin,0.472249,-3.52471,loser
+eos,eos,EOS,0.4588,-3.37751,loser
+vaulta,a,Vaulta,0.459692,-3.36034,loser
+chainlink,link,Chainlink,22.24,-3.12142,loser
+helium,hnt,Helium,2.39,-2.86847,loser
+loaded-lions,lion,Loaded Lions,0.01997526,-2.78807,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.93,-2.77901,loser
+vision-3,vsn,Vision,0.154787,-2.77525,loser
