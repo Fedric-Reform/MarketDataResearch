@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,1.6,19.12238,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.34,12.77996,gainer
-superfarm,super,SuperVerse,0.602862,9.28941,gainer
-telcoin,tel,Telcoin,0.00517822,7.90428,gainer
-syrup,syrup,Maple Finance,0.510537,6.95231,gainer
-decentraland,mana,Decentraland,0.319315,6.70169,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.17,6.67093,gainer
-pump-fun,pump,Pump.fun,0.00452438,5.81873,gainer
-keeta,kta,Keeta,0.863603,5.73974,gainer
-arweave,ar,Arweave,6.6,5.69468,gainer
-sun-token,sun,Sun Token,0.02107052,-3.25568,loser
-ronin,ron,Ronin,0.473147,-2.55712,loser
-build-on,b,BUILDon,0.592227,-2.22847,loser
-aave,aave,Aave,302.7,-2.20728,loser
-ethena,ena,Ethena,0.656951,-2.10157,loser
-kucoin-shares,kcs,KuCoin,14.45,-1.83774,loser
-morpho,morpho,Morpho,1.98,-1.80655,loser
-vision-3,vsn,Vision,0.156106,-1.79924,loser
-loaded-lions,lion,Loaded Lions,0.02004511,-1.72828,loser
-monero,xmr,Monero,265.62,-1.55244,loser
+memecore,m,MemeCore,1.6,18.08552,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.34,12.46293,gainer
+superfarm,super,SuperVerse,0.60264,9.22369,gainer
+telcoin,tel,Telcoin,0.00517633,7.86499,gainer
+decentraland,mana,Decentraland,0.319313,6.70109,gainer
+syrup,syrup,Maple Finance,0.509237,6.67996,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.17,6.54802,gainer
+arweave,ar,Arweave,6.6,5.70374,gainer
+pump-fun,pump,Pump.fun,0.00451727,5.6524,gainer
+keeta,kta,Keeta,0.861619,5.49675,gainer
+sun-token,sun,Sun Token,0.02104222,-3.33597,loser
+ronin,ron,Ronin,0.472643,-2.661,loser
+aave,aave,Aave,302.5,-2.27101,loser
+build-on,b,BUILDon,0.592253,-2.25602,loser
+ethena,ena,Ethena,0.6569,-2.10911,loser
+vision-3,vsn,Vision,0.155638,-2.09405,loser
+morpho,morpho,Morpho,1.98,-1.91657,loser
+kucoin-shares,kcs,KuCoin,14.44,-1.87973,loser
+loaded-lions,lion,Loaded Lions,0.02004215,-1.74276,loser
+monero,xmr,Monero,265.48,-1.60387,loser
