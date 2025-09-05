@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-ether-fi-staked-eth,eeth,ether.fi Staked ETH,4286.62,339.32839,gainer
-four,form,Four,3.33,6.23045,gainer
-bitget-token,bgb,Bitget Token,4.98,5.48533,gainer
-fartcoin,fartcoin,Fartcoin,0.789974,5.34684,gainer
-walrus-2,wal,Walrus,0.427084,5.23066,gainer
-bitcoin-cash,bch,Bitcoin Cash,596.93,4.92007,gainer
-ondo-finance,ondo,Ondo,0.952511,4.12774,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03041606,3.5177,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.21,2.88257,gainer
-beam-2,beam,Beam,0.00719158,2.80354,gainer
-tokenize-xchange,tkx,Tokenize Xchange,4.9,-5.0702,loser
-world-liberty-financial,wlfi,World Liberty Financial,0.231716,-4.99159,loser
-pyth-network,pyth,Pyth Network,0.157869,-4.61396,loser
-conflux-token,cfx,Conflux,0.173662,-3.4468,loser
-mantle,mnt,Mantle,1.11,-3.11256,loser
-jasmycoin,jasmy,JasmyCoin,0.01418714,-3.01211,loser
-zebec-network,zbcn,Zebec Network,0.00395948,-2.68743,loser
-telcoin,tel,Telcoin,0.00445909,-2.59813,loser
-pancakeswap-token,cake,PancakeSwap,2.38,-2.42796,loser
-flare-networks,flr,Flare,0.02055257,-2.32015,loser
+memecore,m,MemeCore,1.75,31.00055,gainer
+keeta,kta,Keeta,0.938736,12.59053,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.36,12.40607,gainer
+telcoin,tel,Telcoin,0.00531306,9.32327,gainer
+decentraland,mana,Decentraland,0.32807,8.77739,gainer
+superfarm,super,SuperVerse,0.606949,8.66849,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.24,8.2931,gainer
+walrus-2,wal,Walrus,0.443099,7.53429,gainer
+arweave,ar,Arweave,6.76,7.49776,gainer
+the-sandbox,sand,The Sandbox,0.290227,5.21537,gainer
+build-on,b,BUILDon,0.607052,-5.74985,loser
+aave,aave,Aave,312.09,-3.03657,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.9,-2.87545,loser
+vision-3,vsn,Vision,0.156299,-2.40004,loser
+saros-finance,saros,Saros,0.360261,-2.19229,loser
+bitget-token,bgb,Bitget Token,4.87,-1.93149,loser
+sun-token,sun,Sun Token,0.02150709,-1.90772,loser
+helium,hnt,Helium,2.43,-1.85869,loser
+vaulta,a,Vaulta,0.468763,-1.81649,loser
+ethena,ena,Ethena,0.688008,-1.79424,loser
