@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,1.67,15.5872,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.184879,11.26615,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.32,10.1233,gainer
-keeta,kta,Keeta,0.872173,7.56103,gainer
-superfarm,super,SuperVerse,0.598053,7.4454,gainer
-decentraland,mana,Decentraland,0.319024,6.64541,gainer
-telcoin,tel,Telcoin,0.00511102,6.44712,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.17,5.14114,gainer
-walrus-2,wal,Walrus,0.43029,5.0857,gainer
-arweave,ar,Arweave,6.55,4.80587,gainer
-aave,aave,Aave,300.06,-5.82934,loser
-ethena,ena,Ethena,0.656882,-4.38399,loser
-ronin,ron,Ronin,0.472249,-3.52471,loser
-eos,eos,EOS,0.4588,-3.37751,loser
-vaulta,a,Vaulta,0.459692,-3.36034,loser
-chainlink,link,Chainlink,22.24,-3.12142,loser
-helium,hnt,Helium,2.39,-2.86847,loser
-loaded-lions,lion,Loaded Lions,0.01997526,-2.78807,loser
-tokenize-xchange,tkx,Tokenize Xchange,4.93,-2.77901,loser
-vision-3,vsn,Vision,0.154787,-2.77525,loser
+memecore,m,MemeCore,1.66,14.53642,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.185317,11.5297,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.32,10.2978,gainer
+telcoin,tel,Telcoin,0.0051823,8.22154,gainer
+keeta,kta,Keeta,0.869575,7.42022,gainer
+superfarm,super,SuperVerse,0.597101,7.27438,gainer
+decentraland,mana,Decentraland,0.318683,6.65058,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.16,4.82064,gainer
+arweave,ar,Arweave,6.53,4.67664,gainer
+walrus-2,wal,Walrus,0.427702,4.46778,gainer
+aave,aave,Aave,299.52,-5.68186,loser
+ethena,ena,Ethena,0.655037,-4.30485,loser
+eos,eos,EOS,0.456836,-3.79129,loser
+ronin,ron,Ronin,0.470112,-3.78737,loser
+helium,hnt,Helium,2.39,-3.51545,loser
+vaulta,a,Vaulta,0.458661,-3.41771,loser
+loaded-lions,lion,Loaded Lions,0.01991342,-3.19176,loser
+chainlink,link,Chainlink,22.18,-3.1227,loser
+pyth-network,pyth,Pyth Network,0.146801,-2.99857,loser
+vision-3,vsn,Vision,0.154597,-2.84046,loser
