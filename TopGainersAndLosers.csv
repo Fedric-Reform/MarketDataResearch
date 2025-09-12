@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-memecore,m,MemeCore,1.61,18.85066,gainer
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.34,13.16249,gainer
-pump-fun,pump,Pump.fun,0.0045594,10.81025,gainer
-superfarm,super,SuperVerse,0.59911,8.6751,gainer
-keeta,kta,Keeta,0.864488,7.63488,gainer
-decentraland,mana,Decentraland,0.319872,7.09653,gainer
-syrup,syrup,Maple Finance,0.508784,7.05258,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.17,6.95797,gainer
-telcoin,tel,Telcoin,0.00516003,6.90394,gainer
-arweave,ar,Arweave,6.6,6.09207,gainer
-sun-token,sun,Sun Token,0.0210696,-3.06715,loser
-vision-3,vsn,Vision,0.155966,-2.66712,loser
-ronin,ron,Ronin,0.472487,-2.43421,loser
-build-on,b,BUILDon,0.592105,-2.23993,loser
-kucoin-shares,kcs,KuCoin,14.4,-2.04489,loser
-aave,aave,Aave,303.29,-1.7642,loser
-saros-finance,saros,Saros,0.360008,-1.56949,loser
-vaulta,a,Vaulta,0.465236,-1.47629,loser
-helium,hnt,Helium,2.37,-1.18127,loser
-eos,eos,EOS,0.465994,-1.16017,loser
+aethir,ath,Aethir,0.058354,24.06526,gainer
+memecore,m,MemeCore,2.2,10.76883,gainer
+pump-fun,pump,Pump.fun,0.00603386,8.48143,gainer
+bonk,bonk,Bonk,2.533e-05,8.19956,gainer
+rekt-4,rekt,Rekt,9.88597e-07,8.12907,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03638372,7.71394,gainer
+jito-governance-token,jto,Jito,1.96,6.94808,gainer
+saros-finance,saros,Saros,0.357011,6.89678,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.26,6.39901,gainer
+venom,venom,Venom,0.16065,6.14985,gainer
+linea,linea,Linea,0.02231973,-5.38513,loser
+helium,hnt,Helium,2.6,-5.03722,loser
+story-2,ip,Story,9.7,-3.98174,loser
+worldcoin-wld,wld,Worldcoin,1.62,-2.58214,loser
+sky,sky,Sky,0.07321,-2.07851,loser
+build-on,b,BUILDon,0.538548,-1.99167,loser
+bittensor,tao,Bittensor,351.93,-1.76103,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.91,-1.65595,loser
+avalanche-2,avax,Avalanche,28.5,-1.49488,loser
+wrapped-avax,wavax,Wrapped AVAX,28.5,-1.47904,loser
