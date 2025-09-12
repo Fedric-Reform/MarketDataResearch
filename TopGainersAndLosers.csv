@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-aethir,ath,Aethir,0.057713,22.35277,gainer
-memecore,m,MemeCore,2.21,11.82382,gainer
-hash-2,hash,Provenance Blockchain,0.03778631,11.81766,gainer
-bonk,bonk,Bonk,2.541e-05,10.17183,gainer
-pump-fun,pump,Pump.fun,0.00604191,9.72912,gainer
-jito-governance-token,jto,Jito,1.98,8.99729,gainer
-rekt-4,rekt,Rekt,9.92309e-07,8.87604,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.0362333,8.24403,gainer
-four,form,Four,2.66,7.48061,gainer
-saros-finance,saros,Saros,0.357956,7.35021,gainer
-helium,hnt,Helium,2.59,-5.24129,loser
-linea,linea,Linea,0.02211556,-3.92217,loser
-story-2,ip,Story,9.7,-2.66426,loser
-sky,sky,Sky,0.073069,-2.47655,loser
-worldcoin-wld,wld,Worldcoin,1.61,-1.70184,loser
-bittensor,tao,Bittensor,351.86,-1.54329,loser
-wrapped-avax,wavax,Wrapped AVAX,28.53,-1.08454,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.96,-1.06837,loser
-beam-2,beam,Beam,0.00778414,-0.93382,loser
-avalanche-2,avax,Avalanche,28.55,-0.91645,loser
+aethir,ath,Aethir,0.057751,22.33335,gainer
+memecore,m,MemeCore,2.22,12.48633,gainer
+jito-governance-token,jto,Jito,2.0,10.2012,gainer
+bonk,bonk,Bonk,2.534e-05,9.86687,gainer
+pump-fun,pump,Pump.fun,0.00601215,9.66916,gainer
+rekt-4,rekt,Rekt,9.89393e-07,8.68601,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03612429,7.91839,gainer
+four,form,Four,2.66,7.72973,gainer
+ondo-finance,ondo,Ondo,1.09,7.53968,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.26,7.24911,gainer
+helium,hnt,Helium,2.59,-5.20682,loser
+linea,linea,Linea,0.02206883,-4.03931,loser
+story-2,ip,Story,9.69,-2.86225,loser
+sky,sky,Sky,0.073311,-2.10604,loser
+worldcoin-wld,wld,Worldcoin,1.6,-1.92936,loser
+bittensor,tao,Bittensor,351.86,-1.01049,loser
+loaded-lions,lion,Loaded Lions,0.01938585,-0.75134,loser
+wrapped-avax,wavax,Wrapped AVAX,28.58,-0.71061,loser
+crypto-com-chain,cro,Cronos,0.254444,-0.69899,loser
+avalanche-2,avax,Avalanche,28.58,-0.62953,loser
