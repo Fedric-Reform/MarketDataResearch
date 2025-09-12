@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-aethir,ath,Aethir,0.058061,23.44258,gainer
-memecore,m,MemeCore,2.19,10.53455,gainer
-pump-fun,pump,Pump.fun,0.00604404,9.41194,gainer
-bonk,bonk,Bonk,2.536e-05,8.30888,gainer
-pudgy-penguins,pengu,Pudgy Penguins,0.03639789,8.21056,gainer
-rekt-4,rekt,Rekt,9.88915e-07,8.16376,gainer
-jito-governance-token,jto,Jito,1.97,7.18151,gainer
-saros-finance,saros,Saros,0.357397,7.14251,gainer
-aerodrome-finance,aero,Aerodrome Finance,1.26,6.44836,gainer
-venom,venom,Venom,0.160614,6.12597,gainer
-linea,linea,Linea,0.02228402,-5.53652,loser
-helium,hnt,Helium,2.6,-5.02492,loser
-story-2,ip,Story,9.71,-3.36176,loser
-worldcoin-wld,wld,Worldcoin,1.62,-1.99267,loser
-sky,sky,Sky,0.073312,-1.94151,loser
-bittensor,tao,Bittensor,351.97,-1.75006,loser
-build-on,b,BUILDon,0.538389,-1.64424,loser
-avalanche-2,avax,Avalanche,28.51,-1.45935,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.91,-1.36648,loser
-wrapped-avax,wavax,Wrapped AVAX,28.5,-1.31234,loser
+aethir,ath,Aethir,0.057963,23.23448,gainer
+memecore,m,MemeCore,2.19,10.58874,gainer
+pump-fun,pump,Pump.fun,0.00604838,9.49062,gainer
+bonk,bonk,Bonk,2.546e-05,9.44532,gainer
+rekt-4,rekt,Rekt,9.91326e-07,8.5093,gainer
+pudgy-penguins,pengu,Pudgy Penguins,0.03647618,8.44333,gainer
+jito-governance-token,jto,Jito,1.98,8.28466,gainer
+saros-finance,saros,Saros,0.35776,7.25145,gainer
+aerodrome-finance,aero,Aerodrome Finance,1.26,6.99613,gainer
+binance-staked-sol,bnsol,Binance Staked SOL,258.89,6.31599,gainer
+linea,linea,Linea,0.02227302,-5.24276,loser
+helium,hnt,Helium,2.59,-5.06883,loser
+story-2,ip,Story,9.72,-3.28888,loser
+tokenize-xchange,tkx,Tokenize Xchange,4.87,-2.65895,loser
+worldcoin-wld,wld,Worldcoin,1.62,-2.06094,loser
+sky,sky,Sky,0.073435,-1.75891,loser
+build-on,b,BUILDon,0.53831,-1.65864,loser
+bittensor,tao,Bittensor,352.55,-1.36673,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.94,-1.29447,loser
+wrapped-avax,wavax,Wrapped AVAX,28.52,-1.23506,loser
