@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-trust-wallet-token,twt,Trust Wallet,1.14,22.7459,gainer
-linea,linea,Linea,0.0319956,22.40911,gainer
-dexe,dexe,DeXe,9.15,19.42706,gainer
-aster-2,aster,Aster,0.68785,8.29446,gainer
-near,near,NEAR Protocol,3.15,5.30667,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.232358,3.84313,gainer
-story-2,ip,Story,10.67,3.03218,gainer
-beldex,bdx,Beldex,0.087258,2.64333,gainer
-avalanche-2,avax,Avalanche,34.01,2.44792,gainer
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,41.57,2.41932,gainer
-myx-finance,myx,MYX Finance,12.01,-20.06009,loser
-syndicate-3,synd,Syndicate,1.25,-12.61849,loser
-spx6900,spx,SPX6900,1.31,-11.03724,loser
-based-brett,brett,Brett,0.052817,-10.66025,loser
-ethena-staked-ena,sena,Ethena Staked ENA,0.673871,-10.56616,loser
-memecore,m,MemeCore,2.37,-10.26918,loser
-four,form,Four,1.71,-10.10716,loser
-fartcoin,fartcoin,Fartcoin,0.856367,-9.84519,loser
-mog-coin,mog,Mog Coin,9.08117e-07,-9.53922,loser
-mantle,mnt,Mantle,1.68,-9.4394,loser
+trust-wallet-token,twt,Trust Wallet,1.14,24.02345,gainer
+linea,linea,Linea,0.03186796,22.14654,gainer
+dexe,dexe,DeXe,9.16,19.30518,gainer
+aster-2,aster,Aster,0.690856,8.76767,gainer
+near,near,NEAR Protocol,3.16,5.59724,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.233014,4.39335,gainer
+story-2,ip,Story,10.66,3.04286,gainer
+beldex,bdx,Beldex,0.087275,2.73204,gainer
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,41.62,2.43214,gainer
+avalanche-2,avax,Avalanche,34.03,2.41785,gainer
+myx-finance,myx,MYX Finance,12.0,-20.1187,loser
+spx6900,spx,SPX6900,1.31,-10.89675,loser
+ethena-staked-ena,sena,Ethena Staked ENA,0.673937,-10.5631,loser
+based-brett,brett,Brett,0.052907,-10.50839,loser
+syndicate-3,synd,Syndicate,1.29,-10.33923,loser
+memecore,m,MemeCore,2.38,-10.10811,loser
+four,form,Four,1.71,-9.93602,loser
+fartcoin,fartcoin,Fartcoin,0.856867,-9.55953,loser
+mog-coin,mog,Mog Coin,9.08586e-07,-9.49255,loser
+mantle,mnt,Mantle,1.68,-9.38441,loser
