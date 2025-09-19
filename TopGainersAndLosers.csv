@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-trust-wallet-token,twt,Trust Wallet,1.21,28.41501,gainer
-aster-2,aster,Aster,0.75612,19.04277,gainer
-linea,linea,Linea,0.02975217,12.33137,gainer
-syndicate-3,synd,Syndicate,1.081,11.19345,gainer
-dexe,dexe,DeXe,8.77,8.2664,gainer
-hash-2,hash,Provenance Blockchain,0.04001356,4.92894,gainer
-beldex,bdx,Beldex,0.088822,4.05799,gainer
-keeta,kta,Keeta,0.85023,3.05348,gainer
-beam-2,beam,Beam,0.00814478,1.52894,gainer
-wemix-token,wemix,WEMIX,0.756071,1.03515,gainer
-myx-finance,myx,MYX Finance,11.9,-18.56538,loser
-four,form,Four,1.68,-13.42991,loser
-fartcoin,fartcoin,Fartcoin,0.838945,-10.79379,loser
-morpho,morpho,Morpho,2.1,-10.16559,loser
-spx6900,spx,SPX6900,1.3,-10.04525,loser
-wormhole,w,Wormhole,0.108855,-9.13532,loser
-mantle,mnt,Mantle,1.66,-8.70423,loser
-ether-fi,ethfi,Ether.fi,1.52,-8.41256,loser
-mog-coin,mog,Mog Coin,9.0465e-07,-8.21986,loser
-sui,sui,Sui,3.66,-7.42811,loser
+trust-wallet-token,twt,Trust Wallet,1.2,27.84409,gainer
+aster-2,aster,Aster,0.757398,19.24408,gainer
+syndicate-3,synd,Syndicate,1.083,12.98896,gainer
+linea,linea,Linea,0.02978706,12.46309,gainer
+dexe,dexe,DeXe,8.76,7.88564,gainer
+beldex,bdx,Beldex,0.089044,4.34974,gainer
+hash-2,hash,Provenance Blockchain,0.03959181,3.79388,gainer
+keeta,kta,Keeta,0.849215,3.02702,gainer
+beam-2,beam,Beam,0.00814693,1.55574,gainer
+wemix-token,wemix,WEMIX,0.75616,1.08621,gainer
+myx-finance,myx,MYX Finance,11.91,-18.19153,loser
+four,form,Four,1.68,-13.53905,loser
+fartcoin,fartcoin,Fartcoin,0.838848,-10.76215,loser
+morpho,morpho,Morpho,2.09,-10.34201,loser
+spx6900,spx,SPX6900,1.3,-10.01626,loser
+mantle,mnt,Mantle,1.66,-8.89014,loser
+wormhole,w,Wormhole,0.108955,-8.82812,loser
+ether-fi,ethfi,Ether.fi,1.52,-8.34773,loser
+mog-coin,mog,Mog Coin,9.04668e-07,-8.22367,loser
+sui,sui,Sui,3.66,-7.44286,loser
