@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-aster-2,aster,Aster,0.805202,26.77033,gainer
-trust-wallet-token,twt,Trust Wallet,1.14,20.13363,gainer
-apollox-2,apx,APX,0.798256,20.04603,gainer
-linea,linea,Linea,0.03021003,14.56593,gainer
-dexe,dexe,DeXe,8.7,10.59493,gainer
-syndicate-3,synd,Syndicate,1.21,10.09101,gainer
-keeta,kta,Keeta,0.849764,4.07137,gainer
-beldex,bdx,Beldex,0.087984,3.15377,gainer
-story-2,ip,Story,10.56,1.8284,gainer
-beam-2,beam,Beam,0.00812032,1.06542,gainer
-myx-finance,myx,MYX Finance,12.08,-18.60331,loser
-morpho,morpho,Morpho,2.1,-14.53226,loser
-four,form,Four,1.69,-12.33534,loser
-fartcoin,fartcoin,Fartcoin,0.83614,-11.69568,loser
-spx6900,spx,SPX6900,1.29,-11.68178,loser
-sun-token,sun,Sun Token,0.02383931,-9.60096,loser
-mog-coin,mog,Mog Coin,8.9836e-07,-9.52553,loser
-mantle,mnt,Mantle,1.67,-9.51904,loser
-pump-fun,pump,Pump.fun,0.00721931,-8.75192,loser
-wormhole,w,Wormhole,0.108485,-8.64498,loser
+aster-2,aster,Aster,0.804296,26.62763,gainer
+trust-wallet-token,twt,Trust Wallet,1.14,19.96238,gainer
+apollox-2,apx,APX,0.790062,18.81369,gainer
+linea,linea,Linea,0.03013357,14.27596,gainer
+dexe,dexe,DeXe,8.65,9.72436,gainer
+syndicate-3,synd,Syndicate,1.18,7.42982,gainer
+keeta,kta,Keeta,0.850087,4.11084,gainer
+beldex,bdx,Beldex,0.087989,3.13301,gainer
+story-2,ip,Story,10.56,1.83191,gainer
+tether-gold,xaut,Tether Gold,3685.36,1.0631,gainer
+myx-finance,myx,MYX Finance,12.1,-18.24984,loser
+morpho,morpho,Morpho,2.1,-14.54688,loser
+four,form,Four,1.69,-12.32651,loser
+spx6900,spx,SPX6900,1.29,-11.63345,loser
+fartcoin,fartcoin,Fartcoin,0.837147,-11.58932,loser
+sun-token,sun,Sun Token,0.02381952,-9.67601,loser
+mog-coin,mog,Mog Coin,8.98284e-07,-9.53312,loser
+mantle,mnt,Mantle,1.67,-9.52796,loser
+pump-fun,pump,Pump.fun,0.00722367,-8.69673,loser
+ether-fi,ethfi,Ether.fi,1.52,-8.64777,loser
