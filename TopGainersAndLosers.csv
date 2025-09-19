@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-linea,linea,Linea,0.03187353,22.02069,gainer
-trust-wallet-token,twt,Trust Wallet,1.14,22.01126,gainer
-dexe,dexe,DeXe,9.16,18.58741,gainer
-aster-2,aster,Aster,0.689309,8.52418,gainer
-near,near,NEAR Protocol,3.16,5.53727,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.233459,4.7897,gainer
-story-2,ip,Story,10.65,2.93987,gainer
-keeta,kta,Keeta,0.866822,2.69604,gainer
-avalanche-2,avax,Avalanche,34.02,2.31815,gainer
-wrapped-avax,wavax,Wrapped AVAX,34.0,2.24556,gainer
-myx-finance,myx,MYX Finance,11.93,-20.38793,loser
-ethena-staked-ena,sena,Ethena Staked ENA,0.673854,-12.93222,loser
-syndicate-3,synd,Syndicate,1.25,-12.68581,loser
-spx6900,spx,SPX6900,1.31,-10.56947,loser
-memecore,m,MemeCore,2.37,-10.12438,loser
-based-brett,brett,Brett,0.052751,-10.11308,loser
-four,form,Four,1.71,-9.8224,loser
-mog-coin,mog,Mog Coin,9.07646e-07,-9.41981,loser
-fartcoin,fartcoin,Fartcoin,0.857936,-9.1226,loser
-mantle,mnt,Mantle,1.69,-8.84098,loser
+linea,linea,Linea,0.03194087,22.41987,gainer
+trust-wallet-token,twt,Trust Wallet,1.14,21.77731,gainer
+dexe,dexe,DeXe,9.26,19.95424,gainer
+aster-2,aster,Aster,0.688515,8.39921,gainer
+near,near,NEAR Protocol,3.16,5.62897,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.234524,5.26784,gainer
+story-2,ip,Story,10.64,3.37693,gainer
+keeta,kta,Keeta,0.865299,2.51558,gainer
+avalanche-2,avax,Avalanche,34.02,2.32301,gainer
+wrapped-avax,wavax,Wrapped AVAX,34.04,2.30594,gainer
+myx-finance,myx,MYX Finance,11.94,-19.87054,loser
+ethena-staked-ena,sena,Ethena Staked ENA,0.673726,-12.94867,loser
+syndicate-3,synd,Syndicate,1.25,-12.7862,loser
+spx6900,spx,SPX6900,1.31,-10.61414,loser
+based-brett,brett,Brett,0.052756,-10.10457,loser
+memecore,m,MemeCore,2.38,-9.70126,loser
+four,form,Four,1.72,-9.56137,loser
+morpho,morpho,Morpho,2.11,-9.55154,loser
+mog-coin,mog,Mog Coin,9.07388e-07,-9.44564,loser
+fartcoin,fartcoin,Fartcoin,0.857638,-9.19412,loser
