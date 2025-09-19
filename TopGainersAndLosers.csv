@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-linea,linea,Linea,0.03194087,22.41987,gainer
-trust-wallet-token,twt,Trust Wallet,1.14,21.77731,gainer
-dexe,dexe,DeXe,9.26,19.95424,gainer
-aster-2,aster,Aster,0.688515,8.39921,gainer
-near,near,NEAR Protocol,3.16,5.62897,gainer
-world-liberty-financial,wlfi,World Liberty Financial,0.234524,5.26784,gainer
-story-2,ip,Story,10.64,3.37693,gainer
-keeta,kta,Keeta,0.865299,2.51558,gainer
-avalanche-2,avax,Avalanche,34.02,2.32301,gainer
-wrapped-avax,wavax,Wrapped AVAX,34.04,2.30594,gainer
-myx-finance,myx,MYX Finance,11.94,-19.87054,loser
-ethena-staked-ena,sena,Ethena Staked ENA,0.673726,-12.94867,loser
-syndicate-3,synd,Syndicate,1.25,-12.7862,loser
-spx6900,spx,SPX6900,1.31,-10.61414,loser
-based-brett,brett,Brett,0.052756,-10.10457,loser
-memecore,m,MemeCore,2.38,-9.70126,loser
-four,form,Four,1.72,-9.56137,loser
-morpho,morpho,Morpho,2.11,-9.55154,loser
-mog-coin,mog,Mog Coin,9.07388e-07,-9.44564,loser
-fartcoin,fartcoin,Fartcoin,0.857638,-9.19412,loser
+trust-wallet-token,twt,Trust Wallet,1.14,21.95774,gainer
+dexe,dexe,DeXe,9.38,20.21341,gainer
+linea,linea,Linea,0.03053618,16.74499,gainer
+aster-2,aster,Aster,0.733973,15.556,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.234165,5.01748,gainer
+near,near,NEAR Protocol,3.14,3.5097,gainer
+keeta,kta,Keeta,0.868119,3.32052,gainer
+story-2,ip,Story,10.63,2.66978,gainer
+beldex,bdx,Beldex,0.087063,1.66714,gainer
+swissborg,borg,SwissBorg,0.405422,1.09366,gainer
+myx-finance,myx,MYX Finance,11.98,-19.36272,loser
+ethena-staked-ena,sena,Ethena Staked ENA,0.684603,-11.54299,loser
+spx6900,spx,SPX6900,1.3,-11.01122,loser
+fartcoin,fartcoin,Fartcoin,0.853802,-10.16234,loser
+mog-coin,mog,Mog Coin,9.03377e-07,-9.96202,loser
+based-brett,brett,Brett,0.052558,-9.93676,loser
+pump-fun,pump,Pump.fun,0.00716501,-9.92805,loser
+four,form,Four,1.72,-9.64129,loser
+memecore,m,MemeCore,2.37,-9.63761,loser
+telcoin,tel,Telcoin,0.00446094,-8.73851,loser
