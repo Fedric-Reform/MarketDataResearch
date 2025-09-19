@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-trust-wallet-token,twt,Trust Wallet,1.18,25.11236,gainer
-syndicate-3,synd,Syndicate,1.15,20.41031,gainer
-aster-2,aster,Aster,0.762781,20.09158,gainer
-linea,linea,Linea,0.02991112,14.01366,gainer
-dexe,dexe,DeXe,8.7,10.42716,gainer
-hash-2,hash,Provenance Blockchain,0.04176151,4.71159,gainer
-keeta,kta,Keeta,0.850468,4.12689,gainer
-beldex,bdx,Beldex,0.088176,3.37348,gainer
+trust-wallet-token,twt,Trust Wallet,1.18,25.15251,gainer
+syndicate-3,synd,Syndicate,1.18,23.51312,gainer
+aster-2,aster,Aster,0.762585,20.06066,gainer
+linea,linea,Linea,0.02990675,13.99702,gainer
+dexe,dexe,DeXe,8.7,10.44043,gainer
+hash-2,hash,Provenance Blockchain,0.04176172,4.71212,gainer
+keeta,kta,Keeta,0.850276,4.10342,gainer
+beldex,bdx,Beldex,0.088226,3.43225,gainer
 tokenize-xchange,tkx,Tokenize Xchange,4.95,3.32001,gainer
-beam-2,beam,Beam,0.00813666,1.65244,gainer
-myx-finance,myx,MYX Finance,12.19,-16.72803,loser
-morpho,morpho,Morpho,2.09,-12.96074,loser
-four,form,Four,1.69,-12.13455,loser
-fartcoin,fartcoin,Fartcoin,0.837054,-11.07399,loser
-spx6900,spx,SPX6900,1.3,-10.30057,loser
-mantle,mnt,Mantle,1.66,-8.58228,loser
-ether-fi,ethfi,Ether.fi,1.52,-8.54614,loser
-mog-coin,mog,Mog Coin,9.01746e-07,-8.53827,loser
-wormhole,w,Wormhole,0.108958,-8.50095,loser
-sun-token,sun,Sun Token,0.02391329,-8.06169,loser
+beam-2,beam,Beam,0.00813727,1.66,gainer
+myx-finance,myx,MYX Finance,12.19,-16.69882,loser
+morpho,morpho,Morpho,2.09,-12.99706,loser
+four,form,Four,1.69,-12.12758,loser
+fartcoin,fartcoin,Fartcoin,0.837678,-11.00775,loser
+spx6900,spx,SPX6900,1.3,-10.22362,loser
+mantle,mnt,Mantle,1.66,-8.58278,loser
+mog-coin,mog,Mog Coin,9.01439e-07,-8.56945,loser
+ether-fi,ethfi,Ether.fi,1.52,-8.53864,loser
+wormhole,w,Wormhole,0.108983,-8.48012,loser
+sun-token,sun,Sun Token,0.02391524,-8.05419,loser
