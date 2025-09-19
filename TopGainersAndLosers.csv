@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-trust-wallet-token,twt,Trust Wallet,1.087,34.72708,gainer
-immutable-x,imx,Immutable,0.8694,16.15252,gainer
-linea,linea,Linea,0.02933711,11.3042,gainer
-sun-token,sun,Sun Token,0.02305217,11.17741,gainer
-near,near,NEAR Protocol,3.24,10.73524,gainer
-beam-2,beam,Beam,0.00864393,8.9287,gainer
-keeta,kta,Keeta,0.873937,8.6393,gainer
-chain-2,xcn,Onyxcoin,0.01250351,8.48925,gainer
-swissborg,borg,SwissBorg,0.407299,8.47157,gainer
-hash-2,hash,Provenance Blockchain,0.03972487,7.03001,gainer
-syndicate-3,synd,Syndicate,1.25,-47.52824,loser
-myx-finance,myx,MYX Finance,12.94,-24.13293,loser
-memecore,m,MemeCore,2.53,-10.29114,loser
-toshi,toshi,Toshi,0.00083017,-9.0425,loser
-pump-fun,pump,Pump.fun,0.00739147,-7.91522,loser
-four,form,Four,1.85,-6.84312,loser
-spx6900,spx,SPX6900,1.36,-6.31482,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.91,-5.82475,loser
-telcoin,tel,Telcoin,0.00459242,-5.01315,loser
-mog-coin,mog,Mog Coin,9.35815e-07,-4.84164,loser
+trust-wallet-token,twt,Trust Wallet,1.086,34.16601,gainer
+immutable-x,imx,Immutable,0.86519,15.38251,gainer
+linea,linea,Linea,0.02943586,11.67885,gainer
+near,near,NEAR Protocol,3.24,10.72186,gainer
+sun-token,sun,Sun Token,0.02299418,9.95714,gainer
+beam-2,beam,Beam,0.00864096,8.88454,gainer
+swissborg,borg,SwissBorg,0.409728,8.50918,gainer
+keeta,kta,Keeta,0.873802,8.45192,gainer
+chain-2,xcn,Onyxcoin,0.0124457,8.07649,gainer
+hash-2,hash,Provenance Blockchain,0.0397236,6.71504,gainer
+syndicate-3,synd,Syndicate,1.26,-50.78668,loser
+myx-finance,myx,MYX Finance,12.89,-24.44574,loser
+memecore,m,MemeCore,2.53,-9.83178,loser
+toshi,toshi,Toshi,0.00083125,-9.07981,loser
+pump-fun,pump,Pump.fun,0.0073883,-7.69457,loser
+four,form,Four,1.85,-6.75706,loser
+spx6900,spx,SPX6900,1.36,-6.08201,loser
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.91,-5.86776,loser
+mog-coin,mog,Mog Coin,9.34355e-07,-5.13316,loser
+telcoin,tel,Telcoin,0.00460259,-5.00099,loser
