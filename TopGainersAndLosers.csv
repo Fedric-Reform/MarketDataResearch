@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-trust-wallet-token,twt,Trust Wallet,1.11,37.46428,gainer
-immutable-x,imx,Immutable,0.862589,14.81792,gainer
-near,near,NEAR Protocol,3.29,12.75927,gainer
-swissborg,borg,SwissBorg,0.411703,12.55772,gainer
-sun-token,sun,Sun Token,0.02308219,11.3485,gainer
-linea,linea,Linea,0.02899896,10.11757,gainer
-chain-2,xcn,Onyxcoin,0.01245506,7.96813,gainer
-keeta,kta,Keeta,0.878081,7.86092,gainer
-hash-2,hash,Provenance Blockchain,0.03975404,7.82987,gainer
-beam-2,beam,Beam,0.00851828,7.22372,gainer
-syndicate-3,synd,Syndicate,1.28,-43.77811,loser
-myx-finance,myx,MYX Finance,12.84,-24.87515,loser
-toshi,toshi,Toshi,0.00083992,-8.6908,loser
-memecore,m,MemeCore,2.52,-8.50329,loser
-pump-fun,pump,Pump.fun,0.00734837,-8.28625,loser
-four,form,Four,1.84,-6.55492,loser
-spx6900,spx,SPX6900,1.36,-6.34786,loser
-mog-coin,mog,Mog Coin,9.31478e-07,-5.25016,loser
-telcoin,tel,Telcoin,0.00459243,-5.20669,loser
-eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.9,-4.75031,loser
+linea,linea,Linea,0.03257116,24.55172,gainer
+trust-wallet-token,twt,Trust Wallet,1.14,24.53294,gainer
+dexe,dexe,DeXe,9.0,19.49559,gainer
+near,near,NEAR Protocol,3.14,5.1008,gainer
+story-2,ip,Story,10.73,4.47421,gainer
+aster-2,aster,Aster,0.6619,4.20897,gainer
+world-liberty-financial,wlfi,World Liberty Financial,0.230167,3.49519,gainer
+beam-2,beam,Beam,0.00820408,2.88591,gainer
+beldex,bdx,Beldex,0.087257,2.69534,gainer
+avalanche-2,avax,Avalanche,34.01,2.3858,gainer
+myx-finance,myx,MYX Finance,11.92,-21.45239,loser
+syndicate-3,synd,Syndicate,1.31,-12.45271,loser
+spx6900,spx,SPX6900,1.3,-11.42326,loser
+based-brett,brett,Brett,0.052493,-10.2896,loser
+memecore,m,MemeCore,2.38,-10.27262,loser
+pump-fun,pump,Pump.fun,0.00713851,-9.89715,loser
+hash-2,hash,Provenance Blockchain,0.03537331,-9.75308,loser
+four,form,Four,1.71,-9.64744,loser
+mantle,mnt,Mantle,1.67,-9.41698,loser
+mog-coin,mog,Mog Coin,9.07705e-07,-9.41099,loser
