@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03893489,12.87367,gainer
-myx-finance,myx,MYX Finance,9.87,6.67608,gainer
-kava,kava,Kava,0.326823,2.15873,gainer
-okb,okb,OKB,183.89,0.82529,gainer
-leo-token,leo,LEO Token,9.48,0.50519,gainer
-wormhole,w,Wormhole,0.106636,0.4233,gainer
-pax-gold,paxg,PAX Gold,3755.53,0.40558,gainer
-monero,xmr,Monero,293.44,0.25959,gainer
-paypal-usd,pyusd,PayPal USD,1.002,0.21357,gainer
+hash-2,hash,Provenance Blockchain,0.03853885,11.69538,gainer
+myx-finance,myx,MYX Finance,9.89,6.30338,gainer
+kava,kava,Kava,0.326472,2.0094,gainer
+okb,okb,OKB,184.13,0.94455,gainer
+leo-token,leo,LEO Token,9.48,0.51276,gainer
+tether-gold,xaut,Tether Gold,3740.39,0.4645,gainer
+pax-gold,paxg,PAX Gold,3755.99,0.41778,gainer
+monero,xmr,Monero,293.37,0.23612,gainer
+wormhole,w,Wormhole,0.106674,0.19807,gainer
 figure-heloc,figr_heloc,Figure Heloc,1.001,0.19034,gainer
-story-2,ip,Story,8.42,-30.82751,loser
-zero-gravity,0g,0G,3.79,-25.5108,loser
-avantis,avnt,Avantis,1.66,-21.1676,loser
-instadapp,fluid,Fluid,5.8,-17.00003,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.14,-13.93075,loser
-wrapped-avax,wavax,Wrapped AVAX,29.55,-13.89771,loser
-avalanche-2,avax,Avalanche,29.54,-13.85562,loser
-aster-2,aster,Aster,1.96,-12.85565,loser
-linea,linea,Linea,0.02568232,-12.17208,loser
-memecore,m,MemeCore,2.26,-11.88922,loser
+story-2,ip,Story,8.43,-30.42257,loser
+zero-gravity,0g,0G,3.78,-25.42153,loser
+avantis,avnt,Avantis,1.65,-20.81833,loser
+instadapp,fluid,Fluid,5.8,-16.96509,loser
+wrapped-avax,wavax,Wrapped AVAX,29.49,-14.09947,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.07,-14.00907,loser
+avalanche-2,avax,Avalanche,29.51,-13.95627,loser
+aster-2,aster,Aster,1.97,-12.09372,loser
+linea,linea,Linea,0.02571791,-12.05037,loser
+memecore,m,MemeCore,2.26,-11.95813,loser
