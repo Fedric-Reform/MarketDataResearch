@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-trust-wallet-token,twt,Trust Wallet,1.21,27.93218,gainer
-aster-2,aster,Aster,0.759966,19.64831,gainer
-linea,linea,Linea,0.02965667,12.04051,gainer
-syndicate-3,synd,Syndicate,1.076,7.44439,gainer
-dexe,dexe,DeXe,8.76,5.48722,gainer
-beldex,bdx,Beldex,0.088909,4.31321,gainer
-hash-2,hash,Provenance Blockchain,0.03959141,3.79284,gainer
-keeta,kta,Keeta,0.848563,2.79454,gainer
-beam-2,beam,Beam,0.00814231,1.73356,gainer
-wemix-token,wemix,WEMIX,0.756074,1.07465,gainer
-myx-finance,myx,MYX Finance,11.99,-17.61375,loser
-four,form,Four,1.68,-13.7409,loser
-fartcoin,fartcoin,Fartcoin,0.838679,-10.65021,loser
-morpho,morpho,Morpho,2.09,-10.28655,loser
-spx6900,spx,SPX6900,1.3,-10.1631,loser
-mantle,mnt,Mantle,1.66,-8.90671,loser
-wormhole,w,Wormhole,0.109409,-8.41098,loser
-ether-fi,ethfi,Ether.fi,1.52,-8.39045,loser
-mog-coin,mog,Mog Coin,9.05412e-07,-8.0393,loser
-sui,sui,Sui,3.66,-7.39325,loser
+hash-2,hash,Provenance Blockchain,0.03964442,22.65079,gainer
+tokenize-xchange,tkx,Tokenize Xchange,4.87,1.68433,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.80062,gainer
+tether-gold,xaut,Tether Gold,3754.23,0.75574,gainer
+leo-token,leo,LEO Token,9.48,0.47002,gainer
+figure-heloc,figr_heloc,Figure Heloc,1.001,0.36903,gainer
+okb,okb,OKB,181.35,0.28339,gainer
+pax-gold,paxg,PAX Gold,3748.25,0.24467,gainer
+binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),1.002,0.20914,gainer
+myx-finance,myx,MYX Finance,9.52,0.19337,gainer
+story-2,ip,Story,8.8,-26.39668,loser
+avantis,avnt,Avantis,1.6,-25.83748,loser
+zero-gravity,0g,0G,3.83,-23.87197,loser
+aster-2,aster,Aster,1.83,-21.36591,loser
+plasma,xpl,Plasma,1.048,-19.23111,loser
+linea,linea,Linea,0.02472567,-16.86887,loser
+instadapp,fluid,Fluid,5.7,-15.7038,loser
+wrapped-avax,wavax,Wrapped AVAX,29.23,-15.49146,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,35.72,-15.47773,loser
+avalanche-2,avax,Avalanche,29.26,-15.34806,loser
