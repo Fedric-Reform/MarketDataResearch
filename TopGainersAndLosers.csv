@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
 hash-2,hash,Provenance Blockchain,0.03957599,22.47152,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.77594,gainer
-okb,okb,OKB,182.88,0.6497,gainer
-leo-token,leo,LEO Token,9.47,0.40225,gainer
-tether-gold,xaut,Tether Gold,3736.16,0.38814,gainer
-susds,susds,sUSDS,1.069,0.38694,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.017,2.25023,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.77351,gainer
+okb,okb,OKB,182.9,0.70739,gainer
+susds,susds,sUSDS,1.069,0.59422,gainer
+tether-gold,xaut,Tether Gold,3735.69,0.37553,gainer
 figure-heloc,figr_heloc,Figure Heloc,1.001,0.36836,gainer
-pax-gold,paxg,PAX Gold,3747.66,0.25819,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.001,0.23467,gainer
-usdx-money-usdx,usdx,Stables Labs USDX,0.998231,0.19798,gainer
-story-2,ip,Story,8.64,-28.11079,loser
-zero-gravity,0g,0G,3.77,-25.31916,loser
-avantis,avnt,Avantis,1.61,-24.9672,loser
-plasma,xpl,Plasma,1.022,-21.20639,loser
-aster-2,aster,Aster,1.9,-17.56016,loser
-instadapp,fluid,Fluid,5.65,-17.44273,loser
-linea,linea,Linea,0.02461647,-16.86723,loser
-wrapped-avax,wavax,Wrapped AVAX,29.22,-15.52904,loser
-avalanche-2,avax,Avalanche,29.26,-15.28865,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,35.79,-15.24616,loser
+leo-token,leo,LEO Token,9.47,0.35117,gainer
+pax-gold,paxg,PAX Gold,3747.43,0.25225,gainer
+usdx-money-usdx,usdx,Stables Labs USDX,0.99834,0.20887,gainer
+story-2,ip,Story,8.66,-27.93727,loser
+zero-gravity,0g,0G,3.76,-25.49859,loser
+avantis,avnt,Avantis,1.62,-24.47924,loser
+plasma,xpl,Plasma,1.023,-21.16845,loser
+aster-2,aster,Aster,1.9,-17.48459,loser
+instadapp,fluid,Fluid,5.65,-17.46049,loser
+linea,linea,Linea,0.02459946,-16.92467,loser
+wrapped-avax,wavax,Wrapped AVAX,29.25,-15.43353,loser
+avalanche-2,avax,Avalanche,29.26,-15.27782,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,35.8,-15.20638,loser
