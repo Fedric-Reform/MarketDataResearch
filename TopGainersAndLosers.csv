@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03968956,11.11451,gainer
-myx-finance,myx,MYX Finance,9.77,4.46714,gainer
-kava,kava,Kava,0.327128,1.38041,gainer
-usdb,usdb,USDB,1.007,1.34489,gainer
-okb,okb,OKB,184.77,1.04527,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.003,0.83765,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.76701,gainer
-pax-gold,paxg,PAX Gold,3761.95,0.69394,gainer
-susds,susds,sUSDS,1.069,0.52165,gainer
-leo-token,leo,LEO Token,9.46,0.35413,gainer
-story-2,ip,Story,8.55,-28.85937,loser
-zero-gravity,0g,0G,3.84,-24.29857,loser
-avantis,avnt,Avantis,1.68,-20.00141,loser
-linea,linea,Linea,0.02523041,-14.84841,loser
-instadapp,fluid,Fluid,5.76,-14.73098,loser
-wrapped-avax,wavax,Wrapped AVAX,29.56,-14.54367,loser
-aster-2,aster,Aster,1.95,-14.47561,loser
-avalanche-2,avax,Avalanche,29.62,-14.31275,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.22,-14.31176,loser
-plasma,xpl,Plasma,1.14,-12.01314,loser
+hash-2,hash,Provenance Blockchain,0.03987412,11.5232,gainer
+myx-finance,myx,MYX Finance,9.76,4.37894,gainer
+kava,kava,Kava,0.326687,1.17001,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.007,1.01813,gainer
+pax-gold,paxg,PAX Gold,3764.9,0.79758,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.76827,gainer
+okb,okb,OKB,184.73,0.76126,gainer
+olympus,ohm,Olympus,22.49,0.52474,gainer
+susds,susds,sUSDS,1.069,0.51827,gainer
+usdb,usdb,USDB,0.997763,0.38163,gainer
+story-2,ip,Story,8.55,-28.43479,loser
+zero-gravity,0g,0G,3.83,-25.03779,loser
+avantis,avnt,Avantis,1.68,-20.60218,loser
+instadapp,fluid,Fluid,5.76,-15.09213,loser
+linea,linea,Linea,0.0252762,-14.39588,loser
+wrapped-avax,wavax,Wrapped AVAX,29.76,-13.96104,loser
+avalanche-2,avax,Avalanche,29.75,-13.90937,loser
+plasma,xpl,Plasma,1.12,-13.89457,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.45,-13.72941,loser
+aster-2,aster,Aster,1.98,-13.14983,loser
