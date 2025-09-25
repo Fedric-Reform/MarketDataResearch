@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03974854,21.27701,gainer
-myx-finance,myx,MYX Finance,9.8,5.87062,gainer
+hash-2,hash,Provenance Blockchain,0.03974869,15.55336,gainer
+myx-finance,myx,MYX Finance,9.85,6.33164,gainer
 tokenize-xchange,tkx,Tokenize Xchange,4.96,5.70484,gainer
-usdb,usdb,USDB,1.016,2.3269,gainer
-kava,kava,Kava,0.326355,1.06016,gainer
-okb,okb,OKB,185.11,0.81396,gainer
-pax-gold,paxg,PAX Gold,3763.46,0.81254,gainer
-tether-gold,xaut,Tether Gold,3746.73,0.76843,gainer
-olympus,ohm,Olympus,22.49,0.50569,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.42531,gainer
-story-2,ip,Story,8.59,-28.27425,loser
-zero-gravity,0g,0G,3.84,-25.14147,loser
-avantis,avnt,Avantis,1.68,-20.1274,loser
-plasma,xpl,Plasma,1.091,-15.93119,loser
-instadapp,fluid,Fluid,5.78,-15.42907,loser
-linea,linea,Linea,0.02533108,-13.95271,loser
-wrapped-avax,wavax,Wrapped AVAX,29.81,-13.81198,loser
-avalanche-2,avax,Avalanche,29.81,-13.7106,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.52,-13.68103,loser
-aster-2,aster,Aster,1.98,-12.69729,loser
+usdb,usdb,USDB,1.018,2.51991,gainer
+kava,kava,Kava,0.326276,1.05269,gainer
+okb,okb,OKB,185.05,0.97193,gainer
+pax-gold,paxg,PAX Gold,3762.1,0.77593,gainer
+tether-gold,xaut,Tether Gold,3746.99,0.77538,gainer
+leo-token,leo,LEO Token,9.47,0.46657,gainer
+kaia,kaia,Kaia,0.151181,0.31796,gainer
+story-2,ip,Story,8.56,-29.78908,loser
+zero-gravity,0g,0G,3.85,-24.5571,loser
+avantis,avnt,Avantis,1.68,-19.48755,loser
+plasma,xpl,Plasma,1.09,-15.93716,loser
+instadapp,fluid,Fluid,5.77,-15.55932,loser
+wrapped-avax,wavax,Wrapped AVAX,29.81,-13.80428,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.49,-13.73796,loser
+avalanche-2,avax,Avalanche,29.82,-13.69104,loser
+linea,linea,Linea,0.0254117,-13.57241,loser
+aster-2,aster,Aster,1.98,-13.08798,loser
