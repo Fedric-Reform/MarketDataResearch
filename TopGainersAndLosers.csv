@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03960543,22.06092,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.005,1.03317,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.77817,gainer
-usdb,usdb,USDB,0.999711,0.65798,gainer
-okb,okb,OKB,183.24,0.61291,gainer
-susds,susds,sUSDS,1.068,0.51162,gainer
-tether-gold,xaut,Tether Gold,3735.69,0.37556,gainer
-leo-token,leo,LEO Token,9.48,0.37254,gainer
-figure-heloc,figr_heloc,Figure Heloc,1.001,0.36836,gainer
-pax-gold,paxg,PAX Gold,3748.75,0.33723,gainer
-story-2,ip,Story,8.58,-28.49793,loser
-zero-gravity,0g,0G,3.78,-24.97776,loser
-avantis,avnt,Avantis,1.65,-21.64284,loser
-plasma,xpl,Plasma,1.057,-18.5064,loser
-instadapp,fluid,Fluid,5.64,-17.50682,loser
-aster-2,aster,Aster,1.9,-17.19599,loser
-linea,linea,Linea,0.02479771,-16.35475,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,35.86,-15.14455,loser
-wrapped-avax,wavax,Wrapped AVAX,29.36,-15.08856,loser
-avalanche-2,avax,Avalanche,29.37,-14.99692,loser
+hash-2,hash,Provenance Blockchain,0.03955634,21.59749,gainer
+myx-finance,myx,MYX Finance,9.56,2.4605,gainer
+usdb,usdb,USDB,1.007,1.25426,gainer
+kava,kava,Kava,0.325393,0.87682,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.76292,gainer
+okb,okb,OKB,184.36,0.69522,gainer
+tether-gold,xaut,Tether Gold,3761.41,0.59387,gainer
+tokenize-xchange,tkx,Tokenize Xchange,4.94,0.54373,gainer
+pax-gold,paxg,PAX Gold,3754.48,0.51021,gainer
+leo-token,leo,LEO Token,9.46,0.40335,gainer
+story-2,ip,Story,8.56,-28.34773,loser
+zero-gravity,0g,0G,3.82,-24.45032,loser
+avantis,avnt,Avantis,1.66,-21.59107,loser
+aster-2,aster,Aster,1.92,-16.06733,loser
+instadapp,fluid,Fluid,5.74,-15.62731,loser
+linea,linea,Linea,0.02511125,-15.21969,loser
+wrapped-avax,wavax,Wrapped AVAX,29.59,-14.48281,loser
+avalanche-2,avax,Avalanche,29.58,-14.46062,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.23,-14.32187,loser
+plasma,xpl,Plasma,1.12,-13.92212,loser
