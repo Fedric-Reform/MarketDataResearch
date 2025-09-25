@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03974869,15.55336,gainer
-myx-finance,myx,MYX Finance,9.85,6.33164,gainer
-tokenize-xchange,tkx,Tokenize Xchange,4.96,5.70484,gainer
-usdb,usdb,USDB,1.018,2.51991,gainer
-kava,kava,Kava,0.326276,1.05269,gainer
-okb,okb,OKB,185.05,0.97193,gainer
-pax-gold,paxg,PAX Gold,3762.1,0.77593,gainer
-tether-gold,xaut,Tether Gold,3746.99,0.77538,gainer
-leo-token,leo,LEO Token,9.47,0.46657,gainer
-kaia,kaia,Kaia,0.151181,0.31796,gainer
-story-2,ip,Story,8.56,-29.78908,loser
-zero-gravity,0g,0G,3.85,-24.5571,loser
-avantis,avnt,Avantis,1.68,-19.48755,loser
-plasma,xpl,Plasma,1.09,-15.93716,loser
-instadapp,fluid,Fluid,5.77,-15.55932,loser
-wrapped-avax,wavax,Wrapped AVAX,29.81,-13.80428,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.49,-13.73796,loser
-avalanche-2,avax,Avalanche,29.82,-13.69104,loser
-linea,linea,Linea,0.0254117,-13.57241,loser
-aster-2,aster,Aster,1.98,-13.08798,loser
+hash-2,hash,Provenance Blockchain,0.03804027,10.63305,gainer
+myx-finance,myx,MYX Finance,9.68,4.32045,gainer
+usdb,usdb,USDB,1.017,2.35533,gainer
+kava,kava,Kava,0.326555,1.37866,gainer
+tether-gold,xaut,Tether Gold,3766.8,0.92455,gainer
+pax-gold,paxg,PAX Gold,3761.69,0.85784,gainer
+okb,okb,OKB,184.19,0.61879,gainer
+susds,susds,sUSDS,1.069,0.5979,gainer
+leo-token,leo,LEO Token,9.48,0.52442,gainer
+monero,xmr,Monero,292.34,0.51902,gainer
+story-2,ip,Story,8.56,-30.53716,loser
+zero-gravity,0g,0G,3.82,-25.99256,loser
+avantis,avnt,Avantis,1.66,-21.04006,loser
+plasma,xpl,Plasma,1.087,-16.21403,loser
+instadapp,fluid,Fluid,5.78,-15.31462,loser
+wrapped-avax,wavax,Wrapped AVAX,29.78,-13.93718,loser
+avalanche-2,avax,Avalanche,29.77,-13.93467,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.43,-13.85771,loser
+linea,linea,Linea,0.02552981,-13.13569,loser
+aster-2,aster,Aster,1.98,-12.55381,loser
