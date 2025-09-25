@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
 hash-2,hash,Provenance Blockchain,0.03955634,21.59749,gainer
-myx-finance,myx,MYX Finance,9.56,2.4605,gainer
-usdb,usdb,USDB,1.007,1.25426,gainer
-kava,kava,Kava,0.325393,0.87682,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.76292,gainer
-okb,okb,OKB,184.36,0.69522,gainer
-tether-gold,xaut,Tether Gold,3761.41,0.59387,gainer
+myx-finance,myx,MYX Finance,9.58,2.62635,gainer
+usdb,usdb,USDB,1.005,1.10416,gainer
+tether-gold,xaut,Tether Gold,3761.75,1.062,gainer
+kava,kava,Kava,0.325238,0.82876,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.7653,gainer
+okb,okb,OKB,184.23,0.62413,gainer
 tokenize-xchange,tkx,Tokenize Xchange,4.94,0.54373,gainer
-pax-gold,paxg,PAX Gold,3754.48,0.51021,gainer
-leo-token,leo,LEO Token,9.46,0.40335,gainer
-story-2,ip,Story,8.56,-28.34773,loser
-zero-gravity,0g,0G,3.82,-24.45032,loser
-avantis,avnt,Avantis,1.66,-21.59107,loser
-aster-2,aster,Aster,1.92,-16.06733,loser
-instadapp,fluid,Fluid,5.74,-15.62731,loser
-linea,linea,Linea,0.02511125,-15.21969,loser
-wrapped-avax,wavax,Wrapped AVAX,29.59,-14.48281,loser
-avalanche-2,avax,Avalanche,29.58,-14.46062,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.23,-14.32187,loser
-plasma,xpl,Plasma,1.12,-13.92212,loser
+pax-gold,paxg,PAX Gold,3754.81,0.51919,gainer
+leo-token,leo,LEO Token,9.46,0.40469,gainer
+story-2,ip,Story,8.56,-28.38287,loser
+zero-gravity,0g,0G,3.83,-24.4056,loser
+avantis,avnt,Avantis,1.66,-21.46422,loser
+instadapp,fluid,Fluid,5.74,-15.65659,loser
+aster-2,aster,Aster,1.92,-15.53358,loser
+linea,linea,Linea,0.02518283,-15.13736,loser
+wrapped-avax,wavax,Wrapped AVAX,29.58,-14.50268,loser
+avalanche-2,avax,Avalanche,29.58,-14.41762,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.25,-14.28731,loser
+plasma,xpl,Plasma,1.12,-13.70713,loser
