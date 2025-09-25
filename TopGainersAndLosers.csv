@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03964442,22.65079,gainer
-tokenize-xchange,tkx,Tokenize Xchange,4.87,1.68433,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.80062,gainer
-tether-gold,xaut,Tether Gold,3754.23,0.75574,gainer
-leo-token,leo,LEO Token,9.48,0.47002,gainer
-figure-heloc,figr_heloc,Figure Heloc,1.001,0.36903,gainer
-okb,okb,OKB,181.35,0.28339,gainer
-pax-gold,paxg,PAX Gold,3748.25,0.24467,gainer
-binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),1.002,0.20914,gainer
-myx-finance,myx,MYX Finance,9.52,0.19337,gainer
-story-2,ip,Story,8.8,-26.39668,loser
-avantis,avnt,Avantis,1.6,-25.83748,loser
-zero-gravity,0g,0G,3.83,-23.87197,loser
-aster-2,aster,Aster,1.83,-21.36591,loser
-plasma,xpl,Plasma,1.048,-19.23111,loser
-linea,linea,Linea,0.02472567,-16.86887,loser
-instadapp,fluid,Fluid,5.7,-15.7038,loser
-wrapped-avax,wavax,Wrapped AVAX,29.23,-15.49146,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,35.72,-15.47773,loser
-avalanche-2,avax,Avalanche,29.26,-15.34806,loser
+hash-2,hash,Provenance Blockchain,0.03957599,22.47152,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.77594,gainer
+okb,okb,OKB,182.88,0.6497,gainer
+leo-token,leo,LEO Token,9.47,0.40225,gainer
+tether-gold,xaut,Tether Gold,3736.16,0.38814,gainer
+susds,susds,sUSDS,1.069,0.38694,gainer
+figure-heloc,figr_heloc,Figure Heloc,1.001,0.36836,gainer
+pax-gold,paxg,PAX Gold,3747.66,0.25819,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.001,0.23467,gainer
+usdx-money-usdx,usdx,Stables Labs USDX,0.998231,0.19798,gainer
+story-2,ip,Story,8.64,-28.11079,loser
+zero-gravity,0g,0G,3.77,-25.31916,loser
+avantis,avnt,Avantis,1.61,-24.9672,loser
+plasma,xpl,Plasma,1.022,-21.20639,loser
+aster-2,aster,Aster,1.9,-17.56016,loser
+instadapp,fluid,Fluid,5.65,-17.44273,loser
+linea,linea,Linea,0.02461647,-16.86723,loser
+wrapped-avax,wavax,Wrapped AVAX,29.22,-15.52904,loser
+avalanche-2,avax,Avalanche,29.26,-15.28865,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,35.79,-15.24616,loser
