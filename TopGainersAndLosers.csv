@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03967053,25.36719,gainer
-myx-finance,myx,MYX Finance,9.76,4.3373,gainer
-kava,kava,Kava,0.327224,1.41002,gainer
-okb,okb,OKB,184.63,0.96822,gainer
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.75746,gainer
-tether-gold,xaut,Tether Gold,3750.65,0.75488,gainer
-mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.005,0.63039,gainer
-pax-gold,paxg,PAX Gold,3759.45,0.62589,gainer
-susds,susds,sUSDS,1.069,0.38774,gainer
-usdb,usdb,USDB,0.998458,0.36768,gainer
-story-2,ip,Story,8.55,-28.87254,loser
-zero-gravity,0g,0G,3.84,-24.26901,loser
-avantis,avnt,Avantis,1.67,-20.05321,loser
-linea,linea,Linea,0.02516876,-15.18476,loser
-instadapp,fluid,Fluid,5.76,-14.77554,loser
-wrapped-avax,wavax,Wrapped AVAX,29.59,-14.43155,loser
-avalanche-2,avax,Avalanche,29.59,-14.40877,loser
-aster-2,aster,Aster,1.95,-14.33134,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.23,-14.29627,loser
-plasma,xpl,Plasma,1.14,-11.94568,loser
+hash-2,hash,Provenance Blockchain,0.03968956,11.11452,gainer
+myx-finance,myx,MYX Finance,9.72,3.89141,gainer
+kava,kava,Kava,0.327687,1.55363,gainer
+okb,okb,OKB,184.67,0.99145,gainer
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.083,0.76183,gainer
+pax-gold,paxg,PAX Gold,3762.09,0.6977,gainer
+mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),1.005,0.64239,gainer
+susds,susds,sUSDS,1.069,0.52137,gainer
+usdb,usdb,USDB,0.998458,0.3676,gainer
+leo-token,leo,LEO Token,9.46,0.35826,gainer
+story-2,ip,Story,8.54,-28.97028,loser
+zero-gravity,0g,0G,3.84,-24.35548,loser
+avantis,avnt,Avantis,1.67,-20.12342,loser
+linea,linea,Linea,0.02515227,-15.11213,loser
+instadapp,fluid,Fluid,5.75,-14.86107,loser
+wrapped-avax,wavax,Wrapped AVAX,29.59,-14.44672,loser
+aster-2,aster,Aster,1.95,-14.42314,loser
+avalanche-2,avax,Avalanche,29.59,-14.4015,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.22,-14.3096,loser
+plasma,xpl,Plasma,1.14,-12.44164,loser
