@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-havven,snx,Synthetix Network,1.13,38.6814,gainer
-plasma,xpl,Plasma,1.23,30.16199,gainer
-instadapp,fluid,Fluid,6.4,9.34578,gainer
-aethir,ath,Aethir,0.061485,8.83327,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.35,7.17208,gainer
-linea,linea,Linea,0.02745775,7.16968,gainer
-hyperliquid,hype,Hyperliquid,44.71,6.60265,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.51,6.57356,gainer
-swissborg,borg,SwissBorg,0.475157,5.86067,gainer
-mantle,mnt,Mantle,1.67,5.08685,gainer
-hash-2,hash,Provenance Blockchain,0.03286827,-10.43048,loser
-zero-gravity,0g,0G,3.44,-9.32902,loser
-vision-3,vsn,Vision,0.136368,-8.86155,loser
-sun-token,sun,Sun Token,0.02395011,-8.77629,loser
-immutable-x,imx,Immutable,0.700253,-7.72927,loser
-avantis,avnt,Avantis,1.55,-7.23257,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.29,-6.20366,loser
-wrapped-avax,wavax,Wrapped AVAX,27.99,-6.17582,loser
-four,form,Four,0.990681,-6.1651,loser
-avalanche-2,avax,Avalanche,28.09,-5.72516,loser
+havven,snx,Synthetix Network,1.11,36.52074,gainer
+plasma,xpl,Plasma,1.26,35.658,gainer
+aethir,ath,Aethir,0.061483,9.49045,gainer
+instadapp,fluid,Fluid,6.38,9.00974,gainer
+linea,linea,Linea,0.02753223,7.46036,gainer
+hyperliquid,hype,Hyperliquid,44.74,6.66814,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.34,6.60146,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.48,6.50193,gainer
+swissborg,borg,SwissBorg,0.476432,5.61742,gainer
+mantle,mnt,Mantle,1.67,5.09759,gainer
+hash-2,hash,Provenance Blockchain,0.03336476,-19.59564,loser
+zero-gravity,0g,0G,3.45,-9.05742,loser
+vision-3,vsn,Vision,0.1363,-8.9071,loser
+sun-token,sun,Sun Token,0.02397835,-8.43562,loser
+avantis,avnt,Avantis,1.57,-7.81439,loser
+immutable-x,imx,Immutable,0.701429,-7.12518,loser
+four,form,Four,0.992142,-6.02677,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.38,-5.899,loser
+wrapped-avax,wavax,Wrapped AVAX,28.13,-5.69053,loser
+avalanche-2,avax,Avalanche,28.16,-5.48354,loser
