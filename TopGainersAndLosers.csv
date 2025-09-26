@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-plasma,xpl,Plasma,1.24,39.75682,gainer
-havven,snx,Synthetix Network,1.13,37.55171,gainer
-linea,linea,Linea,0.02760679,7.74369,gainer
-aethir,ath,Aethir,0.060917,7.19018,gainer
-swissborg,borg,SwissBorg,0.471795,6.66522,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.05,6.52849,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.03,6.43751,gainer
-hyperliquid,hype,Hyperliquid,44.21,6.33225,gainer
-instadapp,fluid,Fluid,6.19,5.01383,gainer
-mantle,mnt,Mantle,1.66,4.17202,gainer
-sun-token,sun,Sun Token,0.02380049,-9.33041,loser
-vision-3,vsn,Vision,0.13747,-9.31866,loser
-avantis,avnt,Avantis,1.55,-9.23151,loser
-hash-2,hash,Provenance Blockchain,0.03337724,-9.04349,loser
-immutable-x,imx,Immutable,0.692742,-8.67124,loser
-zero-gravity,0g,0G,3.45,-8.0803,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.12,-7.84002,loser
-avalanche-2,avax,Avalanche,27.88,-7.74998,loser
-wrapped-avax,wavax,Wrapped AVAX,27.96,-7.54829,loser
-ether-fi,ethfi,Ether.fi,1.49,-6.21932,loser
+havven,snx,Synthetix Network,1.13,38.45104,gainer
+plasma,xpl,Plasma,1.22,28.73049,gainer
+aethir,ath,Aethir,0.06129,8.48869,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.5,7.54929,gainer
+linea,linea,Linea,0.02741221,6.99191,gainer
+instadapp,fluid,Fluid,6.23,6.51743,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.34,6.16584,gainer
+swissborg,borg,SwissBorg,0.476305,6.11635,gainer
+hyperliquid,hype,Hyperliquid,44.45,6.08523,gainer
+mantle,mnt,Mantle,1.66,4.80591,gainer
+hash-2,hash,Provenance Blockchain,0.03304911,-9.93768,loser
+zero-gravity,0g,0G,3.42,-9.26787,loser
+vision-3,vsn,Vision,0.136387,-9.17702,loser
+sun-token,sun,Sun Token,0.02388401,-9.02806,loser
+avantis,avnt,Avantis,1.53,-8.57415,loser
+immutable-x,imx,Immutable,0.698807,-7.91978,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.2,-6.93841,loser
+avalanche-2,avax,Avalanche,27.96,-6.80094,loser
+wrapped-avax,wavax,Wrapped AVAX,28.02,-6.60415,loser
+four,form,Four,0.992991,-6.08099,loser
