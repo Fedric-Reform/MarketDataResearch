@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-mira-3,mira,Mira,2.37,66.57845,gainer
-plasma,xpl,Plasma,1.22,62.1902,gainer
-havven,snx,Synthetix Network,0.927975,12.96024,gainer
-instadapp,fluid,Fluid,6.4,9.95816,gainer
-swissborg,borg,SwissBorg,0.462894,6.69542,gainer
-mantle,mnt,Mantle,1.69,5.44797,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.96,4.4744,gainer
-hyperliquid,hype,Hyperliquid,43.14,4.42486,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.05,3.98415,gainer
-okb,okb,OKB,188.17,3.78715,gainer
-avantis,avnt,Avantis,1.55,-16.59244,loser
-hash-2,hash,Provenance Blockchain,0.0332952,-9.30508,loser
-sun-token,sun,Sun Token,0.02390114,-9.06153,loser
-avalanche-2,avax,Avalanche,27.76,-8.17298,loser
-wrapped-avax,wavax,Wrapped AVAX,27.75,-8.00071,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.95,-7.99633,loser
-immutable-x,imx,Immutable,0.694045,-6.86437,loser
-zcash,zec,Zcash,54.25,-6.4699,loser
-four,form,Four,0.99638,-6.18516,loser
-near,near,NEAR Protocol,2.7,-5.721,loser
+plasma,xpl,Plasma,1.23,65.30288,gainer
+mira-3,mira,Mira,1.79,25.82602,gainer
+havven,snx,Synthetix Network,0.945549,14.46034,gainer
+instadapp,fluid,Fluid,6.43,9.86389,gainer
+mantle,mnt,Mantle,1.72,6.1206,gainer
+aethir,ath,Aethir,0.06059,5.54172,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.36,4.06052,gainer
+swissborg,borg,SwissBorg,0.460275,3.87681,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.21,3.68299,gainer
+hyperliquid,hype,Hyperliquid,43.37,3.42807,gainer
+avantis,avnt,Avantis,1.57,-12.98126,loser
+story-2,ip,Story,8.13,-9.7222,loser
+sun-token,sun,Sun Token,0.02397762,-9.33456,loser
+hash-2,hash,Provenance Blockchain,0.03340933,-9.0438,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.95,-8.69794,loser
+avalanche-2,avax,Avalanche,27.75,-8.69497,loser
+wrapped-avax,wavax,Wrapped AVAX,27.76,-8.34635,loser
+immutable-x,imx,Immutable,0.698732,-7.88065,loser
+zcash,zec,Zcash,54.22,-6.61405,loser
+near,near,NEAR Protocol,2.7,-6.23264,loser
