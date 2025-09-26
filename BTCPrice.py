@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Config
 COIN = "bitcoin"
-DAYS = 7
+DAYS = 30
 VS_CURRENCY = "usd"
 
 # Helper Functions
