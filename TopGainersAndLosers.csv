@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-instadapp,fluid,Fluid,6.59,2.76626,gainer
-wormhole,w,Wormhole,0.101579,2.44575,gainer
-walrus-2,wal,Walrus,0.37746,1.97322,gainer
-dora-2,dora,DORA,0.316749,1.32204,gainer
-zebec-network,zbcn,Zebec Network,0.00382303,1.18471,gainer
-kaspa,kas,Kaspa,0.077565,0.9635,gainer
-trust-wallet-token,twt,Trust Wallet,1.19,0.96343,gainer
-figure-heloc,figr_heloc,Figure Heloc,1.007,0.6835,gainer
-quant-network,qnt,Quant,91.61,0.65216,gainer
-beldex,bdx,Beldex,0.09035,0.40615,gainer
-story-2,ip,Story,7.29,-25.68217,loser
-avantis,avnt,Avantis,1.53,-24.60681,loser
-four,form,Four,0.997977,-10.56528,loser
-wrapped-avax,wavax,Wrapped AVAX,27.75,-10.15179,loser
-avalanche-2,avax,Avalanche,27.76,-10.13869,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.98,-10.09722,loser
-aster-2,aster,Aster,1.85,-9.69507,loser
-zcash,zec,Zcash,54.3,-9.39977,loser
-sun-token,sun,Sun Token,0.02448365,-9.29322,loser
-near,near,NEAR Protocol,2.66,-7.65096,loser
+plasma,xpl,Plasma,1.17,18.78327,gainer
+havven,snx,Synthetix Network,0.930505,12.90124,gainer
+instadapp,fluid,Fluid,6.34,6.78843,gainer
+mantle,mnt,Mantle,1.69,4.46844,gainer
+swissborg,borg,SwissBorg,0.448081,3.75684,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.32,3.24893,gainer
+wormhole,w,Wormhole,0.102249,2.99759,gainer
+walrus-2,wal,Walrus,0.37859,2.78669,gainer
+aethir,ath,Aethir,0.059977,2.63199,gainer
+hyperliquid,hype,Hyperliquid,42.39,2.53359,gainer
+avantis,avnt,Avantis,1.53,-20.90717,loser
+story-2,ip,Story,7.64,-16.58769,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.77,-10.11525,loser
+wrapped-avax,wavax,Wrapped AVAX,27.57,-10.08112,loser
+avalanche-2,avax,Avalanche,27.6,-9.89461,loser
+sun-token,sun,Sun Token,0.02422884,-8.84597,loser
+four,form,Four,0.98976,-8.17352,loser
+zcash,zec,Zcash,54.17,-7.4429,loser
+ether-fi,ethfi,Ether.fi,1.48,-6.49225,loser
+immutable-x,imx,Immutable,0.695363,-6.48634,loser
