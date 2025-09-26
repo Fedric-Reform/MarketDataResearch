@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-havven,snx,Synthetix Network,1.1,33.50962,gainer
-plasma,xpl,Plasma,1.33,26.26373,gainer
-aethir,ath,Aethir,0.061597,10.65846,gainer
-linea,linea,Linea,0.02799893,10.25548,gainer
-instadapp,fluid,Fluid,6.29,8.36307,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.52,8.01837,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.25,7.67629,gainer
-hyperliquid,hype,Hyperliquid,44.46,6.96062,gainer
-memecore,m,MemeCore,2.37,6.45954,gainer
-myx-finance,myx,MYX Finance,9.65,5.89694,gainer
-hash-2,hash,Provenance Blockchain,0.03289866,-23.52504,loser
-zero-gravity,0g,0G,3.45,-11.91111,loser
-vision-3,vsn,Vision,0.133856,-10.86247,loser
-sun-token,sun,Sun Token,0.02379615,-9.0097,loser
-saros-finance,saros,Saros,0.369286,-8.15552,loser
-avantis,avnt,Avantis,1.56,-7.24745,loser
-immutable-x,imx,Immutable,0.698313,-7.08002,loser
-four,form,Four,0.985607,-5.81073,loser
-avalanche-2,avax,Avalanche,28.58,-4.16367,loser
-binancecoin,bnb,BNB,951.86,-3.87903,loser
+havven,snx,Synthetix Network,1.11,33.65329,gainer
+plasma,xpl,Plasma,1.32,24.53503,gainer
+aethir,ath,Aethir,0.061276,10.85191,gainer
+linea,linea,Linea,0.02789539,10.60131,gainer
+instadapp,fluid,Fluid,6.34,10.35616,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.41,7.48818,gainer
+hyperliquid,hype,Hyperliquid,44.42,7.01005,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.2,6.9924,gainer
+myx-finance,myx,MYX Finance,9.71,6.55017,gainer
+mantle,mnt,Mantle,1.67,6.5214,gainer
+hash-2,hash,Provenance Blockchain,0.0324929,-21.33457,loser
+zero-gravity,0g,0G,3.44,-12.13899,loser
+vision-3,vsn,Vision,0.133171,-11.14778,loser
+sun-token,sun,Sun Token,0.02378931,-8.86152,loser
+saros-finance,saros,Saros,0.370366,-7.88091,loser
+immutable-x,imx,Immutable,0.697539,-6.81031,loser
+avantis,avnt,Avantis,1.55,-6.04401,loser
+four,form,Four,0.985074,-5.71342,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.8,-4.11174,loser
+avalanche-2,avax,Avalanche,28.49,-3.92843,loser
