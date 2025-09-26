@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-instadapp,fluid,Fluid,6.7,4.50169,gainer
-wormhole,w,Wormhole,0.101387,2.24294,gainer
-walrus-2,wal,Walrus,0.3768,1.91435,gainer
-dora-2,dora,DORA,0.316783,1.33305,gainer
-trust-wallet-token,twt,Trust Wallet,1.19,1.17082,gainer
-kaspa,kas,Kaspa,0.077521,1.12174,gainer
-mantle,mnt,Mantle,1.69,1.10758,gainer
-zebec-network,zbcn,Zebec Network,0.00381339,0.92497,gainer
-syndicate-3,synd,Syndicate,0.683712,0.70007,gainer
+instadapp,fluid,Fluid,6.59,2.76626,gainer
+wormhole,w,Wormhole,0.101579,2.44575,gainer
+walrus-2,wal,Walrus,0.37746,1.97322,gainer
+dora-2,dora,DORA,0.316749,1.32204,gainer
+zebec-network,zbcn,Zebec Network,0.00382303,1.18471,gainer
+kaspa,kas,Kaspa,0.077565,0.9635,gainer
+trust-wallet-token,twt,Trust Wallet,1.19,0.96343,gainer
 figure-heloc,figr_heloc,Figure Heloc,1.007,0.6835,gainer
-story-2,ip,Story,7.31,-25.74468,loser
-avantis,avnt,Avantis,1.52,-24.18075,loser
-four,form,Four,0.997496,-10.3535,loser
-wrapped-avax,wavax,Wrapped AVAX,27.72,-10.33994,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.91,-10.19838,loser
-avalanche-2,avax,Avalanche,27.75,-10.15877,loser
-sun-token,sun,Sun Token,0.02441847,-9.39512,loser
-zcash,zec,Zcash,54.3,-9.17912,loser
-ether-fi,ethfi,Ether.fi,1.46,-8.00359,loser
-near,near,NEAR Protocol,2.66,-7.75331,loser
+quant-network,qnt,Quant,91.61,0.65216,gainer
+beldex,bdx,Beldex,0.09035,0.40615,gainer
+story-2,ip,Story,7.29,-25.68217,loser
+avantis,avnt,Avantis,1.53,-24.60681,loser
+four,form,Four,0.997977,-10.56528,loser
+wrapped-avax,wavax,Wrapped AVAX,27.75,-10.15179,loser
+avalanche-2,avax,Avalanche,27.76,-10.13869,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.98,-10.09722,loser
+aster-2,aster,Aster,1.85,-9.69507,loser
+zcash,zec,Zcash,54.3,-9.39977,loser
+sun-token,sun,Sun Token,0.02448365,-9.29322,loser
+near,near,NEAR Protocol,2.66,-7.65096,loser
