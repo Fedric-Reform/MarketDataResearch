@@ -45,6 +45,6 @@ df["24h Volume"] = pd.to_numeric(df["24h Volume"], errors='coerce').round(0)
 df["24h % Change"] = pd.to_numeric(df["24h % Change"], errors='coerce').round(2)
 
 # Sort and save
-df = df.sort_values("Market Cap", ascending=False).head(10)
+df = df.sort_values("Market Cap", ascending=False)
 df.to_csv("CategoryPerformance.csv", index=False)
 print("✅ Saved to CategoryPerformance.csv")
