@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-havven,snx,Synthetix Network,1.095,32.38588,gainer
-plasma,xpl,Plasma,1.33,25.79412,gainer
-linea,linea,Linea,0.02808992,10.61377,gainer
-aethir,ath,Aethir,0.061734,10.23406,gainer
-instadapp,fluid,Fluid,6.29,8.30714,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.45,7.86068,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.27,7.73143,gainer
-hyperliquid,hype,Hyperliquid,44.47,6.9766,gainer
-memecore,m,MemeCore,2.37,6.6252,gainer
-mantle,mnt,Mantle,1.68,5.8075,gainer
-hash-2,hash,Provenance Blockchain,0.03276594,-23.8513,loser
-zero-gravity,0g,0G,3.45,-11.87893,loser
-vision-3,vsn,Vision,0.133949,-10.80055,loser
-sun-token,sun,Sun Token,0.02378907,-9.12378,loser
-saros-finance,saros,Saros,0.370575,-7.85718,loser
-avantis,avnt,Avantis,1.56,-7.32436,loser
-immutable-x,imx,Immutable,0.698205,-7.03189,loser
-four,form,Four,0.986063,-5.76712,loser
-avalanche-2,avax,Avalanche,28.55,-4.24245,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.95,-4.11003,loser
+havven,snx,Synthetix Network,1.096,32.49544,gainer
+plasma,xpl,Plasma,1.33,26.09198,gainer
+aethir,ath,Aethir,0.061703,10.84853,gainer
+linea,linea,Linea,0.02807228,10.54431,gainer
+instadapp,fluid,Fluid,6.29,8.3431,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.45,7.84378,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,44.25,7.67629,gainer
+hyperliquid,hype,Hyperliquid,44.48,7.00239,gainer
+memecore,m,MemeCore,2.37,6.55431,gainer
+mantle,mnt,Mantle,1.68,5.81604,gainer
+hash-2,hash,Provenance Blockchain,0.03289291,-23.5384,loser
+zero-gravity,0g,0G,3.45,-11.85769,loser
+vision-3,vsn,Vision,0.133919,-10.82023,loser
+sun-token,sun,Sun Token,0.02378811,-9.04042,loser
+saros-finance,saros,Saros,0.369306,-8.17255,loser
+avantis,avnt,Avantis,1.56,-7.29961,loser
+immutable-x,imx,Immutable,0.698346,-7.07565,loser
+four,form,Four,0.985823,-5.79009,loser
+avalanche-2,avax,Avalanche,28.57,-4.18781,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.95,-4.1091,loser
