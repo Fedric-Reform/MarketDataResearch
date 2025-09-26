@@ -1,10 +1,12 @@
+git pull
+
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
 # Config
 COIN = "bitcoin"
-DAYS = 30
+DAYS = 15
 VS_CURRENCY = "usd"
 
 # Helper Functions
