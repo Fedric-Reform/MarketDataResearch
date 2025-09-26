@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-plasma,xpl,Plasma,1.18,42.51295,gainer
-mira-3,mira,Mira,1.74,21.83991,gainer
-havven,snx,Synthetix Network,0.967871,16.06638,gainer
-aethir,ath,Aethir,0.060829,5.94065,gainer
-instadapp,fluid,Fluid,6.19,4.69047,gainer
-mantle,mnt,Mantle,1.68,3.88996,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.92,3.54481,gainer
-swissborg,borg,SwissBorg,0.458689,2.4938,gainer
-hyperliquid,hype,Hyperliquid,42.81,2.09396,gainer
-memecore,m,MemeCore,2.28,1.722,gainer
-avantis,avnt,Avantis,1.51,-16.319,loser
-hash-2,hash,Provenance Blockchain,0.03248842,-12.16053,loser
-sun-token,sun,Sun Token,0.02372267,-10.94338,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.33,-10.3504,loser
-avalanche-2,avax,Avalanche,27.3,-10.25193,loser
-zero-gravity,0g,0G,3.36,-10.01177,loser
-wrapped-avax,wavax,Wrapped AVAX,27.37,-9.95736,loser
-immutable-x,imx,Immutable,0.687002,-9.2801,loser
-zcash,zec,Zcash,53.5,-7.9592,loser
-near,near,NEAR Protocol,2.67,-7.93439,loser
+plasma,xpl,Plasma,1.19,40.66134,gainer
+mira-3,mira,Mira,1.74,22.23358,gainer
+havven,snx,Synthetix Network,0.977539,17.07812,gainer
+aethir,ath,Aethir,0.060993,6.50956,gainer
+linea,linea,Linea,0.02702381,5.00534,gainer
+instadapp,fluid,Fluid,6.17,4.82742,gainer
+mantle,mnt,Mantle,1.69,4.58232,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,42.89,3.11733,gainer
+hyperliquid,hype,Hyperliquid,42.85,2.25256,gainer
+swissborg,borg,SwissBorg,0.45623,1.75282,gainer
+avantis,avnt,Avantis,1.51,-16.11405,loser
+hash-2,hash,Provenance Blockchain,0.0325866,-12.02948,loser
+sun-token,sun,Sun Token,0.02370977,-10.95744,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.21,-10.69321,loser
+wrapped-avax,wavax,Wrapped AVAX,27.14,-10.68163,loser
+avalanche-2,avax,Avalanche,27.23,-10.47024,loser
+zero-gravity,0g,0G,3.39,-8.64597,loser
+immutable-x,imx,Immutable,0.687552,-8.54525,loser
+zcash,zec,Zcash,53.59,-7.80154,loser
+near,near,NEAR Protocol,2.68,-7.72258,loser
