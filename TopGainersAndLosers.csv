@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-plasma,xpl,Plasma,1.24,42.27044,gainer
-havven,snx,Synthetix Network,1.053,27.19438,gainer
-linea,linea,Linea,0.02800077,10.48289,gainer
-aethir,ath,Aethir,0.060985,8.63062,gainer
-swissborg,borg,SwissBorg,0.476962,7.25269,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.54,6.66547,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.6,6.31473,gainer
-hyperliquid,hype,Hyperliquid,43.85,6.27656,gainer
-instadapp,fluid,Fluid,6.17,5.34187,gainer
-memecore,m,MemeCore,2.32,4.40264,gainer
-sun-token,sun,Sun Token,0.02375482,-10.02659,loser
-avantis,avnt,Avantis,1.53,-9.24601,loser
-immutable-x,imx,Immutable,0.689815,-8.87236,loser
-zero-gravity,0g,0G,3.4,-8.86827,loser
-avalanche-2,avax,Avalanche,27.65,-8.76032,loser
-wrapped-avax,wavax,Wrapped AVAX,27.65,-8.71161,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.84,-8.66688,loser
-hash-2,hash,Provenance Blockchain,0.03374274,-8.39975,loser
-vision-3,vsn,Vision,0.140257,-7.36845,loser
-four,form,Four,0.985199,-5.76241,loser
+plasma,xpl,Plasma,1.24,42.14818,gainer
+havven,snx,Synthetix Network,1.078,31.02089,gainer
+linea,linea,Linea,0.02786584,8.88466,gainer
+aethir,ath,Aethir,0.060931,8.70071,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,44.02,7.47902,gainer
+swissborg,borg,SwissBorg,0.476711,7.21509,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.86,7.09596,gainer
+hyperliquid,hype,Hyperliquid,43.98,6.66496,gainer
+instadapp,fluid,Fluid,6.18,5.72471,gainer
+memecore,m,MemeCore,2.33,4.83623,gainer
+sun-token,sun,Sun Token,0.02373156,-9.59594,loser
+hash-2,hash,Provenance Blockchain,0.03360189,-8.76066,loser
+zero-gravity,0g,0G,3.41,-8.52186,loser
+immutable-x,imx,Immutable,0.689836,-8.14542,loser
+avalanche-2,avax,Avalanche,27.78,-8.14294,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.06,-8.00093,loser
+wrapped-avax,wavax,Wrapped AVAX,27.84,-7.97994,loser
+vision-3,vsn,Vision,0.139939,-7.55962,loser
+avantis,avnt,Avantis,1.52,-7.39546,loser
+ether-fi,ethfi,Ether.fi,1.5,-5.61124,loser
