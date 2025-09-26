@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-plasma,xpl,Plasma,1.23,32.9035,gainer
-havven,snx,Synthetix Network,1.022,21.82003,gainer
-aethir,ath,Aethir,0.061754,9.33916,gainer
-instadapp,fluid,Fluid,6.28,7.27897,gainer
-mantle,mnt,Mantle,1.7,6.29631,gainer
-linea,linea,Linea,0.02697869,5.40618,gainer
-hyperliquid,hype,Hyperliquid,43.33,5.29237,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.33,5.19722,gainer
+plasma,xpl,Plasma,1.23,33.56307,gainer
+havven,snx,Synthetix Network,1.018,21.60531,gainer
+aethir,ath,Aethir,0.061772,9.37083,gainer
+mantle,mnt,Mantle,1.7,6.0822,gainer
+linea,linea,Linea,0.02695121,5.63551,gainer
+hyperliquid,hype,Hyperliquid,43.3,5.22318,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.17,4.81128,gainer
 kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.15,4.46852,gainer
-myx-finance,myx,MYX Finance,9.33,2.36546,gainer
-hash-2,hash,Provenance Blockchain,0.03237408,-12.19835,loser
-avantis,avnt,Avantis,1.54,-11.41615,loser
-sun-token,sun,Sun Token,0.02374266,-10.30274,loser
-zero-gravity,0g,0G,3.4,-10.11872,loser
-avalanche-2,avax,Avalanche,27.34,-9.72899,loser
-wrapped-avax,wavax,Wrapped AVAX,27.37,-9.61702,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.49,-9.60663,loser
-immutable-x,imx,Immutable,0.694786,-7.86029,loser
-four,form,Four,0.982334,-6.38644,loser
-near,near,NEAR Protocol,2.7,-6.31666,loser
+instadapp,fluid,Fluid,6.11,4.38005,gainer
+walrus-2,wal,Walrus,0.378862,2.00244,gainer
+hash-2,hash,Provenance Blockchain,0.03232355,-12.33542,loser
+sun-token,sun,Sun Token,0.02375851,-10.24284,loser
+zero-gravity,0g,0G,3.39,-9.86831,loser
+avalanche-2,avax,Avalanche,27.38,-9.59875,loser
+avantis,avnt,Avantis,1.53,-9.55802,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.53,-9.51571,loser
+wrapped-avax,wavax,Wrapped AVAX,27.41,-9.48953,loser
+immutable-x,imx,Immutable,0.694096,-7.85279,loser
+four,form,Four,0.981068,-6.50716,loser
+near,near,NEAR Protocol,2.7,-6.28714,loser
