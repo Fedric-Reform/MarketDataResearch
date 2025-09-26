@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-plasma,xpl,Plasma,1.23,33.56307,gainer
-havven,snx,Synthetix Network,1.018,21.60531,gainer
-aethir,ath,Aethir,0.061772,9.37083,gainer
-mantle,mnt,Mantle,1.7,6.0822,gainer
-linea,linea,Linea,0.02695121,5.63551,gainer
-hyperliquid,hype,Hyperliquid,43.3,5.22318,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.17,4.81128,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.15,4.46852,gainer
-instadapp,fluid,Fluid,6.11,4.38005,gainer
-walrus-2,wal,Walrus,0.378862,2.00244,gainer
-hash-2,hash,Provenance Blockchain,0.03232355,-12.33542,loser
-sun-token,sun,Sun Token,0.02375851,-10.24284,loser
-zero-gravity,0g,0G,3.39,-9.86831,loser
-avalanche-2,avax,Avalanche,27.38,-9.59875,loser
-avantis,avnt,Avantis,1.53,-9.55802,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.53,-9.51571,loser
-wrapped-avax,wavax,Wrapped AVAX,27.41,-9.48953,loser
-immutable-x,imx,Immutable,0.694096,-7.85279,loser
-four,form,Four,0.981068,-6.50716,loser
-near,near,NEAR Protocol,2.7,-6.28714,loser
+plasma,xpl,Plasma,1.23,33.26852,gainer
+havven,snx,Synthetix Network,1.01,20.68012,gainer
+aethir,ath,Aethir,0.061592,9.48764,gainer
+instadapp,fluid,Fluid,6.23,6.44612,gainer
+mantle,mnt,Mantle,1.7,5.84275,gainer
+linea,linea,Linea,0.02696479,5.68874,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.17,5.66443,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.16,5.23551,gainer
+hyperliquid,hype,Hyperliquid,43.24,5.09568,gainer
+walrus-2,wal,Walrus,0.378088,1.79414,gainer
+sun-token,sun,Sun Token,0.02370921,-10.3493,loser
+hash-2,hash,Provenance Blockchain,0.03322315,-9.80786,loser
+avantis,avnt,Avantis,1.53,-9.70001,loser
+zero-gravity,0g,0G,3.37,-9.61192,loser
+wrapped-avax,wavax,Wrapped AVAX,27.4,-9.58401,loser
+avalanche-2,avax,Avalanche,27.39,-9.57776,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.51,-9.56774,loser
+immutable-x,imx,Immutable,0.693368,-7.94945,loser
+four,form,Four,0.979724,-6.51463,loser
+near,near,NEAR Protocol,2.7,-6.02388,loser
