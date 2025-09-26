@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-hash-2,hash,Provenance Blockchain,0.03853885,11.69538,gainer
-myx-finance,myx,MYX Finance,9.89,6.30338,gainer
-kava,kava,Kava,0.326472,2.0094,gainer
-okb,okb,OKB,184.13,0.94455,gainer
-leo-token,leo,LEO Token,9.48,0.51276,gainer
-tether-gold,xaut,Tether Gold,3740.39,0.4645,gainer
-pax-gold,paxg,PAX Gold,3755.99,0.41778,gainer
-monero,xmr,Monero,293.37,0.23612,gainer
-wormhole,w,Wormhole,0.106674,0.19807,gainer
-figure-heloc,figr_heloc,Figure Heloc,1.001,0.19034,gainer
-story-2,ip,Story,8.43,-30.42257,loser
-zero-gravity,0g,0G,3.78,-25.42153,loser
-avantis,avnt,Avantis,1.65,-20.81833,loser
-instadapp,fluid,Fluid,5.8,-16.96509,loser
-wrapped-avax,wavax,Wrapped AVAX,29.49,-14.09947,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,36.07,-14.00907,loser
-avalanche-2,avax,Avalanche,29.51,-13.95627,loser
-aster-2,aster,Aster,1.97,-12.09372,loser
-linea,linea,Linea,0.02571791,-12.05037,loser
-memecore,m,MemeCore,2.26,-11.95813,loser
+instadapp,fluid,Fluid,6.99,8.72632,gainer
+wormhole,w,Wormhole,0.105534,5.78569,gainer
+mantle,mnt,Mantle,1.7,4.45806,gainer
+walrus-2,wal,Walrus,0.384018,3.48235,gainer
+kaspa,kas,Kaspa,0.079157,3.35304,gainer
+crypto-com-chain,cro,Cronos,0.19743,3.05048,gainer
+trust-wallet-token,twt,Trust Wallet,1.2,2.2672,gainer
+okb,okb,OKB,188.42,1.88628,gainer
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),1.73,1.72905,gainer
+monero,xmr,Monero,296.62,0.97525,gainer
+story-2,ip,Story,7.46,-24.12552,loser
+avantis,avnt,Avantis,1.57,-21.70903,loser
+hash-2,hash,Provenance Blockchain,0.03427486,-12.08184,loser
+four,form,Four,1.007,-11.27463,loser
+myx-finance,myx,MYX Finance,9.46,-10.78586,loser
+aster-2,aster,Aster,1.87,-9.17497,loser
+sun-token,sun,Sun Token,0.02491291,-7.65092,loser
+wrapped-avax,wavax,Wrapped AVAX,28.5,-7.13245,loser
+avalanche-2,avax,Avalanche,28.51,-7.12509,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,34.84,-6.76131,loser
