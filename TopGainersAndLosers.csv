@@ -1,21 +1,21 @@
 id,symbol,name,current_price,price_change_percentage_24h,type
-plasma,xpl,Plasma,1.2,31.85408,gainer
-mira-3,mira,Mira,1.7,19.09227,gainer
-havven,snx,Synthetix Network,0.977646,18.60968,gainer
-aethir,ath,Aethir,0.061015,7.47945,gainer
-linea,linea,Linea,0.02711555,6.11587,gainer
-instadapp,fluid,Fluid,6.16,5.15297,gainer
-mantle,mnt,Mantle,1.68,4.74986,gainer
-kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.0,3.4285,gainer
-hyperliquid,hype,Hyperliquid,43.04,3.25206,gainer
-kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,42.82,2.91722,gainer
-hash-2,hash,Provenance Blockchain,0.03260446,-11.90854,loser
-avantis,avnt,Avantis,1.53,-10.99998,loser
-sun-token,sun,Sun Token,0.02367262,-10.80662,loser
-benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.26,-10.56565,loser
-avalanche-2,avax,Avalanche,27.2,-10.47302,loser
-wrapped-avax,wavax,Wrapped AVAX,27.2,-10.40338,loser
-zero-gravity,0g,0G,3.39,-8.26902,loser
-immutable-x,imx,Immutable,0.690748,-7.38959,loser
-near,near,NEAR Protocol,2.68,-7.36601,loser
-wbnb,wbnb,Wrapped BNB,938.58,-5.76668,loser
+plasma,xpl,Plasma,1.24,38.39122,gainer
+havven,snx,Synthetix Network,1.0,19.14821,gainer
+mira-3,mira,Mira,1.65,16.04412,gainer
+aethir,ath,Aethir,0.061169,7.90167,gainer
+mantle,mnt,Mantle,1.69,5.8193,gainer
+instadapp,fluid,Fluid,6.21,5.46697,gainer
+kinetic-staked-hype,khype,Kinetiq Staked HYPE,43.2,4.81948,gainer
+hyperliquid,hype,Hyperliquid,43.23,4.47598,gainer
+kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,43.04,3.8545,gainer
+linea,linea,Linea,0.02656691,3.79733,gainer
+hash-2,hash,Provenance Blockchain,0.0315345,-14.79939,loser
+avantis,avnt,Avantis,1.53,-12.49641,loser
+sun-token,sun,Sun Token,0.0236621,-10.73322,loser
+zero-gravity,0g,0G,3.41,-10.32573,loser
+benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,33.29,-10.29509,loser
+wrapped-avax,wavax,Wrapped AVAX,27.2,-10.23527,loser
+avalanche-2,avax,Avalanche,27.21,-10.16053,loser
+immutable-x,imx,Immutable,0.692545,-8.23782,loser
+near,near,NEAR Protocol,2.68,-6.8949,loser
+four,form,Four,0.981873,-6.294,loser
