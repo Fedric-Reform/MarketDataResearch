@@ -40,7 +40,7 @@ def fetch_market_data(vs_currency="usd", per_page=250, page=1, retries=3):
     raise Exception("❌ Failed after retries due to rate limiting.")
 
 # 2. Process and label gainers & losers
-def get_combined_movers(data, top_n=10):
+def get_combined_movers(data, top_n=20):
     df = pd.DataFrame(data)
     df = df[["id", "symbol", "name", "current_price", "price change 24h", "price change 7d"]].dropna()
 
