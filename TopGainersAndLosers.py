@@ -12,7 +12,8 @@ def fetch_market_data(vs_currency="usd", per_page=250, page=1, retries=3):
         "per_page": per_page,
         "page": page,
         "sparkline": False,
-        "price_change_percentage": "24h"
+        "price change 24h": "24h",
+        "price change 7d": "7d"
     }
 
     headers = {
@@ -41,7 +42,7 @@ def fetch_market_data(vs_currency="usd", per_page=250, page=1, retries=3):
 # 2. Process and label gainers & losers
 def get_combined_movers(data, top_n=10):
     df = pd.DataFrame(data)
-    df = df[["id", "symbol", "name", "current_price", "price_change_percentage_24h"]].dropna()
+    df = df[["id", "symbol", "name", "current_price", "price change 24h", "price change 7d"]].dropna()
 
     gainers = df.sort_values(by="price_change_percentage_24h", ascending=False).head(top_n)
     gainers["type"] = "gainer"
