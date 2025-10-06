@@ -3,6 +3,7 @@
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
+import time
 
 # Set dark theme for charts
 plt.style.use("dark_background")
