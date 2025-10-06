@@ -6,7 +6,7 @@ from datetime import datetime
 # =========================
 # 1. Fetch market data (with rate-limit retry)
 # =========================
-def fetch_market_data(vs_currency="usd", per_page=50, page=1, retries=3):
+def fetch_market_data(vs_currency="usd", per_page=25, page=1, retries=3):
     """
     Mengambil data pasar dari CoinGecko dengan penanganan batas laju (rate limit).
     """
@@ -29,7 +29,7 @@ def fetch_market_data(vs_currency="usd", per_page=50, page=1, retries=3):
         response = requests.get(url, params=params, headers=headers)
 
         if response.status_code == 200:
-            time.sleep(1.25) 
+            time.sleep(1.75) 
             return response.json()
 
         elif response.status_code == 429:
