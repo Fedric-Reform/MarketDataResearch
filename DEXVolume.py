@@ -11,6 +11,8 @@ plt.style.use("dark_background")
 url = "https://api.coingecko.com/api/v3/exchanges/decentralized"
 
 try:
+    print("⏳ Waiting 1.5s to respect CoinGecko API rate limit...")
+    time.sleep(1.5)
     response = requests.get(url, timeout=10)
     response.raise_for_status()
     data = response.json()
