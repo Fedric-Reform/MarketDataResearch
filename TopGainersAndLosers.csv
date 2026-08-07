@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-uniswap,uni,Uniswap,4.52,11.0,17.8,gainer_24h
-cardano,ada,Cardano,0.168286,3.9,0.9,gainer_24h
-aave,aave,Aave,99.82,3.5,4.4,gainer_24h
-figure-heloc,figr_heloc,Figure Heloc,1.039,3.0,-0.1,gainer_24h
-binancecoin,bnb,BNB,589.84,2.8,3.5,gainer_24h
-hyperliquid,hype,Hyperliquid,55.44,2.1,-5.3,gainer_24h
-bitcoin-cash,bch,Bitcoin Cash,214.61,1.8,1.2,gainer_24h
-bittensor,tao,Bittensor,195.49,1.7,1.5,gainer_24h
-aster-2,aster,Aster,0.603979,1.2,-3.3,gainer_24h
-htx-dao,htx,HTX DAO,1.8e-06,1.1,-1.9,gainer_24h
-rain,rain,Rain,0.01315486,-3.5,-5.8,loser_24h
-zcash,zec,Zcash,460.11,-3.1,-10.1,loser_24h
-world-liberty-financial,wlfi,World Liberty Financial,0.054929,-1.7,-3.0,loser_24h
-canton-network,cc,Canton,0.120214,-1.4,-1.5,loser_24h
-stellar,xlm,Stellar,0.170409,-1.1,-7.0,loser_24h
-avalanche-2,avax,Avalanche,6.45,-0.4,3.0,loser_24h
-ethereum,eth,Ethereum,1903.54,-0.2,1.3,loser_24h
-litecoin,ltc,Litecoin,45.36,-0.2,-3.1,loser_24h
-leo-token,leo,LEO Token,9.78,-0.2,2.1,loser_24h
-hashnote-usyc,usyc,Circle USYC,1.13,-0.1,0.1,loser_24h
-uniswap,uni,Uniswap,4.52,11.0,17.8,gainer_7d
-shiba-inu,shib,Shiba Inu,4.68e-06,0.6,13.0,gainer_7d
-aave,aave,Aave,99.82,3.5,4.4,gainer_7d
-okb,okb,OKB,85.75,0.1,4.1,gainer_7d
-binancecoin,bnb,BNB,589.84,2.8,3.5,gainer_7d
-avalanche-2,avax,Avalanche,6.45,-0.4,3.0,gainer_7d
-leo-token,leo,LEO Token,9.78,-0.2,2.1,gainer_7d
-bittensor,tao,Bittensor,195.49,1.7,1.5,gainer_7d
-ethereum,eth,Ethereum,1903.54,-0.2,1.3,gainer_7d
-pax-gold,paxg,PAX Gold,4076.16,0.5,1.2,gainer_7d
-near,near,NEAR Protocol,1.65,0.6,-13.7,loser_7d
-zcash,zec,Zcash,460.11,-3.1,-10.1,loser_7d
-sui,sui,Sui,0.690071,0.1,-7.7,loser_7d
-stellar,xlm,Stellar,0.170409,-1.1,-7.0,loser_7d
-rain,rain,Rain,0.01315486,-3.5,-5.8,loser_7d
-hyperliquid,hype,Hyperliquid,55.44,2.1,-5.3,loser_7d
-crypto-com-chain,cro,Cronos,0.054933,0.8,-4.7,loser_7d
-the-open-network,gram,Gram (prev. Toncoin),1.4,-0.1,-3.8,loser_7d
-hedera-hashgraph,hbar,Hedera,0.068684,0.8,-3.4,loser_7d
-aster-2,aster,Aster,0.603979,1.2,-3.3,loser_7d
+cardano,ada,Cardano,0.198756,5.1,17.5,gainer_24h
+okb,okb,OKB,87.06,1.8,1.5,gainer_24h
+monero,xmr,Monero,367.79,1.2,3.3,gainer_24h
+litecoin,ltc,Litecoin,45.4,1.1,0.4,gainer_24h
+chainlink,link,Chainlink,8.14,0.5,-2.4,gainer_24h
+figure-heloc,figr_heloc,Figure Heloc,1.035,0.2,-0.4,gainer_24h
+bitcoin-cash,bch,Bitcoin Cash,212.96,0.2,-0.9,gainer_24h
+usdd,usdd,USDD,0.999094,0.1,0.0,gainer_24h
+global-dollar,usdg,Global Dollar,1.001,0.1,0.1,gainer_24h
+ethereum,eth,Ethereum,1896.24,0.0,-0.3,gainer_24h
+canton-network,cc,Canton,0.088432,-12.1,-24.8,loser_24h
+the-open-network,gram,Gram (prev. Toncoin),1.32,-5.5,-6.4,loser_24h
+ondo-finance,ondo,Ondo,0.35171,-5.2,-13.7,loser_24h
+memecore,m,MemeCore,1.16,-3.9,18.3,loser_24h
+avalanche-2,avax,Avalanche,6.39,-3.5,0.0,loser_24h
+near,near,NEAR Protocol,1.64,-3.3,0.2,loser_24h
+shiba-inu,shib,Shiba Inu,4.63e-06,-3.0,-0.7,loser_24h
+ripple,xrp,XRP,1.02,-2.3,-5.5,loser_24h
+bittensor,tao,Bittensor,191.17,-2.1,-2.1,loser_24h
+world-liberty-financial,wlfi,World Liberty Financial,0.052469,-2.0,-4.8,loser_24h
+memecore,m,MemeCore,1.16,-3.9,18.3,gainer_7d
+cardano,ada,Cardano,0.198756,5.1,17.5,gainer_7d
+zcash,zec,Zcash,504.09,-0.7,9.4,gainer_7d
+pax-gold,paxg,PAX Gold,4255.51,-0.2,4.5,gainer_7d
+tether-gold,xaut,Tether Gold,4243.34,-0.2,4.4,gainer_7d
+monero,xmr,Monero,367.79,1.2,3.3,gainer_7d
+okb,okb,OKB,87.06,1.8,1.5,gainer_7d
+hyperliquid,hype,Hyperliquid,55.56,-0.9,1.3,gainer_7d
+binancecoin,bnb,BNB,589.71,0.0,1.0,gainer_7d
+litecoin,ltc,Litecoin,45.4,1.1,0.4,gainer_7d
+canton-network,cc,Canton,0.088432,-12.1,-24.8,loser_7d
+ondo-finance,ondo,Ondo,0.35171,-5.2,-13.7,loser_7d
+uniswap,uni,Uniswap,4.02,-1.6,-9.0,loser_7d
+the-open-network,gram,Gram (prev. Toncoin),1.32,-5.5,-6.4,loser_7d
+stellar,xlm,Stellar,0.160076,-1.1,-5.9,loser_7d
+ripple,xrp,XRP,1.02,-2.3,-5.5,loser_7d
+rain,rain,Rain,0.01254979,-0.1,-5.2,loser_7d
+world-liberty-financial,wlfi,World Liberty Financial,0.052469,-2.0,-4.8,loser_7d
+crypto-com-chain,cro,Cronos,0.053014,-1.3,-3.7,loser_7d
+chainlink,link,Chainlink,8.14,0.5,-2.4,loser_7d
