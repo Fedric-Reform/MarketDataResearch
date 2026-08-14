@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-memecore,m,MemeCore,1.18,6.8,2.4,gainer_24h
-crypto-com-chain,cro,Cronos,0.04865711,3.7,-9.4,gainer_24h
-bittensor,tao,Bittensor,202.08,2.8,5.8,gainer_24h
+memecore,m,MemeCore,1.17,6.8,2.4,gainer_24h
+crypto-com-chain,cro,Cronos,0.04851782,3.7,-9.4,gainer_24h
+bittensor,tao,Bittensor,201.97,2.8,5.8,gainer_24h
 chainlink,link,Chainlink,8.82,2.3,7.5,gainer_24h
 shiba-inu,shib,Shiba Inu,4.45e-06,2.2,-4.2,gainer_24h
-hyperliquid,hype,Hyperliquid,56.64,1.3,2.2,gainer_24h
-zcash,zec,Zcash,492.54,1.3,-2.6,gainer_24h
+hyperliquid,hype,Hyperliquid,56.59,1.3,2.2,gainer_24h
+zcash,zec,Zcash,492.68,1.3,-2.6,gainer_24h
 ripple,xrp,XRP,1.009,0.7,-2.5,gainer_24h
-okb,okb,OKB,102.09,0.7,19.0,gainer_24h
-solana,sol,Solana,75.75,0.6,4.7,gainer_24h
-canton-network,cc,Canton,0.096285,-3.5,7.7,loser_24h
-bitcoin-cash,bch,Bitcoin Cash,205.6,-3.5,-3.1,loser_24h
-figure-heloc,figr_heloc,Figure Heloc,1.005,-3.2,-2.8,loser_24h
+okb,okb,OKB,101.97,0.7,19.0,gainer_24h
+solana,sol,Solana,75.72,0.6,4.7,gainer_24h
+canton-network,cc,Canton,0.096123,-3.5,7.7,loser_24h
+bitcoin-cash,bch,Bitcoin Cash,205.44,-3.5,-3.1,loser_24h
+figure-heloc,figr_heloc,Figure Heloc,1.006,-3.2,-2.8,loser_24h
 leo-token,leo,LEO Token,9.23,-2.1,-5.1,loser_24h
-pax-gold,paxg,PAX Gold,4329.61,-1.9,1.5,loser_24h
-tether-gold,xaut,Tether Gold,4313.2,-1.9,1.4,loser_24h
+pax-gold,paxg,PAX Gold,4326.83,-1.9,1.5,loser_24h
+tether-gold,xaut,Tether Gold,4309.8,-1.9,1.4,loser_24h
 near,near,NEAR Protocol,1.61,-1.8,-2.8,loser_24h
 the-open-network,gram,Gram (prev. Toncoin),1.33,-1.3,-2.2,loser_24h
 uniswap,uni,Uniswap,3.44,-1.2,-13.5,loser_24h
-tron,trx,TRON,0.333795,-0.5,2.2,loser_24h
-okb,okb,OKB,102.09,0.7,19.0,gainer_7d
-canton-network,cc,Canton,0.096285,-3.5,7.7,gainer_7d
+tron,trx,TRON,0.333637,-0.5,2.2,loser_24h
+okb,okb,OKB,101.97,0.7,19.0,gainer_7d
+canton-network,cc,Canton,0.096123,-3.5,7.7,gainer_7d
 chainlink,link,Chainlink,8.82,2.3,7.5,gainer_7d
-monero,xmr,Monero,395.32,-0.5,6.8,gainer_7d
-bittensor,tao,Bittensor,202.08,2.8,5.8,gainer_7d
-solana,sol,Solana,75.75,0.6,4.7,gainer_7d
-world-liberty-financial,wlfi,World Liberty Financial,0.054929,-0.4,4.4,gainer_7d
-binancecoin,bnb,BNB,611.42,0.2,3.2,gainer_7d
-memecore,m,MemeCore,1.18,6.8,2.4,gainer_7d
-tron,trx,TRON,0.333795,-0.5,2.2,gainer_7d
+monero,xmr,Monero,394.75,-0.5,6.8,gainer_7d
+bittensor,tao,Bittensor,201.97,2.8,5.8,gainer_7d
+solana,sol,Solana,75.72,0.6,4.7,gainer_7d
+world-liberty-financial,wlfi,World Liberty Financial,0.054924,-0.4,4.4,gainer_7d
+binancecoin,bnb,BNB,611.1,0.2,3.2,gainer_7d
+memecore,m,MemeCore,1.17,6.8,2.4,gainer_7d
+tron,trx,TRON,0.333637,-0.5,2.2,gainer_7d
 uniswap,uni,Uniswap,3.44,-1.2,-13.5,loser_7d
-crypto-com-chain,cro,Cronos,0.04865711,3.7,-9.4,loser_7d
-cardano,ada,Cardano,0.182319,0.3,-9.1,loser_7d
-ondo-finance,ondo,Ondo,0.331257,0.6,-6.6,loser_7d
+crypto-com-chain,cro,Cronos,0.04851782,3.7,-9.4,loser_7d
+cardano,ada,Cardano,0.182283,0.3,-9.1,loser_7d
+ondo-finance,ondo,Ondo,0.330996,0.6,-6.6,loser_7d
 leo-token,leo,LEO Token,9.23,-2.1,-5.1,loser_7d
 shiba-inu,shib,Shiba Inu,4.45e-06,2.2,-4.2,loser_7d
-hedera-hashgraph,hbar,Hedera,0.065433,-0.3,-3.9,loser_7d
-bitcoin-cash,bch,Bitcoin Cash,205.6,-3.5,-3.1,loser_7d
-figure-heloc,figr_heloc,Figure Heloc,1.005,-3.2,-2.8,loser_7d
+hedera-hashgraph,hbar,Hedera,0.065402,-0.3,-3.9,loser_7d
+bitcoin-cash,bch,Bitcoin Cash,205.44,-3.5,-3.1,loser_7d
+figure-heloc,figr_heloc,Figure Heloc,1.006,-3.2,-2.8,loser_7d
 near,near,NEAR Protocol,1.61,-1.8,-2.8,loser_7d
