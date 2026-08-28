@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-ripple,xrp,XRP,1.29,16.5,27.9,gainer_24h
-cardano,ada,Cardano,0.2054,11.7,13.5,gainer_24h
-mantle,mnt,Mantle,0.516236,10.9,16.5,gainer_24h
-dogecoin,doge,Dogecoin,0.081508,9.3,17.4,gainer_24h
-crypto-com-chain,cro,Cronos,0.054411,8.9,14.5,gainer_24h
-stellar,xlm,Stellar,0.183992,8.7,16.5,gainer_24h
-bitcoin,btc,Bitcoin,74409.0,8.2,18.4,gainer_24h
-avalanche-2,avax,Avalanche,7.27,7.4,12.8,gainer_24h
-hyperliquid,hype,Hyperliquid,74.12,7.3,29.5,gainer_24h
-aster-2,aster,Aster,0.665157,6.4,11.5,gainer_24h
-memecore,m,MemeCore,1.16,-5.0,5.1,loser_24h
-canton-network,cc,Canton,0.100459,-2.8,1.0,loser_24h
-figure-heloc,figr_heloc,Figure Heloc,1.026,-1.6,2.0,loser_24h
-monero,xmr,Monero,413.29,-1.5,5.2,loser_24h
-world-liberty-financial,wlfi,World Liberty Financial,0.06085,-1.1,10.7,loser_24h
-rain,rain,Rain,0.01387416,-0.6,8.8,loser_24h
-usds,usds,USDS,0.99988,0.0,0.0,loser_24h
-leo-token,leo,LEO Token,9.3,0.0,-2.0,loser_24h
-usd1-wlfi,usd1,USD1,0.999389,0.0,0.0,loser_24h
-dai,dai,Dai,0.999947,0.0,0.0,loser_24h
-hyperliquid,hype,Hyperliquid,74.12,7.3,29.5,gainer_7d
-ripple,xrp,XRP,1.29,16.5,27.9,gainer_7d
-ethereum,eth,Ethereum,2345.34,4.2,25.2,gainer_7d
-chainlink,link,Chainlink,10.86,2.7,22.3,gainer_7d
-bitcoin,btc,Bitcoin,74409.0,8.2,18.4,gainer_7d
-dogecoin,doge,Dogecoin,0.081508,9.3,17.4,gainer_7d
-zcash,zec,Zcash,570.13,2.0,17.2,gainer_7d
-solana,sol,Solana,89.21,4.6,17.1,gainer_7d
-mantle,mnt,Mantle,0.516236,10.9,16.5,gainer_7d
-stellar,xlm,Stellar,0.183992,8.7,16.5,gainer_7d
-htx-dao,htx,HTX DAO,1.74e-06,1.2,-4.5,loser_7d
-leo-token,leo,LEO Token,9.3,0.0,-2.0,loser_7d
-usds,usds,USDS,0.99988,0.0,0.0,loser_7d
-tether,usdt,Tether,0.999557,0.0,0.0,loser_7d
-global-dollar,usdg,Global Dollar,0.999928,0.0,0.0,loser_7d
-dai,dai,Dai,0.999947,0.0,0.0,loser_7d
-usd1-wlfi,usd1,USD1,0.999389,0.0,0.0,loser_7d
-usd-coin,usdc,USDC,0.999726,0.0,0.0,loser_7d
-blackrock-usd-institutional-digital-liquidity-fund,buidl,BlackRock USD Institutional Digital Liquidity Fund,1.0,0.0,0.0,loser_7d
-ripple-usd,rlusd,Ripple USD,1.0,0.0,0.0,loser_7d
+monero,xmr,Monero,471.44,3.42149,15.1,gainer_24h
+figure-heloc,figr_heloc,Figure Heloc,1.037,3.36872,1.0,gainer_24h
+uniswap,uni,Uniswap,4.61,2.34121,17.6,gainer_24h
+hyperliquid,hype,Hyperliquid,83.79,1.80248,11.9,gainer_24h
+rain,rain,Rain,0.01769631,1.49254,20.6,gainer_24h
+leo-token,leo,LEO Token,9.45,1.21539,1.9,gainer_24h
+tron,trx,TRON,0.341206,1.11339,0.4,gainer_24h
+zcash,zec,Zcash,798.14,0.88022,25.1,gainer_24h
+the-open-network,gram,Gram (prev. Toncoin),1.4,0.71945,-2.6,gainer_24h
+tether-gold,xaut,Tether Gold,4592.43,0.51443,0.3,gainer_24h
+memecore,m,MemeCore,1.064,-5.17531,-7.7,loser_24h
+bitcoin-cash,bch,Bitcoin Cash,256.96,-4.58565,0.2,loser_24h
+bittensor,tao,Bittensor,244.43,-4.48048,8.8,loser_24h
+crypto-com-chain,cro,Cronos,0.058581,-3.61892,3.8,loser_24h
+canton-network,cc,Canton,0.111321,-3.41765,8.8,loser_24h
+pump-fun,pump,Pump.fun,0.00472085,-2.72642,16.0,loser_24h
+ondo-finance,ondo,Ondo,0.366955,-2.10015,-1.0,loser_24h
+near,near,NEAR Protocol,1.86,-2.07481,-1.1,loser_24h
+litecoin,ltc,Litecoin,48.94,-1.88791,-2.3,loser_24h
+aave,aave,Aave,124.75,-1.83303,14.6,loser_24h
+zcash,zec,Zcash,798.14,0.88022,25.1,gainer_7d
+rain,rain,Rain,0.01769631,1.49254,20.6,gainer_7d
+uniswap,uni,Uniswap,4.61,2.34121,17.6,gainer_7d
+solana,sol,Solana,105.0,0.40896,16.2,gainer_7d
+pump-fun,pump,Pump.fun,0.00472085,-2.72642,16.0,gainer_7d
+monero,xmr,Monero,471.44,3.42149,15.1,gainer_7d
+aave,aave,Aave,124.75,-1.83303,14.6,gainer_7d
+hyperliquid,hype,Hyperliquid,83.79,1.80248,11.9,gainer_7d
+canton-network,cc,Canton,0.111321,-3.41765,8.8,gainer_7d
+bittensor,tao,Bittensor,244.43,-4.48048,8.8,gainer_7d
+memecore,m,MemeCore,1.064,-5.17531,-7.7,loser_7d
+aster-2,aster,Aster,0.69693,-1.68778,-4.7,loser_7d
+world-liberty-financial,wlfi,World Liberty Financial,0.05801,-0.31292,-4.3,loser_7d
+sui,sui,Sui,0.757153,-1.38276,-3.4,loser_7d
+the-open-network,gram,Gram (prev. Toncoin),1.4,0.71945,-2.6,loser_7d
+litecoin,ltc,Litecoin,48.94,-1.88791,-2.3,loser_7d
+stellar,xlm,Stellar,0.183307,-0.76057,-1.9,loser_7d
+cardano,ada,Cardano,0.207907,-1.52627,-1.5,loser_7d
+near,near,NEAR Protocol,1.86,-2.07481,-1.1,loser_7d
+avalanche-2,avax,Avalanche,7.38,-0.5829,-1.1,loser_7d
