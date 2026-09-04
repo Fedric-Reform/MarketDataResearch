@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-monero,xmr,Monero,471.44,3.42149,15.1,gainer_24h
-figure-heloc,figr_heloc,Figure Heloc,1.037,3.36872,1.0,gainer_24h
-uniswap,uni,Uniswap,4.61,2.34121,17.6,gainer_24h
-hyperliquid,hype,Hyperliquid,83.79,1.80248,11.9,gainer_24h
-rain,rain,Rain,0.01769631,1.49254,20.6,gainer_24h
-leo-token,leo,LEO Token,9.45,1.21539,1.9,gainer_24h
-tron,trx,TRON,0.341206,1.11339,0.4,gainer_24h
-zcash,zec,Zcash,798.14,0.88022,25.1,gainer_24h
-the-open-network,gram,Gram (prev. Toncoin),1.4,0.71945,-2.6,gainer_24h
-tether-gold,xaut,Tether Gold,4592.43,0.51443,0.3,gainer_24h
-memecore,m,MemeCore,1.064,-5.17531,-7.7,loser_24h
-bitcoin-cash,bch,Bitcoin Cash,256.96,-4.58565,0.2,loser_24h
-bittensor,tao,Bittensor,244.43,-4.48048,8.8,loser_24h
-crypto-com-chain,cro,Cronos,0.058581,-3.61892,3.8,loser_24h
-canton-network,cc,Canton,0.111321,-3.41765,8.8,loser_24h
-pump-fun,pump,Pump.fun,0.00472085,-2.72642,16.0,loser_24h
-ondo-finance,ondo,Ondo,0.366955,-2.10015,-1.0,loser_24h
-near,near,NEAR Protocol,1.86,-2.07481,-1.1,loser_24h
-litecoin,ltc,Litecoin,48.94,-1.88791,-2.3,loser_24h
-aave,aave,Aave,124.75,-1.83303,14.6,loser_24h
-zcash,zec,Zcash,798.14,0.88022,25.1,gainer_7d
-rain,rain,Rain,0.01769631,1.49254,20.6,gainer_7d
-uniswap,uni,Uniswap,4.61,2.34121,17.6,gainer_7d
-solana,sol,Solana,105.0,0.40896,16.2,gainer_7d
-pump-fun,pump,Pump.fun,0.00472085,-2.72642,16.0,gainer_7d
-monero,xmr,Monero,471.44,3.42149,15.1,gainer_7d
-aave,aave,Aave,124.75,-1.83303,14.6,gainer_7d
-hyperliquid,hype,Hyperliquid,83.79,1.80248,11.9,gainer_7d
-canton-network,cc,Canton,0.111321,-3.41765,8.8,gainer_7d
-bittensor,tao,Bittensor,244.43,-4.48048,8.8,gainer_7d
-memecore,m,MemeCore,1.064,-5.17531,-7.7,loser_7d
-aster-2,aster,Aster,0.69693,-1.68778,-4.7,loser_7d
-world-liberty-financial,wlfi,World Liberty Financial,0.05801,-0.31292,-4.3,loser_7d
-sui,sui,Sui,0.757153,-1.38276,-3.4,loser_7d
-the-open-network,gram,Gram (prev. Toncoin),1.4,0.71945,-2.6,loser_7d
-litecoin,ltc,Litecoin,48.94,-1.88791,-2.3,loser_7d
-stellar,xlm,Stellar,0.183307,-0.76057,-1.9,loser_7d
-cardano,ada,Cardano,0.207907,-1.52627,-1.5,loser_7d
-near,near,NEAR Protocol,1.86,-2.07481,-1.1,loser_7d
-avalanche-2,avax,Avalanche,7.38,-0.5829,-1.1,loser_7d
+zcash,zec,Zcash,954.66,14.67075,21.5,gainer_24h
+uniswap,uni,Uniswap,6.31,9.52394,35.0,gainer_24h
+cardano,ada,Cardano,0.221398,7.79842,5.2,gainer_24h
+ripple,xrp,XRP,1.45,5.83094,1.9,gainer_24h
+chainlink,link,Chainlink,11.88,5.78586,1.2,gainer_24h
+hyperliquid,hype,Hyperliquid,86.06,4.76571,3.5,gainer_24h
+dogecoin,doge,Dogecoin,0.086952,4.7266,-0.7,gainer_24h
+aave,aave,Aave,133.08,4.34399,6.2,gainer_24h
+ethereum,eth,Ethereum,2508.3,4.12345,0.9,gainer_24h
+bitcoin,btc,Bitcoin,80837.0,3.91603,1.7,gainer_24h
+memecore,m,MemeCore,1.037,-2.10678,-5.1,loser_24h
+aster-2,aster,Aster,0.718236,-1.00683,2.7,loser_24h
+dai,dai,Dai,0.99977,-0.02475,0.0,loser_24h
+ripple-usd,rlusd,Ripple USD,0.999939,-0.00774,0.0,loser_24h
+blackrock-usd-institutional-digital-liquidity-fund,buidl,BlackRock USD Institutional Digital Liquidity Fund,1.0,0.0,0.0,loser_24h
+usd-coin,usdc,USDC,0.99986,2e-05,0.0,loser_24h
+usds,usds,USDS,0.999847,0.00031,0.0,loser_24h
+paypal-usd,pyusd,PayPal USD,1.0,0.00237,0.0,loser_24h
+global-dollar,usdg,Global Dollar,1.0,0.00281,0.0,loser_24h
+hashnote-usyc,usyc,Circle USYC,1.14,0.00877,0.1,loser_24h
+uniswap,uni,Uniswap,6.31,9.52394,35.0,gainer_7d
+zcash,zec,Zcash,954.66,14.67075,21.5,gainer_7d
+mantle,mnt,Mantle,0.564579,1.10879,9.8,gainer_7d
+monero,xmr,Monero,523.57,1.42293,8.8,gainer_7d
+aave,aave,Aave,133.08,4.34399,6.2,gainer_7d
+cardano,ada,Cardano,0.221398,7.79842,5.2,gainer_7d
+hyperliquid,hype,Hyperliquid,86.06,4.76571,3.5,gainer_7d
+litecoin,ltc,Litecoin,50.97,1.29964,3.3,gainer_7d
+aster-2,aster,Aster,0.718236,-1.00683,2.7,gainer_7d
+near,near,NEAR Protocol,1.94,2.09477,2.5,gainer_7d
+bittensor,tao,Bittensor,228.18,3.04625,-6.4,loser_7d
+memecore,m,MemeCore,1.037,-2.10678,-5.1,loser_7d
+bitcoin-cash,bch,Bitcoin Cash,255.29,2.55163,-3.5,loser_7d
+tron,trx,TRON,0.328113,0.53734,-3.0,loser_7d
+solana,sol,Solana,103.66,2.70388,-2.8,loser_7d
+crypto-com-chain,cro,Cronos,0.056901,3.73482,-2.8,loser_7d
+the-open-network,gram,Gram (prev. Toncoin),1.36,1.33807,-2.7,loser_7d
+okb,okb,OKB,109.74,3.57381,-2.6,loser_7d
+tether-gold,xaut,Tether Gold,4455.13,0.81344,-2.4,loser_7d
+pax-gold,paxg,PAX Gold,4464.18,0.73176,-2.4,loser_7d
